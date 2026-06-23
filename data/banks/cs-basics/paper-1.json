@@ -1,0 +1,109 @@
+{
+  "questions": [
+    {
+      "id": "cs-basics-paper1-q1",
+      "type": "single",
+      "stem": "二进制数 1010 转换为十进制是?",
+      "options": [
+        { "key": "A", "text": "8" },
+        { "key": "B", "text": "10" },
+        { "key": "C", "text": "12" },
+        { "key": "D", "text": "20" }
+      ],
+      "answer": ["B"],
+      "analysis": "1010 = 1×8 + 0×4 + 1×2 + 0×1 = 10。",
+      "difficulty": 2
+    },
+    {
+      "id": "cs-basics-paper1-q2",
+      "type": "single",
+      "stem": "下列存储容量单位中,表示容量最大的是?",
+      "options": [
+        { "key": "A", "text": "1 GB" },
+        { "key": "B", "text": "1 TB" },
+        { "key": "C", "text": "1 MB" },
+        { "key": "D", "text": "1 KB" }
+      ],
+      "answer": ["B"],
+      "analysis": "换算关系:1 TB = 1024 GB = 1024×1024 MB,故 1 TB 最大。",
+      "difficulty": 1
+    },
+    {
+      "id": "cs-basics-paper1-q3",
+      "type": "judge",
+      "stem": "固态硬盘(SSD)的读写速度通常比机械硬盘(HDD)快。",
+      "options": [
+        { "key": "对", "text": "正确" },
+        { "key": "错", "text": "错误" }
+      ],
+      "answer": ["对"],
+      "analysis": "SSD 无机械寻道,随机读写远快于 HDD,这也是它价格更高的原因之一。",
+      "difficulty": 1
+    },
+    {
+      "id": "cs-basics-paper1-q4",
+      "type": "multiple",
+      "stem": "下列属于编程语言的有哪些?",
+      "options": [
+        { "key": "A", "text": "Python" },
+        { "key": "B", "text": "Java" },
+        { "key": "C", "text": "HTTP" },
+        { "key": "D", "text": "C++" }
+      ],
+      "answer": ["A", "B", "D"],
+      "analysis": "Python、Java、C++ 是编程语言;HTTP 是网络传输协议,不是编程语言。",
+      "difficulty": 2
+    },
+    {
+      "id": "cs-basics-paper1-q5",
+      "type": "single",
+      "stem": "下列文件扩展名中,通常表示图片文件的是?",
+      "options": [
+        { "key": "A", "text": ".exe" },
+        { "key": "B", "text": ".jpg" },
+        { "key": "C", "text": ".mp3" },
+        { "key": "D", "text": ".docx" }
+      ],
+      "answer": ["B"],
+      "analysis": ".jpg 是常见图片格式;.exe 为可执行程序,.mp3 为音频,.docx 为 Word 文档。",
+      "difficulty": 1
+    },
+    {
+      "id": "cs-basics-paper1-q6",
+      "type": "fill",
+      "stem": "CPU 的中文全称是「中央____器」。",
+      "options": [],
+      "answer": ["处理"],
+      "analysis": "CPU 即中央处理器(Central Processing Unit)。",
+      "difficulty": 1
+    },
+    {
+      "id": "cs-basics-paper1-q7",
+      "type": "single",
+      "stem": "下列哪一个是开源(开放源代码)操作系统?",
+      "options": [
+        { "key": "A", "text": "Windows" },
+        { "key": "B", "text": "Linux" },
+        { "key": "C", "text": "macOS" },
+        { "key": "D", "text": "iOS" }
+      ],
+      "answer": ["B"],
+      "analysis": "Linux 内核以开源协议发布;Windows、macOS、iOS 均为闭源商业系统。",
+      "difficulty": 2
+    },
+    {
+      "id": "cs-basics-paper1-q8",
+      "type": "multiple",
+      "stem": "计算机感染病毒后,可能造成下列哪些后果?",
+      "options": [
+        { "key": "A", "text": "数据被破坏或丢失" },
+        { "key": "B", "text": "系统运行变慢" },
+        { "key": "C", "text": "个人信息被窃取" },
+        { "key": "D", "text": "硬件自动升级换代" }
+      ],
+      "answer": ["A", "B", "C"],
+      "analysis": "病毒可破坏数据、拖慢系统、窃取信息;不可能让硬件自动升级,D 为干扰项。",
+      "difficulty": 2
+    }
+  ]
+}

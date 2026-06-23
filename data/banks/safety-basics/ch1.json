@@ -1,0 +1,79 @@
+{
+  "questions": [
+    {
+      "id": "safety-basics-ch1-q1",
+      "type": "single",
+      "stem": "我国安全生产工作的方针是?",
+      "options": [
+        { "key": "A", "text": "安全第一、预防为主、综合治理" },
+        { "key": "B", "text": "效率优先、兼顾安全" },
+        { "key": "C", "text": "先生产、后安全" },
+        { "key": "D", "text": "利润第一、安全第二" }
+      ],
+      "answer": ["A"],
+      "analysis": "《安全生产法》确立的方针是「安全第一、预防为主、综合治理」。",
+      "difficulty": 1
+    },
+    {
+      "id": "safety-basics-ch1-q2",
+      "type": "judge",
+      "stem": "发现初起火灾时,应先拍照发朋友圈,再考虑报警和扑救。",
+      "options": [
+        { "key": "对", "text": "正确" },
+        { "key": "错", "text": "错误" }
+      ],
+      "answer": ["错"],
+      "analysis": "发现火灾应立即报警(119)并在确保安全的前提下扑救或撤离,切勿为拍照延误时机。",
+      "difficulty": 1
+    },
+    {
+      "id": "safety-basics-ch1-q3",
+      "type": "single",
+      "stem": "我国的火警报警电话号码是?",
+      "options": [
+        { "key": "A", "text": "110" },
+        { "key": "B", "text": "119" },
+        { "key": "C", "text": "120" },
+        { "key": "D", "text": "122" }
+      ],
+      "answer": ["B"],
+      "analysis": "119 为火警,110 为匪警,120 为急救,122 为交通事故报警。",
+      "difficulty": 1
+    },
+    {
+      "id": "safety-basics-ch1-q4",
+      "type": "multiple",
+      "stem": "下列属于个人劳动防护用品(PPE)的有哪些?",
+      "options": [
+        { "key": "A", "text": "安全帽" },
+        { "key": "B", "text": "安全带" },
+        { "key": "C", "text": "防护手套" },
+        { "key": "D", "text": "工资条" }
+      ],
+      "answer": ["A", "B", "C"],
+      "analysis": "安全帽、安全带、防护手套均为个人防护用品;工资条与防护无关。",
+      "difficulty": 1
+    },
+    {
+      "id": "safety-basics-ch1-q5",
+      "type": "fill",
+      "stem": "发生火灾时,我国统一的火警报警电话是____。",
+      "options": [],
+      "answer": ["119"],
+      "analysis": "全国统一火警电话为 119,可直接拨打且免费。",
+      "difficulty": 1
+    },
+    {
+      "id": "safety-basics-ch1-q6",
+      "type": "judge",
+      "stem": "使用灭火器灭火时,喷射口应对准火焰的根部。",
+      "options": [
+        { "key": "对", "text": "正确" },
+        { "key": "错", "text": "错误" }
+      ],
+      "answer": ["对"],
+      "analysis": "对准火焰根部才能切断燃烧、有效灭火;只喷火苗上部无法扑灭。",
+      "difficulty": 2
+    }
+  ]
+}

@@ -54,6 +54,37 @@
       ],
       "papers": [],
       "materials": []
+    },
+    {
+      "id": "cs-basics",
+      "name": "计算机与互联网基础",
+      "category": "计算机",
+      "desc": "覆盖单选 / 多选 / 判断 / 填空四种题型的样例题库,含两章与一套综合测验。",
+      "chapters": [
+        { "id": "ch1", "name": "第一章 · 计算机组成与操作系统", "file": "banks/cs-basics/ch1.json", "count": 6 },
+        { "id": "ch2", "name": "第二章 · 网络与信息安全", "file": "banks/cs-basics/ch2.json", "count": 6 }
+      ],
+      "papers": [
+        {
+          "id": "paper-1",
+          "name": "计算机基础综合测验",
+          "file": "banks/cs-basics/paper-1.json",
+          "count": 8,
+          "durationSec": 900
+        }
+      ],
+      "materials": []
+    },
+    {
+      "id": "safety-basics",
+      "name": "安全生产基础知识",
+      "category": "安全",
+      "desc": "安全生产、消防与个人防护常识样例题库,适合入职安全培训自测。",
+      "chapters": [
+        { "id": "ch1", "name": "第一章 · 安全生产通用知识", "file": "banks/safety-basics/ch1.json", "count": 6 }
+      ],
+      "papers": [],
+      "materials": []
     }
   ]
 }
