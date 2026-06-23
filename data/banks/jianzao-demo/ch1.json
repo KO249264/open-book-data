@@ -1,0 +1,44 @@
+{
+  "questions": [
+    {
+      "id": "jianzao-demo-ch1-q1",
+      "type": "single",
+      "stem": "(演示题)施工项目管理的核心是?",
+      "options": [
+        { "key": "A", "text": "进度、质量、成本三大目标控制" },
+        { "key": "B", "text": "材料采购" },
+        { "key": "C", "text": "人员招聘" },
+        { "key": "D", "text": "场地租赁" }
+      ],
+      "answer": ["A"],
+      "analysis": "施工项目管理围绕进度、质量、成本(及安全)目标进行控制,这是核心。",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzao-demo-ch1-q2",
+      "type": "multiple",
+      "stem": "(演示题)下列属于施工安全管理措施的有?",
+      "options": [
+        { "key": "A", "text": "安全技术交底" },
+        { "key": "B", "text": "佩戴安全帽" },
+        { "key": "C", "text": "定期安全检查" },
+        { "key": "D", "text": "随意堆放材料" }
+      ],
+      "answer": ["A", "B", "C"],
+      "analysis": "安全技术交底、佩戴防护用品、定期检查均为安全措施;随意堆放属违规。",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzao-demo-ch1-q3",
+      "type": "judge",
+      "stem": "(演示题)施工现场必须设置明显的安全警示标志。",
+      "options": [
+        { "key": "对", "text": "正确" },
+        { "key": "错", "text": "错误" }
+      ],
+      "answer": ["对"],
+      "analysis": "施工现场依规必须设置安全警示标志,保障人员安全。",
+      "difficulty": 1
+    }
+  ]
+}

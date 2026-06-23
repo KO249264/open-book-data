@@ -1,0 +1,59 @@
+{
+  "version": "1.1.0",
+  "updatedAt": "2026-06-23",
+  "banks": [
+    {
+      "id": "exam-demo",
+      "name": "通用常识演示题库",
+      "category": "综合",
+      "desc": "用于演示四种题型与全部功能的示例题库,可整体替换为你自己的题目。",
+      "chapters": [
+        { "id": "ch1", "name": "第一章 · 基础常识", "file": "banks/exam-demo/ch1.json", "count": 5 },
+        { "id": "ch2", "name": "第二章 · 逻辑与计算", "file": "banks/exam-demo/ch2.json", "count": 5 }
+      ],
+      "papers": [
+        {
+          "id": "paper-2023",
+          "name": "2023 年真题(演示卷)",
+          "file": "banks/exam-demo/paper-2023.json",
+          "count": 5,
+          "durationSec": 600
+        }
+      ],
+      "materials": [
+        {
+          "id": "m-handbook",
+          "name": "考点速记手册",
+          "type": "pdf",
+          "url": "https://cdn.jsdelivr.net/gh/KO249264/open-book-data@main/data/materials/handbook.pdf",
+          "desc": "高频考点汇总(PDF,示例链接)"
+        },
+        {
+          "id": "m-formula",
+          "name": "公式图解",
+          "type": "image",
+          "url": "https://cdn.jsdelivr.net/gh/KO249264/open-book-data@main/data/materials/formula.png",
+          "desc": "常用公式一张图(图片,示例链接)"
+        },
+        {
+          "id": "m-outline",
+          "name": "官方考试大纲",
+          "type": "link",
+          "url": "https://example.com/outline",
+          "desc": "外部网页(点按复制链接到浏览器打开)"
+        }
+      ]
+    },
+    {
+      "id": "jianzao-demo",
+      "name": "二级建造师 · 建筑工程(演示)",
+      "category": "建造师",
+      "desc": "演示多考试分类结构,题目为占位示例,接入时替换为真实题库。",
+      "chapters": [
+        { "id": "ch1", "name": "第一章 · 施工管理", "file": "banks/jianzao-demo/ch1.json", "count": 3 }
+      ],
+      "papers": [],
+      "materials": []
+    }
+  ]
+}

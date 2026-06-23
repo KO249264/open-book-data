@@ -1,0 +1,67 @@
+{
+  "questions": [
+    {
+      "id": "exam-demo-paper2023-q1",
+      "type": "single",
+      "stem": "下列哪个选项是计算机的核心运算部件?",
+      "options": [
+        { "key": "A", "text": "CPU" },
+        { "key": "B", "text": "显示器" },
+        { "key": "C", "text": "键盘" },
+        { "key": "D", "text": "鼠标" }
+      ],
+      "answer": ["A"],
+      "analysis": "CPU(中央处理器)负责运算与控制,是计算机的核心部件。",
+      "difficulty": 1
+    },
+    {
+      "id": "exam-demo-paper2023-q2",
+      "type": "multiple",
+      "stem": "下列属于面向对象编程特性的有哪些?",
+      "options": [
+        { "key": "A", "text": "封装" },
+        { "key": "B", "text": "继承" },
+        { "key": "C", "text": "多态" },
+        { "key": "D", "text": "编译" }
+      ],
+      "answer": ["A", "B", "C"],
+      "analysis": "封装、继承、多态是面向对象三大特性;编译是程序构建过程,不属于此。",
+      "difficulty": 2
+    },
+    {
+      "id": "exam-demo-paper2023-q3",
+      "type": "judge",
+      "stem": "二进制数 1010 转换为十进制是 10。",
+      "options": [
+        { "key": "对", "text": "正确" },
+        { "key": "错", "text": "错误" }
+      ],
+      "answer": ["对"],
+      "analysis": "1010(2) = 8 + 0 + 2 + 0 = 10(10)。",
+      "difficulty": 1
+    },
+    {
+      "id": "exam-demo-paper2023-q4",
+      "type": "fill",
+      "stem": "一个字节(Byte)等于____个二进制位(bit)。",
+      "options": [],
+      "answer": ["8", "八"],
+      "analysis": "1 Byte = 8 bit。",
+      "difficulty": 1
+    },
+    {
+      "id": "exam-demo-paper2023-q5",
+      "type": "single",
+      "stem": "下列排序算法中,平均时间复杂度为 O(n log n) 的是?",
+      "options": [
+        { "key": "A", "text": "冒泡排序" },
+        { "key": "B", "text": "快速排序" },
+        { "key": "C", "text": "选择排序" },
+        { "key": "D", "text": "插入排序" }
+      ],
+      "answer": ["B"],
+      "analysis": "快速排序平均时间复杂度 O(n log n);冒泡/选择/插入均为 O(n²)。",
+      "difficulty": 2
+    }
+  ]
+}
