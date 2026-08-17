@@ -1,0 +1,4159 @@
+{
+  "questions": [
+    {
+      "id": "jidian-ch3-q1",
+      "type": "judge",
+      "stem": "施工单位应当在施工组织设计中编制安全技术措施和临时用电方案，并对达到一定规模的危险性较大的分部分项工程工程编制专项施工方案",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q2",
+      "type": "judge",
+      "stem": "施工单位在施工现场建立消防安全责任制度，应设置员工集体宿舍",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q3",
+      "type": "judge",
+      "stem": "关于生产安全事故应急救援预案，应急预案演练每年至少一次综合演练，每半年至少一次现场处置演练。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q4",
+      "type": "judge",
+      "stem": "事故发生后，关于事故现场的保护，为尽快恢复施工，可立即清理事故现场",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q5",
+      "type": "single",
+      "stem": "安全生产许可证的有效期为几年?有效期满前几个月应办理延期手续?",
+      "options": [
+        {
+          "key": "A",
+          "text": "2年，前2个月"
+        },
+        {
+          "key": "B",
+          "text": "3年，前3个月"
+        },
+        {
+          "key": "C",
+          "text": "5年，前6个月"
+        },
+        {
+          "key": "D",
+          "text": "1年，前1个月"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch3-q6",
+      "type": "single",
+      "stem": "建设单位在申请领取施工许可证时，应当提供下列哪项资料?",
+      "options": [
+        {
+          "key": "A",
+          "text": "施工进度计划"
+        },
+        {
+          "key": "B",
+          "text": "安全施工措施资料"
+        },
+        {
+          "key": "C",
+          "text": "施工人员名单"
+        },
+        {
+          "key": "D",
+          "text": "施工机械设备清单"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch3-q7",
+      "type": "single",
+      "stem": "施工单位项目负责人应当由什么人担任?",
+      "options": [
+        {
+          "key": "A",
+          "text": "任何有经验的人员"
+        },
+        {
+          "key": "B",
+          "text": "取得相应执业资格的人员"
+        },
+        {
+          "key": "C",
+          "text": "公司总经理指定的人员"
+        },
+        {
+          "key": "D",
+          "text": "工地上工龄最长的人员"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch3-q8",
+      "type": "single",
+      "stem": "关于总承包单位与分包单位的安全责任，下列说法正确的是:",
+      "options": [
+        {
+          "key": "A",
+          "text": "分包单位独立承担全部安全责任"
+        },
+        {
+          "key": "B",
+          "text": "总承包单位对施工现场安全生产负总责"
+        },
+        {
+          "key": "C",
+          "text": "分包单位不承担任何安全责任"
+        },
+        {
+          "key": "D",
+          "text": "建设单位承担主要安全责任"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch3-q9",
+      "type": "multiple",
+      "stem": "根据《中华人民共和国安全生产法》第19条，下列哪类单位必须设置安全生产管理机构或配备专职安全生产管理人员?",
+      "options": [
+        {
+          "key": "A",
+          "text": "所有生产经营单位"
+        },
+        {
+          "key": "B",
+          "text": "矿山、建筑施工单位"
+        },
+        {
+          "key": "C",
+          "text": "危险物品的生产、经营、储存单位"
+        },
+        {
+          "key": "D",
+          "text": "仅建筑施工企业"
+        },
+        {
+          "key": "E",
+          "text": "仅危险化学品生产企业"
+        }
+      ],
+      "answer": [
+        "B",
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jidian-ch3-q10",
+      "type": "multiple",
+      "stem": "下列属于建筑施工企业取得安全生产许可证的条件是:",
+      "options": [
+        {
+          "key": "A",
+          "text": "只需有营业执照"
+        },
+        {
+          "key": "B",
+          "text": "必须设置安全生产管理机构"
+        },
+        {
+          "key": "C",
+          "text": "只需有施工经验"
+        },
+        {
+          "key": "D",
+          "text": "配备专职安全管理人员"
+        },
+        {
+          "key": "E",
+          "text": "购买保险"
+        }
+      ],
+      "answer": [
+        "B",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jidian-ch3-q11",
+      "type": "judge",
+      "stem": "应建立项目信息与知识管理制度，及时、准确、全面地收集信息与知识，安全、可靠、方便、快捷地存储、传输信息和知识，有效、适宜地使用信息和知识。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q12",
+      "type": "judge",
+      "stem": "项目管理机构应根据实际需要设立信息与知识管理岗位，配备熟悉项目管理业务流程，并经过培训的人员担任信息与知识管理人员，开展项目的信息与知识管理工作。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q13",
+      "type": "judge",
+      "stem": "项目信息过程管理主要是信息的采集。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "项目信息过程管理应包括:信息的采集、传输、存储、应用和评价过程。",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q14",
+      "type": "judge",
+      "stem": "项目管理机构必须配备专职的文件与档案管理人员。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "项目管理机构应配备专职或兼职的文件与档案管理人员。",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q15",
+      "type": "judge",
+      "stem": "应建立项目合同管理制度，明确合同管理责任，设立专门机构或人员负责合同管理工作。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q16",
+      "type": "judge",
+      "stem": "严禁通过违法发包、转包、违法分包、挂靠方式订立和实施建设工程合同。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q17",
+      "type": "judge",
+      "stem": "合同评审中发现的问题，可书面或口头要求予以澄清或调整",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "合同评审中发现的问题，应以书面形式提出，要求予以澄清或调整。",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q18",
+      "type": "judge",
+      "stem": "项目管理策划应由项目管理规划策划和项目管理配套策划组成。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q19",
+      "type": "judge",
+      "stem": "项目管理范围应包括完成项目的全部内容，并与各相关方的工作协调一致;",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q20",
+      "type": "judge",
+      "stem": "项目管理实施规划应是项目管理工作中具有战略性、全局性和宏观性的指导文件。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "规划大纲是战略性全局性实施规划是细节",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q21",
+      "type": "judge",
+      "stem": "项目管理实施规划文件是对规划大纲内容应得到全面深化和具体化;",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q22",
+      "type": "judge",
+      "stem": "组织应将项目管理配套策划作为项目管理规划的支撑措施纳入项目管理策划过程。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q23",
+      "type": "judge",
+      "stem": "议标是我国《招标投标法》明确规定的招标方式之一。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q24",
+      "type": "judge",
+      "stem": "必须进行招标的施工项目，其施工单项合同估算价应在400万元人民币以上。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q25",
+      "type": "judge",
+      "stem": "承包人可以将工程主体结构分包给具有相应资质的单位。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q26",
+      "type": "judge",
+      "stem": "索赔只能是承包人向发包人提出，发包人不能向承包人提出索赔。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q27",
+      "type": "judge",
+      "stem": "招标人对招标文件所作的任何澄清和修改，应在投标截止日期10日前发给所有投标人。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q28",
+      "type": "judge",
+      "stem": "建设工程施工合同文件的解释顺序中，合同协议书优先于中标通知书。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q29",
+      "type": "judge",
+      "stem": "不可抗力事件导致的承包人施工设备损坏由发包人承担。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q30",
+      "type": "judge",
+      "stem": "质量控制点应设置在施工难度大、对工程质量影响大的关键部位。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q31",
+      "type": "single",
+      "stem": "下列哪项不属于建设工程招标投标的原则?",
+      "options": [
+        {
+          "key": "A",
+          "text": "公开原则"
+        },
+        {
+          "key": "B",
+          "text": "公平原则"
+        },
+        {
+          "key": "C",
+          "text": "效率原则"
+        },
+        {
+          "key": "D",
+          "text": "诚实信用原则"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch3-q32",
+      "type": "single",
+      "stem": "根据《必须招标的工程项目规定》，施工单项合同估算价在多少方元以上必须招标？",
+      "options": [
+        {
+          "key": "A",
+          "text": "200万元"
+        },
+        {
+          "key": "B",
+          "text": "300万元"
+        },
+        {
+          "key": "C",
+          "text": "400万元"
+        },
+        {
+          "key": "D",
+          "text": "500万元"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch3-q33",
+      "type": "single",
+      "stem": "下列哪种情形可以不进行招标?",
+      "options": [
+        {
+          "key": "A",
+          "text": "使用国有资金的项目"
+        },
+        {
+          "key": "B",
+          "text": "涉及国家安全、国家秘密的项目"
+        },
+        {
+          "key": "C",
+          "text": "施工合同估算价500万元"
+        },
+        {
+          "key": "D",
+          "text": "使用国际组织贷款的项目"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch3-q34",
+      "type": "single",
+      "stem": "A建.发设售工招程标施文工件合前同文件中",
+      "options": [
+        {
+          "key": "A",
+          "text": "通用合同条款 B.专用合同条款"
+        },
+        {
+          "key": "B",
+          "text": "，开解标释前顺序最 C优.开先标的后是 :"
+        },
+        {
+          "key": "C",
+          "text": "合同协议书 D.中标通知书"
+        },
+        {
+          "key": "D",
+          "text": "签订合同前"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch3-q35",
+      "type": "multiple",
+      "stem": "建设项目的特征包括",
+      "options": [
+        {
+          "key": "A",
+          "text": "一次性"
+        },
+        {
+          "key": "B",
+          "text": "生命周期性"
+        },
+        {
+          "key": "C",
+          "text": "涉及面广"
+        },
+        {
+          "key": "D",
+          "text": "可重复性"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jidian-ch3-q36",
+      "type": "multiple",
+      "stem": "下列哪些情形可以不进行招标?",
+      "options": [
+        {
+          "key": "A",
+          "text": "需要采用不可替代的专利技术"
+        },
+        {
+          "key": "B",
+          "text": "采购人依法能够自行建设"
+        },
+        {
+          "key": "C",
+          "text": "施工合同估算价500万元"
+        },
+        {
+          "key": "D",
+          "text": "承包商少于三家"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jidian-ch3-q37",
+      "type": "multiple",
+      "stem": "建设工程施工合同文件的组成包括:",
+      "options": [
+        {
+          "key": "A",
+          "text": "合同协议书"
+        },
+        {
+          "key": "B",
+          "text": "中标通知书"
+        },
+        {
+          "key": "C",
+          "text": "投标函及其附录"
+        },
+        {
+          "key": "D",
+          "text": "图纸"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jidian-ch3-q38",
+      "type": "judge",
+      "stem": "施工准备与资源配置是施工组织设计的纲领性内容",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "施工部署是施工组织设计的纲领性内容，施工进度计划、施工准备与资源配置计划、施工方法、施工现场平面布置和主要施工管理计划等均应围2 绕施工部署进行编制和确定。",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q39",
+      "type": "judge",
+      "stem": "单位工程施工组织设计是由施工方案综合而来",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "单位工程施工组织设计是以单位(子单位)工程为主要对象编制的。是对施工组织总设计的进一步具体化，直接指导单位(子单位)工程的施工。",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q40",
+      "type": "judge",
+      "stem": "根据《建筑施工组织设计规范》，按照编制对象不同，施工组织设计分为施工组织总设计、单位工程施工组织设计和施工方案",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "施工组织设计按编制对象，可分为施工组织总设计、单位工程施工组织设计和施工方案。",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q41",
+      "type": "judge",
+      "stem": "在施工承包单位内部，施工方案应由企业技术负责人审批",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "施工组织总设计应由总承包单位技术负责人审批;单位工程施工组织设计应由施工单位技术负责人或技术负责人授权的技术人员审批;施工方案应由项目技术负责人审批;重点、难点分部(分项)工程施工方案和针对危险性较大的分部分项工程专项施工方案应由施工单位技术部门组织相关专家评审，施工单位技术负责人批准。",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q42",
+      "type": "single",
+      "stem": "针对建设工程项目中的深基础工程编制的施工组织设计属于",
+      "options": [
+        {
+          "key": "A",
+          "text": "施工组织总设计"
+        },
+        {
+          "key": "B",
+          "text": "单项工程施工组织设计"
+        },
+        {
+          "key": "C",
+          "text": "单位工程施工组织设计"
+        },
+        {
+          "key": "D",
+          "text": "分部工程施工组织设计"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "深基础属于分部分项工程。",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch3-q43",
+      "type": "single",
+      "stem": "把施工所需的各种资源、生产、生活活动场地及各种临时设施合理地布置在施工现场，使整个现场能有组织地进行文明施工，属于施工组织设计中( )的内容。",
+      "options": [
+        {
+          "key": "A",
+          "text": "施工部署"
+        },
+        {
+          "key": "B",
+          "text": "施工方案"
+        },
+        {
+          "key": "C",
+          "text": "安全施工专项方案"
+        },
+        {
+          "key": "D",
+          "text": "施工平面图"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "(1)工程施工场地状况。 (2)拟建建(构)筑物的位置、轮廓尺寸和层数。(3)施工现场的加工设施、存贮设施、办公和生活用房等的位置和面积。(4)布置在施工现场的垂直运输设施、供电设施、供水供热设施、排水排设施和临时施工道路等。 (5)施工现场必备的安全、消防、保卫和环境保护等设施。 (6)相邻地上、地下既有建(构)筑物及相关环境。",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch3-q44",
+      "type": "single",
+      "stem": "由专业承包单位施工的分部(分项)工程或专项工程的施工方案，应由( )审批。",
+      "options": [
+        {
+          "key": "A",
+          "text": "总包单位技术负责人"
+        },
+        {
+          "key": "B",
+          "text": "总包单位项目技术负责人"
+        },
+        {
+          "key": "C",
+          "text": "专业承包单位技术负责人"
+        },
+        {
+          "key": "D",
+          "text": "专业承包单位项目技术负责人"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch3-q45",
+      "type": "multiple",
+      "stem": "建设工程施工组织设计的编制依据有( )。",
+      "options": [
+        {
+          "key": "A",
+          "text": "工程设计文件"
+        },
+        {
+          "key": "B",
+          "text": "施工合同文件"
+        },
+        {
+          "key": "C",
+          "text": "监理实施细则"
+        },
+        {
+          "key": "D",
+          "text": "工程地质条件"
+        },
+        {
+          "key": "E",
+          "text": "施工平面布置图"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "analysis": "监理与施组无关，施工平面布置图属于施组施工组织设计的编制依据有:1工程建设有关法律法规及政策;2工程建设标准和技术经济指标; 工程设计文件; 工程招标投标文件或施工合同文件; 工程现场条件，工程地质及水文地质、气象等自然条件;与工程有关的资源供应情况; 施工单位的生产能力、机具设备状况及技术水平等。",
+      "difficulty": 3
+    },
+    {
+      "id": "jidian-ch3-q46",
+      "type": "multiple",
+      "stem": "下列具体情况中，施工组织设计应及时进行修改或补充的有( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "工程设计有重大修改"
+        },
+        {
+          "key": "B",
+          "text": "主要施工资源配置有重大调整"
+        },
+        {
+          "key": "C",
+          "text": "主要施工方法有重大调整"
+        },
+        {
+          "key": "D",
+          "text": "主要施工管理人员有重大变化"
+        },
+        {
+          "key": "E",
+          "text": "有关法律、法规及标准实施、修订和废止"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "analysis": "工程施工过程中发生下列情形时，应及时对施工组织设计进行修改或补充:工程设计有重大修改;有关法律、法规及标准实施、修订和废止;主要施工方法有重大调整;主要施工资源配置有重大调整;施工环境有重大改变。",
+      "difficulty": 3
+    },
+    {
+      "id": "jidian-ch3-q47",
+      "type": "judge",
+      "stem": "《建筑工人实名制管理办法》仅适用于房屋建筑工程，不适用于市政基础设施工程。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q48",
+      "type": "judge",
+      "stem": "施工单位是建筑工人实名制管理的主体责任单位。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q49",
+      "type": "judge",
+      "stem": "建筑工人实名制信息保存期限不得少于2年。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "上海保存期限不得少于3年",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q50",
+      "type": "judge",
+      "stem": "监理单位无需参与实名制管理，仅负责工程质量安全监督。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q51",
+      "type": "single",
+      "stem": "建筑工人实名制管理的牵头责任单位是( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "施工单位"
+        },
+        {
+          "key": "B",
+          "text": "建设单位"
+        },
+        {
+          "key": "C",
+          "text": "监理单位"
+        },
+        {
+          "key": "D",
+          "text": "监管部门"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "牵头建设单位主题施工单位监督监理单位",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch3-q52",
+      "type": "single",
+      "stem": "以下哪项不属于实名制登记必备信息( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "身份证信息"
+        },
+        {
+          "key": "B",
+          "text": "劳动合同"
+        },
+        {
+          "key": "C",
+          "text": "银行流水"
+        },
+        {
+          "key": "D",
+          "text": "技能岗位证书"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch3-q53",
+      "type": "single",
+      "stem": "施工单位未落实实名制考勤，逾期未整改的，罚款金额为( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "1万元以下"
+        },
+        {
+          "key": "B",
+          "text": "1-5万元"
+        },
+        {
+          "key": "C",
+          "text": "5-10万元"
+        },
+        {
+          "key": "D",
+          "text": "10万元以上"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch3-q54",
+      "type": "multiple",
+      "stem": "建筑工人实名制管理的核心环节包括( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "人场登记"
+        },
+        {
+          "key": "B",
+          "text": "实名考勤"
+        },
+        {
+          "key": "C",
+          "text": "信息上报"
+        },
+        {
+          "key": "D",
+          "text": "工资支付联动"
+        },
+        {
+          "key": "E",
+          "text": "离场注销"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jidian-ch3-q55",
+      "type": "multiple",
+      "stem": "对违规单位可能采取的处罚措施有( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "责令限期整改"
+        },
+        {
+          "key": "B",
+          "text": "罚款"
+        },
+        {
+          "key": "C",
+          "text": "信用惩戒"
+        },
+        {
+          "key": "D",
+          "text": "限制承接新工程"
+        },
+        {
+          "key": "E",
+          "text": "吊销营业执照"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jidian-ch3-q56",
+      "type": "judge",
+      "stem": "禁止用人单位招用未满16岁的未成年人，必须依照国家有关规定，履行审批手续，并保障其接受义务教育的权利。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q57",
+      "type": "judge",
+      "stem": "确认劳动合同部分无效的，其余部分也无效。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q58",
+      "type": "judge",
+      "stem": "劳动合同可以约定试用期。试用期最长不得超过6个月。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q59",
+      "type": "judge",
+      "stem": "经劳动合同当事人协商一致，劳动合同可以解除。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q60",
+      "type": "single",
+      "stem": "某施工企业的下列工作安排，违反《劳动法》中关于女职工特殊保护规定的是( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "安排正在哺乳未满 1 周岁婴儿的女工李某从事资料整理工作"
+        },
+        {
+          "key": "B",
+          "text": "安排怀孕6个月的女工钱某从事夜班工作"
+        },
+        {
+          "key": "C",
+          "text": "安排怀孕期间女工赵某从事第3级体力劳动强度的劳动"
+        },
+        {
+          "key": "D",
+          "text": "批准女工王某只能休产假 120 天"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch3-q61",
+      "type": "single",
+      "stem": "根据《劳动合同法》，下列情形中，用人单位得解除劳动者劳动合同的是( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "在本单位连续工作满15年，且距法定退休年龄不足5年的"
+        },
+        {
+          "key": "B",
+          "text": "在试用期间被证明不符合录用条件的"
+        },
+        {
+          "key": "C",
+          "text": "严重违反用人单位的规章制度的"
+        },
+        {
+          "key": "D",
+          "text": "因工负伤，不在规定的医疗期内的"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch3-q62",
+      "type": "single",
+      "stem": "下列情形中，用人单位不得与劳动者解除劳动合同的是( )。",
+      "options": [
+        {
+          "key": "A",
+          "text": "在试用期间被证明不符合录用条件的"
+        },
+        {
+          "key": "B",
+          "text": "患病或非因工负伤，在规定的医疗期内的"
+        },
+        {
+          "key": "C",
+          "text": "严重违反用人单位的规章制度的"
+        },
+        {
+          "key": "D",
+          "text": "被依法追究刑事责任的"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch3-q63",
+      "type": "multiple",
+      "stem": "劳动者发生下列情形，用人单位可以随时解除劳动合同的有( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "在试用期被证明不符合录用条件的"
+        },
+        {
+          "key": "B",
+          "text": "不能胜任工作，经过培训或者调整工作岗位仍不能胜任工作的"
+        },
+        {
+          "key": "C",
+          "text": "严重反用人单位规章制度的"
+        },
+        {
+          "key": "D",
+          "text": "同时与其他用人单位建立劳动关系，对完成本单位的工作任务造成严重影响的"
+        },
+        {
+          "key": "E",
+          "text": "患病，在规定的医疗期满后不能从事原工作，也不能从事由用人单位另行安排的工作的"
+        }
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jidian-ch3-q64",
+      "type": "multiple",
+      "stem": "劳动合同无效或部分无效的情形有( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "劳动者死亡，或者被人民法院宣告死亡或者失踪的"
+        },
+        {
+          "key": "B",
+          "text": "用人单位被吊销营业执照.责令关闭.撤销的"
+        },
+        {
+          "key": "C",
+          "text": "以欺诈.胁迫的手段，使对方在违背真实意思的情况下订立劳动合同的"
+        },
+        {
+          "key": "D",
+          "text": "劳动者被依法追究刑事责任的"
+        },
+        {
+          "key": "E",
+          "text": "用人单位免除自己的法定责任.排除劳动者权利的"
+        }
+      ],
+      "answer": [
+        "C",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jidian-ch3-q65",
+      "type": "judge",
+      "stem": "项目风险管理的核心目标是彻底消除所有项目风险。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "项目风险无法彻底消除",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q66",
+      "type": "judge",
+      "stem": "卓越绩效管理模式仅适用于制造业企业，不适用于服务业或非营利组织。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "卓越绩效是通用性管理框架，核心逻辑适用于制造业、服务业、非营利组织等各类组织，仅在具体指标设计上需结合行业特性调整。",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q67",
+      "type": "judge",
+      "stem": "卓越绩效管理的“持续改进”是指渐进式的小改进，不包含颠覆性的创新改进。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "持续改进涵盖“渐进式改进”与“突破性改进”两类，前者针对日常问题优化，后者针对核心流程或技术开展颠覆性创新，二者均属于改进范畴。",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q68",
+      "type": "judge",
+      "stem": "卓越绩效管理的“基于事实的管理”，要求所有决策必须完全依赖定量数据，无需考虑定性信息。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "该原则强调“数据与信息驱动决策 ”，需结合定量数据(如绩效指标)与定性信息(如顾客反馈、员工建议)综合判断，避免单一依赖某类信息导致决策偏差。",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q69",
+      "type": "single",
+      "stem": "卓越绩效管理模式的核心导向是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "关注短期利润"
+        },
+        {
+          "key": "B",
+          "text": "以顾客为中心并追求持续改进"
+        },
+        {
+          "key": "C",
+          "text": "仅强调产品质量"
+        },
+        {
+          "key": "D",
+          "text": "以管理者意志为核心"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "卓越绩效模式以顾客为导向，融合了战略规划、持续改进、员工发展等多维度，追求长期卓越。",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch3-q70",
+      "type": "single",
+      "stem": "以下哪项不属于卓越绩效管理的“七大核心价值观”?",
+      "options": [
+        {
+          "key": "A",
+          "text": "远见卓识的领导"
+        },
+        {
+          "key": "B",
+          "text": "聚焦产品产量"
+        },
+        {
+          "key": "C",
+          "text": "重视员工和合作伙伴"
+        },
+        {
+          "key": "D",
+          "text": "基于事实的管理"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "卓越绩效七大核心价值观包括远见卓识的领导、以顾客为导向、培育学习型组织和个人、建立组织内部与外部的合作伙伴关系、重视员工和合作伙伴、基于事实的管理、社会责任与公民义务，不包括“聚焦产品产量”",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch3-q71",
+      "type": "single",
+      "stem": "项目成功的核心衡量标准不包括以下哪项?( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "范围达成"
+        },
+        {
+          "key": "B",
+          "text": "成本控制"
+        },
+        {
+          "key": "C",
+          "text": "团队规模"
+        },
+        {
+          "key": "D",
+          "text": "时间节点"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "项目成功的核心衡量标准是“铁三角 ”，即范围、成本、时间，团队规模并非直接衡量指标",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch3-q72",
+      "type": "multiple",
+      "stem": "项目启动阶段需完成的核心工作包括( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "制定项目章程"
+        },
+        {
+          "key": "B",
+          "text": "识别项目相关方"
+        },
+        {
+          "key": "C",
+          "text": "分解工作分解结构(WBS)"
+        },
+        {
+          "key": "D",
+          "text": "开展可行性研究"
+        },
+        {
+          "key": "E",
+          "text": "制定进度计划"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "analysis": "项目启动阶段的核心工作是明确项目合法性与可行性，包括制定项目章程、识别相关方、开展可行性研究;分解 WBS和制定进度计划属于规划阶段工作。",
+      "difficulty": 3
+    },
+    {
+      "id": "jidian-ch3-q73",
+      "type": "multiple",
+      "stem": "卓越绩效管理中，“测量、分析与改进”模块的核心内容包括( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "建立覆盖组织各层面的绩效指标体系"
+        },
+        {
+          "key": "B",
+          "text": "收集并分析数据以识别改进机会"
+        },
+        {
+          "key": "C",
+          "text": "开展定期的内部审核与管理评审"
+        },
+        {
+          "key": "D",
+          "text": "仅依赖定性分析，忽略定量数据"
+        },
+        {
+          "key": "E",
+          "text": "将改进成果固化为标准或制度"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "analysis": "该模块强调“数据驱动”，核心内容包括指标体系、数据分析、审核评审、成果固化;“忽略定量数据”不符合“基于事实的管理”原则",
+      "difficulty": 3
+    },
+    {
+      "id": "jidian-ch3-q74",
+      "type": "judge",
+      "stem": "《安全生产法(2021年版)》规定，建筑施工企业无需强制投保安全生产责任保险。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q75",
+      "type": "judge",
+      "stem": "“三管三必须” 要求二建在组织生产施工时，需同步落实安全管理责任。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q76",
+      "type": "judge",
+      "stem": "建筑施工项目的安全生产费用提取比例不得低于工程造价的2.5%(上海标准)。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q77",
+      "type": "judge",
+      "stem": "从业人员拒绝违章指挥的，视为违反劳动合同，施工单位可解除合同。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q78",
+      "type": "single",
+      "stem": "《安全生产法(2021年版)》的实施时间是",
+      "options": [
+        {
+          "key": "A",
+          "text": "2020年9月1日"
+        },
+        {
+          "key": "B",
+          "text": "2021年9月1日"
+        },
+        {
+          "key": "C",
+          "text": "2022年1月1日"
+        },
+        {
+          "key": "D",
+          "text": "2021年12月1日"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch3-q79",
+      "type": "single",
+      "stem": "建筑施工中，高危作业专项施工方案需经( )后方可实施",
+      "options": [
+        {
+          "key": "A",
+          "text": "二建签字确认"
+        },
+        {
+          "key": "B",
+          "text": "监理工程师签字"
+        },
+        {
+          "key": "C",
+          "text": "专家论证合格"
+        },
+        {
+          "key": "D",
+          "text": "建设单位批准"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch3-q80",
+      "type": "single",
+      "stem": "上海建筑施工企业未保障安全生产资金投人，导致一般事故的，对单位罚款金额为( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "5-10 万元"
+        },
+        {
+          "key": "B",
+          "text": "10-100 万元"
+        },
+        {
+          "key": "C",
+          "text": "100-200 万元"
+        },
+        {
+          "key": "D",
+          "text": "200-500 万元"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch3-q81",
+      "type": "multiple",
+      "stem": "建筑施工生产经营单位的安全生产主体责任包括( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "资金投入保障"
+        },
+        {
+          "key": "B",
+          "text": "安全教育培训"
+        },
+        {
+          "key": "C",
+          "text": "设备设施管理"
+        },
+        {
+          "key": "D",
+          "text": "现场隐患排查"
+        },
+        {
+          "key": "E",
+          "text": "进度优先于安全"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jidian-ch3-q82",
+      "type": "multiple",
+      "stem": "二级建造师在施工现场的安全管理职责包括( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "每日安全巡查"
+        },
+        {
+          "key": "B",
+          "text": "监督专项方案实施"
+        },
+        {
+          "key": "C",
+          "text": "组织安全培训"
+        },
+        {
+          "key": "D",
+          "text": "处理安全投诉"
+        },
+        {
+          "key": "E",
+          "text": "隐患闭环管理"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jidian-ch3-q83",
+      "type": "judge",
+      "stem": "建筑施工企业生产安全事故应急救援预案无需向监管部门备案。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q84",
+      "type": "judge",
+      "stem": "上海地区一般建筑施工安全事故由区政府牵头组织调查。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q85",
+      "type": "judge",
+      "stem": "二级建造师(项目经理)作为项目现场负责人，无需担任应急救援小组总指挥。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q86",
+      "type": "judge",
+      "stem": "安全生产责任保险是建筑施工企业的强制投保险种.",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q87",
+      "type": "single",
+      "stem": "建筑施工企业发生一般生产安全事故，对单位的罚款金额为 ( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "10-30万元"
+        },
+        {
+          "key": "B",
+          "text": "30-100 万元"
+        },
+        {
+          "key": "C",
+          "text": "100-200万元"
+        },
+        {
+          "key": "D",
+          "text": "200-500 万元"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch3-q88",
+      "type": "single",
+      "stem": "生产经营单位的主要负责人未履行安全生产法规定的安全生产管理职责，导致发生较大安全生产事故的，由应急管理部门依照规定处以一年年收人( )的罚款;",
+      "options": [
+        {
+          "key": "A",
+          "text": "40%"
+        },
+        {
+          "key": "B",
+          "text": "60%"
+        },
+        {
+          "key": "C",
+          "text": "80%"
+        },
+        {
+          "key": "D",
+          "text": "100%"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch3-q89",
+      "type": "single",
+      "stem": "生产安全事故调查报告应在事故发生之日起( )日内出具",
+      "options": [
+        {
+          "key": "A",
+          "text": "30 日"
+        },
+        {
+          "key": "B",
+          "text": "60 日"
+        },
+        {
+          "key": "C",
+          "text": "90 日"
+        },
+        {
+          "key": "D",
+          "text": "120 日"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch3-q90",
+      "type": "multiple",
+      "stem": "二级建造师在生产安全事故应急处置中的职责包括( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "立即停工疏散人员"
+        },
+        {
+          "key": "B",
+          "text": "组织现场急救"
+        },
+        {
+          "key": "C",
+          "text": "1小时内上报事故"
+        },
+        {
+          "key": "D",
+          "text": "破坏现场避免二次事故"
+        },
+        {
+          "key": "E",
+          "text": "配合调查提供资料"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jidian-ch3-q91",
+      "type": "multiple",
+      "stem": "上海建筑施工安全生产本地政策包括( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "安全生产标准化考评"
+        },
+        {
+          "key": "B",
+          "text": "强制投保安责险"
+        },
+        {
+          "key": "C",
+          "text": "智慧工地安全监管"
+        },
+        {
+          "key": "D",
+          "text": "以包代管合法合规"
+        },
+        {
+          "key": "E",
+          "text": "应急演练每季度1次"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jidian-ch3-q92",
+      "type": "judge",
+      "stem": "《噪声污染防治法(2022版)》仅管控超标噪声，未超标但扰民的噪声无需处理。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q93",
+      "type": "judge",
+      "stem": "上海地区建筑施工夜间时段指22:00-次日6:00，该时段原则上禁止施工。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q94",
+      "type": "judge",
+      "stem": "施工单位编制的施工组织设计中，无需单独包含噪声污染防治内容。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q95",
+      "type": "judge",
+      "stem": "应急抢险作业夜间施工无需申请许可，但需事后补办备案。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q96",
+      "type": "single",
+      "stem": "上海地区建筑施工昼间噪声限值(临近住宅区域)为( ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "65分贝"
+        },
+        {
+          "key": "B",
+          "text": "70分贝"
+        },
+        {
+          "key": "C",
+          "text": "75分贝"
+        },
+        {
+          "key": "D",
+          "text": "80分贝"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch3-q97",
+      "type": "single",
+      "stem": "夜间施工许可申请需提前( )个工作日向生态环境部门提交?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1个"
+        },
+        {
+          "key": "B",
+          "text": "3个"
+        },
+        {
+          "key": "C",
+          "text": "5个"
+        },
+        {
+          "key": "D",
+          "text": "7个"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch3-q98",
+      "type": "single",
+      "stem": "施工单位未按照规定制定噪声污染防治实施方案，或者未采取有效措施减少振动、降低噪声的;由工程所在地人民政府指定的部门责令改正，处五千元以上五万元以下的罚款;拒不改正的，处( )的罚款:",
+      "options": [
+        {
+          "key": "A",
+          "text": "0.5-5 万元"
+        },
+        {
+          "key": "B",
+          "text": "5-20 万元"
+        },
+        {
+          "key": "C",
+          "text": "20-50万元"
+        },
+        {
+          "key": "D",
+          "text": "50 万元以上"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch3-q99",
+      "type": "multiple",
+      "stem": "建筑施工噪声污染防治的源头防控措施包括( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "选用低噪声设备"
+        },
+        {
+          "key": "B",
+          "text": "设置隔声围挡"
+        },
+        {
+          "key": "C",
+          "text": "编制噪声防治专篇"
+        },
+        {
+          "key": "D",
+          "text": "优化施工工艺"
+        },
+        {
+          "key": "E",
+          "text": "夜间停止施工"
+        }
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jidian-ch3-q100",
+      "type": "multiple",
+      "stem": "建造师(项目负责人)在施工噪声管理中的具体职责有( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "申请夜间施工许可"
+        },
+        {
+          "key": "B",
+          "text": "落实降噪措施"
+        },
+        {
+          "key": "C",
+          "text": "开展噪声监测"
+        },
+        {
+          "key": "D",
+          "text": "处理噪声投诉"
+        },
+        {
+          "key": "E",
+          "text": "留存相关资料"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jidian-ch3-q101",
+      "type": "judge",
+      "stem": "倾目进度目标是施工方项目管理的任务",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "项目进度目标是指整个项目的进度目标，是在项目决策阶段定义时确定的，是业主方项目管理的任务。",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q102",
+      "type": "judge",
+      "stem": "进度的管理过程中，需要严格按照指定的计划实施，是一个静态的管理过程",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "进度管理是动态管理采用PDCA不断循环",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q103",
+      "type": "judge",
+      "stem": "横道图对大型项目，因其工作构成及逻辑关系复杂，可以利用计算机进行计算分析",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "横道图具有编制简单、使用方便等优点，但也有不足:1不能反映工作之间的相互联系、相互制约关系;不能反映影响工期的关键工作和关键线路; 不能反映工作所具有的机动时间(时差);不能反映工程费用与工期之间的关系，因而不便于施工进度计划的优化。特别是对大型项目，因其工作构成及逻辑关系复杂，无法利用计算机行计算分析。",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q104",
+      "type": "judge",
+      "stem": "网络计划能够利用软件进行计算、优化和调整，实现动态控制",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "网络计划具有以下特点: 能够明确表达工作之间的先后顺序 (即逻辑关系)。能够找出影响工期的关键工作和关键线路。能够确定各项工作的机动时间(时差)，有利于施工进度管理中挖掘潜力，还可用来优化网络计划。能够利用软件进行计算、优化和调整，实现动态控制。",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q105",
+      "type": "judge",
+      "stem": "虚箭线不占用时间，也不消耗资源，只是起着联系的作用( ).",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "虚箭线既不占用时间，也不消耗资源，一般起着联系、区分、断路的作用",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q106",
+      "type": "judge",
+      "stem": "对于铁路、公路、地铁、输电线路、天然气管道等线性工程，更适合采用垂直图表达方式().",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "对于铁路、公路、地铁、输电线路、天然气管道等线性工程，更适合采用垂直图表达方式。",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q107",
+      "type": "judge",
+      "stem": "总时差有可能小于自由时差( )。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "总时差大于等于自由时差",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q108",
+      "type": "judge",
+      "stem": "如果实际工期超计划工期，施工进度计划的调整，只能通过压缩关键工作的持续时间来实现( ).",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "不可以压缩关键工作可以调整工序实现进度调整",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q109",
+      "type": "single",
+      "stem": "进度动态控制过程中\"D” 指的是哪个环节( )。",
+      "options": [
+        {
+          "key": "A",
+          "text": "计划"
+        },
+        {
+          "key": "B",
+          "text": "实施"
+        },
+        {
+          "key": "C",
+          "text": "检查"
+        },
+        {
+          "key": "D",
+          "text": "处理"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "Plan（计划）Do（执行）Study（研究）Act（处理）",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch3-q110",
+      "type": "single",
+      "stem": "关于横道图的特点，下列说法中正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "能反映工作之间的相互联系、相互制约关系"
+        },
+        {
+          "key": "B",
+          "text": "能反映工作所具有的机动时间(时差)"
+        },
+        {
+          "key": "C",
+          "text": "能反映工程费用与工期之间的关系"
+        },
+        {
+          "key": "D",
+          "text": "横道图编制简单、使用方便"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "横道图具有编制简单、使用方便等优点，但也有不足:1不能反映工作之间的相互联系、相互制约关系;不能反映影响工期的关键工作和关键线路; 不能反映工作所具有的机动时间(时差);不能反映工程费用与工期之间的关系，因而不便于施工进度计划的优化。特别是对大型项目，因其工作构成及逻辑关系复杂，无法利用计算机行计算分析。",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch3-q111",
+      "type": "single",
+      "stem": "在流水施工中，由于( )的规律不同，决定了流水步距、流水施工工期的计算方法等也不同。",
+      "options": [
+        {
+          "key": "A",
+          "text": "施工过程"
+        },
+        {
+          "key": "B",
+          "text": "流水强度"
+        },
+        {
+          "key": "C",
+          "text": "流水节拍"
+        },
+        {
+          "key": "D",
+          "text": "施工段"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "在流水施工中，由于流水节拍的规律不同，决定了流水步距、流水施工工期的计算方法等也不同。",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch3-q112",
+      "type": "single",
+      "stem": "流水施工参数中，流水步距的含义是( )。",
+      "options": [
+        {
+          "key": "A",
+          "text": "相邻两个施工过程相继开始施工的最小间隔时间"
+        },
+        {
+          "key": "B",
+          "text": "相邻两个施工段相继开始施工的最小间隔时间"
+        },
+        {
+          "key": "C",
+          "text": "相邻两个施工过程之间因组织安排需要增加的间隔等待时间"
+        },
+        {
+          "key": "D",
+          "text": "相邻两个施工段之间因工艺安排需要增加的间隔等待时间"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "相邻两个施工过程开始施工的最小间隔。",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch3-q113",
+      "type": "single",
+      "stem": "工程单代号网络计划中，工作自由时差是指( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "本工作与其紧后工作之间的时间间隔"
+        },
+        {
+          "key": "B",
+          "text": "本工作与其紧后工作之间时间间隔的最小值"
+        },
+        {
+          "key": "C",
+          "text": "本工作与其紧后工作之间时间间隔加该紧后工作总时差之和的最小值"
+        },
+        {
+          "key": "D",
+          "text": "本工作与其紧后工作之间时间间隔加该紧后工作总时差之和的最大值"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "指在不影响其紧后工作最早开始可以利用的机动时间。",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch3-q114",
+      "type": "multiple",
+      "stem": "施工进度计划系统中，按进展时间编制的有( ).",
+      "options": [
+        {
+          "key": "A",
+          "text": "施工总进度计划"
+        },
+        {
+          "key": "B",
+          "text": "年度施工进度计划"
+        },
+        {
+          "key": "C",
+          "text": "分部分项施工进度计划"
+        },
+        {
+          "key": "D",
+          "text": "月(旬)施工进度计划"
+        },
+        {
+          "key": "E",
+          "text": "单位工程施工进度计划"
+        }
+      ],
+      "answer": [
+        "B",
+        "D"
+      ],
+      "analysis": "按进展时间编制的有年度施工计划、季度施工计划月(旬)作业计划。按项目组成编制的有施工总进度计划、单位工程施工进度计划及分部分项工程进度计划",
+      "difficulty": 3
+    },
+    {
+      "id": "jidian-ch3-q115",
+      "type": "multiple",
+      "stem": "下列流水参数中，属于空间参数的是( )o",
+      "options": [
+        {
+          "key": "A",
+          "text": "施工过程"
+        },
+        {
+          "key": "B",
+          "text": "流水步距"
+        },
+        {
+          "key": "C",
+          "text": "流水工期"
+        },
+        {
+          "key": "D",
+          "text": "施工段"
+        },
+        {
+          "key": "E",
+          "text": "工作面"
+        }
+      ],
+      "answer": [
+        "D",
+        "E"
+      ],
+      "analysis": "工艺参数:施工过程;流水强度空间参数:工作面;施工段。时间参数:流水节拍;流水步距;流水施工工期。",
+      "difficulty": 3
+    },
+    {
+      "id": "jidian-ch3-q116",
+      "type": "multiple",
+      "stem": "下列双代号网络图的绘图规则的表述中，说法正确的是( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "双代号网络图中，可以出现循环回路"
+        },
+        {
+          "key": "B",
+          "text": "箭线不能交叉"
+        },
+        {
+          "key": "C",
+          "text": "箭尾节点的编号小于箭头节点编号"
+        },
+        {
+          "key": "D",
+          "text": "应只有一个起点和一个终点节点"
+        },
+        {
+          "key": "E",
+          "text": "可以从箭线上引入或引出箭线"
+        }
+      ],
+      "answer": [
+        "C",
+        "D"
+      ],
+      "analysis": "(1)双代号网络图必须正确表达已确定的逻辑关系 (2)双代号网络图中，不允许出现循环回路 (3)不能出现带双向箭头或无箭头的连线 (4)不能出现没有箭头节点或没有箭尾节点的箭线 (5)严禁从箭线上引入或引出箭线。 (6)箭线不宜交叉。当交叉不可避免时，可用过桥法或指向法。 (7)应只有一个起点和一个终点节点。 (8)要求箭尾节点的编号小于箭头节点编号，编号顺序应从小到大，可不连续，但不允许重复。",
+      "difficulty": 3
+    },
+    {
+      "id": "jidian-ch3-q117",
+      "type": "judge",
+      "stem": "直接成本。是指实施过程中耗费的构成工程实体或有助于工程实体形成的各项费用支出，包括人工费、材料费、机械使用费。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "包括人工费、材料费、机械使用费、其他直接费。",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q118",
+      "type": "judge",
+      "stem": "成本管理的系统性主要表现在成本管理结构的系统化和成本控制的总体优化。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q119",
+      "type": "judge",
+      "stem": "承包成本(责任成本)是指根据工程量清单计算出来的工程量，企业的建筑、安装工程基础定额和由各地区的市场劳务价格、材料价格信息，并按有关取费的指导性费率进行计算。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q120",
+      "type": "judge",
+      "stem": "工程项目成本的形成控制主要指项目经理部对工程项目成本的实施控制，包括制度控制、定额或指标控制、合同控制等。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q121",
+      "type": "judge",
+      "stem": "成本控制时对生产班组的任务安排,必须签发施工任务单并向生产班组进行技术交席。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "对生产班组的任务安排，必须签发施工任务单和限额领料单并向生产班组进行技术交席。",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q122",
+      "type": "judge",
+      "stem": "质量控制成本包括内部故障成本和外部故障成本，属于损失性费用，与质量水平成反比关系，即:工程质量越高,故障成本越低。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "质量故障成本包括内部故障成本和外部故障成本，属于损失性费用，与质量水平成反比关系，即:工程质量越高,故障成本越低。",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q123",
+      "type": "judge",
+      "stem": "标价分离完成后，根据项目综合情况，施工单位管理部门与施工项目经理共同确认标价分离、成本降低率，商务部门完成施工责任成本分解。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q124",
+      "type": "judge",
+      "stem": "指导性成本计划是指在工程项目施工准备阶段，以项目实施方案为依据，以落实项目经理责任目标为出发点，根据企业施工定额编制的施工成本计划。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "实施性成本计划是指在工程项目施工准备阶段，以项目实施方案为依据，以落实项目经理责任目标为出发点，根据企业施工定额编制的施工成本计划。",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q125",
+      "type": "single",
+      "stem": "工程项目成本是企业的主要产品成本，一般以建设项目的( )作为成本核算的对象。",
+      "options": [
+        {
+          "key": "A",
+          "text": "单项工程"
+        },
+        {
+          "key": "B",
+          "text": "单位工程"
+        },
+        {
+          "key": "C",
+          "text": "分部工程"
+        },
+        {
+          "key": "D",
+          "text": "分项工程"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "工程项目成本是企业的主要产品成本，一般以建设项目的(单位工程)作为成本核算的对象，通过各单位工程成本核算的综合来反映工程项目的成本。",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch3-q126",
+      "type": "single",
+      "stem": "项目经理部为准备、组织和管理工程实施的全部费用的支出，包括工作人员薪金、劳动保护费、职工福利费、办公费、差旅交通费、固定资产使用费、工具用具使用费、保险费、工程保修费、工程排污费、其他费用为( )成本。",
+      "options": [
+        {
+          "key": "A",
+          "text": "直接成本"
+        },
+        {
+          "key": "B",
+          "text": "间接成本"
+        },
+        {
+          "key": "C",
+          "text": "固定成本"
+        },
+        {
+          "key": "D",
+          "text": "实际成本"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch3-q127",
+      "type": "single",
+      "stem": "折旧费属于( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "直接成本"
+        },
+        {
+          "key": "B",
+          "text": "间接成本"
+        },
+        {
+          "key": "C",
+          "text": "固定成本"
+        },
+        {
+          "key": "D",
+          "text": "实际成本"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch3-q128",
+      "type": "single",
+      "stem": "质量成本包括两个方面:控制成本和故障成本，( )属于控制成本",
+      "options": [
+        {
+          "key": "A",
+          "text": "预防成本"
+        },
+        {
+          "key": "B",
+          "text": "内部故障成本"
+        },
+        {
+          "key": "C",
+          "text": "外部故障成本"
+        },
+        {
+          "key": "D",
+          "text": "直接成本"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "控制成本包括预防成本和鉴定成本, 属于质量成本保证费用，与质量水平成正比关系，即:工程质量越高，鉴定成本和预防成本就越大",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch3-q129",
+      "type": "single",
+      "stem": "中标后，投标负责人组织对编制、审核标价分离相关人员进行投标交底。( )部门组织进行标价分离、完成施工成本测算，协调相关部门编制施工成本降低率;",
+      "options": [
+        {
+          "key": "A",
+          "text": "商务"
+        },
+        {
+          "key": "B",
+          "text": "技术"
+        },
+        {
+          "key": "C",
+          "text": "项目"
+        },
+        {
+          "key": "D",
+          "text": "施工"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch3-q130",
+      "type": "single",
+      "stem": "( )成本计划是指在选派项目经理阶段的预算成本计划，是项目经理的责任成本目标。",
+      "options": [
+        {
+          "key": "A",
+          "text": "指导性"
+        },
+        {
+          "key": "B",
+          "text": "竞争性"
+        },
+        {
+          "key": "C",
+          "text": "实施性"
+        },
+        {
+          "key": "D",
+          "text": "预算性"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch3-q131",
+      "type": "multiple",
+      "stem": "施工成本计划编制可按( )进行。",
+      "options": [
+        {
+          "key": "A",
+          "text": "成本组成"
+        },
+        {
+          "key": "B",
+          "text": "项目结构"
+        },
+        {
+          "key": "C",
+          "text": "实施阶段"
+        },
+        {
+          "key": "D",
+          "text": "按实施进度"
+        },
+        {
+          "key": "E",
+          "text": "项目整体"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "项目管理机构应通过系统的成本策划，按成本组成、项目结构和工程实施阶段编制施工成本计划。",
+      "difficulty": 3
+    },
+    {
+      "id": "jidian-ch3-q132",
+      "type": "multiple",
+      "stem": "通常而言，责任成本具有四个特点:( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "可考核性"
+        },
+        {
+          "key": "B",
+          "text": "可预计性"
+        },
+        {
+          "key": "C",
+          "text": "可计量性"
+        },
+        {
+          "key": "D",
+          "text": "可控制性"
+        },
+        {
+          "key": "E",
+          "text": "可调整性"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jidian-ch3-q133",
+      "type": "judge",
+      "stem": "风险是管理目的与实施成果之间的不确定性。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "风险是管理目的与实施成果之间的不确定性。风险包括负面(不利)风险和正面(有利)风险。负面风险往往是威胁，正面风险往往是机遇。",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q134",
+      "type": "judge",
+      "stem": "施工项目实施的干扰因素与风险因素中，人为的干扰是最主要的干扰。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q135",
+      "type": "judge",
+      "stem": "对干扰因素的排除，只能通过认真分析、研究,采取有针对性的措施，并加以实施使之成功才能见效",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q136",
+      "type": "judge",
+      "stem": "风险管理的目标是，使安全目标得到控制。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "风险管理的目标是，使造价、工期、质量、安全目标得到控制。",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q137",
+      "type": "judge",
+      "stem": "风险识别主要靠风险调查。风险调查是项目实施中一个不断进行的过程。调查的范围有技术、组织、自然、环境、经济、合同等。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q138",
+      "type": "judge",
+      "stem": "风险控制是一种重要的财务性管理技术，由自己承担风险所造成的损失。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "【风险自留是一种重要的财务性管理技术，由自己承担风险所造成的X损失。风险自留对策有两种:即非计划性和计划性风险自留。",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q139",
+      "type": "single",
+      "stem": "风险管理对策的目的是减少项目风险潜在损失。基本对策有三种形式:风险控制、风险自留和( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "风险转移"
+        },
+        {
+          "key": "B",
+          "text": "风险回避"
+        },
+        {
+          "key": "C",
+          "text": "损失控制"
+        },
+        {
+          "key": "D",
+          "text": "工程保险"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "风险管理对策的目的是减少项目风险潜在损失。基本对策有三种形式:风险控制、风险自留和风险转移。",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch3-q140",
+      "type": "single",
+      "stem": "风险包括三个基本要素:风险因素的( );风险因素发生的不确定性;风险后果的不确定性。",
+      "options": [
+        {
+          "key": "A",
+          "text": "存在性"
+        },
+        {
+          "key": "B",
+          "text": "不存在性"
+        },
+        {
+          "key": "C",
+          "text": "确定性"
+        },
+        {
+          "key": "D",
+          "text": "不确定性"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "风险包括三个基本要素:一是风险因素的存在性;二是风险因素发生的不确定性;三是风险后果的不确定性。",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch3-q141",
+      "type": "single",
+      "stem": "( )是风险管理各步骤之中最重要的步骤。",
+      "options": [
+        {
+          "key": "A",
+          "text": "风险评估"
+        },
+        {
+          "key": "B",
+          "text": "风险应对"
+        },
+        {
+          "key": "C",
+          "text": "风险监控"
+        },
+        {
+          "key": "D",
+          "text": "风险识别"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "【建设工程项目管理规范 GB/T 50326-2017 17.1.2项目风险管理程序涵盖项目实施全过程的风险管理内容，包括风险识别、风险评估、风险应对和风险监控。既是风险管理的内容，也是风险管理的基本步骤和过程。风险识别是风险管理各步骤之中最重要的步骤。",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch3-q142",
+      "type": "multiple",
+      "stem": "风险损失量或效益水平的估计需包括下列内容( )o",
+      "options": [
+        {
+          "key": "A",
+          "text": "工期损失(工期缩短)的估计"
+        },
+        {
+          "key": "B",
+          "text": "费用损失(利润提升)的估计"
+        },
+        {
+          "key": "C",
+          "text": "对工程的质量、功能、使用效果(质量、安全、环境)方面的影响"
+        },
+        {
+          "key": "D",
+          "text": "间接影响、机会成本"
+        },
+        {
+          "key": "E",
+          "text": "潜在影响"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "风险等级评估指通过风险因素形成风险概率的估计和对发生风险后可能造成的损失量或效益水平的估计。风险损失量或效益水平的估计需包括下列内容:工期损失(工期缩短)的估计;费用损失(利润提升)的估计;对工程的质量、功能、使用效果(质量、安全、环境)方面的影响;其他影响。",
+      "difficulty": 3
+    },
+    {
+      "id": "jidian-ch3-q143",
+      "type": "judge",
+      "stem": "经过考试合格，取得建造师执业资格证书即可从事项目经理工作",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "取得建造师证书，要经过注册，方可由企业决定是否担任项目经理工作。",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q144",
+      "type": "judge",
+      "stem": "施工企业选聘项目经理的方式是直接委派",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q145",
+      "type": "judge",
+      "stem": "项目经理应组织测量人员，按照标准测量控制点，进行复测和高程控制，属于施工技术准备",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "项目经理应组织测量人员根据施工图设计文件要求，按照标准测量控制点，进行复测和高程控制属于施工现场准备。",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q146",
+      "type": "judge",
+      "stem": "项目经理应组织项目团队成员编制施工安全事故应急预案，并报送项目专职安全员审查",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "报送企业主要负责人组织有关部门和人员进行审查。",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q147",
+      "type": "judge",
+      "stem": "紧急原因造成的停工，施工单位有权得到延长工期，但无法得到费用的补偿",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "要看责任归属",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q148",
+      "type": "judge",
+      "stem": "项目经理应在危险性较大的分部分项工程施工前，组织项目团队成员编制专项施工方案",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q149",
+      "type": "judge",
+      "stem": "施工成本管理中，成本控制的前提是做好成本分析",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "成本计划→成本控制→成本分析→成本考核。",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q150",
+      "type": "judge",
+      "stem": "项目监理机构要求停工时，项目经理应要求总监理工程师签发书面停工指令，并说明停工理由",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q151",
+      "type": "single",
+      "stem": "关于建造师与施工项目经理的说法，正确的是( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "施工项目经理可以是临时聘用的人员"
+        },
+        {
+          "key": "B",
+          "text": "建造师是管理岗位，施工项自经理是技术岗位"
+        },
+        {
+          "key": "C",
+          "text": "项目经理应常驻施工现场"
+        },
+        {
+          "key": "D",
+          "text": "建造师执业资格制度可以替代施工项目经理岗位责任制"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch3-q152",
+      "type": "single",
+      "stem": "下列有关施工准备管理的说法中，正确的是( )。",
+      "options": [
+        {
+          "key": "A",
+          "text": "项目经理应根据施工合同约定，亲自建立健全工程项目管理体系"
+        },
+        {
+          "key": "B",
+          "text": "项目经理应组织项目团队成员进行项目实施策划"
+        },
+        {
+          "key": "C",
+          "text": "项目经理应在工程开工后组织完成施工单位所需相关备案手续"
+        },
+        {
+          "key": "D",
+          "text": "项目经理应主持召开的工地会议"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch3-q153",
+      "type": "single",
+      "stem": "施工组织设计项目管理实施规划，由( )审批。",
+      "options": [
+        {
+          "key": "A",
+          "text": "项目经理"
+        },
+        {
+          "key": "B",
+          "text": "项目项目技术负责人"
+        },
+        {
+          "key": "C",
+          "text": "企业技术负责人"
+        },
+        {
+          "key": "D",
+          "text": "总监理工程师"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch3-q154",
+      "type": "single",
+      "stem": "项目经理应组织项目团队成员熟悉施工图纸，参加由( )组织召开的图纸会审和设计交底会议。",
+      "options": [
+        {
+          "key": "A",
+          "text": "施工单位"
+        },
+        {
+          "key": "B",
+          "text": "建设单位"
+        },
+        {
+          "key": "C",
+          "text": "设计单位"
+        },
+        {
+          "key": "D",
+          "text": "监理单位"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch3-q155",
+      "type": "single",
+      "stem": "在施工质量管理过程中，项目经理做法错误的是( )。",
+      "options": [
+        {
+          "key": "A",
+          "text": "项目经理应组织项目团队成员编制工程项目质量计划，并报送企业技术负责人或其授权人审批"
+        },
+        {
+          "key": "B",
+          "text": "项目经理应组织项目团队成员跟踪检查工程项目质量计划及施工方案实施情况"
+        },
+        {
+          "key": "C",
+          "text": "项目经理应组织项目团队成员分析影响工程质量的关键因素，并设置和管理质量控制点"
+        },
+        {
+          "key": "D",
+          "text": "项目经理应组织分部工程险收"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch3-q156",
+      "type": "multiple",
+      "stem": "根据《建设工程施工合同(示范文本)》，关于项目经理的说法，正确的有",
+      "options": [
+        {
+          "key": "A",
+          "text": "发包人有权要求更换不称职的项目经理，承包人应在接到更换通知居14 天内向发包人提出书面的改进报告"
+        },
+        {
+          "key": "B",
+          "text": "项目经理因特殊情况需授权其下属人员履行某项工作职责的，应提前3 天将被授权人员的相关信息书面通知监理"
+        },
+        {
+          "key": "C",
+          "text": "发包人收到承包人的书面改进报告后仍要求更换项目经理的，承包人应在接到第二次更换通知的28天内进行更换"
+        },
+        {
+          "key": "D",
+          "text": "承包人需更换项目经理的，应提前7天书面通知发包人和监理人，并征得发包人书面同意"
+        },
+        {
+          "key": "E",
+          "text": "紧急情况下为确保施工安全，项目经理采取必要措施后，应在48小时内向发包人代表和监理工程师提交书面报告"
+        }
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jidian-ch3-q157",
+      "type": "multiple",
+      "stem": "根据《建设工程施工项目经理岗位职业标准》T/CCIAT-0010-2019规定，企业应解聘项目经理的情形有",
+      "options": [
+        {
+          "key": "A",
+          "text": "有违规违纪行为的"
+        },
+        {
+          "key": "B",
+          "text": "因自身管理原因造成工期严重延误或发生重大质量、安全事故的"
+        },
+        {
+          "key": "C",
+          "text": "施工管理不力，严重偏离成本目标，存在较大专损风险的"
+        },
+        {
+          "key": "D",
+          "text": "因健康原因不能胜任的"
+        },
+        {
+          "key": "E",
+          "text": "建设单位提出撤换要求的"
+        }
+      ],
+      "answer": [
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jidian-ch3-q158",
+      "type": "multiple",
+      "stem": "根据《建设工程施工项目经理岗位职业标准》T/CCIAT 0010-2019,施工项目经理应履行的职责有( )。",
+      "options": [
+        {
+          "key": "A",
+          "text": "组织制定项目管理岗位职责"
+        },
+        {
+          "key": "B",
+          "text": "建立和完善工程档案文件管理制度"
+        },
+        {
+          "key": "C",
+          "text": "协助审核监理实施细则"
+        },
+        {
+          "key": "D",
+          "text": "在授权范围内签署结算文件"
+        },
+        {
+          "key": "E",
+          "text": "主持工地例会，协调解决工程施工问题"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jidian-ch3-q159",
+      "type": "judge",
+      "stem": "BIM模型仅在设计阶段有用，在施工阶段无法发挥作用。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q160",
+      "type": "judge",
+      "stem": "塔吊防碰撞系统可以通过传感器实现提前预警，自动切断危险动作。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q161",
+      "type": "judge",
+      "stem": "智慧工地中的视频AI系统只能用于录像监控，无法进行实时行为分析。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q162",
+      "type": "judge",
+      "stem": "5G技术因其低时延特性，为建筑机器人的远程操控提供了可能。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch3-q163",
+      "type": "single",
+      "stem": "下列哪项技术是智慧工地实现“数字李生”，创建虚拟模型的核心?",
+      "options": [
+        {
+          "key": "A",
+          "text": "物联网"
+        },
+        {
+          "key": "B",
+          "text": "建筑信息模型(BIM)"
+        },
+        {
+          "key": "C",
+          "text": "5G通信"
+        },
+        {
+          "key": "D",
+          "text": "人工智能"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch3-q164",
+      "type": "single",
+      "stem": "为了实现对工地人员厘米级精确定位和SOS求救功能，最常采用以下哪种技术?",
+      "options": [
+        {
+          "key": "A",
+          "text": "WiFi定位"
+        },
+        {
+          "key": "B",
+          "text": "RFID射频识别"
+        },
+        {
+          "key": "C",
+          "text": "UWB超宽带定位"
+        },
+        {
+          "key": "D",
+          "text": "GPS全球定位"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch3-q165",
+      "type": "single",
+      "stem": "智慧工地的四层架构模型中，负责数据存储、分析和赋能的“心脏”是:",
+      "options": [
+        {
+          "key": "A",
+          "text": "感知层"
+        },
+        {
+          "key": "B",
+          "text": "网络层"
+        },
+        {
+          "key": "C",
+          "text": "平台层"
+        },
+        {
+          "key": "D",
+          "text": "应用层"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch3-q166",
+      "type": "multiple",
+      "stem": "智慧工地建设的意义包括:",
+      "options": [
+        {
+          "key": "A",
+          "text": "提升安全管理水平"
+        },
+        {
+          "key": "B",
+          "text": "降低资源消耗"
+        },
+        {
+          "key": "C",
+          "text": "推动绿色施工"
+        },
+        {
+          "key": "D",
+          "text": "增强企业市场竞争力"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jidian-ch3-q167",
+      "type": "multiple",
+      "stem": "智慧工地云平台(大数据中心)的核心价值包括",
+      "options": [
+        {
+          "key": "A",
+          "text": "打破信息孤岛，实现数据共享"
+        },
+        {
+          "key": "B",
+          "text": "进行趋势分析和预测预警"
+        },
+        {
+          "key": "C",
+          "text": "为管理者提供“一张图”决策支持"
+        },
+        {
+          "key": "D",
+          "text": "替代项目经理进行所有决策"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    }
+  ]
+}

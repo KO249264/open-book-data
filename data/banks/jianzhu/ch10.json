@@ -1,0 +1,470 @@
+{
+  "questions": [
+    {
+      "id": "jianzhu-ch10-q1",
+      "type": "judge",
+      "stem": "禁止用人单位招用未满16岁的未成年人，必须依照国家有关规定，履行审批手续，并保障其接受义务教育的权利。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch10-q2",
+      "type": "judge",
+      "stem": "确认劳动合同部分无效的，其余部分也无效。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch10-q3",
+      "type": "judge",
+      "stem": "劳动合同可以约定试用期。试用期最长不得超过6个月。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch10-q4",
+      "type": "judge",
+      "stem": "经劳动合同当事人协商一致，劳动合同可以解除。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch10-q5",
+      "type": "single",
+      "stem": "某施工企业的下列工作安排，违反《劳动法》中关于女职工特殊保护规定的是( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "安排正在哺乳未满 1 周岁婴儿的女工李某从事资料整理工作"
+        },
+        {
+          "key": "B",
+          "text": "安排怀孕6个月的女工钱某从事夜班工作"
+        },
+        {
+          "key": "C",
+          "text": "安排怀孕期间女工赵某从事第3级体力劳动强度的劳动"
+        },
+        {
+          "key": "D",
+          "text": "批准女工王某只能休产假 120 天"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch10-q6",
+      "type": "single",
+      "stem": "根据《劳动合同法》，下列情形中，用人单位得解除劳动者劳动合同的是( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "在本单位连续工作满15年，且距法定退休年龄不足5年的"
+        },
+        {
+          "key": "B",
+          "text": "在试用期间被证明不符合录用条件的"
+        },
+        {
+          "key": "C",
+          "text": "严重违反用人单位的规章制度的"
+        },
+        {
+          "key": "D",
+          "text": "因工负伤，不在规定的医疗期内的"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch10-q7",
+      "type": "single",
+      "stem": "下列情形中，用人单位不得与劳动者解除劳动合同的是( )。",
+      "options": [
+        {
+          "key": "A",
+          "text": "在试用期间被证明不符合录用条件的"
+        },
+        {
+          "key": "B",
+          "text": "患病或非因工负伤，在规定的医疗期内的"
+        },
+        {
+          "key": "C",
+          "text": "严重违反用人单位的规章制度的"
+        },
+        {
+          "key": "D",
+          "text": "被依法追究刑事责任的"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch10-q8",
+      "type": "multiple",
+      "stem": "劳动者发生下列情形，用人单位可以随时解除劳动合同的有( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "在试用期被证明不符合录用条件的"
+        },
+        {
+          "key": "B",
+          "text": "不能胜任工作，经过培训或者调整工作岗位仍不能胜任工作的"
+        },
+        {
+          "key": "C",
+          "text": "严重反用人单位规章制度的"
+        },
+        {
+          "key": "D",
+          "text": "同时与其他用人单位建立劳动关系，对完成本单位的工作任务造成严重影响的"
+        },
+        {
+          "key": "E",
+          "text": "患病，在规定的医疗期满后不能从事原工作，也不能从事由用人单位另行安排的工作的"
+        }
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jianzhu-ch10-q9",
+      "type": "multiple",
+      "stem": "劳动合同无效或部分无效的情形有( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "劳动者死亡，或者被人民法院宣告死亡或者失踪的"
+        },
+        {
+          "key": "B",
+          "text": "用人单位被吊销营业执照.责令关闭.撤销的"
+        },
+        {
+          "key": "C",
+          "text": "以欺诈.胁迫的手段，使对方在违背真实意思的情况下订立劳动合同的"
+        },
+        {
+          "key": "D",
+          "text": "劳动者被依法追究刑事责任的"
+        },
+        {
+          "key": "E",
+          "text": "用人单位免除自己的法定责任.排除劳动者权利的"
+        }
+      ],
+      "answer": [
+        "C",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jianzhu-ch10-q10",
+      "type": "judge",
+      "stem": "注册建造师因过错造成一般质量事故的，应被吊销执业资格证书，5年内不予注册。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "根据《建设工程质量管理条例》，注册执业人员因过错造成一般质量事故的，责令停止执业1年;造成重大质量事故的，才吊销执业资格证书，5年内不予注册。",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch10-q11",
+      "type": "judge",
+      "stem": "注册建造师执业人员因过错造成重大质量事故，情节特别恶劣的，终身不予注册。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch10-q12",
+      "type": "judge",
+      "stem": "县级以上人民政府住房城乡建设主管部门履行监督检查职责时，有权要求被检查人员出示注册证书。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch10-q13",
+      "type": "judge",
+      "stem": "注册建造师变更执业单位时，办理变更注册手续后，注册有效期重新计算。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch10-q14",
+      "type": "single",
+      "stem": "注册建造师继续教育的内容不包括( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "工程建设相关的法律法规、标准规范"
+        },
+        {
+          "key": "B",
+          "text": "注册建造师职业道德和诚信制度"
+        },
+        {
+          "key": "C",
+          "text": "建设工程项目案例分析"
+        },
+        {
+          "key": "D",
+          "text": "国际工程承包知识"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch10-q15",
+      "type": "single",
+      "stem": "注册建造师初始注册的有效期是( )年。",
+      "options": [
+        {
+          "key": "A",
+          "text": "1"
+        },
+        {
+          "key": "B",
+          "text": "2"
+        },
+        {
+          "key": "C",
+          "text": "3"
+        },
+        {
+          "key": "D",
+          "text": "5"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch10-q16",
+      "type": "single",
+      "stem": "注册建造师执业资格注册有效期满需继续执业的，应当在注册有效期届满( )日前，按照规定申请延续注册。",
+      "options": [
+        {
+          "key": "A",
+          "text": "15"
+        },
+        {
+          "key": "B",
+          "text": "30"
+        },
+        {
+          "key": "C",
+          "text": "45"
+        },
+        {
+          "key": "D",
+          "text": "60"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch10-q17",
+      "type": "multiple",
+      "stem": "注册建造师在执业活动中的义务有",
+      "options": [
+        {
+          "key": "A",
+          "text": "遵守法律、法规和有关管理规定，恪守职业道德"
+        },
+        {
+          "key": "B",
+          "text": "执行技术标准、规范和规程"
+        },
+        {
+          "key": "C",
+          "text": "保证执业成果的质量，并承担相应责任"
+        },
+        {
+          "key": "D",
+          "text": "接受继续教育，努力提高执业水准"
+        },
+        {
+          "key": "E",
+          "text": "保守在执业中知悉的国家秘密和他人的商业、技术等秘密"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jianzhu-ch10-q18",
+      "type": "multiple",
+      "stem": "注册建造师信用档案应当包括的内容有",
+      "options": [
+        {
+          "key": "A",
+          "text": "注册建造师的基本情况"
+        },
+        {
+          "key": "B",
+          "text": "业绩"
+        },
+        {
+          "key": "C",
+          "text": "良好行为"
+        },
+        {
+          "key": "D",
+          "text": "不良行为"
+        },
+        {
+          "key": "E",
+          "text": "继续教育情况"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    }
+  ]
+}

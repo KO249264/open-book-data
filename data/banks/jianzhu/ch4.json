@@ -1,0 +1,2838 @@
+{
+  "questions": [
+    {
+      "id": "jianzhu-ch4-q1",
+      "type": "judge",
+      "stem": "我国抗震设防的基本思想和原则是\"小震不坏、中震可修、大震不倒”。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q2",
+      "type": "judge",
+      "stem": "在计算地震作用时，建筑的重力荷载代表值应取结构和构配件自重标准值和各可变荷载组合值之和。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q3",
+      "type": "judge",
+      "stem": "钢筋混凝土框架结构在进行抗震设计时，应遵循\"强柱弱梁\"、\"强剪弱弯”、\"强节点弱构件\"的原则。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q4",
+      "type": "judge",
+      "stem": "抗震设防烈度为8度的地区，所有建筑都必须进行地基液化判别和处理。抗震设计规范》 (GB50011-2010，2016年版)编制试题",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q5",
+      "type": "single",
+      "stem": "根据《建筑抗震设计规范》，建筑物地类别是根据( )指标来划分的。",
+      "options": [
+        {
+          "key": "A",
+          "text": "地基承载力特征值"
+        },
+        {
+          "key": "B",
+          "text": "土层等效剪切波速和场地覆盖层厚度"
+        },
+        {
+          "key": "C",
+          "text": "地下水位深度"
+        },
+        {
+          "key": "D",
+          "text": "土壤的内摩擦角"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch4-q6",
+      "type": "single",
+      "stem": "某乙类建筑，建于抗震设防烈度8度(0.20g)区，设计地震分组为第一组，其水平地震影响系数最大值a<sub>max</ub>信应取s",
+      "options": [
+        {
+          "key": "A",
+          "text": "0.16"
+        },
+        {
+          "key": "B",
+          "text": "0.24"
+        },
+        {
+          "key": "C",
+          "text": "0.32 D0.45"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch4-q7",
+      "type": "single",
+      "stem": "关于抗震措施和抗震构造措施，下列说法正确的是( )。",
+      "options": [
+        {
+          "key": "A",
+          "text": "抗震措施就是抗震构造措施"
+        },
+        {
+          "key": "B",
+          "text": "抗震构造措施是抗震措施的一部分，主要指不需计算而采用的细部要求"
+        },
+        {
+          "key": "C",
+          "text": "抗震措施仅指计算地震作用时所采用的方法"
+        },
+        {
+          "key": "D",
+          "text": "甲类建筑的抗震措施应低于本地区抗震设防烈度的要求"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch4-q8",
+      "type": "multiple",
+      "stem": "下列哪些属于建筑结构的抗震设防类别?",
+      "options": [
+        {
+          "key": "A",
+          "text": "特殊设防类(甲类)"
+        },
+        {
+          "key": "B",
+          "text": "重点设防类(乙类)"
+        },
+        {
+          "key": "C",
+          "text": "标准设防类(丙类)"
+        },
+        {
+          "key": "D",
+          "text": "适度设防类(丁类)"
+        },
+        {
+          "key": "E",
+          "text": "普通设防类(戊类)"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jianzhu-ch4-q9",
+      "type": "multiple",
+      "stem": "在框架结构的抗震设计中，下列哪些措施有助于实现\"强柱弱梁\"的延性设计概念?",
+      "options": [
+        {
+          "key": "A",
+          "text": "在梁端部配置受压钢筋"
+        },
+        {
+          "key": "B",
+          "text": "对柱端弯矩进行增大调整"
+        },
+        {
+          "key": "C",
+          "text": "提高梁的混凝土强度等级，降低柱的混凝土强度等级"
+        },
+        {
+          "key": "D",
+          "text": "限制柱的轴压比"
+        },
+        {
+          "key": "E",
+          "text": "减小柱截面尺寸，增大梁截面尺寸"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jianzhu-ch4-q10",
+      "type": "judge",
+      "stem": "高性能混凝土的核心设计指标是抗压强度，必须达到80MPa以上才算合格。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "高性能混凝土的核心设计指标是耐久性，而非单纯追求高强度。HPC的强度通常为 C55-C80(55-80MPa)，但若氯离子渗透性)不达标，即使强度达标也不符合HPC要求。",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q11",
+      "type": "judge",
+      "stem": "高性能混凝土的水胶比通常需控制在0.40以下。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "低水胶比(≤0.40)是HPC的关键特征，能显著减少混凝土内部孔隙率，提高密实度，从而改善抗渗性、抗冻融性",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q12",
+      "type": "judge",
+      "stem": "粉煤灰在高性能混凝土中仅用于降低混凝土成本，对性能改善无实质作用。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "能粉力煤灰。在HPC中主要作用是改善工作性、降低水化热、提升长期耐久性(如减少碱骨料反应风险)，同时部分降低材料成本。其性能贡献是核心设计要素。",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q13",
+      "type": "judge",
+      "stem": "高性能混凝土的耐久性仅由抗压强度决定，强度越高则耐久性必然越好。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "耐久性受多因素影响，包括孔隙结构、氯离子扩散系数、碳化深度等，与强度相关但非直接等价。例如，高强混凝土若水胶比过高，孔隙率大，耐久性可能劣于中强但低水胶比的HPCo",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q14",
+      "type": "judge",
+      "stem": "硅灰的主要作用是提高混凝土的早期强度并细化孔隙结构。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "硅灰是超细活性掺合料，能显著填充水泥颗粒间隙，细化孔隙(孔径<50nm)，提升密实度和强度(尤其早期强典型增强材料。",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q15",
+      "type": "judge",
+      "stem": "高性能混凝土的养护时间在普通环境中C60及以上强度等级应不少于14天。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "普通环境C60及以上强度等级养护周期≥14天，以确保充分水化和耐久性发展。",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q16",
+      "type": "judge",
+      "stem": "大体积高性能混凝土的内外温差控制标准为不超过30°C。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "要求内外温差≤25°C，超过此值需采取保温或降温措施，防止温度裂缝。",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q17",
+      "type": "judge",
+      "stem": "高性能混凝土泵送时，坍落度宜控制在160-180mm，砂率宜为38%-42%。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "坍落度控制在160-180mm，砂率控制在38%-42%之间，以保证良好流动性和减少离析风险。",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q18",
+      "type": "single",
+      "stem": "下列哪项是高性能混凝土耐久性设计的核心控制参数?",
+      "options": [
+        {
+          "key": "A",
+          "text": "混凝土坍落度"
+        },
+        {
+          "key": "B",
+          "text": "水胶比(W/B)"
+        },
+        {
+          "key": "C",
+          "text": "水泥品种"
+        },
+        {
+          "key": "D",
+          "text": "骨料粒径"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "水胶比是决定HPC耐久性的最核心参数，直接影响孔隙率和渗透性。规范要求HPC的水胶比通常≤0.35。",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch4-q19",
+      "type": "single",
+      "stem": "高性能混凝土在海洋环境中应用时，需重点控制的耐久性指标是:",
+      "options": [
+        {
+          "key": "A",
+          "text": "抗压强度"
+        },
+        {
+          "key": "B",
+          "text": "氯离子扩散系数"
+        },
+        {
+          "key": "C",
+          "text": "早期收缩率"
+        },
+        {
+          "key": "D",
+          "text": "抗折强度"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "海洋环境中钢筋锈蚀主要由氯离子渗透引起，氯离子扩散系数(如ASTMC1202电量法) 是HPC耐久性设计的关键指标",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch4-q20",
+      "type": "single",
+      "stem": "硅灰在高性能混凝土中的典型掺量范围是:",
+      "options": [
+        {
+          "key": "A",
+          "text": "1%-5%"
+        },
+        {
+          "key": "B",
+          "text": "5%-15%"
+        },
+        {
+          "key": "C",
+          "text": "15%-30%"
+        },
+        {
+          "key": "D",
+          "text": "30%-40%"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "硅灰掺量一般为胶凝材料总量的5%-15%(按胶凝材料总量计)，适用于C50-C80强度等级混凝土。",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch4-q21",
+      "type": "single",
+      "stem": "高性能混凝土拌合物在超高层泵送时，扩展度应不小于:",
+      "options": [
+        {
+          "key": "A",
+          "text": "400mm"
+        },
+        {
+          "key": "B",
+          "text": "450mm"
+        },
+        {
+          "key": "C",
+          "text": "500mm"
+        },
+        {
+          "key": "D",
+          "text": "550mm"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "超高层泵送HPC扩展度≥ 500mm，以保证其具备良好的自密实性，从而顺利通过长距离、高压力的泵送施工。",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch4-q22",
+      "type": "single",
+      "stem": "高性能混凝土中，胶凝材料总量在C60泵送混凝土中不宜超过:",
+      "options": [
+        {
+          "key": "A",
+          "text": "450 kg/m3"
+        },
+        {
+          "key": "B",
+          "text": "500kg/m3"
+        },
+        {
+          "key": "C",
+          "text": "530 kg/m3"
+        },
+        {
+          "key": "D",
+          "text": "550kg/m3"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "C60及以上强度等级泵送混凝土胶凝材料总量不宜大于 530kg/m3，以防温升过高引发裂缝。",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch4-q23",
+      "type": "single",
+      "stem": "高性能混凝土养护起始时间应在:",
+      "options": [
+        {
+          "key": "A",
+          "text": "浇筑后24小时"
+        },
+        {
+          "key": "B",
+          "text": "终凝后(约8-12小时)开始洒水"
+        },
+        {
+          "key": "C",
+          "text": "表面收光后(约3-6小时)立即覆盖保湿"
+        },
+        {
+          "key": "D",
+          "text": "强度达5MPa后"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "终凝前覆盖’，即混凝土表面收光后(约浇筑后3-6小时) 立即覆盖塑料薄膜或湿麻袋，防止水分蒸发和塑性收",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch4-q24",
+      "type": "multiple",
+      "stem": "高性能混凝土的典型特点包括(多选):",
+      "options": [
+        {
+          "key": "A",
+          "text": "低水胶比(≤0.40)"
+        },
+        {
+          "key": "B",
+          "text": "高强度(C55以上)"
+        },
+        {
+          "key": "C",
+          "text": "高工作性(坍落度≥180mm)"
+        },
+        {
+          "key": "D",
+          "text": "低成本(较普通混凝土)"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "HPC必须满足低水胶比(A，≤ 0.40)、高强度(B，C55以上) 和高工作性(C，如坍落度 180-220mm)三大特征;低成本 (D)非必须。",
+      "difficulty": 3
+    },
+    {
+      "id": "jianzhu-ch4-q25",
+      "type": "multiple",
+      "stem": "影响高性能混凝土耐久性的关键因素包括(多选):",
+      "options": [
+        {
+          "key": "A",
+          "text": "水胶比"
+        },
+        {
+          "key": "B",
+          "text": "掺合料类型(如粉煤灰、硅灰)"
+        },
+        {
+          "key": "C",
+          "text": "养护湿度与温度"
+        },
+        {
+          "key": "D",
+          "text": "混凝土密度"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "所有选项均直接影响耐久性: 水胶比(A)决定孔隙率;掺合料(B)改善微观结构;养护条件(C)确保充分水化;混凝卡密度(D)是耐久性的直接体现 (高密度=低渗透性)。",
+      "difficulty": 3
+    },
+    {
+      "id": "jianzhu-ch4-q26",
+      "type": "multiple",
+      "stem": "高性能混凝土配比设计的优化方法包括:",
+      "options": [
+        {
+          "key": "A",
+          "text": "确定指标→初算配比→试配调整→对比试验"
+        },
+        {
+          "key": "B",
+          "text": "计算→小批量试配→调整优化→大体积试配"
+        },
+        {
+          "key": "C",
+          "text": "通过大量正交试验确定最佳配合比"
+        },
+        {
+          "key": "D",
+          "text": "采用数据库优化法"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jianzhu-ch4-q27",
+      "type": "multiple",
+      "stem": "高性能混凝土施工中预防开裂的有效措施包括:",
+      "options": [
+        {
+          "key": "A",
+          "text": "优化配合比，降低水泥用量"
+        },
+        {
+          "key": "B",
+          "text": "控制入模温度，避免高温浇筑"
+        },
+        {
+          "key": "C",
+          "text": "浇筑后立即覆盖保湿"
+        },
+        {
+          "key": "D",
+          "text": "埋设冷却水管用于大体积混凝土降温"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "开裂预防措施'涵盖材料(优化配合比)、施工(控制入模温度、及时覆盖保湿)、温控 (埋设冷却水管)全链条控制",
+      "difficulty": 3
+    },
+    {
+      "id": "jianzhu-ch4-q28",
+      "type": "judge",
+      "stem": "自流密实混凝土(SCC)的坍落度通常在240-270mm之间，扩展度≥550mm。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "SCC的扩展度要求≥600mm，不是550mm。坍落度在240- 270mm之间，扩展度≥600mm",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q29",
+      "type": "judge",
+      "stem": "SCC具有高流动性、自密实性和抗离析性三大核心特性。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "SCC的核心特性是高流动性、自密实性和抗离析性，这是 SCC区别于传统混凝土的关键。",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q30",
+      "type": "judge",
+      "stem": "SCC的水胶比通常控制在0.25~0.40之间，C50等级的水胶比推荐为0.25~0.30。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "水胶比推荐范围为: C30等级:0.35~0.40 C40等级:0.30~0.35 C50等级:0.25~0.30",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q31",
+      "type": "judge",
+      "stem": "SCC浇筑时，浇筑高度不宜超过1.5m，超过需分层浇筑，层间间隔一般不超过1小时。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "单次浇筑高度不宜超过 1.5m，超过需分层浇筑，上层在下层初凝前完成，一般间隔不超过1小时。",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q32",
+      "type": "judge",
+      "stem": "SCC的粉体含量(小于80um的粉体含量)推荐范围是300-400kg/m3。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "SCC的粉体含量推荐范围是 400-600kg/m3，其中低强度等级宜取400-500kg/m3，高强度等级宜取500-600kg/m。",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q33",
+      "type": "judge",
+      "stem": "SCC的抗离析性试验中，离析率应大于5%。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "抗离析性试验中，离析率应 <5%，表明抗离析性良好;>5% 表示易产生离析。",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q34",
+      "type": "judge",
+      "stem": "SCC的J环试验结果应小于1.0。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "J环试验结果应>1.0，表明混凝土能顺利通过钢筋间隙;<1.0表示通过能力差，易堵塞。",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q35",
+      "type": "judge",
+      "stem": "SCC的V漏斗试验中，T50应大于10秒。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "V漏斗试验中，T50≤10秒表示流动性良好，适合自密实施工;T50>10秒表示流动性不足。",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q36",
+      "type": "single",
+      "stem": "下列哪种水泥不适合用于自流密实混凝土?",
+      "options": [
+        {
+          "key": "A",
+          "text": "普通硅酸盐水泥(P.0)"
+        },
+        {
+          "key": "B",
+          "text": "硅酸盐水泥(P.I)"
+        },
+        {
+          "key": "C",
+          "text": "早强水泥"
+        },
+        {
+          "key": "D",
+          "text": "以上都可以"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "早强水泥水化热高，影响混凝土的流动性和稳定性，不适合用于自流密实混凝土。",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch4-q37",
+      "type": "single",
+      "stem": "SCC的坍落扩展度要求为:",
+      "options": [
+        {
+          "key": "A",
+          "text": "500-700mm"
+        },
+        {
+          "key": "B",
+          "text": "450-650mm"
+        },
+        {
+          "key": "C",
+          "text": "550-750mm"
+        },
+        {
+          "key": "D",
+          "text": "600-800mm"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "坍落扩展度要求500-700mm， <500mm表示流动性不足， >700mm表示黏性不足，易离析。",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch4-q38",
+      "type": "single",
+      "stem": "SCC的粉体含量(小于80um的粉体含量)推荐范围是:",
+      "options": [
+        {
+          "key": "A",
+          "text": "300-400kg/m3"
+        },
+        {
+          "key": "B",
+          "text": "400-600kg/m3"
+        },
+        {
+          "key": "C",
+          "text": "500-700kg/m3"
+        },
+        {
+          "key": "D",
+          "text": "600-800kg/m3"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch4-q39",
+      "type": "single",
+      "stem": "SCC浇筑时，浇筑速度控制在:",
+      "options": [
+        {
+          "key": "A",
+          "text": "0-1.5m3/h/m2"
+        },
+        {
+          "key": "B",
+          "text": "1.5-2.5m3/h/m2"
+        },
+        {
+          "key": "C",
+          "text": "2.5-3.5m3/h/m2"
+        },
+        {
+          "key": "D",
+          "text": "3.5-4.5m3/h/m2"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "浇筑速度标准为1.5- 2.5m3/h/m2，如雄安新区项目1.5万平方米大体积筏板67 小时浇筑完成，速度约 500m3/h。",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch4-q40",
+      "type": "multiple",
+      "stem": "SCC与传统混凝土相比，具有哪些优势?",
+      "options": [
+        {
+          "key": "A",
+          "text": "提高施工效率"
+        },
+        {
+          "key": "B",
+          "text": "改善混凝土质量"
+        },
+        {
+          "key": "C",
+          "text": "减少人工成本"
+        },
+        {
+          "key": "D",
+          "text": "降低施工噪音"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "SCC通过自流密实特性，可提高施工效率30%-50%，改善混凝土质量，减少人工成本 20%-30%，降低施工噪音至50 分贝以下",
+      "difficulty": 3
+    },
+    {
+      "id": "jianzhu-ch4-q41",
+      "type": "multiple",
+      "stem": "下列哪些因素可能导致SCC出现离析现象?",
+      "options": [
+        {
+          "key": "A",
+          "text": "砂率过低"
+        },
+        {
+          "key": "B",
+          "text": "水胶比过高"
+        },
+        {
+          "key": "C",
+          "text": "外加剂与水泥不相容"
+        },
+        {
+          "key": "D",
+          "text": "骨料级配不合理"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "砂率过低导致浆体包裹能力不足;水胶比过高导致黏聚性下降;外加剂与水泥不相容破坏均匀性;骨料级配不合理导致浆体不能均匀包裹骨料",
+      "difficulty": 3
+    },
+    {
+      "id": "jianzhu-ch4-q42",
+      "type": "multiple",
+      "stem": "自流密实混凝土适用于哪些工程?",
+      "options": [
+        {
+          "key": "A",
+          "text": "超高层建筑"
+        },
+        {
+          "key": "B",
+          "text": "复杂结构工程"
+        },
+        {
+          "key": "C",
+          "text": "大体积混凝土工程"
+        },
+        {
+          "key": "D",
+          "text": "预制构件生产"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jianzhu-ch4-q43",
+      "type": "judge",
+      "stem": "大体积混凝土的定义强调其尺寸需满足“必须采用温控措施”的技术要求，而非单纯指物理尺寸大。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "定义:“大体积混凝土是指最小断面尺寸大于1m以上，其尺寸已大到必须采用相应技术措施妥善处理温度差值.的混凝土。”",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q44",
+      "type": "judge",
+      "stem": "混凝土裂缝按成因可分为温度裂缝、收缩裂缝和约束裂缝三类，其中温度裂缝最常见且危害最严重。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "均将裂缝成因分为三类，且明确“温度应力裂缝是最常见、最严重的裂缝类型”。",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q45",
+      "type": "judge",
+      "stem": "水泥用量增加10kg/m3，水化热升高约1°C，因此大体积混凝土应尽量减少水泥用量。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "“水泥用量控制在300- 350kg/m3，每减少10kg水泥可降低水化热约1°C\"",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q46",
+      "type": "judge",
+      "stem": "冷却水管通水降温的起始时间应为混凝土浇筑后立即开始，以快速降低内部温度。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "“运行时间”明确:“冷却水管应在混凝土浇筑后6-12小时开始通水，避免早期通水导致冷击裂缝”。",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q47",
+      "type": "judge",
+      "stem": "大体积混凝土养护时间不得少于15天，蓄水养护时间不少于7天，两者可独立执行。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "规定:“养护时间不少于15天 ”，蓄水养护(≥7天)是保湿养护的手段之一，整体养护期必须≥15天，非独立执行。",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q48",
+      "type": "judge",
+      "stem": "混凝土表面裂缝若宽度≤0.3mm，可不处理，因其不影响结构安全。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "“表面裂缝若不及时处理，可能发展为深层裂缝，影响耐久性和防水性能”，且允许裂缝宽度标准(正常环境≤ 0.3mm)是设计允许值，非“ 可不处理”。",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q49",
+      "type": "judge",
+      "stem": "分层浇筑时，非泵送混凝土每层厚度应≤300mm，泵送混凝土应≤500mm。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "规定:“非泵送施工每层厚度 ≤300mm，泵送施工≤",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q50",
+      "type": "judge",
+      "stem": "大体积混凝土施工中，内部约束指混凝土各质点间的相互制约，外部约束指地基、模板等对混凝土的限制。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "5“00内mm部”约束来自混凝土各质点间相互制约，外部约束来自地基、钢筋、模板等",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q51",
+      "type": "single",
+      "stem": "大体积混凝土施工中，推荐的水泥类型是( )。",
+      "options": [
+        {
+          "key": "A",
+          "text": "硅酸盐水泥(P.142.5)"
+        },
+        {
+          "key": "B",
+          "text": "普通硅酸盐水泥(P.042.5)"
+        },
+        {
+          "key": "C",
+          "text": "中热硅酸盐水泥(P.H42.5)"
+        },
+        {
+          "key": "D",
+          "text": "快硬硅酸盐水泥"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "“宜选用中热硅酸盐水泥 (P.H42.5)或低热水泥，避免使用普通硅酸盐水泥”",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch4-q52",
+      "type": "single",
+      "stem": "大体积混凝土内外温差的安全控制阈值是( )。",
+      "options": [
+        {
+          "key": "A",
+          "text": "≤15°C"
+        },
+        {
+          "key": "B",
+          "text": "≤20°C"
+        },
+        {
+          "key": "C",
+          "text": "≤25°C"
+        },
+        {
+          "key": "D",
+          "text": "≤30°C"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "混凝土内外温差应控制在≤ 25°C以内”",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch4-q53",
+      "type": "single",
+      "stem": "拆模时混凝土表面与大气温差的安全限值是( )。",
+      "options": [
+        {
+          "key": "A",
+          "text": "≤10°C"
+        },
+        {
+          "key": "B",
+          "text": "≤15°C"
+        },
+        {
+          "key": "C",
+          "text": "≤20°C"
+        },
+        {
+          "key": "D",
+          "text": "≤25°C"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "“拆模时混凝土表面温度与大气温差不应超过20°C”",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch4-q54",
+      "type": "single",
+      "stem": "降低大体积混凝土水化热的最有效措施是",
+      "options": [
+        {
+          "key": "A",
+          "text": "增加水泥用量"
+        },
+        {
+          "key": "B",
+          "text": "掺加粉煤灰(20%-30%)"
+        },
+        {
+          "key": "C",
+          "text": "提高混凝土入模温度"
+        },
+        {
+          "key": "D",
+          "text": "减少骨料用量"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "“掺加粉煤灰(20%-30%)或矿渣粉(<=50%)可显著降低水化热”",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch4-q55",
+      "type": "single",
+      "stem": "混凝土允许裂缝宽度标准中，严重腐蚀环境下的限值是( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "≤0.1mm"
+        },
+        {
+          "key": "B",
+          "text": "≤0.2mm"
+        },
+        {
+          "key": "C",
+          "text": "≤0.3mm"
+        },
+        {
+          "key": "D",
+          "text": "≤0.4mm"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "“允许裂缝宽度标准”规定:“严重腐蚀环境≤0.1- 0.2mm”，选项B(≤0.2mm)为最接近的合理答案。",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch4-q56",
+      "type": "single",
+      "stem": "大体积混凝土养护中，保温保湿的常用方法是",
+      "options": [
+        {
+          "key": "A",
+          "text": "喷洒养护剂"
+        },
+        {
+          "key": "B",
+          "text": "覆盖塑料薄膜+草袋"
+        },
+        {
+          "key": "C",
+          "text": "混凝土表面直接洒水"
+        },
+        {
+          "key": "D",
+          "text": "仅用草袋覆盖"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "“覆盖塑料薄膜+草袋(或棉毡)”为标准养护方式，喷洒养护剂未被提及。",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch4-q57",
+      "type": "multiple",
+      "stem": "大体积混凝土裂缝按深度可分为( )。",
+      "options": [
+        {
+          "key": "A",
+          "text": "表面裂缝"
+        },
+        {
+          "key": "B",
+          "text": "深层裂缝"
+        },
+        {
+          "key": "C",
+          "text": "贯穿裂缝"
+        },
+        {
+          "key": "D",
+          "text": "温度裂缝"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "裂缝深度分类为表面、深层、贯穿。D项“温度裂缝”是按成因分类，非深度分类。",
+      "difficulty": 3
+    },
+    {
+      "id": "jianzhu-ch4-q58",
+      "type": "multiple",
+      "stem": "降低大体积混凝土水化热的有效措施包括( )。",
+      "options": [
+        {
+          "key": "A",
+          "text": "使用中热硅酸盐水泥"
+        },
+        {
+          "key": "B",
+          "text": "掺加粉煤灰"
+        },
+        {
+          "key": "C",
+          "text": "骨料预冷"
+        },
+        {
+          "key": "D",
+          "text": "增加水泥用量"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "A、B、C均为有效措施;D项会增加水化热，",
+      "difficulty": 3
+    },
+    {
+      "id": "jianzhu-ch4-q59",
+      "type": "multiple",
+      "stem": "大体积混凝土温控监测的核心指标包括( )。",
+      "options": [
+        {
+          "key": "A",
+          "text": "内外温差"
+        },
+        {
+          "key": "B",
+          "text": "表面与大气温差"
+        },
+        {
+          "key": "C",
+          "text": "降温速率"
+        },
+        {
+          "key": "D",
+          "text": "混凝土坍落度"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "温控三大指标为“内外温差 ≤25°C、表面与大气温差≤ 20°C、降温速率≤2°C/d” 。D项属配合比设计范畴，非温控指标。",
+      "difficulty": 3
+    },
+    {
+      "id": "jianzhu-ch4-q60",
+      "type": "multiple",
+      "stem": "大体积混凝土保温保湿养护的正确做法包括( )。",
+      "options": [
+        {
+          "key": "A",
+          "text": "覆盖塑料薄膜后加草袋"
+        },
+        {
+          "key": "B",
+          "text": "蓄水养护(水深≥50mm)"
+        },
+        {
+          "key": "C",
+          "text": "拆模后立即喷洒养护剂"
+        },
+        {
+          "key": "D",
+          "text": "一层薄膜加两层棉毡"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "analysis": "A、B、D为推荐方法;C项“拆模后立即喷洒”不符合要求 (需持续保湿，非单次喷洒)",
+      "difficulty": 3
+    },
+    {
+      "id": "jianzhu-ch4-q61",
+      "type": "judge",
+      "stem": "上海市二级注册建造师继续教育仅适用于建筑工程、机电工程两个专业的注册建造师。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q62",
+      "type": "judge",
+      "stem": "继续教育是二级建造师延续注册、逾期初始注册、逾期增项注册的必备条件。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q63",
+      "type": "judge",
+      "stem": "上海市二级注册建造师继续教育的学习形式以面授教学为主，网络教育为辅助。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q64",
+      "type": "judge",
+      "stem": "委人才中心负责培训管理平台的建设和运维工作。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "委行政服务中心负责培训管理平台的建设和运维工作，委人才中心主要职责是组织线下统一考试、发布考试成绩和证明等。",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q65",
+      "type": "single",
+      "stem": "上海市二级注册建造师继续教育培训的官方唯一指定平台是 ( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "全国建筑工程教育平台"
+        },
+        {
+          "key": "B",
+          "text": "上海市二级注册建造师继续教育培训管理平台"
+        },
+        {
+          "key": "C",
+          "text": "上海建设管理职业技术学院官网"
+        },
+        {
+          "key": "D",
+          "text": "市住房城乡建设管理委官网"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch4-q66",
+      "type": "single",
+      "stem": "负责组织线下统一考试、发布考试成绩和证明的部门是( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "市住房城乡建设管理委"
+        },
+        {
+          "key": "B",
+          "text": "委行政服务中心"
+        },
+        {
+          "key": "C",
+          "text": "委人才中心"
+        },
+        {
+          "key": "D",
+          "text": "上海建设管理职业技术学院"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch4-q67",
+      "type": "single",
+      "stem": "对于考试作弊的违规行为，处理措施不包括以下哪项( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "取消当次考试成绩"
+        },
+        {
+          "key": "B",
+          "text": "已发放的继续教育证明作废"
+        },
+        {
+          "key": "C",
+          "text": "直接吊销执业资格"
+        },
+        {
+          "key": "D",
+          "text": "记入个人诚信"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch4-q68",
+      "type": "multiple",
+      "stem": "继续教育专业课的必修内容包括( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "专业技术标准与规范"
+        },
+        {
+          "key": "B",
+          "text": "专业施工技术与工法"
+        },
+        {
+          "key": "C",
+          "text": "专业案例分析"
+        },
+        {
+          "key": "D",
+          "text": "专业技术前沿动态"
+        },
+        {
+          "key": "E",
+          "text": "专业发展趋势分析"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "专业课必修内容明确为专业技术标准与规范、专业施工技术与工法、专业案例分析; 专业技术前沿动态、专业发展趋势分析属于专业课选修内容，并非必修。",
+      "difficulty": 3
+    },
+    {
+      "id": "jianzhu-ch4-q69",
+      "type": "multiple",
+      "stem": "以下属于违规行为的有( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "伪造学习记录、虚报学习时长"
+        },
+        {
+          "key": "B",
+          "text": "考试替考、抄袭"
+        },
+        {
+          "key": "C",
+          "text": "提供虚假个人信息"
+        },
+        {
+          "key": "D",
+          "text": "恶意刷课、扰乱考试秩序"
+        },
+        {
+          "key": "E",
+          "text": "按规定完成学时后参加线下考试"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jianzhu-ch4-q70",
+      "type": "judge",
+      "stem": "评标办法具体包括经评审的合理低价法、有担保的最低价中标法、澄清低法、综合评估法和法律法规允许的其他评标办法。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q71",
+      "type": "judge",
+      "stem": "经评审的合理低价法是对通过初步评审，技术合格且投标评审价高于合理低价的投标文件进行商务打分，按照得分由低到高的顺序推荐中标候选人的评标办法。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "由高到低",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q72",
+      "type": "judge",
+      "stem": "经评审的合理低价法，技术专家对技术标进行详细评审。详细评审分为票决制和打分制。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q73",
+      "type": "judge",
+      "stem": "综合评估法是对通过初步评审的投标文件进行技术、商务打分，按照总得分由高到低的顺序推荐中标候选人的评标办法。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q74",
+      "type": "judge",
+      "stem": "技术标最终得分为各专家折算分数的算术平均值。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q75",
+      "type": "judge",
+      "stem": "招标人不可以对中标候选人提出定标需澄清的问题。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q76",
+      "type": "judge",
+      "stem": "技术否决投标评审里形式否决条款包括投标人名称:投标人名称与营业执照、资质证书、安全生产许可证不一致。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q77",
+      "type": "judge",
+      "stem": "技术否决投标评审里资格否决条款包括采用资格预审的项目，投标文件与资格预审申请文件的项目负责人不一致(离职、重病、死亡的除外)。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q78",
+      "type": "judge",
+      "stem": "技术否决投标评审里资格否决条款包括投标人与本招标项目的其他投标人存在控股、管理关系。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q79",
+      "type": "judge",
+      "stem": "项目负责人未在规定时间参加测试的，或者在测试时对其编制的投标文件不熟悉的，评标委员会判定其测试不通过，其投标文件进入后续评审。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q80",
+      "type": "judge",
+      "stem": "建设单位可根据项目进度需求，自行压缩勘察、设计和施工的合理工期，无需额外论证。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "建设单位不得任意压缩合理工期，确需调整的需具备技术可行性，提出技术措施和方案并经专家论证",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q81",
+      "type": "judge",
+      "stem": "检测单位在同一建设工程项目中，不得同时接受建设单位和施工单位的检测委托。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "检测单位在同一建设工程项目或标段中不得同时接受建设、施工或监理单位等多方的检测委托",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q82",
+      "type": "judge",
+      "stem": "施工单位首次上岗的施工作业人员，正式上岗前应安排不少于三个月的实习操作。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q83",
+      "type": "judge",
+      "stem": "经审查通过的施工图设计文件，若需变更主要内容，可由建设单位与设计单位协商后直接实施，无需重新审查。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "经审查通过的施工图设计文件涉及主要内容变更的，应当经原审查机构重新审查",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q84",
+      "type": "judge",
+      "stem": "勘察单位在勘察作业前，无需编制勘察大纲，仅需按经验开展专项勘察即可。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q85",
+      "type": "judge",
+      "stem": "设计单位应参与重点部位的分部、分项和单位工程验收，且需参与竣工验收并提供使用维护说明。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q86",
+      "type": "judge",
+      "stem": "施工单位的特种作业人员需持证上岗，新上岗人员需实习操作三个月。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q87",
+      "type": "judge",
+      "stem": "因施工单位原因导致建设工程质量不符合约定，发包人仅能要求施工单位无偿修理，不得要求返工改建。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "因施工单位原因导致质量不符合约定，发包人有权要求无偿修理或返工改建，若发生结构性事故还需检测合格，并非仅能要求修理，所",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q88",
+      "type": "judge",
+      "stem": "监理单位的首要任务是代表施工单位对施工质量与安全实行监理。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "以根该据说条法例错，误监理单位的首要任务是代表建设单位对施工质量与安全实行监理，确保施工过程中的质量与安全符合标准，并非代表施工单位，因此该说法错误。",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q89",
+      "type": "judge",
+      "stem": "检测单位在同一建设工程项目中可以同时接受建设单位和施工单位的检测委托。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "条例明确规定检测单位需遵守回避规定，在同一建设工程项目或标段中不得同时接受建设、施工或监理单位等多方的检测委托，以保障检测的公正性和准确性，故该",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q90",
+      "type": "judge",
+      "stem": "市建设行政管理部门可以组织编制优于国家标准的地方工程建设质量和安全技术标准。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q91",
+      "type": "judge",
+      "stem": "建设行政管理部门实施监督检测时，可委托已对该项目实施过检测的单位。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "条例规定，建设行政管理部门或者其他有关部门应当采用试样盲样检测的方式实施监督检测，不得委托对已实施过检测的单位，费用由财政拨付，因此该说法错误。",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q92",
+      "type": "single",
+      "stem": "下列哪类建设工程，建设单位无需委托监理单位实行监理?",
+      "options": [
+        {
+          "key": "A",
+          "text": "国家重点建设工程"
+        },
+        {
+          "key": "B",
+          "text": "小型民用建筑工程"
+        },
+        {
+          "key": "C",
+          "text": "住宅工程"
+        },
+        {
+          "key": "D",
+          "text": "利用外国政府贷款的工程"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch4-q93",
+      "type": "single",
+      "stem": "施工单位安装、拆卸建筑起重机械时，应编制安装和拆卸方案，并由( )现场监督?",
+      "options": [
+        {
+          "key": "A",
+          "text": "项目负责人"
+        },
+        {
+          "key": "B",
+          "text": "专职安全管理人员"
+        },
+        {
+          "key": "C",
+          "text": "专业技术人员"
+        },
+        {
+          "key": "D",
+          "text": "监理工程师"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "施工单位安装、拆卸建筑起重机械时，编制的安装和拆卸方案需由专业技术人员现",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch4-q94",
+      "type": "single",
+      "stem": "检测单位伪造检测数据或者出具虚假检测报告的，整改期间应暂停承接业务，并处( )罚款?",
+      "options": [
+        {
+          "key": "A",
+          "text": "一万元以上十万元以下"
+        },
+        {
+          "key": "B",
+          "text": "二万元以上二十万元以下"
+        },
+        {
+          "key": "C",
+          "text": "五万元以上三十万元以下"
+        },
+        {
+          "key": "D",
+          "text": "十万元以上五十万元以下。"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch4-q95",
+      "type": "single",
+      "stem": "勘察文件应满足深度要求，需标注地下管线和设施，并明确( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "施工单位利润分配方案"
+        },
+        {
+          "key": "B",
+          "text": "现场服务节点、事项和内容"
+        },
+        {
+          "key": "C",
+          "text": "建设单位资金筹备计划"
+        },
+        {
+          "key": "D",
+          "text": "监理单位考核标准"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch4-q96",
+      "type": "single",
+      "stem": "施工单位编制起重机械安装拆卸方案后，应由( )进行监督",
+      "options": [
+        {
+          "key": "A",
+          "text": "施工单位普通工人"
+        },
+        {
+          "key": "B",
+          "text": "建设单位负责人"
+        },
+        {
+          "key": "C",
+          "text": "专业技术人员"
+        },
+        {
+          "key": "D",
+          "text": "劳务分包单位管理人员"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch4-q97",
+      "type": "single",
+      "stem": "初次进入劳务市场的人员，其教育培训经费由( )列支",
+      "options": [
+        {
+          "key": "A",
+          "text": "施工单位自有资金"
+        },
+        {
+          "key": "B",
+          "text": "市区财政教育费"
+        },
+        {
+          "key": "C",
+          "text": "建设单位专项拨款"
+        },
+        {
+          "key": "D",
+          "text": "劳务人员个人承担"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "建设行政管理部门为初次进入劳务市场的人员提供教育培训，经费由市区财政教育费中列支。",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch4-q98",
+      "type": "single",
+      "stem": "施工图设计文件审查机构未按照法律、法规和强制性标准审查施工图设计文件的，将被处以( ) 款?",
+      "options": [
+        {
+          "key": "A",
+          "text": "五千元以上五万元以下"
+        },
+        {
+          "key": "B",
+          "text": "一万元以上十万元以下"
+        },
+        {
+          "key": "C",
+          "text": "二万元以上十五万元以下"
+        },
+        {
+          "key": "D",
+          "text": "五万元以上二十万元以下"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch4-q99",
+      "type": "single",
+      "stem": "监理单位组建施工现场项目监理机构时，需根据合同约定配备相应人员，不包括以下哪类?",
+      "options": [
+        {
+          "key": "A",
+          "text": "总监理工程师"
+        },
+        {
+          "key": "B",
+          "text": "专业监理工程师"
+        },
+        {
+          "key": "C",
+          "text": "监理员"
+        },
+        {
+          "key": "D",
+          "text": "施工项目负责人"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch4-q100",
+      "type": "single",
+      "stem": "监测单位未编制施工监测方案或出具虚假监测数据的，责令限期改正后，罚款金额范围是?",
+      "options": [
+        {
+          "key": "A",
+          "text": "五千元以上五万元以下"
+        },
+        {
+          "key": "B",
+          "text": "一万元以上十万元以下"
+        },
+        {
+          "key": "C",
+          "text": "三万元以上十五万元以下"
+        },
+        {
+          "key": "D",
+          "text": "十万元以上二十万元以下"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch4-q101",
+      "type": "multiple",
+      "stem": "建设单位在可行性研究阶段进行的质量和安全风险评估，应包含的内容有",
+      "options": [
+        {
+          "key": "A",
+          "text": "建设工程本体的风险"
+        },
+        {
+          "key": "B",
+          "text": "对毗邻建筑物的安全影响"
+        },
+        {
+          "key": "C",
+          "text": "对周边管线设施的安全影响"
+        },
+        {
+          "key": "D",
+          "text": "施工人员的安全培训计划"
+        },
+        {
+          "key": "E",
+          "text": "风险控制费用的明确"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "analysis": "建设单位的风险评估应包含建设工程本体风险、对毗邻建筑物和管线设施的安全影响，并明确风险控制费用，施工人员安全培训计划不属于风险评估内容，排除D",
+      "difficulty": 3
+    },
+    {
+      "id": "jianzhu-ch4-q102",
+      "type": "multiple",
+      "stem": "设计文件应满足国家规定的深度要求，同时需符合的规定有",
+      "options": [
+        {
+          "key": "A",
+          "text": "对重大风险控制进行专项设计"
+        },
+        {
+          "key": "B",
+          "text": "标注质量和安全的重点部位及环节"
+        },
+        {
+          "key": "C",
+          "text": "明确新技术应用的质量安全保障措施"
+        },
+        {
+          "key": "D",
+          "text": "指定建设工程材料的供应单位"
+        },
+        {
+          "key": "E",
+          "text": "明确监测要求和监测控制限值"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jianzhu-ch4-q103",
+      "type": "multiple",
+      "stem": "设计文件的深度要求应包含以下哪些内容",
+      "options": [
+        {
+          "key": "A",
+          "text": "重大风险控制"
+        },
+        {
+          "key": "B",
+          "text": "重点部位标注"
+        },
+        {
+          "key": "C",
+          "text": "新技术应用保障"
+        },
+        {
+          "key": "D",
+          "text": "毗邻物保护措施"
+        },
+        {
+          "key": "E",
+          "text": "施工人员薪酬"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jianzhu-ch4-q104",
+      "type": "multiple",
+      "stem": "标施准工单位在消防安全管理方面的责任和要求包括",
+      "options": [
+        {
+          "key": "A",
+          "text": "建立消防安全责任制度，确定责任人"
+        },
+        {
+          "key": "B",
+          "text": "设置消防通道、水源，配备消防设施和器材"
+        },
+        {
+          "key": "C",
+          "text": "确保施工现场的防火要求"
+        },
+        {
+          "key": "D",
+          "text": "委托专业监测单位负责消防设施日常巡检"
+        },
+        {
+          "key": "E",
+          "text": "定期开展消防安全教育培训"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "选项定期开展消防安全教育培训属于“培训与持证上岗 ”范畴，并非消防安全管理直接责任要求。",
+      "difficulty": 3
+    },
+    {
+      "id": "jianzhu-ch4-q105",
+      "type": "multiple",
+      "stem": "项目监理机构在建设工程开工前，需要审核施工单位报送的哪些文件?( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "施工现场项目管理机构组建方案"
+        },
+        {
+          "key": "B",
+          "text": "质量和安全管理制度"
+        },
+        {
+          "key": "C",
+          "text": "施工组织设计文件"
+        },
+        {
+          "key": "D",
+          "text": "专项施工方案"
+        },
+        {
+          "key": "E",
+          "text": "施工监测方案"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "“施工监测方案”由监测单位编制，并非施工单位报送的开工前审核文件，",
+      "difficulty": 3
+    },
+    {
+      "id": "jianzhu-ch4-q106",
+      "type": "multiple",
+      "stem": "建设行政管理部门和其他有关部门的监督管理措施包括以下哪些 ?( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "要求被检查单位提供相关资料"
+        },
+        {
+          "key": "B",
+          "text": "进入施工现场进行检查并记录"
+        },
+        {
+          "key": "C",
+          "text": "发现隐患责令改正或排除"
+        },
+        {
+          "key": "D",
+          "text": "重大隐患时撤出人员或暂停施工"
+        },
+        {
+          "key": "E",
+          "text": "直接吊销违规单位的资质证书"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "“直接吊销资质证书” 并非常规监督措施，仅在设计单位等造成事故等特定违规情形下可能实施，且需遵循法",
+      "difficulty": 3
+    },
+    {
+      "id": "jianzhu-ch4-q107",
+      "type": "judge",
+      "stem": "本市行政区域内所有生产经营单位安全生产事故隐患的排查治理及其监督管理工作，均适用《上海市安全生产事故隐患排查治理办法》，不受其他法律、法规、规章限制。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "根据《办法》第二条规定，法律、法规、规章对消防、道路交通等特定领域另有规定的，适用其规定，并非所有情况都适用本办法。",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q108",
+      "type": "judge",
+      "stem": "生产经营单位的主要负责人是本单位事故隐患排查治理的第一责任人，需保障事故隐患排查治理的相关资金投入。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q109",
+      "type": "judge",
+      "stem": "任何单位和个人发现事故隐患后，只能向应急管理部门举报。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "根据《办法》第八条，任何单位和个人有权向负有安全生产监管职责的部门举报，并非仅局限于应急管理部门，且相关部门需按职责分工核实处理或移送有管辖权",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q110",
+      "type": "judge",
+      "stem": "生产经营单位发现一般事故隐患后，应当立即停止使用相关设施、设备，局部停产停业进行治理。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "的《部办门法。》第十四条规定，对一般事故隐患，生产经营单位在保证安全的前提下采取措施排除即可;停止使用设施设备、局部停产停业是针对重大事故隐患的处理方式。",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch4-q111",
+      "type": "single",
+      "stem": "下列哪类单位是事故隐患排查治理的责任主体?",
+      "options": [
+        {
+          "key": "A",
+          "text": "负有安全生产监管职责的部门"
+        },
+        {
+          "key": "B",
+          "text": "生产经营单位"
+        },
+        {
+          "key": "C",
+          "text": "乡镇人民政府"
+        },
+        {
+          "key": "D",
+          "text": "行业主管部门"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "生产经营单位是事故隐患排查治理的责任主体。",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch4-q112",
+      "type": "single",
+      "stem": "负有安全生产监管职责的部门发现属于其他部门职责范围的事故隐患，应当( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "不予处理"
+        },
+        {
+          "key": "B",
+          "text": "自行治理"
+        },
+        {
+          "key": "C",
+          "text": "及时移送有管辖权的部门并记录备查"
+        },
+        {
+          "key": "D",
+          "text": "仅口头通知相关部门"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "负有安全生产监管职责的部门发现不属于本部门职责范围的事故隐患，需及时移送有管辖权的部门并记录备查",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch4-q113",
+      "type": "multiple",
+      "stem": "生产经营单位定期组织的全面事故隐患排查，主要包括哪答案些内容?( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "安全生产法律、法规、规章的贯彻执行情况"
+        },
+        {
+          "key": "B",
+          "text": "应急救援预案制定及演练情况"
+        },
+        {
+          "key": "C",
+          "text": "设施、设备的日常维护、保养、检验情况"
+        },
+        {
+          "key": "D",
+          "text": "劳动防护用品的配备、发放和使用情况"
+        },
+        {
+          "key": "E",
+          "text": "从业人员的家庭经济状况"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jianzhu-ch4-q114",
+      "type": "multiple",
+      "stem": "下列哪些情形的重大事故隐患，负有安全生产监管职责的部门应当挂牌督办或提请同级人民政府挂牌督办?( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "危险性较大，可能造成严重后果的"
+        },
+        {
+          "key": "B",
+          "text": "治理难度高，需较长时间系统整治的"
+        },
+        {
+          "key": "C",
+          "text": "生产经营单位难以单独依靠自身力量消除的"
+        },
+        {
+          "key": "D",
+          "text": "上级政府督导检查发现并要求挂牌督办的"
+        },
+        {
+          "key": "E",
+          "text": "无需停产停业即可治理的一般隐患"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "questions": [
+    {
+      "id": "jianzhu-ch14-q1",
+      "type": "judge",
+      "stem": "智慧工地中的AI视频监控系统可以完全取代安全员的人工巡查工作，实现全自动安全管理。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch14-q2",
+      "type": "judge",
+      "stem": "建筑机器人智慧平台能够实现多台机器人的统一接入、协同作业和智能调度。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch14-q3",
+      "type": "judge",
+      "stem": "BIM+4D进度管理系统只能用于展示三维模型和进度计划，无法进行实际进度的自动跟踪和预警。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch14-q4",
+      "type": "judge",
+      "stem": "智慧工地环境监测系统可以实现扬尘、噪声等环境参数的实时监测，并与喷淋降尘设备智能联动",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch14-q5",
+      "type": "single",
+      "stem": "在陆家嘴御桥项目塔吊安全管控中，数字李生系统的数据更新频率是:",
+      "options": [
+        {
+          "key": "A",
+          "text": "1秒/次"
+        },
+        {
+          "key": "B",
+          "text": "5秒/次"
+        },
+        {
+          "key": "C",
+          "text": "30秒/次"
+        },
+        {
+          "key": "D",
+          "text": "1分钟/次"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch14-q6",
+      "type": "single",
+      "stem": "建筑机器人智慧平台的核心价值主要体现在:",
+      "options": [
+        {
+          "key": "A",
+          "text": "降低机器人采购成本"
+        },
+        {
+          "key": "B",
+          "text": "实现多机器人的统一管理和协同作业"
+        },
+        {
+          "key": "C",
+          "text": "提高机器人外观设计美观度"
+        },
+        {
+          "key": "D",
+          "text": "减少机器人使用数量"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch14-q7",
+      "type": "single",
+      "stem": "在评估智慧工地应用效果时，最重要的考量指标是",
+      "options": [
+        {
+          "key": "A",
+          "text": "技术先进程度"
+        },
+        {
+          "key": "B",
+          "text": "系统功能数量"
+        },
+        {
+          "key": "C",
+          "text": "产生的实际业务价值"
+        },
+        {
+          "key": "D",
+          "text": "界面美观程度"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch14-q8",
+      "type": "multiple",
+      "stem": "智慧工地在地铁深基坑项目中的典型应用包括:",
+      "options": [
+        {
+          "key": "A",
+          "text": "AI视频行为识别监控"
+        },
+        {
+          "key": "B",
+          "text": "结构变形实时监测"
+        },
+        {
+          "key": "C",
+          "text": "人员精确定位管理"
+        },
+        {
+          "key": "D",
+          "text": "环境参数智能监控"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jianzhu-ch14-q9",
+      "type": "multiple",
+      "stem": "建筑机器人设备智慧平台的主要功能包括:",
+      "options": [
+        {
+          "key": "A",
+          "text": "机器人状态实时监控"
+        },
+        {
+          "key": "B",
+          "text": "任务智能调度分配"
+        },
+        {
+          "key": "C",
+          "text": "作业数据统计分析"
+        },
+        {
+          "key": "D",
+          "text": "故障预测性维护"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    }
+  ]
+}

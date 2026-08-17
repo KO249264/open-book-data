@@ -1,0 +1,453 @@
+{
+  "questions": [
+    {
+      "id": "jidian-ch4-q1",
+      "type": "judge",
+      "stem": "智慧工地四层架构中，平台层负责数据采集与上传。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch4-q2",
+      "type": "judge",
+      "stem": "MQTT协议适合工地传感器上传实时数据，支持低功耗设备。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch4-q3",
+      "type": "judge",
+      "stem": "、BIM+loT融合可实现高支模沉降数据与BIM模型实时映射。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch4-q4",
+      "type": "judge",
+      "stem": "上海智慧工地三级数据平台是“省-市-区”层级。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "市区项目",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch4-q5",
+      "type": "single",
+      "stem": "下列哪一层是智慧工地的“智慧大脑”，负责数据存储与分析?",
+      "options": [
+        {
+          "key": "A",
+          "text": "感知层"
+        },
+        {
+          "key": "B",
+          "text": "网络层"
+        },
+        {
+          "key": "C",
+          "text": "平台层"
+        },
+        {
+          "key": "D",
+          "text": "应用层"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch4-q6",
+      "type": "single",
+      "stem": "工地深基坑传感器(低功耗、远距离传输)最适合用哪种网络技术?",
+      "options": [
+        {
+          "key": "A",
+          "text": "5G"
+        },
+        {
+          "key": "B",
+          "text": "Wi-Fi6"
+        },
+        {
+          "key": "C",
+          "text": "LoRa"
+        },
+        {
+          "key": "D",
+          "text": "以太网"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch4-q7",
+      "type": "single",
+      "stem": "下列哪种数据库最适合存储工地传感器实时时序数据(如塔吊力矩每秒钟数据)?",
+      "options": [
+        {
+          "key": "A",
+          "text": "MySQL"
+        },
+        {
+          "key": "B",
+          "text": "InfluxDB"
+        },
+        {
+          "key": "C",
+          "text": "MongoDB"
+        },
+        {
+          "key": "D",
+          "text": "Oracle"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch4-q8",
+      "type": "multiple",
+      "stem": "智慧工地架构设计的核心原则包括:",
+      "options": [
+        {
+          "key": "A",
+          "text": "标准化"
+        },
+        {
+          "key": "B",
+          "text": "模块化"
+        },
+        {
+          "key": "C",
+          "text": "封闭化"
+        },
+        {
+          "key": "D",
+          "text": "安全性"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jidian-ch4-q9",
+      "type": "multiple",
+      "stem": "感知层的关键设备包括:",
+      "options": [
+        {
+          "key": "A",
+          "text": "AI摄像头"
+        },
+        {
+          "key": "B",
+          "text": "5G基站"
+        },
+        {
+          "key": "C",
+          "text": "轴压传感器"
+        },
+        {
+          "key": "D",
+          "text": "数据中台"
+        }
+      ],
+      "answer": [
+        "A",
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jidian-ch4-q10",
+      "type": "judge",
+      "stem": "智慧工地中的AI视频监控系统可以完全取代安全员的人工巡查工作，实现全自动安全管理。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch4-q11",
+      "type": "judge",
+      "stem": "建筑机器人智慧平台能够实现多台机器人的统一接入、协同作业和智能调度。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch4-q12",
+      "type": "judge",
+      "stem": "BIM+4D进度管理系统只能用于展示三维模型和进度计划，无法进行实际进度的自动跟踪和预警。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch4-q13",
+      "type": "judge",
+      "stem": "智慧工地环境监测系统可以实现扬尘、噪声等环境参数的实时监测，并与喷淋降尘设备智能联动",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jidian-ch4-q14",
+      "type": "single",
+      "stem": "在陆家嘴御桥项目塔吊安全管控中，数字李生系统的数据更新频率是:",
+      "options": [
+        {
+          "key": "A",
+          "text": "1秒/次"
+        },
+        {
+          "key": "B",
+          "text": "5秒/次"
+        },
+        {
+          "key": "C",
+          "text": "30秒/次"
+        },
+        {
+          "key": "D",
+          "text": "1分钟/次"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch4-q15",
+      "type": "single",
+      "stem": "建筑机器人智慧平台的核心价值主要体现在:",
+      "options": [
+        {
+          "key": "A",
+          "text": "降低机器人采购成本"
+        },
+        {
+          "key": "B",
+          "text": "实现多机器人的统一管理和协同作业"
+        },
+        {
+          "key": "C",
+          "text": "提高机器人外观设计美观度"
+        },
+        {
+          "key": "D",
+          "text": "减少机器人使用数量"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch4-q16",
+      "type": "single",
+      "stem": "在评估智慧工地应用效果时，最重要的考量指标是",
+      "options": [
+        {
+          "key": "A",
+          "text": "技术先进程度"
+        },
+        {
+          "key": "B",
+          "text": "系统功能数量"
+        },
+        {
+          "key": "C",
+          "text": "产生的实际业务价值"
+        },
+        {
+          "key": "D",
+          "text": "界面美观程度"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jidian-ch4-q17",
+      "type": "multiple",
+      "stem": "智慧工地在地铁深基坑项目中的典型应用包括:",
+      "options": [
+        {
+          "key": "A",
+          "text": "AI视频行为识别监控"
+        },
+        {
+          "key": "B",
+          "text": "结构变形实时监测"
+        },
+        {
+          "key": "C",
+          "text": "人员精确定位管理"
+        },
+        {
+          "key": "D",
+          "text": "环境参数智能监控"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jidian-ch4-q18",
+      "type": "multiple",
+      "stem": "建筑机器人设备智慧平台的主要功能包括:",
+      "options": [
+        {
+          "key": "A",
+          "text": "机器人状态实时监控"
+        },
+        {
+          "key": "B",
+          "text": "任务智能调度分配"
+        },
+        {
+          "key": "C",
+          "text": "作业数据统计分析"
+        },
+        {
+          "key": "D",
+          "text": "故障预测性维护"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    }
+  ]
+}

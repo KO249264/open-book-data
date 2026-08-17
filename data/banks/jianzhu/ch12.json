@@ -1,0 +1,2306 @@
+{
+  "questions": [
+    {
+      "id": "jianzhu-ch12-q1",
+      "type": "judge",
+      "stem": "建筑企业的“挂证”行为被记入诚信信息平台后，该记录应永久保存，不得删除或屏蔽，以确保惩戒的持续性。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "根据《建筑市场信用管理暂行办法》，除严重失信行为 (如造成重大质量安全事故) 需长期保存外，一般失信行为记录有固定保存期限(通常为3年)，期限届满且未再发生失信行为的，可按规定移出或屏蔽，兼顾惩戒与改过",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch12-q2",
+      "type": "judge",
+      "stem": "诚信信息平台的作用之一是为建设单位选择合作企业提供参考，减少因信息不对称导致的合同履约风险。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "机会。",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch12-q3",
+      "type": "judge",
+      "stem": "建筑行业诚信信息平台的构建，需整合住建、人社、税务等多部门数据，实现“一处失信、处处受限”的联合惩戒效果。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch12-q4",
+      "type": "judge",
+      "stem": "若发现工程存在质量隐患、安全问题或违规行为，不隐瞒、不推诿，及时采取整改措施并向相关方报告，以规避责任;面对执业过失或问题，主动承担相应责任，积极配合调查处理，杜绝逃避责任的行为。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "及时采取整改措施并向相关方报告是为了履行项目负责人责任，而非规避责任",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch12-q5",
+      "type": "single",
+      "stem": "某建造师在项目收尾阶段，未按规定整理归档项目质量验收资料，且拒绝配合竣工结算审核，其不良行为产生的关键环节是( )。",
+      "options": [
+        {
+          "key": "A",
+          "text": "项目规划环节"
+        },
+        {
+          "key": "B",
+          "text": "施工执行环节"
+        },
+        {
+          "key": "C",
+          "text": "项目收尾与交付环节"
+        },
+        {
+          "key": "D",
+          "text": "风险管控环节"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch12-q6",
+      "type": "single",
+      "stem": "上海“11·15”事故中，监理单位未对违规电焊作业及易燃保温材料堆放进行有效制止，其行为主要违反了《建设工程安全生产管理条例》中关于监理单位的( )义务。",
+      "options": [
+        {
+          "key": "A",
+          "text": "编制监理规划"
+        },
+        {
+          "key": "B",
+          "text": "验收隐蔽工程"
+        },
+        {
+          "key": "C",
+          "text": "安全隐患报告与制止"
+        },
+        {
+          "key": "D",
+          "text": "审核施工组织"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch12-q7",
+      "type": "single",
+      "stem": "上海“11·15”事故中，工程总承包单位将项目转包给子公司，子公司又拆分成多个分支项目分包给7家单位，其中脚手架搭建工程被无资质个体人员通过出借资质承接，该行为属于( )。",
+      "options": [
+        {
+          "key": "A",
+          "text": "合法分包"
+        },
+        {
+          "key": "B",
+          "text": "违法分包"
+        },
+        {
+          "key": "C",
+          "text": "劳务分包"
+        },
+        {
+          "key": "D",
+          "text": "内部承包"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch12-q8",
+      "type": "multiple",
+      "stem": "工程建设领域中，法律对道德建设具有保障作用，具体体现为( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "通过立法将核心职业道德要求转化为法律规范"
+        },
+        {
+          "key": "B",
+          "text": "通过执法打击违规行为，维护道德底线"
+        },
+        {
+          "key": "C",
+          "text": "通过法律责任追究，增强从业者的道德自觉"
+        },
+        {
+          "key": "D",
+          "text": "法律能替代道德实现对行业行为的全面调整"
+        },
+        {
+          "key": "E",
+          "text": "法律的惩戒功能可倒逼从业者遵守职业操守"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jianzhu-ch12-q9",
+      "type": "multiple",
+      "stem": "下列情形中，建造师可能涉嫌构成刑事犯罪的有( )。",
+      "options": [
+        {
+          "key": "A",
+          "text": "伪造注册建造师资格证书用于承接项目"
+        },
+        {
+          "key": "B",
+          "text": "对施工安全隐患置之不理，导致1名工人重伤"
+        },
+        {
+          "key": "C",
+          "text": "投标时与其他投标人串通报价，获利15万元"
+        },
+        {
+          "key": "D",
+          "text": "为获取项目向建设单位负责人行贿2万元"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jianzhu-ch12-q10",
+      "type": "judge",
+      "stem": "E本.发因管文理首疏次忽提导出致在施建工筑临物时明设显施部倒位塌设置，永直久接性损标失牌30万，元公示五方责任主体及项目负责人信息。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch12-q11",
+      "type": "judge",
+      "stem": "根据本发文，允许信用良好企业直接上浮两个等级承揽工程。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch12-q12",
+      "type": "judge",
+      "stem": "本发文要求政府投资工程带头推行工程总承包(EPC)。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch12-q13",
+      "type": "judge",
+      "stem": "允许建设单位以“代建\"为由免除质量责任。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch12-q14",
+      "type": "judge",
+      "stem": "本发文提出10年内装配式建筑占新建面积达到30%。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch12-q15",
+      "type": "judge",
+      "stem": "本发文要求所有海外项目必须使用中国标准，不得采用当地标准。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch12-q16",
+      "type": "judge",
+      "stem": "本发文提出到2025年中级工以上建筑工人达到1000万人。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch12-q17",
+      "type": "judge",
+      "stem": "本发文禁止在新建建筑中使用BIM技术。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch12-q18",
+      "type": "single",
+      "stem": "本发文确立的建筑业改革主线是:",
+      "options": [
+        {
+          "key": "A",
+          "text": "需求侧扩张"
+        },
+        {
+          "key": "B",
+          "text": "供给侧结构性改革"
+        },
+        {
+          "key": "C",
+          "text": "大规模刺激"
+        },
+        {
+          "key": "D",
+          "text": "阶段性减税"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch12-q19",
+      "type": "single",
+      "stem": "本发文对信用良好、技术能力强的企业给予的政策导向是:",
+      "options": [
+        {
+          "key": "A",
+          "text": "直接颁发上一级资质"
+        },
+        {
+          "key": "B",
+          "text": "免除投标保证金"
+        },
+        {
+          "key": "C",
+          "text": "放宽承揽业务范围"
+        },
+        {
+          "key": "D",
+          "text": "减免税收"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch12-q20",
+      "type": "single",
+      "stem": "本发文对装配式建筑采用的组织模式要求是:",
+      "options": [
+        {
+          "key": "A",
+          "text": "工程总承包(EPC)"
+        },
+        {
+          "key": "B",
+          "text": "专业分包"
+        },
+        {
+          "key": "C",
+          "text": "施工总承包"
+        },
+        {
+          "key": "D",
+          "text": "项目管理服务"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch12-q21",
+      "type": "single",
+      "stem": "本发文对政府投资工程BIM应用的要求是:",
+      "options": [
+        {
+          "key": "A",
+          "text": "自愿试点"
+        },
+        {
+          "key": "B",
+          "text": "全面应用"
+        },
+        {
+          "key": "C",
+          "text": "仅设计阶段"
+        },
+        {
+          "key": "D",
+          "text": "仅施工阶段"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch12-q22",
+      "type": "single",
+      "stem": "本发文鼓励的海外项目金融支持方式不包括:",
+      "options": [
+        {
+          "key": "A",
+          "text": "本发文出口信贷贴息"
+        },
+        {
+          "key": "B",
+          "text": "跨境保险优惠"
+        },
+        {
+          "key": "C",
+          "text": "主权基金支持"
+        },
+        {
+          "key": "D",
+          "text": "强制外汇管制放松"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch12-q23",
+      "type": "single",
+      "stem": "本发文鼓励的建筑用工制度改革载体是:",
+      "options": [
+        {
+          "key": "A",
+          "text": "传统包工头"
+        },
+        {
+          "key": "B",
+          "text": "劳务派遣"
+        },
+        {
+          "key": "C",
+          "text": "专业作业企业"
+        },
+        {
+          "key": "D",
+          "text": "个体游击队"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch12-q24",
+      "type": "multiple",
+      "stem": "本发文提出的总体理念包括:",
+      "options": [
+        {
+          "key": "A",
+          "text": "创新"
+        },
+        {
+          "key": "B",
+          "text": "协调"
+        },
+        {
+          "key": "C",
+          "text": "绿色"
+        },
+        {
+          "key": "D",
+          "text": "开放"
+        },
+        {
+          "key": "E",
+          "text": "共享"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jianzhu-ch12-q25",
+      "type": "multiple",
+      "stem": "本发文提倡的工程建设组织模式包括:",
+      "options": [
+        {
+          "key": "A",
+          "text": "EPC总承包"
+        },
+        {
+          "key": "B",
+          "text": "全过程工程咨询"
+        },
+        {
+          "key": "C",
+          "text": "设计-招标-施工分段"
+        },
+        {
+          "key": "D",
+          "text": "建筑师负责制"
+        },
+        {
+          "key": "E",
+          "text": "政府投资工程带头"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jianzhu-ch12-q26",
+      "type": "multiple",
+      "stem": "本发文提出的建筑产业现代化方向包括:",
+      "options": [
+        {
+          "key": "A",
+          "text": "装配式混凝土"
+        },
+        {
+          "key": "B",
+          "text": "钢结构装配"
+        },
+        {
+          "key": "C",
+          "text": "智能化设备"
+        },
+        {
+          "key": "D",
+          "text": "BIM全过程"
+        },
+        {
+          "key": "E",
+          "text": "淘汰落后工"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jianzhu-ch12-q27",
+      "type": "multiple",
+      "stem": "艺本发文提出的“走出去”配套措施包括:",
+      "options": [
+        {
+          "key": "A",
+          "text": "标准外文版翻译"
+        },
+        {
+          "key": "B",
+          "text": "出口信贷贴息"
+        },
+        {
+          "key": "C",
+          "text": "属地化经营"
+        },
+        {
+          "key": "D",
+          "text": "资格国际互认"
+        },
+        {
+          "key": "E",
+          "text": "使用人民币"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jianzhu-ch12-q28",
+      "type": "judge",
+      "stem": "结算新型建筑工业化主要依靠传统施工方式，通过增加人工投入来提高建筑质量和效率。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "新型建筑工业化强调标准化设计、工厂化生产、装配化施工、信息化管理，目标是减少人工依赖、提高效率与",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch12-q29",
+      "type": "judge",
+      "stem": "在新型建筑工业化项目中，建筑师负责制鼓励设计单位提供全过程咨询服务，包括项目策划、施工指导和运营维护等阶段。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "质量。",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch12-q30",
+      "type": "judge",
+      "stem": "新型建筑工业化项目中，推广应用绿色建材是提升建筑质量和环保性能的重要措施之一",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch12-q31",
+      "type": "judge",
+      "stem": "工程总承包模式不适合新型建筑工业化项目，因为它无法整合设计、生产和施工资源",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "文件明确提出新型建筑工业化项目应积极推行工程总承包模式以促进设计生产施工深度融合以提升资源配置效",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch12-q32",
+      "type": "single",
+      "stem": "下列哪项不是新型建筑工业化的主要特征?",
+      "options": [
+        {
+          "key": "A",
+          "text": "标准化设计"
+        },
+        {
+          "key": "B",
+          "text": "工厂化生产"
+        },
+        {
+          "key": "C",
+          "text": "现场湿作业为主"
+        },
+        {
+          "key": "D",
+          "text": "装配化施工"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "率新型建筑工业化强调减少现场湿作业，推广干式工法和装配化施工，提高效率、减少污染。",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch12-q33",
+      "type": "single",
+      "stem": "在新型建筑工业化中，BIM技术的主要作用不包括以下哪项?",
+      "options": [
+        {
+          "key": "A",
+          "text": "施工模拟"
+        },
+        {
+          "key": "B",
+          "text": "构件吊装仿真"
+        },
+        {
+          "key": "C",
+          "text": "信息互联互通"
+        },
+        {
+          "key": "D",
+          "text": "现场人工调度"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "。BIM技术主要用于设计协同、施工模拟、构件管理、信息集成等，不直接用于人工",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch12-q34",
+      "type": "single",
+      "stem": "关于装配式混凝土建筑，下列说法正确的是:",
+      "options": [
+        {
+          "key": "A",
+          "text": "仅适用于低层住宅"
+        },
+        {
+          "key": "B",
+          "text": "鼓励在保障性住房和商品住宅中应用"
+        },
+        {
+          "key": "C",
+          "text": "不需要高强钢筋和消能减震技术"
+        },
+        {
+          "key": "D",
+          "text": "禁止在楼梯板和楼板中使用预制构件"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch12-q35",
+      "type": "multiple",
+      "stem": "以下哪些属于新型建筑工业化中推广的信息技术?",
+      "options": [
+        {
+          "key": "A",
+          "text": "BIM技术"
+        },
+        {
+          "key": "B",
+          "text": "物联网"
+        },
+        {
+          "key": "C",
+          "text": "区块链"
+        },
+        {
+          "key": "D",
+          "text": "大数据"
+        },
+        {
+          "key": "E",
+          "text": "边缘计算"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "analysis": "明确提到要推广BIM、物联网、大数据、边缘计算、5G、 RFID等技术，未提及区块链",
+      "difficulty": 3
+    },
+    {
+      "id": "jianzhu-ch12-q36",
+      "type": "multiple",
+      "stem": "在新型建筑工业化项目中，二级注册建造师应具备哪些能力?",
+      "options": [
+        {
+          "key": "A",
+          "text": "熟悉标准化构件选型与施工要求"
+        },
+        {
+          "key": "B",
+          "text": "掌握BIM建模与仿真技术"
+        },
+        {
+          "key": "C",
+          "text": "了解绿色建材应用与质量认证要求"
+        },
+        {
+          "key": "D",
+          "text": "协调设计、生产与施工的跨阶段管理"
+        },
+        {
+          "key": "E",
+          "text": "具备全过程工程咨询能力"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "E项“全过程工程咨询能力” 是全过程咨询企业的职责，不是二级建造师必须具备的能力",
+      "difficulty": 3
+    },
+    {
+      "id": "jianzhu-ch12-q37",
+      "type": "judge",
+      "stem": "“十三五”期间，全国城镇新建绿色建筑占新建建筑面积比例达到77%。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch12-q38",
+      "type": "judge",
+      "stem": "当前我国建筑碳排放总量已经达峰并呈现持续下降趋势。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "“建筑碳排放总量尚未达峰",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch12-q39",
+      "type": "judge",
+      "stem": "发达国家普遍通过经济手段(如低息贷款、税收优惠)引导市场主体参与建筑节能。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "”",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch12-q40",
+      "type": "judge",
+      "stem": "我国绿色建筑目前以运行标识为主，设计标识比例较低",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "“目前绿色建筑标识项目以设计标识为主，运行标识偏",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch12-q41",
+      "type": "judge",
+      "stem": "“十四五”期间，国家鼓励所有新建建筑都必须达到绿色建筑三星级标准。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "低文件指出所有城镇新建建筑必须达到绿色建筑基本级要求，鼓励部分建筑达到更高星级，而非全部三星级。",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch12-q42",
+      "type": "judge",
+      "stem": "到2025年，全国目标完成既有建筑节能改造面积不少于3.5亿平方米。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch12-q43",
+      "type": "judge",
+      "stem": "“十四五”时期，国家将推动新建民用建筑节能标准逐步提高到超低能耗水平。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch12-q44",
+      "type": "judge",
+      "stem": "根据文件，所有地区都必须统一执行相同的建筑节能目标和标准，不能因地制宜调整",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch12-q45",
+      "type": "judge",
+      "stem": "到2025年，我国城镇新建建筑将全部建成绿色建筑。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch12-q46",
+      "type": "judge",
+      "stem": "“十四五”期间，国家将推动所有新建建筑都达到超低能耗建筑标准。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "国家鼓励推广超低能耗建筑，但并非要求所有新建建筑都达到该标准。",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch12-q47",
+      "type": "judge",
+      "stem": "公共建筑运行节能管理中，室内温度控制机制的建立和执行是重要措施之一。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch12-q48",
+      "type": "judge",
+      "stem": "到2025年，装配式建筑占城镇新建建筑的比例将达到50%。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "该比例为30%，而非50%。",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch12-q49",
+      "type": "judge",
+      "stem": ".二级注册建造师在绿色建筑项目中只需关注施工质量，无需参与绿色建筑性能验证评估。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch12-q50",
+      "type": "judge",
+      "stem": "根据《河南省绿色建筑条例》，二级注册建造师需确保施工过程符合绿色建筑设计文件要求。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch12-q51",
+      "type": "judge",
+      "stem": "二级注册建造师无需掌握可再生能源建筑应用知识，这是设计单位的责任。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch12-q52",
+      "type": "judge",
+      "stem": "在建筑碳排放管理方面，建造师应在材料选择和施工组织中考虑碳排放因素。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch12-q53",
+      "type": "single",
+      "stem": "“十四五”时期，建筑领域节能降碳面临的核心任务是什么?",
+      "options": [
+        {
+          "key": "A",
+          "text": "提高建筑美观度"
+        },
+        {
+          "key": "B",
+          "text": "控制建筑碳排放增长，逐步实现碳排放下降"
+        },
+        {
+          "key": "C",
+          "text": "增加建筑数量"
+        },
+        {
+          "key": "D",
+          "text": "降低建筑造价"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch12-q54",
+      "type": "single",
+      "stem": "以下哪项不是“十三五”期间我国建筑节能工作取得的成效?",
+      "options": [
+        {
+          "key": "A",
+          "text": "绿色建筑规模扩大"
+        },
+        {
+          "key": "B",
+          "text": "节能标准逐步提高"
+        },
+        {
+          "key": "C",
+          "text": "建筑碳排放总量持续下降"
+        },
+        {
+          "key": "D",
+          "text": "可再生能源建筑应用扩大"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch12-q55",
+      "type": "single",
+      "stem": "根据文档，以下哪项是“十四五”时期建筑节能发展面临的新要求。",
+      "options": [
+        {
+          "key": "A",
+          "text": "建筑仅满足基本居住需求即可"
+        },
+        {
+          "key": "B",
+          "text": "建筑从能源消费者转变为产销型"
+        },
+        {
+          "key": "C",
+          "text": "建筑应减少使用绿色建材"
+        },
+        {
+          "key": "D",
+          "text": "建筑应降低智能化水平"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch12-q56",
+      "type": "single",
+      "stem": "“十四五”时期，城镇新建建筑的绿色建筑目标是什么?",
+      "options": [
+        {
+          "key": "A",
+          "text": "50%执行绿色建筑标准"
+        },
+        {
+          "key": "B",
+          "text": "全面执行绿色建筑标准"
+        },
+        {
+          "key": "C",
+          "text": "仅公共建筑执行绿色建筑标准"
+        },
+        {
+          "key": "D",
+          "text": "绿色建筑占比达到80%"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch12-q57",
+      "type": "single",
+      "stem": "到2025年，全国新增建筑太阳能光伏装机容量的目标是多少?",
+      "options": [
+        {
+          "key": "A",
+          "text": "0.3亿千瓦"
+        },
+        {
+          "key": "B",
+          "text": "0.4亿千瓦"
+        },
+        {
+          "key": "C",
+          "text": "0.5亿千瓦"
+        },
+        {
+          "key": "D",
+          "text": "1亿千瓦"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch12-q58",
+      "type": "single",
+      "stem": "“十四五”期间，装配式建筑占当年城镇新建建筑比例的目标是?",
+      "options": [
+        {
+          "key": "A",
+          "text": "20%"
+        },
+        {
+          "key": "B",
+          "text": "25%"
+        },
+        {
+          "key": "C",
+          "text": "30%"
+        },
+        {
+          "key": "D",
+          "text": "35%"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch12-q59",
+      "type": "single",
+      "stem": "以下哪项不是提升绿色建筑发展质量的重点任务?",
+      "options": [
+        {
+          "key": "A",
+          "text": "严格执行绿色建筑标准"
+        },
+        {
+          "key": "B",
+          "text": "推广超低能耗建筑"
+        },
+        {
+          "key": "C",
+          "text": "大力发展高星级绿色建筑"
+        },
+        {
+          "key": "D",
+          "text": "建立绿色建筑运行评估机制"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "推广超低能耗建筑属于“提高新建建筑节能水平”部分的内容，而非“绿色建筑发展质量”部分。",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch12-q60",
+      "type": "single",
+      "stem": "“十四五”期间，国家计划完成既有建筑节能改造面积不少于多少?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1亿平方米"
+        },
+        {
+          "key": "B",
+          "text": "2亿平方米"
+        },
+        {
+          "key": "C",
+          "text": "3.5亿平方米"
+        },
+        {
+          "key": "D",
+          "text": "5亿平方米"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch12-q61",
+      "type": "single",
+      "stem": "以下哪项是建筑用能低碳转型的战略方向?",
+      "options": [
+        {
+          "key": "A",
+          "text": "提高建筑用能电气化水平"
+        },
+        {
+          "key": "B",
+          "text": "增加煤炭使用比例"
+        },
+        {
+          "key": "C",
+          "text": "降低建筑能耗标准"
+        },
+        {
+          "key": "D",
+          "text": "减少建筑光伏"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch12-q62",
+      "type": "single",
+      "stem": "二级注册建造师在绿色建筑实施中最关键的角色是以下哪一项 ?( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "项目投资人"
+        },
+        {
+          "key": "B",
+          "text": "设计审核人"
+        },
+        {
+          "key": "C",
+          "text": "关键把关者"
+        },
+        {
+          "key": "D",
+          "text": "政府监管人员"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch12-q63",
+      "type": "single",
+      "stem": "以下哪项不属于二级注册建造师需要掌握的新兴能力?",
+      "options": [
+        {
+          "key": "A",
+          "text": "建筑碳排放管理知识"
+        },
+        {
+          "key": "B",
+          "text": "可再生能源建筑应用知识"
+        },
+        {
+          "key": "C",
+          "text": "建筑能耗模拟软件操作"
+        },
+        {
+          "key": "D",
+          "text": "房地产销售技巧"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch12-q64",
+      "type": "single",
+      "stem": "在既有建筑节能改造中，建造师采取的主要施工组织策略是:",
+      "options": [
+        {
+          "key": "A",
+          "text": "一次性全面施工"
+        },
+        {
+          "key": "B",
+          "text": "分区域、分阶段施工"
+        },
+        {
+          "key": "C",
+          "text": "夜间集中施工"
+        },
+        {
+          "key": "D",
+          "text": "外包全部施工任"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch12-q65",
+      "type": "multiple",
+      "stem": "以下哪些是“十四五”时期建筑节能与绿色建筑发展面临的主要挑战?",
+      "options": [
+        {
+          "key": "A",
+          "text": "建筑能效总体水平偏低"
+        },
+        {
+          "key": "B",
+          "text": "绿色建筑运行标识比例偏低"
+        },
+        {
+          "key": "C",
+          "text": "可再生能源建筑应用系统性不足"
+        },
+        {
+          "key": "D",
+          "text": "绿色建材应用范围广泛"
+        },
+        {
+          "key": "E",
+          "text": "既有建筑节能改造进度缓慢"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jianzhu-ch12-q66",
+      "type": "multiple",
+      "stem": "根据文档，发达国家在建筑节能方面的成功经验包括哪些?",
+      "options": [
+        {
+          "key": "A",
+          "text": "建立完善的法规标准体系"
+        },
+        {
+          "key": "B",
+          "text": "通过经济手段激发市场活力"
+        },
+        {
+          "key": "C",
+          "text": "忽视公众参与"
+        },
+        {
+          "key": "D",
+          "text": "重视前沿技术研发与工程应用"
+        },
+        {
+          "key": "E",
+          "text": "构建完整产业链和产业集群"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jianzhu-ch12-q67",
+      "type": "multiple",
+      "stem": "以下哪些属于“十四五”建筑节能与绿色建筑发展的具体指标?",
+      "options": [
+        {
+          "key": "A",
+          "text": "城镇新建建筑全面建成绿色建筑"
+        },
+        {
+          "key": "B",
+          "text": "完成既有建筑节能改造3.5亿平方米以上"
+        },
+        {
+          "key": "C",
+          "text": "建筑能耗中电力消费比例超过55%"
+        },
+        {
+          "key": "D",
+          "text": "城镇建筑可再生能源替代率达到8%"
+        },
+        {
+          "key": "E",
+          "text": "所有建筑实现碳中和"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jianzhu-ch12-q68",
+      "type": "multiple",
+      "stem": "以下哪些措施属于推动建筑领域可再生能源应用的路径?",
+      "options": [
+        {
+          "key": "A",
+          "text": "推广建筑光伏一体化"
+        },
+        {
+          "key": "B",
+          "text": "建设地热供暖示范区"
+        },
+        {
+          "key": "C",
+          "text": "禁止使用传统能源"
+        },
+        {
+          "key": "D",
+          "text": "支持工业厂房安装光伏系统"
+        },
+        {
+          "key": "E",
+          "text": "推进地热能供热制冷应用"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jianzhu-ch12-q69",
+      "type": "multiple",
+      "stem": "以下哪些措施属于推动建筑用能低碳转型的内容?",
+      "options": [
+        {
+          "key": "A",
+          "text": "推广建筑光伏一体化"
+        },
+        {
+          "key": "B",
+          "text": "提高建筑电气化水平"
+        },
+        {
+          "key": "C",
+          "text": "利用火电余热供暖"
+        },
+        {
+          "key": "D",
+          "text": "限制可再生能源使用"
+        },
+        {
+          "key": "E",
+          "text": "推进地热能建筑应用"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jianzhu-ch12-q70",
+      "type": "multiple",
+      "stem": "以下哪些属于“新型绿色建造方式”的推广内容?",
+      "options": [
+        {
+          "key": "A",
+          "text": "装配式建筑"
+        },
+        {
+          "key": "B",
+          "text": "绿色施工"
+        },
+        {
+          "key": "C",
+          "text": "建筑垃圾分类处理"
+        },
+        {
+          "key": "D",
+          "text": "增加传统湿作业比例"
+        },
+        {
+          "key": "E",
+          "text": "推广BIM"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jianzhu-ch12-q71",
+      "type": "multiple",
+      "stem": "技以术下哪些属于二级注册建造师需要重点掌握的专业能力?",
+      "options": [
+        {
+          "key": "A",
+          "text": "绿色建筑技术知识"
+        },
+        {
+          "key": "B",
+          "text": "建筑节能技术知识"
+        },
+        {
+          "key": "C",
+          "text": "建筑结构设计理论"
+        },
+        {
+          "key": "D",
+          "text": "可再生能源建筑应用知识"
+        },
+        {
+          "key": "E",
+          "text": "建筑碳排放管理知识"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jianzhu-ch12-q72",
+      "type": "multiple",
+      "stem": "在建筑光伏一体化(BIPv)项目中，建造师需要重点把控哪些环节?",
+      "options": [
+        {
+          "key": "A",
+          "text": "光伏系统与建筑一体化设计落实"
+        },
+        {
+          "key": "B",
+          "text": "光伏组件安装质量控制"
+        },
+        {
+          "key": "C",
+          "text": "光伏系统发电效率测试"
+        },
+        {
+          "key": "D",
+          "text": "系统调试与并网性能检测"
+        },
+        {
+          "key": "E",
+          "text": "建筑室内软装设计"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jianzhu-ch12-q73",
+      "type": "judge",
+      "stem": "2025年政府工作报告中，建筑业关键词未提及“绿色低碳”。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch12-q74",
+      "type": "judge",
+      "stem": "国办19号文明确政府投资项目应带头推行工程总承包模式。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch12-q75",
+      "type": "judge",
+      "stem": "新版《建筑法》征求意见稿取消了质量安全终身追责制度。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch12-q76",
+      "type": "judge",
+      "stem": "到2025年，装配式建筑占比需达到50%。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "应为30%",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch12-q77",
+      "type": "judge",
+      "stem": "EPC模式下，设计责任由业主承担。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "由承包商承担",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch12-q78",
+      "type": "judge",
+      "stem": "全过程咨询涵盖投资决策、工程建设、运营维护等阶段",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch12-q79",
+      "type": "judge",
+      "stem": "北京城市更新项目中，EPC+全过程咨询模式应用效果显著。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch12-q80",
+      "type": "judge",
+      "stem": "绿色债券发行要求募集资金用于绿色建筑面积≥50%。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "应为≥70%)",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch12-q81",
+      "type": "single",
+      "stem": "以下哪项不是多部委协同机制中住建部的职责?",
+      "options": [
+        {
+          "key": "A",
+          "text": "资质审批"
+        },
+        {
+          "key": "B",
+          "text": "标准制定"
+        },
+        {
+          "key": "C",
+          "text": "投资计划"
+        },
+        {
+          "key": "D",
+          "text": "市场监管"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "投资计划属发改委职责)",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch12-q82",
+      "type": "single",
+      "stem": "绿色建筑创建行动方案中，到2025年城镇新建建筑需:",
+      "options": [
+        {
+          "key": "A",
+          "text": "50%执行绿色建筑标准"
+        },
+        {
+          "key": "B",
+          "text": "全面执行绿色建筑标准"
+        },
+        {
+          "key": "C",
+          "text": "30%执行绿色建筑标准"
+        },
+        {
+          "key": "D",
+          "text": "仅公共建筑"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch12-q83",
+      "type": "single",
+      "stem": "执资行质管理制度改革试点中，以下哪项是试点地区的新政策",
+      "options": [
+        {
+          "key": "A",
+          "text": "新增三级资质"
+        },
+        {
+          "key": "B",
+          "text": "推行告知承诺制"
+        },
+        {
+          "key": "C",
+          "text": "强化业绩备案"
+        },
+        {
+          "key": "D",
+          "text": "提高资质审批时限"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch12-q84",
+      "type": "single",
+      "stem": "以下哪项不是EPC合同示范文本的关键表单?",
+      "options": [
+        {
+          "key": "A",
+          "text": "发包人要求"
+        },
+        {
+          "key": "B",
+          "text": "承包人建议书"
+        },
+        {
+          "key": "C",
+          "text": "价格清单"
+        },
+        {
+          "key": "D",
+          "text": "施工日志"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch12-q85",
+      "type": "single",
+      "stem": "以下哪项是超低能耗建筑的增量成本?",
+      "options": [
+        {
+          "key": "A",
+          "text": "约100元/平方米"
+        },
+        {
+          "key": "B",
+          "text": "约500元/平方米"
+        },
+        {
+          "key": "C",
+          "text": "约800元/平方米"
+        },
+        {
+          "key": "D",
+          "text": "约1200元/平方米"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch12-q86",
+      "type": "single",
+      "stem": "以下哪项是绿色贷款差异化信贷政策的优惠?",
+      "options": [
+        {
+          "key": "A",
+          "text": "利率上浮20BP"
+        },
+        {
+          "key": "B",
+          "text": "基准利率下浮5%"
+        },
+        {
+          "key": "C",
+          "text": "取消贷款审批"
+        },
+        {
+          "key": "D",
+          "text": "强制购买保险"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch12-q87",
+      "type": "multiple",
+      "stem": "以下哪些属于2025年智能建造指标体系的内容?",
+      "options": [
+        {
+          "key": "A",
+          "text": "数字化设计率"
+        },
+        {
+          "key": "B",
+          "text": "智能施工机械应用率"
+        },
+        {
+          "key": "C",
+          "text": "绿色建筑占比"
+        },
+        {
+          "key": "D",
+          "text": "智慧工地覆盖率"
+        },
+        {
+          "key": "E",
+          "text": "建筑工业化率"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "analysis": "C属绿色建筑指标",
+      "difficulty": 3
+    },
+    {
+      "id": "jianzhu-ch12-q88",
+      "type": "multiple",
+      "stem": "以下哪些属于安全生产治理行动的监管措施?",
+      "options": [
+        {
+          "key": "A",
+          "text": "建安码全国联网"
+        },
+        {
+          "key": "B",
+          "text": "危大工程100%方案论证"
+        },
+        {
+          "key": "C",
+          "text": "事故提级调查"
+        },
+        {
+          "key": "D",
+          "text": "取消安全文明施工费"
+        },
+        {
+          "key": "E",
+          "text": "项目经理终身禁入"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "D、E与政策不符",
+      "difficulty": 3
+    },
+    {
+      "id": "jianzhu-ch12-q89",
+      "type": "multiple",
+      "stem": "以下哪些属于智慧工地平台的功能模块?",
+      "options": [
+        {
+          "key": "A",
+          "text": "人员实名制"
+        },
+        {
+          "key": "B",
+          "text": "视频监控"
+        },
+        {
+          "key": "C",
+          "text": "危大监测"
+        },
+        {
+          "key": "D",
+          "text": "无人机巡检"
+        },
+        {
+          "key": "E",
+          "text": "塔机防碰撞"
+        }
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "questions": [
+    {
+      "id": "jianzhu-ch9-q1",
+      "type": "judge",
+      "stem": "料《建筑工人实名制管理办法》仅适用于房屋建筑工程，不适用于市政基础设施工程。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch9-q2",
+      "type": "judge",
+      "stem": "施工单位是建筑工人实名制管理的主体责任单位。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch9-q3",
+      "type": "judge",
+      "stem": "建筑工人实名制信息保存期限不得少于2年。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "上海保存期限不得少于3年",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch9-q4",
+      "type": "judge",
+      "stem": "监理单位无需参与实名制管理，仅负责工程质量安全监督。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch9-q5",
+      "type": "single",
+      "stem": "建筑工人实名制管理的牵头责任单位是( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "施工单位"
+        },
+        {
+          "key": "B",
+          "text": "建设单位"
+        },
+        {
+          "key": "C",
+          "text": "监理单位"
+        },
+        {
+          "key": "D",
+          "text": "监管部门"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "牵头建设单位主题施工单位监督监理单位",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch9-q6",
+      "type": "single",
+      "stem": "以下哪项不属于实名制登记必备信息( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "身份证信息"
+        },
+        {
+          "key": "B",
+          "text": "劳动合同"
+        },
+        {
+          "key": "C",
+          "text": "银行流水"
+        },
+        {
+          "key": "D",
+          "text": "技能岗位证书"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch9-q7",
+      "type": "single",
+      "stem": "施工单位未落实实名制考勤，逾期未整改的，罚款金额为( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "1万元以下"
+        },
+        {
+          "key": "B",
+          "text": "1-5万元"
+        },
+        {
+          "key": "C",
+          "text": "5-10万元"
+        },
+        {
+          "key": "D",
+          "text": "10万元以上"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch9-q8",
+      "type": "multiple",
+      "stem": "建筑工人实名制管理的核心环节包括( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "人场登记"
+        },
+        {
+          "key": "B",
+          "text": "实名考勤"
+        },
+        {
+          "key": "C",
+          "text": "信息上报"
+        },
+        {
+          "key": "D",
+          "text": "工资支付联动"
+        },
+        {
+          "key": "E",
+          "text": "离场注销"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jianzhu-ch9-q9",
+      "type": "multiple",
+      "stem": "对违规单位可能采取的处罚措施有( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "责令限期整改"
+        },
+        {
+          "key": "B",
+          "text": "罚款"
+        },
+        {
+          "key": "C",
+          "text": "信用惩戒"
+        },
+        {
+          "key": "D",
+          "text": "限制承接新工程"
+        },
+        {
+          "key": "E",
+          "text": "吊销营业执照"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    }
+  ]
+}

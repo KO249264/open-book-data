@@ -1,0 +1,427 @@
+{
+  "questions": [
+    {
+      "id": "jianzhu-ch3-q1",
+      "type": "judge",
+      "stem": "绿色施工仅指在施工阶段节约资源、保护环境。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "绿色施工应覆盖建筑的全寿命周期，包括设计、施工、使用和拆除阶段。",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch3-q2",
+      "type": "judge",
+      "stem": "预拌砂浆分为干拌砂浆和湿拌砂浆两种。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch3-q3",
+      "type": "judge",
+      "stem": "墙体自保温体系适用于严寒地区的外墙保温。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "适用于夏热冬冷地区和夏热冬暖地区，不适用于严寒地",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch3-q4",
+      "type": "judge",
+      "stem": "外墙硬泡聚氨酯喷涂施工技术对施工环境要求低，不受温度、湿度影响。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "该技术受温度、湿度、风力等环境影响较大。",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch3-q5",
+      "type": "single",
+      "stem": "绿色施工的核心内容“四节一环保”中，“四节”不包括以下哪一项?",
+      "options": [
+        {
+          "key": "A",
+          "text": "节能"
+        },
+        {
+          "key": "B",
+          "text": "节地"
+        },
+        {
+          "key": "C",
+          "text": "节时"
+        },
+        {
+          "key": "D",
+          "text": "节材"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch3-q6",
+      "type": "single",
+      "stem": "基坑施工封闭降水技术中，截水帷幕的渗透系数宜小于:",
+      "options": [
+        {
+          "key": "A",
+          "text": "1.0x10-4 cm/s"
+        },
+        {
+          "key": "B",
+          "text": "1.0x10-5 cm/s"
+        },
+        {
+          "key": "C",
+          "text": "1.0x10-6 cm/s"
+        },
+        {
+          "key": "D",
+          "text": "1.0x10-7 cm/s"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch3-q7",
+      "type": "single",
+      "stem": "工业废渣及(空心)砌块应用技术中，粉煤灰用量不应低于原材料重量的:",
+      "options": [
+        {
+          "key": "A",
+          "text": "10%"
+        },
+        {
+          "key": "B",
+          "text": "20%"
+        },
+        {
+          "key": "C",
+          "text": "15%"
+        },
+        {
+          "key": "D",
+          "text": "25%"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch3-q8",
+      "type": "single",
+      "stem": "下列哪项技术属于绿色施工中的“在线监控技术”?",
+      "options": [
+        {
+          "key": "A",
+          "text": "拼装式钢板临时路面"
+        },
+        {
+          "key": "B",
+          "text": "免泵送混凝土浇筑"
+        },
+        {
+          "key": "C",
+          "text": "噪声、扬尘监测系统"
+        },
+        {
+          "key": "D",
+          "text": "人工洒水降"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch3-q9",
+      "type": "judge",
+      "stem": "住宅厨房操作面净长不应小于2.0m。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "规范6.1.3条要求≥2.1m)",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch3-q10",
+      "type": "judge",
+      "stem": "建筑高度22m的住宅必须采用防烟楼梯间。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "规范7.2.1条,>21m仅需封闭楼梯间，≥33m才需防烟楼梯",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch3-q11",
+      "type": "judge",
+      "stem": "每套住宅至少应有一个居住空间能获得冬季日照。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "间",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch3-q12",
+      "type": "judge",
+      "stem": "住宅外窗气密性等级可低于6级。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "规范8.2.4条6级为强制性条",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch3-q13",
+      "type": "single",
+      "stem": "住宅层高不应低于( )m。",
+      "options": [
+        {
+          "key": "A",
+          "text": "2.7"
+        },
+        {
+          "key": "B",
+          "text": "2.8"
+        },
+        {
+          "key": "C",
+          "text": "2.9"
+        },
+        {
+          "key": "D",
+          "text": "3.0"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "款",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch3-q14",
+      "type": "single",
+      "stem": "无障碍住房应至少占总户数的( )。",
+      "options": [
+        {
+          "key": "A",
+          "text": "3%"
+        },
+        {
+          "key": "B",
+          "text": "5%"
+        },
+        {
+          "key": "C",
+          "text": "10%"
+        },
+        {
+          "key": "D",
+          "text": "15%"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch3-q15",
+      "type": "single",
+      "stem": "下列哪项不属于住宅验收的强制性条款?( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "厨房设通风道"
+        },
+        {
+          "key": "B",
+          "text": "卧室最小面积6m"
+        },
+        {
+          "key": "C",
+          "text": "楼梯间设应急照明"
+        },
+        {
+          "key": "D",
+          "text": "外窗保温性能"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "应急照明为消防规范要求，非住宅项目规范内容",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch3-q16",
+      "type": "multiple",
+      "stem": "下列哪些情况会导致住宅验收不合格?( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "厨房操作面净长2.0m"
+        },
+        {
+          "key": "B",
+          "text": "18层住宅未封闭楼梯间"
+        },
+        {
+          "key": "C",
+          "text": "外窗气密性7级"
+        },
+        {
+          "key": "D",
+          "text": "卫生间未设通风道"
+        },
+        {
+          "key": "E",
+          "text": "卧室门洞宽度0.9m"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jianzhu-ch3-q17",
+      "type": "multiple",
+      "stem": "关于住宅日照的说法正确的是( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "每套住宅至少一个空间需冬季日照"
+        },
+        {
+          "key": "B",
+          "text": "日照标准仅适用于北方地区"
+        },
+        {
+          "key": "C",
+          "text": "日照时间需满足当地规划部门要求"
+        },
+        {
+          "key": "D",
+          "text": "厨房必须获得日照"
+        },
+        {
+          "key": "E",
+          "text": "低层住宅无需考虑日照遮"
+        }
+      ],
+      "answer": [
+        "A",
+        "C"
+      ],
+      "analysis": "(B选项错误，全国适用;D选项无厨房日照要求",
+      "difficulty": 3
+    }
+  ]
+}

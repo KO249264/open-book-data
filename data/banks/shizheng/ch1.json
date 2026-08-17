@@ -1,0 +1,2177 @@
+{
+  "questions": [
+    {
+      "id": "shizheng-ch1-q1",
+      "type": "judge",
+      "stem": "上海市二级注册建造师继续教育仅适用于建筑工程、机电工程两个专业的注册建造师。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "shizheng-ch1-q2",
+      "type": "judge",
+      "stem": "继续教育是二级建造师延续注册、逾期初始注册、逾期增项注册的必备条件。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "shizheng-ch1-q3",
+      "type": "judge",
+      "stem": "上海市二级注册建造师继续教育的学习形式以面授教学为主，网络教育为辅助。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "shizheng-ch1-q4",
+      "type": "judge",
+      "stem": "委人才中心负责培训管理平台的建设和运维工作。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "shizheng-ch1-q5",
+      "type": "single",
+      "stem": "上海市二级注册建造师继续教育培训的官方唯一指定平台是",
+      "options": [
+        {
+          "key": "A",
+          "text": "全国建筑工程教育平台"
+        },
+        {
+          "key": "B",
+          "text": "上海市二级注册建造师继续教育培训管理平台"
+        },
+        {
+          "key": "C",
+          "text": "上海建设管理职业技术学院官网"
+        },
+        {
+          "key": "D",
+          "text": "市住房城乡建设管理委官网"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "shizheng-ch1-q6",
+      "type": "single",
+      "stem": "负责组织线下统一考试、发布考试成绩和证明的部门是",
+      "options": [
+        {
+          "key": "A",
+          "text": "市住房城乡建设管理委"
+        },
+        {
+          "key": "B",
+          "text": "委行政服务中心"
+        },
+        {
+          "key": "C",
+          "text": "委人才中心"
+        },
+        {
+          "key": "D",
+          "text": "上海建设管理职业技术学院"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "shizheng-ch1-q7",
+      "type": "single",
+      "stem": "对于考试作弊的违规行为，处理措施不包括以下哪项",
+      "options": [
+        {
+          "key": "A",
+          "text": "取消当次考试成绩"
+        },
+        {
+          "key": "B",
+          "text": "已发放的继续教育证明作废"
+        },
+        {
+          "key": "C",
+          "text": "直接吊销执业资格"
+        },
+        {
+          "key": "D",
+          "text": "记入个人诚信档案"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "shizheng-ch1-q8",
+      "type": "multiple",
+      "stem": "继续教育专业课的必修内容包括",
+      "options": [
+        {
+          "key": "A",
+          "text": "专业技术标准与规范"
+        },
+        {
+          "key": "B",
+          "text": "专业施工技术与工法"
+        },
+        {
+          "key": "C",
+          "text": "专业案例分析"
+        },
+        {
+          "key": "D",
+          "text": "专业技术前沿动态"
+        },
+        {
+          "key": "E",
+          "text": "专业发展趋势分析"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "shizheng-ch1-q9",
+      "type": "multiple",
+      "stem": "以下属于违规行为的有",
+      "options": [
+        {
+          "key": "A",
+          "text": "伪造学习记录、虚报学习时长"
+        },
+        {
+          "key": "B",
+          "text": "考试替考、抄袭"
+        },
+        {
+          "key": "C",
+          "text": "提供虚假个人信息"
+        },
+        {
+          "key": "D",
+          "text": "恶意刷课、扰乱考试秩序"
+        },
+        {
+          "key": "E",
+          "text": "按规定完成学时后参加线下考试二、必修《上海市房屋建筑和市政基础设施工程施工招标评标办法》(沪建规范[2024]5 号"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "shizheng-ch1-q10",
+      "type": "judge",
+      "stem": "评标办法具体包括经评审的合理低价法、有担保的最低价中标法、澄清低价法、综合评估法和法律法规允许的其他评标办法。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "shizheng-ch1-q11",
+      "type": "judge",
+      "stem": "经评审的合理低价法是对通过初步评审，技术合格且投标评审价高于合理低价的投标文件进行商务打分，按照得分由低到高的顺序推荐中标候选人的评标办法。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "shizheng-ch1-q12",
+      "type": "judge",
+      "stem": "经评审的合理低价法，技术专家对技术标进行详细评审。详细评审分为票决制和打分制。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "shizheng-ch1-q13",
+      "type": "judge",
+      "stem": "招标人对投标人的澄清文件进行审查，将实质性响应澄清要求的确定为通过商务标澄清的投标人。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "shizheng-ch1-q14",
+      "type": "judge",
+      "stem": "综合评估法是对通过初步评审的投标文件进行技术、商务打分，按照总得分由高到低的顺序推荐中标候选人的评标办法。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "shizheng-ch1-q15",
+      "type": "judge",
+      "stem": "判断技术标最终得分为各专家折算分数的算术平均值。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "shizheng-ch1-q16",
+      "type": "judge",
+      "stem": "判断商务标得分为投标总价得分、单价甄别得分和信用得分之和。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "shizheng-ch1-q17",
+      "type": "judge",
+      "stem": "招标人不可以对中标候选人提出定标需澄清的问题。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "shizheng-ch1-q18",
+      "type": "judge",
+      "stem": "技术否决投标评审里形式否决条款包括投标人名称:投标人名称与营业执照、资质证书、安全生产许可证不一致。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "shizheng-ch1-q19",
+      "type": "judge",
+      "stem": "判断技术否决投标评审里资格否决条款包括采用资格预审的项目，投标文件与资格预审申请文件的项目负责人不一致(离职、重病、死亡的除外)。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "shizheng-ch1-q20",
+      "type": "judge",
+      "stem": "判断技术否决投标评审里资格否决条款包括投标人与本招标项目的其他投标人存在控股、管理关系。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "shizheng-ch1-q21",
+      "type": "judge",
+      "stem": "项目负责人未在规定时间参加测试的，或者在测试时对其编制的投标文件不熟悉的，评标委员会判定其测试不通过，其投标文件进入后续评审。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "shizheng-ch1-q22",
+      "type": "judge",
+      "stem": "建设单位可根据项目进度需求，自行压缩勘察、设计和施工的合理工期，无需额外论证。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "shizheng-ch1-q23",
+      "type": "judge",
+      "stem": "检测单位在同一建设工程项目中，不得同时接受建设单位和施工单位的检测委托。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "shizheng-ch1-q24",
+      "type": "judge",
+      "stem": "施工单位首次上岗的施工作业人员，正式上岗前应安排不少于三个月的实习操作。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "shizheng-ch1-q25",
+      "type": "judge",
+      "stem": "经审查通过的施工图设计文件，若需变更主要内容，可由建设单位与设计单位协商后直接实施，无需重新审查。二、单选题",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "shizheng-ch1-q26",
+      "type": "single",
+      "stem": "下列哪类建设工程，建设单位无需委托监理单位实行监理?",
+      "options": [
+        {
+          "key": "A",
+          "text": "国家重点建设工程"
+        },
+        {
+          "key": "B",
+          "text": "小型民用建筑工程"
+        },
+        {
+          "key": "C",
+          "text": "住宅工程"
+        },
+        {
+          "key": "D",
+          "text": "利用外国政府贷款的工程"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "shizheng-ch1-q27",
+      "type": "single",
+      "stem": "施工单位安装、拆卸建筑起重机械时，应编制安装和拆卸方案，并由现场监督?",
+      "options": [
+        {
+          "key": "A",
+          "text": "项目负责人"
+        },
+        {
+          "key": "B",
+          "text": "专职安全管理人员"
+        },
+        {
+          "key": "C",
+          "text": "专业技术人员"
+        },
+        {
+          "key": "D",
+          "text": "监理工程师"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "shizheng-ch1-q28",
+      "type": "single",
+      "stem": "检测单位伪造检测数据或者出具虚假检测报告的，整改期间应暂停承接业务，并处罚款?",
+      "options": [
+        {
+          "key": "A",
+          "text": "一万元以上十万元以下"
+        },
+        {
+          "key": "B",
+          "text": "二万元以上二十万元以下"
+        },
+        {
+          "key": "C",
+          "text": "五万元以上三十万元以下"
+        },
+        {
+          "key": "D",
+          "text": "十万元以上五十万元以下"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "shizheng-ch1-q29",
+      "type": "multiple",
+      "stem": "建设单位在可行性研究阶段进行的质量和安全风险评估，应包含的内容有",
+      "options": [
+        {
+          "key": "A",
+          "text": "建设工程本体的风险"
+        },
+        {
+          "key": "B",
+          "text": "对毗邻建筑物的安全影响"
+        },
+        {
+          "key": "C",
+          "text": "对周边管线设施的安全影响"
+        },
+        {
+          "key": "D",
+          "text": "施工人员的安全培训计划"
+        },
+        {
+          "key": "E",
+          "text": "风险控制费用的明确"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "shizheng-ch1-q30",
+      "type": "multiple",
+      "stem": "设计文件应满足国家规定的深度要求，同时需符合的规定有",
+      "options": [
+        {
+          "key": "A",
+          "text": "对重大风险控制进行专项设计"
+        },
+        {
+          "key": "B",
+          "text": "标注质量和安全的重点部位及环节"
+        },
+        {
+          "key": "C",
+          "text": "明确新技术应用的质量安全保障措施"
+        },
+        {
+          "key": "D",
+          "text": "指定建设工程材料的供应单位"
+        },
+        {
+          "key": "E",
+          "text": "明确监测要求和监测控制限值"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "shizheng-ch1-q31",
+      "type": "judge",
+      "stem": "勘察单位在勘察作业前，无需编制勘察大纲，仅需按经验开展专项勘察即可。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "shizheng-ch1-q32",
+      "type": "judge",
+      "stem": "设计单位应参与重点部位的分部、分项和单位工程验收，且需参与竣工验收并提供使用维护说明。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "shizheng-ch1-q33",
+      "type": "judge",
+      "stem": "施工单位的特种作业人员需持证上岗，新上岗人员需实习操作三个月。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "shizheng-ch1-q34",
+      "type": "judge",
+      "stem": "因施工单位原因导致建设工程质量不符合约定，发包人仅能要求施工单位无偿修理，不得要求返工修改二、单选题",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "shizheng-ch1-q35",
+      "type": "single",
+      "stem": "勘察文件应满足深度要求，需标注地下管线和设施，并明确",
+      "options": [
+        {
+          "key": "A",
+          "text": "施工单位利润分配方案"
+        },
+        {
+          "key": "B",
+          "text": "现场服务节点、事项和内容"
+        },
+        {
+          "key": "C",
+          "text": "建设单位资金筹备计划"
+        },
+        {
+          "key": "D",
+          "text": "监理单位考核标准"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "shizheng-ch1-q36",
+      "type": "single",
+      "stem": "施工单位编制起重机械安装拆卸方案后，应由进行监督",
+      "options": [
+        {
+          "key": "A",
+          "text": "施工单位普通工人"
+        },
+        {
+          "key": "B",
+          "text": "建设单位负责人"
+        },
+        {
+          "key": "C",
+          "text": "专业技术人员"
+        },
+        {
+          "key": "D",
+          "text": "劳务分包单位管理人员"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "shizheng-ch1-q37",
+      "type": "single",
+      "stem": "初次进入劳务市场的人员，其教育培训经费由列支",
+      "options": [
+        {
+          "key": "A",
+          "text": "施工单位自有资金"
+        },
+        {
+          "key": "B",
+          "text": "市区财政教育费"
+        },
+        {
+          "key": "C",
+          "text": "建设单位专项拨款"
+        },
+        {
+          "key": "D",
+          "text": "劳务人员个人承担"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "shizheng-ch1-q38",
+      "type": "multiple",
+      "stem": "设计文件的深度要求应包含以下哪些内容",
+      "options": [
+        {
+          "key": "A",
+          "text": "重大风险控制"
+        },
+        {
+          "key": "B",
+          "text": "重点部位标注"
+        },
+        {
+          "key": "C",
+          "text": "新技术应用保障"
+        },
+        {
+          "key": "D",
+          "text": "毗邻物保护措施"
+        },
+        {
+          "key": "E",
+          "text": "施工人员薪酬标准"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "shizheng-ch1-q39",
+      "type": "multiple",
+      "stem": "施工单位在消防安全管理方面的责任和要求包括",
+      "options": [
+        {
+          "key": "A",
+          "text": "建立消防安全责任制度，确定责任人"
+        },
+        {
+          "key": "B",
+          "text": "设置消防通道、水源，配备消防设施和器材"
+        },
+        {
+          "key": "C",
+          "text": "确保确保施工材料符合防火要求"
+        },
+        {
+          "key": "D",
+          "text": "委托专业监测单位负责消防设施日常巡检"
+        },
+        {
+          "key": "E",
+          "text": "定期开展消防安全教育"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "shizheng-ch1-q40",
+      "type": "judge",
+      "stem": "监理单位的首要任务是代表施工单位对施工质量与安全实行监理。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "shizheng-ch1-q41",
+      "type": "judge",
+      "stem": "检测单位在同一建设工程项目中可以同时接受建设单位和施工单位的检测委托。3. 市建设行政管理部门可以组织编制优于国家标准的地方工程建设质量和安全技术标准。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "shizheng-ch1-q42",
+      "type": "judge",
+      "stem": "建设行政管理部门实施监督检测时，可委托已对该项目实施过检测的单位。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "shizheng-ch1-q43",
+      "type": "single",
+      "stem": "施工图设计文件审查机构未按照法律、法规和强制性标准审查施工图设计文件的，将被处以罚款?",
+      "options": [
+        {
+          "key": "A",
+          "text": "五千元以上五万元以下"
+        },
+        {
+          "key": "B",
+          "text": "一万元以上十万元以下"
+        },
+        {
+          "key": "C",
+          "text": "二万元以上十五万元以下"
+        },
+        {
+          "key": "D",
+          "text": "五万元以上二十万元以下"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "shizheng-ch1-q44",
+      "type": "single",
+      "stem": "监理单位组建施工现场项目监理机构时，需根据合同约定配备相应人员，不包括以下哪类?",
+      "options": [
+        {
+          "key": "A",
+          "text": "总监理工程师"
+        },
+        {
+          "key": "B",
+          "text": "专业监理工程师"
+        },
+        {
+          "key": "C",
+          "text": "监理员"
+        },
+        {
+          "key": "D",
+          "text": "施工项目负责人"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "shizheng-ch1-q45",
+      "type": "single",
+      "stem": "监测单位未编制施工监测方案或出具虚假监测数据的，责令限期改正后，罚款金额范围是 ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "五千元以上五万元以下"
+        },
+        {
+          "key": "B",
+          "text": "一万元以上十万元以下"
+        },
+        {
+          "key": "C",
+          "text": "三万元以上十五万元以下"
+        },
+        {
+          "key": "D",
+          "text": "十万元以上二十万元以下"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "shizheng-ch1-q46",
+      "type": "multiple",
+      "stem": "项目监理机构在建设工程开工前，需要审核施工单位报送的哪些文件?",
+      "options": [
+        {
+          "key": "A",
+          "text": "施工现场项目管理机构组建方案"
+        },
+        {
+          "key": "B",
+          "text": "质量和安全管理制度"
+        },
+        {
+          "key": "C",
+          "text": "施工组织设计文件"
+        },
+        {
+          "key": "D",
+          "text": "专项施工方案"
+        },
+        {
+          "key": "E",
+          "text": "施工监测方案"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "shizheng-ch1-q47",
+      "type": "multiple",
+      "stem": "建设行政管理部门和其他有关部门的监督管理措施包括以下哪些?",
+      "options": [
+        {
+          "key": "A",
+          "text": "要求被检查单位提供相关资料"
+        },
+        {
+          "key": "B",
+          "text": "进入施工现场进行检查并记录"
+        },
+        {
+          "key": "C",
+          "text": "发现隐患责令改正或排除"
+        },
+        {
+          "key": "D",
+          "text": "重大隐患时撤出人员或暂停施工"
+        },
+        {
+          "key": "E",
+          "text": "直接吊销违规单位的资质证书四、必修《上海市安全生产事故隐患排查治理办法》2024年4 月2日"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "shizheng-ch1-q48",
+      "type": "judge",
+      "stem": "习近平总书记强调，安全生产是民生大事，必须坚持“人民至上、生命至上”。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "shizheng-ch1-q49",
+      "type": "judge",
+      "stem": "总书记指出，只要经济发展上去了，安全生产可以适当放一放、缓一缓。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "shizheng-ch1-q50",
+      "type": "judge",
+      "stem": "“管行业必须管安全、管业务必须管安全、管生产经营必须管安全”是总书记对安全生产责任体系的重要要求。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "shizheng-ch1-q51",
+      "type": "judge",
+      "stem": "企业安全生产主体责任只需做到安全投入和应急救援“两个到位”即可。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "shizheng-ch1-q52",
+      "type": "judge",
+      "stem": "总书记提出，要建立风险分级管控和隐患排查治理双重预防机制。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "shizheng-ch1-q53",
+      "type": "judge",
+      "stem": "“一厂出事故、万厂受教育”体现了举一反三、警示教育的重要理念。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "shizheng-ch1-q54",
+      "type": "judge",
+      "stem": "总书记要求，对煤矿、危化品、道路交通等重点行业领域实施“生命防护工程”。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "shizheng-ch1-q55",
+      "type": "judge",
+      "stem": "安全生产工作中，底线思维和极限思维是指事故发生后如何最大限度减少损失。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "shizheng-ch1-q56",
+      "type": "single",
+      "stem": "习近平总书记指出，安全生产必须坚持的首先是。",
+      "options": [
+        {
+          "key": "A",
+          "text": "效益至上"
+        },
+        {
+          "key": "B",
+          "text": "人民至上、生命至上"
+        },
+        {
+          "key": "C",
+          "text": "技术优先"
+        },
+        {
+          "key": "D",
+          "text": "企业自主"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "shizheng-ch1-q57",
+      "type": "single",
+      "stem": "下列哪项不属于总书记提出的企业主体责任“四个到位”内容?",
+      "options": [
+        {
+          "key": "A",
+          "text": "安全投入"
+        },
+        {
+          "key": "B",
+          "text": "安全培训"
+        },
+        {
+          "key": "C",
+          "text": "安全宣传"
+        },
+        {
+          "key": "D",
+          "text": "应急救援"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "shizheng-ch1-q58",
+      "type": "single",
+      "stem": "“不发通知、不打招呼、不听汇报、不用陪同接待，直奔基层、直插现场”的执法方式被概括为。",
+      "options": [
+        {
+          "key": "A",
+          "text": "双随机一公开"
+        },
+        {
+          "key": "B",
+          "text": "四不两直"
+        },
+        {
+          "key": "C",
+          "text": "明察暗访"
+        },
+        {
+          "key": "D",
+          "text": "突击检查"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "shizheng-ch1-q59",
+      "type": "single",
+      "stem": "总书记强调，对重大风险隐患要。",
+      "options": [
+        {
+          "key": "A",
+          "text": "等出事故再处理"
+        },
+        {
+          "key": "B",
+          "text": "当成事故来对待"
+        },
+        {
+          "key": "C",
+          "text": "由企业自行评估"
+        },
+        {
+          "key": "D",
+          "text": "报上级备案即可"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "shizheng-ch1-q60",
+      "type": "single",
+      "stem": "安全生产双重预防机制指。",
+      "options": [
+        {
+          "key": "A",
+          "text": "风险分级管控+隐患排查治理"
+        },
+        {
+          "key": "B",
+          "text": "应急演练+事故调查"
+        },
+        {
+          "key": "C",
+          "text": "标准化+信息化"
+        },
+        {
+          "key": "D",
+          "text": "行政处罚+经济奖励"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "shizheng-ch1-q61",
+      "type": "single",
+      "stem": "总书记要求，岁末年初、高温汛期等重点时段必须。",
+      "options": [
+        {
+          "key": "A",
+          "text": "减少执法检查"
+        },
+        {
+          "key": "B",
+          "text": "开展全国安全生产大检查"
+        },
+        {
+          "key": "C",
+          "text": "由企业自行排查"
+        },
+        {
+          "key": "D",
+          "text": "暂停生产经营"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "shizheng-ch1-q62",
+      "type": "multiple",
+      "stem": "以下哪些属于总书记提出的安全生产责任体系要求?",
+      "options": [
+        {
+          "key": "A",
+          "text": "党政同责"
+        },
+        {
+          "key": "B",
+          "text": "一岗双责"
+        },
+        {
+          "key": "C",
+          "text": "齐抓共管"
+        },
+        {
+          "key": "D",
+          "text": "失职追责"
+        },
+        {
+          "key": "E",
+          "text": "三个必须"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "shizheng-ch1-q63",
+      "type": "multiple",
+      "stem": "总书记指出，必须实施“生命防护工程”的重点行业领域包括。",
+      "options": [
+        {
+          "key": "A",
+          "text": "煤矿"
+        },
+        {
+          "key": "B",
+          "text": "危化品"
+        },
+        {
+          "key": "C",
+          "text": "道路交通"
+        },
+        {
+          "key": "D",
+          "text": "燃气"
+        },
+        {
+          "key": "E",
+          "text": "建筑施工"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "shizheng-ch1-q64",
+      "type": "multiple",
+      "stem": "下列哪些做法符合总书记“预防为主、源头治理”理念?",
+      "options": [
+        {
+          "key": "A",
+          "text": "建立风险分级管控体系"
+        },
+        {
+          "key": "B",
+          "text": "开展隐患排查治理"
+        },
+        {
+          "key": "C",
+          "text": "事故发生后严肃问责"
+        },
+        {
+          "key": "D",
+          "text": "把隐患消灭在萌芽状态"
+        },
+        {
+          "key": "E",
+          "text": "事故后制定整改方案"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "shizheng-ch1-q65",
+      "type": "multiple",
+      "stem": "总书记强调，要提高应急处突能力，需树立的思维有 .",
+      "options": [
+        {
+          "key": "A",
+          "text": "底线思维"
+        },
+        {
+          "key": "B",
+          "text": "极限思维"
+        },
+        {
+          "key": "C",
+          "text": "经济优先思维"
+        },
+        {
+          "key": "D",
+          "text": "图之于未萌思维"
+        },
+        {
+          "key": "E",
+          "text": "事后补救优先八、必修建筑业企业资质标准的相关内容"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "shizheng-ch1-q66",
+      "type": "judge",
+      "stem": "施工总承包序列设有 10 个类别。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "shizheng-ch1-q67",
+      "type": "judge",
+      "stem": "施工劳务序列不分类别和等级。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "shizheng-ch1-q68",
+      "type": "judge",
+      "stem": "取得施工总承包资质的企业，可以将劳务作业分包给任何有经验的施工队。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "shizheng-ch1-q69",
+      "type": "judge",
+      "stem": "模板脚手架专业承包资质分为一级和二级。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "shizheng-ch1-q70",
+      "type": "judge",
+      "stem": "建筑业企业资质标准中，企业主要人员的年龄限制为60周岁以下。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "shizheng-ch1-q71",
+      "type": "judge",
+      "stem": "施工总承包特级资质的标准在本标准中已详细规定。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "shizheng-ch1-q72",
+      "type": "judge",
+      "stem": "自2021年7 月1 日起，建筑业企业施工劳务资质由审批制改为备案制。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "shizheng-ch1-q73",
+      "type": "judge",
+      "stem": "根据业务范围，取得专业承包资质的企业可以将所承接的专业工程再次分包。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "shizheng-ch1-q74",
+      "type": "single",
+      "stem": "施工总承包序列共设有多少个类别? 。",
+      "options": [
+        {
+          "key": "A",
+          "text": "10个"
+        },
+        {
+          "key": "B",
+          "text": "12个"
+        },
+        {
+          "key": "C",
+          "text": "18 个"
+        },
+        {
+          "key": "D",
+          "text": "36个"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "shizheng-ch1-q75",
+      "type": "single",
+      "stem": "建筑工程施工总承包一级资质标准要求，建筑工程相关专业中级以上职称人员:不少于多少人?",
+      "options": [
+        {
+          "key": "A",
+          "text": "15人"
+        },
+        {
+          "key": "B",
+          "text": "30人"
+        },
+        {
+          "key": "C",
+          "text": "50 人"
+        },
+        {
+          "key": "D",
+          "text": "75人"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "shizheng-ch1-q76",
+      "type": "single",
+      "stem": "根据《建筑业企业资质标准》，企业工程业绩是指申请资质企业()的工程业:绩。",
+      "options": [
+        {
+          "key": "A",
+          "text": "参与过"
+        },
+        {
+          "key": "B",
+          "text": "投资并监督完成"
+        },
+        {
+          "key": "C",
+          "text": "依法承揽并独立完成"
+        },
+        {
+          "key": "D",
+          "text": "与其他企业合作完成"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "shizheng-ch1-q77",
+      "type": "multiple",
+      "stem": "根据标准说明，本标准中的“企业主要人员”包括哪些?",
+      "options": [
+        {
+          "key": "A",
+          "text": "注册建造师及其他注册人员"
+        },
+        {
+          "key": "B",
+          "text": "持有岗位证书的施工现场管理人员"
+        },
+        {
+          "key": "C",
+          "text": "经考核或培训合格的技术工人"
+        },
+        {
+          "key": "D",
+          "text": "企业行政管理人员"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "shizheng-ch1-q78",
+      "type": "multiple",
+      "stem": "下列哪些工程属于“特种工程专业承包资质”的承包范围?",
+      "options": [
+        {
+          "key": "A",
+          "text": "房屋建筑地基工程"
+        },
+        {
+          "key": "B",
+          "text": "建筑物纠偏和平移"
+        },
+        {
+          "key": "C",
+          "text": "结构补强"
+        },
+        {
+          "key": "D",
+          "text": "特种防雷工程"
+        }
+      ],
+      "answer": [
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "shizheng-ch1-q79",
+      "type": "judge",
+      "stem": "企业首次申请建筑业企业资质，可以从任意等级开始申请。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "shizheng-ch1-q80",
+      "type": "judge",
+      "stem": "施工总承包资质序列的特级、一级资质以及铁路工程施工总承包二级资质由国务院住房城乡建设主管部门许可。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "shizheng-ch1-q81",
+      "type": "judge",
+      "stem": "建筑业企业资质证书的有效期为 10年。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "shizheng-ch1-q82",
+      "type": "judge",
+      "stem": "企业在资质证书有效期内发生法定代表人变更的，应当在工商部门办理变更手续后 1个月内办理资质证书变更手续。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "shizheng-ch1-q83",
+      "type": "judge",
+      "stem": "企业申请资质升级、增项，在申请之日起前一年内发生过较大以上质量安全事故的，资质许可机关将不予批准。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "shizheng-ch1-q84",
+      "type": "judge",
+      "stem": "企业主要人员可以同时受聘或注册于两家及以上企业。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "shizheng-ch1-q85",
+      "type": "judge",
+      "stem": "资质许可机关应当撤销建筑业企业资质的情形之一，包括对不符合资质标准条件的企业准予资质许可。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "shizheng-ch1-q86",
+      "type": "judge",
+      "stem": "企业以欺骗、贿赂等不正当手段取得建筑业企业资质的，不仅会被撤销资质，还会被处以罚款，且申请企业在 3 年内不得再次申请。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "shizheng-ch1-q87",
+      "type": "single",
+      "stem": "县级以上人民政府住房城乡建设主管部门发现企业不再符合资质标准要求条件的，责令其限期改正，整改期限最长不超过",
+      "options": [
+        {
+          "key": "A",
+          "text": "1个月"
+        },
+        {
+          "key": "B",
+          "text": "3 个月"
+        },
+        {
+          "key": "C",
+          "text": "6个月"
+        },
+        {
+          "key": "D",
+          "text": "12 个月"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "shizheng-ch1-q88",
+      "type": "multiple",
+      "stem": "下列哪些建筑业企业资质是由企业工商注册所在地省、自治区、直辖市人民政府住房城乡建设主管部门许可的?",
+      "options": [
+        {
+          "key": "A",
+          "text": "施工总承包序列二级资质(铁路、通信工程除外)"
+        },
+        {
+          "key": "B",
+          "text": "特种工程专业承包资质"
+        },
+        {
+          "key": "C",
+          "text": "施工总承包序列特级资质"
+        },
+        {
+          "key": "D",
+          "text": "铁路方面专业承包三级资质"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "shizheng-ch1-q89",
+      "type": "multiple",
+      "stem": "关于企业主要人员，以下哪些说法是正确的?",
+      "options": [
+        {
+          "key": "A",
+          "text": "企业主要人员包括注册执业人员、技术职称人员、现场管理人员和技术人工。"
+        },
+        {
+          "key": "B",
+          "text": "一个人同时拥有注册证书和技术职称的，可同时作为两类人员考核。"
+        },
+        {
+          "key": "C",
+          "text": "技术负责人必须由企业的总工程师担任。"
+        },
+        {
+          "key": "D",
+          "text": "企业申请多个类别资质时，每类人员数量可以累加计算。九、选修建工企业战略管理"
+        }
+      ],
+      "answer": [
+        "A",
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    }
+  ]
+}

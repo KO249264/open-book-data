@@ -1,0 +1,452 @@
+{
+  "questions": [
+    {
+      "id": "jianzhu-ch13-q1",
+      "type": "judge",
+      "stem": "BIM模型仅在设计阶段有用，在施工阶段无法发挥作用。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch13-q2",
+      "type": "judge",
+      "stem": "塔吊防碰撞系统可以通过传感器实现提前预警，自动切断危险动作。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch13-q3",
+      "type": "judge",
+      "stem": "智慧工地中的视频AI系统只能用于录像监控，无法进行实时行为分析。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch13-q4",
+      "type": "judge",
+      "stem": "5G技术因其低时延特性，为建筑机器人的远程操控提供了可能。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch13-q5",
+      "type": "single",
+      "stem": "下列哪项技术是智慧工地实现“数字李生”，创建虚拟模型的核心?",
+      "options": [
+        {
+          "key": "A",
+          "text": "物联网"
+        },
+        {
+          "key": "B",
+          "text": "建筑信息模型(BIM)"
+        },
+        {
+          "key": "C",
+          "text": "5G通信"
+        },
+        {
+          "key": "D",
+          "text": "人工智能"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch13-q6",
+      "type": "single",
+      "stem": "为了实现对工地人员厘米级精确定位和SOS求救功能，最常采用以下哪种技术?",
+      "options": [
+        {
+          "key": "A",
+          "text": "WiFi定位"
+        },
+        {
+          "key": "B",
+          "text": "RFID射频识别"
+        },
+        {
+          "key": "C",
+          "text": "UWB超宽带定位"
+        },
+        {
+          "key": "D",
+          "text": "GPS全球定位"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch13-q7",
+      "type": "single",
+      "stem": "智慧工地的四层架构模型中，负责数据存储、分析和赋能的“心脏”是:",
+      "options": [
+        {
+          "key": "A",
+          "text": "感知层"
+        },
+        {
+          "key": "B",
+          "text": "网络层"
+        },
+        {
+          "key": "C",
+          "text": "平台层"
+        },
+        {
+          "key": "D",
+          "text": "应用层"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch13-q8",
+      "type": "multiple",
+      "stem": "智慧工地建设的意义包括:",
+      "options": [
+        {
+          "key": "A",
+          "text": "提升安全管理水平"
+        },
+        {
+          "key": "B",
+          "text": "降低资源消耗"
+        },
+        {
+          "key": "C",
+          "text": "推动绿色施工"
+        },
+        {
+          "key": "D",
+          "text": "增强企业市场竞争力"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jianzhu-ch13-q9",
+      "type": "multiple",
+      "stem": "智慧工地云平台(大数据中心)的核心价值包括",
+      "options": [
+        {
+          "key": "A",
+          "text": "打破信息孤岛，实现数据共享"
+        },
+        {
+          "key": "B",
+          "text": "进行趋势分析和预测预警"
+        },
+        {
+          "key": "C",
+          "text": "为管理者提供“一张图”决策支持"
+        },
+        {
+          "key": "D",
+          "text": "替代项目经理进行所有决策"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jianzhu-ch13-q10",
+      "type": "judge",
+      "stem": "智慧工地四层架构中，平台层负责数据采集与上传。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch13-q11",
+      "type": "judge",
+      "stem": "MQTT协议适合工地传感器上传实时数据，支持低功耗设备。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch13-q12",
+      "type": "judge",
+      "stem": "、BIM+loT融合可实现高支模沉降数据与BIM模型实时映射。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch13-q13",
+      "type": "judge",
+      "stem": "上海智慧工地三级数据平台是“省-市-区”层级。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "市区项目",
+      "difficulty": 1
+    },
+    {
+      "id": "jianzhu-ch13-q14",
+      "type": "single",
+      "stem": "下列哪一层是智慧工地的“智慧大脑”，负责数据存储与分析?",
+      "options": [
+        {
+          "key": "A",
+          "text": "感知层"
+        },
+        {
+          "key": "B",
+          "text": "网络层"
+        },
+        {
+          "key": "C",
+          "text": "平台层"
+        },
+        {
+          "key": "D",
+          "text": "应用层"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch13-q15",
+      "type": "single",
+      "stem": "工地深基坑传感器(低功耗、远距离传输)最适合用哪种网络技术?",
+      "options": [
+        {
+          "key": "A",
+          "text": "5G"
+        },
+        {
+          "key": "B",
+          "text": "Wi-Fi6"
+        },
+        {
+          "key": "C",
+          "text": "LoRa"
+        },
+        {
+          "key": "D",
+          "text": "以太网"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch13-q16",
+      "type": "single",
+      "stem": "下列哪种数据库最适合存储工地传感器实时时序数据(如塔吊力矩每秒钟数据)?",
+      "options": [
+        {
+          "key": "A",
+          "text": "MySQL"
+        },
+        {
+          "key": "B",
+          "text": "InfluxDB"
+        },
+        {
+          "key": "C",
+          "text": "MongoDB"
+        },
+        {
+          "key": "D",
+          "text": "Oracle"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "jianzhu-ch13-q17",
+      "type": "multiple",
+      "stem": "智慧工地架构设计的核心原则包括:",
+      "options": [
+        {
+          "key": "A",
+          "text": "标准化"
+        },
+        {
+          "key": "B",
+          "text": "模块化"
+        },
+        {
+          "key": "C",
+          "text": "封闭化"
+        },
+        {
+          "key": "D",
+          "text": "安全性"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "jianzhu-ch13-q18",
+      "type": "multiple",
+      "stem": "感知层的关键设备包括:",
+      "options": [
+        {
+          "key": "A",
+          "text": "AI摄像头"
+        },
+        {
+          "key": "B",
+          "text": "5G基站"
+        },
+        {
+          "key": "C",
+          "text": "轴压传感器"
+        },
+        {
+          "key": "D",
+          "text": "数据中台"
+        }
+      ],
+      "answer": [
+        "A",
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    }
+  ]
+}
