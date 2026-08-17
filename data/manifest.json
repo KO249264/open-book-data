@@ -3,123 +3,9 @@
   "updatedAt": "2026-08-17",
   "banks": [
     {
-      "id": "exam-demo",
-      "name": "通用常识演示题库",
-      "category": "综合",
-      "desc": "用于演示四种题型与全部功能的示例题库,可整体替换为你自己的题目。",
-      "chapters": [
-        {
-          "id": "ch1",
-          "name": "第一章 · 基础常识",
-          "file": "banks/exam-demo/ch1.json",
-          "count": 5
-        },
-        {
-          "id": "ch2",
-          "name": "第二章 · 逻辑与计算",
-          "file": "banks/exam-demo/ch2.json",
-          "count": 5
-        }
-      ],
-      "papers": [
-        {
-          "id": "paper-2023",
-          "name": "2023 年真题(演示卷)",
-          "file": "banks/exam-demo/paper-2023.json",
-          "count": 5,
-          "durationSec": 600
-        }
-      ],
-      "materials": [
-        {
-          "id": "m-handbook",
-          "name": "考点速记手册",
-          "type": "pdf",
-          "url": "https://cdn.jsdelivr.net/gh/KO249264/open-book-data@main/data/materials/handbook.pdf",
-          "desc": "高频考点汇总(PDF,示例链接)"
-        },
-        {
-          "id": "m-formula",
-          "name": "公式图解",
-          "type": "image",
-          "url": "https://cdn.jsdelivr.net/gh/KO249264/open-book-data@main/data/materials/formula.png",
-          "desc": "常用公式一张图(图片,示例链接)"
-        },
-        {
-          "id": "m-outline",
-          "name": "官方考试大纲",
-          "type": "link",
-          "url": "https://example.com/outline",
-          "desc": "外部网页(点按复制链接到浏览器打开)"
-        }
-      ]
-    },
-    {
-      "id": "jianzao-demo",
-      "name": "二级建造师 · 建筑工程(演示)",
-      "category": "建造师",
-      "desc": "演示多考试分类结构,题目为占位示例,接入时替换为真实题库。",
-      "chapters": [
-        {
-          "id": "ch1",
-          "name": "第一章 · 施工管理",
-          "file": "banks/jianzao-demo/ch1.json",
-          "count": 3
-        }
-      ],
-      "papers": [],
-      "materials": []
-    },
-    {
-      "id": "cs-basics",
-      "name": "计算机与互联网基础",
-      "category": "计算机",
-      "desc": "覆盖单选 / 多选 / 判断 / 填空四种题型的样例题库,含两章与一套综合测验。",
-      "chapters": [
-        {
-          "id": "ch1",
-          "name": "第一章 · 计算机组成与操作系统",
-          "file": "banks/cs-basics/ch1.json",
-          "count": 6
-        },
-        {
-          "id": "ch2",
-          "name": "第二章 · 网络与信息安全",
-          "file": "banks/cs-basics/ch2.json",
-          "count": 6
-        }
-      ],
-      "papers": [
-        {
-          "id": "paper-1",
-          "name": "计算机基础综合测验",
-          "file": "banks/cs-basics/paper-1.json",
-          "count": 8,
-          "durationSec": 900
-        }
-      ],
-      "materials": []
-    },
-    {
-      "id": "safety-basics",
-      "name": "安全生产基础知识",
-      "category": "安全",
-      "desc": "安全生产、消防与个人防护常识样例题库,适合入职安全培训自测。",
-      "chapters": [
-        {
-          "id": "ch1",
-          "name": "第一章 · 安全生产通用知识",
-          "file": "banks/safety-basics/ch1.json",
-          "count": 6
-        }
-      ],
-      "papers": [],
-      "materials": []
-    },
-    {
       "id": "jianzhu",
-      "name": "建筑工程",
-      "category": "二级建造师",
+      "name": "二级建造师·建筑工程",
+      "category": "建筑/工程建设",
       "desc": "建筑工程全部试题,含单选、多选、判断题,按章节练习。",
       "chapters": [
         {
@@ -218,8 +104,8 @@
     },
     {
       "id": "shizheng",
-      "name": "市政工程",
-      "category": "二级建造师",
+      "name": "二级建造师·市政工程",
+      "category": "建筑/工程建设",
       "desc": "市政工程全部试题,含单选、多选、判断题,按章节练习。",
       "chapters": [
         {
@@ -252,8 +138,8 @@
     },
     {
       "id": "jidian",
-      "name": "机电工程",
-      "category": "二级建造师",
+      "name": "二级建造师·机电工程",
+      "category": "建筑/工程建设",
       "desc": "机电工程全部试题,含单选、多选、判断题,按章节练习。",
       "chapters": [
         {
@@ -292,8 +178,8 @@
     },
     {
       "id": "shuili",
-      "name": "水利水电工程",
-      "category": "二级建造师",
+      "name": "二级建造师·水利水电工程",
+      "category": "建筑/工程建设",
       "desc": "水利水电工程全部试题,含单选、多选、判断题,按章节练习。",
       "chapters": [
         {
@@ -321,7 +207,7 @@
     {
       "id": "yijian",
       "name": "一级建造师",
-      "category": "工程建设",
+      "category": "建筑/工程建设",
       "desc": "一级建造师备考笔记与自测练习入口,内容陆续更新中。",
       "chapters": [
         {
@@ -331,13 +217,21 @@
           "count": 0
         }
       ],
-      "papers": [],
+      "papers": [
+        {
+          "id": "paper-1",
+          "name": "历年真题(建设中)",
+          "file": "banks/yijian/paper-1.json",
+          "count": 0,
+          "durationSec": 5400
+        }
+      ],
       "materials": []
     },
     {
       "id": "zaojia-gcs",
       "name": "造价工程师",
-      "category": "工程建设",
+      "category": "建筑/工程建设",
       "desc": "造价工程师备考笔记与自测练习入口,内容陆续更新中。",
       "chapters": [
         {
@@ -347,13 +241,21 @@
           "count": 0
         }
       ],
-      "papers": [],
+      "papers": [
+        {
+          "id": "paper-1",
+          "name": "历年真题(建设中)",
+          "file": "banks/zaojia-gcs/paper-1.json",
+          "count": 0,
+          "durationSec": 5400
+        }
+      ],
       "materials": []
     },
     {
       "id": "jianli-gcs",
       "name": "监理工程师",
-      "category": "工程建设",
+      "category": "建筑/工程建设",
       "desc": "监理工程师备考笔记与自测练习入口,内容陆续更新中。",
       "chapters": [
         {
@@ -363,13 +265,21 @@
           "count": 0
         }
       ],
-      "papers": [],
+      "papers": [
+        {
+          "id": "paper-1",
+          "name": "历年真题(建设中)",
+          "file": "banks/jianli-gcs/paper-1.json",
+          "count": 0,
+          "durationSec": 5400
+        }
+      ],
       "materials": []
     },
     {
       "id": "xiaofang-gcs",
       "name": "注册消防工程师",
-      "category": "工程建设",
+      "category": "建筑/工程建设",
       "desc": "注册消防工程师备考笔记与自测练习入口,内容陆续更新中。",
       "chapters": [
         {
@@ -379,13 +289,21 @@
           "count": 0
         }
       ],
-      "papers": [],
+      "papers": [
+        {
+          "id": "paper-1",
+          "name": "历年真题(建设中)",
+          "file": "banks/xiaofang-gcs/paper-1.json",
+          "count": 0,
+          "durationSec": 5400
+        }
+      ],
       "materials": []
     },
     {
       "id": "jiegou-gcs",
       "name": "注册结构工程师",
-      "category": "工程建设",
+      "category": "建筑/工程建设",
       "desc": "注册结构工程师备考笔记与自测练习入口,内容陆续更新中。",
       "chapters": [
         {
@@ -395,13 +313,21 @@
           "count": 0
         }
       ],
-      "papers": [],
+      "papers": [
+        {
+          "id": "paper-1",
+          "name": "历年真题(建设中)",
+          "file": "banks/jiegou-gcs/paper-1.json",
+          "count": 0,
+          "durationSec": 5400
+        }
+      ],
       "materials": []
     },
     {
       "id": "kancha-sheji",
       "name": "勘察设计工程师(岩土·给排水·电气·暖通)",
-      "category": "工程建设",
+      "category": "建筑/工程建设",
       "desc": "勘察设计类工程师备考笔记与自测练习入口,内容陆续更新中。",
       "chapters": [
         {
@@ -411,13 +337,21 @@
           "count": 0
         }
       ],
-      "papers": [],
+      "papers": [
+        {
+          "id": "paper-1",
+          "name": "历年真题(建设中)",
+          "file": "banks/kancha-sheji/paper-1.json",
+          "count": 0,
+          "durationSec": 5400
+        }
+      ],
       "materials": []
     },
     {
       "id": "chengxiang-guihua",
       "name": "城乡规划师",
-      "category": "工程建设",
+      "category": "建筑/工程建设",
       "desc": "城乡规划师备考笔记与自测练习入口,内容陆续更新中。",
       "chapters": [
         {
@@ -427,13 +361,21 @@
           "count": 0
         }
       ],
-      "papers": [],
+      "papers": [
+        {
+          "id": "paper-1",
+          "name": "历年真题(建设中)",
+          "file": "banks/chengxiang-guihua/paper-1.json",
+          "count": 0,
+          "durationSec": 5400
+        }
+      ],
       "materials": []
     },
     {
       "id": "bim-zhengshu",
       "name": "BIM等级证书",
-      "category": "工程建设",
+      "category": "建筑/工程建设",
       "desc": "BIM等级证书备考笔记与自测练习入口,内容陆续更新中。",
       "chapters": [
         {
@@ -443,13 +385,21 @@
           "count": 0
         }
       ],
-      "papers": [],
+      "papers": [
+        {
+          "id": "paper-1",
+          "name": "历年真题(建设中)",
+          "file": "banks/bim-zhengshu/paper-1.json",
+          "count": 0,
+          "durationSec": 5400
+        }
+      ],
       "materials": []
     },
     {
       "id": "fangdi-gujia",
       "name": "房地产估价师·土地估价师",
-      "category": "工程建设",
+      "category": "建筑/工程建设",
       "desc": "房地产估价师/土地估价师备考笔记与自测练习入口,内容陆续更新中。",
       "chapters": [
         {
@@ -459,13 +409,21 @@
           "count": 0
         }
       ],
-      "papers": [],
+      "papers": [
+        {
+          "id": "paper-1",
+          "name": "历年真题(建设中)",
+          "file": "banks/fangdi-gujia/paper-1.json",
+          "count": 0,
+          "durationSec": 5400
+        }
+      ],
       "materials": []
     },
     {
       "id": "zhuce-anquan",
       "name": "注册安全工程师",
-      "category": "安全",
+      "category": "安全/应急/特种作业",
       "desc": "注册安全工程师备考笔记与自测练习入口,内容陆续更新中。",
       "chapters": [
         {
@@ -475,13 +433,21 @@
           "count": 0
         }
       ],
-      "papers": [],
+      "papers": [
+        {
+          "id": "paper-1",
+          "name": "历年真题(建设中)",
+          "file": "banks/zhuce-anquan/paper-1.json",
+          "count": 0,
+          "durationSec": 5400
+        }
+      ],
       "materials": []
     },
     {
       "id": "tezhong-zuoye",
       "name": "特种作业操作证",
-      "category": "安全",
+      "category": "安全/应急/特种作业",
       "desc": "特种作业操作证(电工/焊工/高处/制冷等)备考笔记入口,内容陆续更新中。",
       "chapters": [
         {
@@ -491,13 +457,21 @@
           "count": 0
         }
       ],
-      "papers": [],
+      "papers": [
+        {
+          "id": "paper-1",
+          "name": "历年真题(建设中)",
+          "file": "banks/tezhong-zuoye/paper-1.json",
+          "count": 0,
+          "durationSec": 5400
+        }
+      ],
       "materials": []
     },
     {
       "id": "tezhong-shebei",
       "name": "特种设备作业证",
-      "category": "安全",
+      "category": "安全/应急/特种作业",
       "desc": "特种设备作业证(叉车/起重/锅炉等)备考笔记入口,内容陆续更新中。",
       "chapters": [
         {
@@ -507,13 +481,21 @@
           "count": 0
         }
       ],
-      "papers": [],
+      "papers": [
+        {
+          "id": "paper-1",
+          "name": "历年真题(建设中)",
+          "file": "banks/tezhong-shebei/paper-1.json",
+          "count": 0,
+          "durationSec": 5400
+        }
+      ],
       "materials": []
     },
     {
       "id": "xiaofang-caozuoyuan",
       "name": "消防设施操作员",
-      "category": "安全",
+      "category": "安全/应急/特种作业",
       "desc": "消防设施操作员备考笔记与自测练习入口,内容陆续更新中。",
       "chapters": [
         {
@@ -523,13 +505,21 @@
           "count": 0
         }
       ],
-      "papers": [],
+      "papers": [
+        {
+          "id": "paper-1",
+          "name": "历年真题(建设中)",
+          "file": "banks/xiaofang-caozuoyuan/paper-1.json",
+          "count": 0,
+          "durationSec": 5400
+        }
+      ],
       "materials": []
     },
     {
       "id": "badayuan",
       "name": "安全员·施工员(八大员)",
-      "category": "安全",
+      "category": "安全/应急/特种作业",
       "desc": "施工现场\"八大员\"备考笔记入口,内容陆续更新中。",
       "chapters": [
         {
@@ -539,13 +529,21 @@
           "count": 0
         }
       ],
-      "papers": [],
+      "papers": [
+        {
+          "id": "paper-1",
+          "name": "历年真题(建设中)",
+          "file": "banks/badayuan/paper-1.json",
+          "count": 0,
+          "durationSec": 5400
+        }
+      ],
       "materials": []
     },
     {
       "id": "ruankao",
       "name": "软考(初/中/高级)",
-      "category": "计算机",
+      "category": "计算机/IT",
       "desc": "软考各级别科目备考笔记与自测练习入口,内容陆续更新中。",
       "chapters": [
         {
@@ -555,13 +553,21 @@
           "count": 0
         }
       ],
-      "papers": [],
+      "papers": [
+        {
+          "id": "paper-1",
+          "name": "历年真题(建设中)",
+          "file": "banks/ruankao/paper-1.json",
+          "count": 0,
+          "durationSec": 5400
+        }
+      ],
       "materials": []
     },
     {
       "id": "ncre",
       "name": "计算机等级考试(NCRE)",
-      "category": "计算机",
+      "category": "计算机/IT",
       "desc": "全国计算机等级考试备考笔记入口,内容陆续更新中。",
       "chapters": [
         {
@@ -571,13 +577,21 @@
           "count": 0
         }
       ],
-      "papers": [],
+      "papers": [
+        {
+          "id": "paper-1",
+          "name": "历年真题(建设中)",
+          "file": "banks/ncre/paper-1.json",
+          "count": 0,
+          "durationSec": 5400
+        }
+      ],
       "materials": []
     },
     {
       "id": "xitong-pm",
       "name": "信息系统项目管理师·PMP",
-      "category": "计算机",
+      "category": "计算机/IT",
       "desc": "信息系统项目管理师/PMP 备考笔记入口,内容陆续更新中。",
       "chapters": [
         {
@@ -587,13 +601,21 @@
           "count": 0
         }
       ],
-      "papers": [],
+      "papers": [
+        {
+          "id": "paper-1",
+          "name": "历年真题(建设中)",
+          "file": "banks/xitong-pm/paper-1.json",
+          "count": 0,
+          "durationSec": 5400
+        }
+      ],
       "materials": []
     },
     {
       "id": "huawei-cisco",
       "name": "华为HCIA/HCIP/HCIE·思科CCNA",
-      "category": "计算机",
+      "category": "计算机/IT",
       "desc": "厂商认证(华为/思科)备考笔记入口,内容陆续更新中。",
       "chapters": [
         {
@@ -603,13 +625,21 @@
           "count": 0
         }
       ],
-      "papers": [],
+      "papers": [
+        {
+          "id": "paper-1",
+          "name": "历年真题(建设中)",
+          "file": "banks/huawei-cisco/paper-1.json",
+          "count": 0,
+          "durationSec": 5400
+        }
+      ],
       "materials": []
     },
     {
       "id": "yun-acp",
       "name": "阿里云·腾讯云ACP等",
-      "category": "计算机",
+      "category": "计算机/IT",
       "desc": "云厂商认证备考笔记入口,内容陆续更新中。",
       "chapters": [
         {
@@ -619,13 +649,21 @@
           "count": 0
         }
       ],
-      "papers": [],
+      "papers": [
+        {
+          "id": "paper-1",
+          "name": "历年真题(建设中)",
+          "file": "banks/yun-acp/paper-1.json",
+          "count": 0,
+          "durationSec": 5400
+        }
+      ],
       "materials": []
     },
     {
       "id": "cisp-cissp",
       "name": "信息安全认证(CISP/CISSP)",
-      "category": "计算机",
+      "category": "计算机/IT",
       "desc": "信息安全类认证备考笔记入口,内容陆续更新中。",
       "chapters": [
         {
@@ -635,13 +673,21 @@
           "count": 0
         }
       ],
-      "papers": [],
+      "papers": [
+        {
+          "id": "paper-1",
+          "name": "历年真题(建设中)",
+          "file": "banks/cisp-cissp/paper-1.json",
+          "count": 0,
+          "durationSec": 5400
+        }
+      ],
       "materials": []
     },
     {
       "id": "jiaoshi-zige",
       "name": "教师资格证",
-      "category": "教师",
+      "category": "教师/教育",
       "desc": "中小学/幼儿教师资格证备考笔记与自测练习入口,内容陆续更新中。",
       "chapters": [
         {
@@ -651,13 +697,21 @@
           "count": 0
         }
       ],
-      "papers": [],
+      "papers": [
+        {
+          "id": "paper-1",
+          "name": "历年真题(建设中)",
+          "file": "banks/jiaoshi-zige/paper-1.json",
+          "count": 0,
+          "durationSec": 5400
+        }
+      ],
       "materials": []
     },
     {
       "id": "putonghua",
       "name": "普通话水平测试",
-      "category": "教师",
+      "category": "教师/教育",
       "desc": "普通话水平测试备考笔记入口,内容陆续更新中。",
       "chapters": [
         {
@@ -667,13 +721,21 @@
           "count": 0
         }
       ],
-      "papers": [],
+      "papers": [
+        {
+          "id": "paper-1",
+          "name": "历年真题(建设中)",
+          "file": "banks/putonghua/paper-1.json",
+          "count": 0,
+          "durationSec": 5400
+        }
+      ],
       "materials": []
     },
     {
       "id": "jiaoshi-zhaopin",
       "name": "教师招聘(教招)",
-      "category": "教师",
+      "category": "教师/教育",
       "desc": "教师招聘考试备考笔记入口,内容陆续更新中。",
       "chapters": [
         {
@@ -683,13 +745,21 @@
           "count": 0
         }
       ],
-      "papers": [],
+      "papers": [
+        {
+          "id": "paper-1",
+          "name": "历年真题(建设中)",
+          "file": "banks/jiaoshi-zhaopin/paper-1.json",
+          "count": 0,
+          "durationSec": 5400
+        }
+      ],
       "materials": []
     },
     {
       "id": "cet",
       "name": "大学英语四六级(CET)",
-      "category": "语言",
+      "category": "语言/外语",
       "desc": "大学英语四六级备考笔记与自测练习入口,内容陆续更新中。",
       "chapters": [
         {
@@ -699,13 +769,21 @@
           "count": 0
         }
       ],
-      "papers": [],
+      "papers": [
+        {
+          "id": "paper-1",
+          "name": "历年真题(建设中)",
+          "file": "banks/cet/paper-1.json",
+          "count": 0,
+          "durationSec": 5400
+        }
+      ],
       "materials": []
     },
     {
       "id": "catti",
       "name": "专四专八·CATTI翻译资格",
-      "category": "语言",
+      "category": "语言/外语",
       "desc": "专四专八/CATTI 翻译资格备考笔记入口,内容陆续更新中。",
       "chapters": [
         {
@@ -715,13 +793,21 @@
           "count": 0
         }
       ],
-      "papers": [],
+      "papers": [
+        {
+          "id": "paper-1",
+          "name": "历年真题(建设中)",
+          "file": "banks/catti/paper-1.json",
+          "count": 0,
+          "durationSec": 5400
+        }
+      ],
       "materials": []
     },
     {
       "id": "yasi-tuofu",
       "name": "雅思·托福·日语N1-N5",
-      "category": "语言",
+      "category": "语言/外语",
       "desc": "雅思/托福/日语等级考试备考笔记入口,内容陆续更新中。",
       "chapters": [
         {
@@ -731,7 +817,15 @@
           "count": 0
         }
       ],
-      "papers": [],
+      "papers": [
+        {
+          "id": "paper-1",
+          "name": "历年真题(建设中)",
+          "file": "banks/yasi-tuofu/paper-1.json",
+          "count": 0,
+          "durationSec": 5400
+        }
+      ],
       "materials": []
     },
     {
@@ -747,7 +841,15 @@
           "count": 0
         }
       ],
-      "papers": [],
+      "papers": [
+        {
+          "id": "paper-1",
+          "name": "历年真题(建设中)",
+          "file": "banks/zikao-chengkao/paper-1.json",
+          "count": 0,
+          "durationSec": 5400
+        }
+      ],
       "materials": []
     },
     {
@@ -763,7 +865,15 @@
           "count": 0
         }
       ],
-      "papers": [],
+      "papers": [
+        {
+          "id": "paper-1",
+          "name": "历年真题(建设中)",
+          "file": "banks/kaoyan/paper-1.json",
+          "count": 0,
+          "durationSec": 5400
+        }
+      ],
       "materials": []
     },
     {
@@ -779,13 +889,21 @@
           "count": 0
         }
       ],
-      "papers": [],
+      "papers": [
+        {
+          "id": "paper-1",
+          "name": "历年真题(建设中)",
+          "file": "banks/zhuanshengben/paper-1.json",
+          "count": 0,
+          "durationSec": 5400
+        }
+      ],
       "materials": []
     },
     {
       "id": "guokao-shengkao",
       "name": "国考·省考(行测+申论)",
-      "category": "公考事业编",
+      "category": "公考/事业编/军警",
       "desc": "公务员考试行测/申论备考笔记入口,内容陆续更新中。",
       "chapters": [
         {
@@ -795,13 +913,21 @@
           "count": 0
         }
       ],
-      "papers": [],
+      "papers": [
+        {
+          "id": "paper-1",
+          "name": "历年真题(建设中)",
+          "file": "banks/guokao-shengkao/paper-1.json",
+          "count": 0,
+          "durationSec": 5400
+        }
+      ],
       "materials": []
     },
     {
       "id": "shiye-bianzhi",
       "name": "事业单位招聘",
-      "category": "公考事业编",
+      "category": "公考/事业编/军警",
       "desc": "事业单位招聘考试(职测+综应)备考笔记入口,内容陆续更新中。",
       "chapters": [
         {
@@ -811,13 +937,21 @@
           "count": 0
         }
       ],
-      "papers": [],
+      "papers": [
+        {
+          "id": "paper-1",
+          "name": "历年真题(建设中)",
+          "file": "banks/shiye-bianzhi/paper-1.json",
+          "count": 0,
+          "durationSec": 5400
+        }
+      ],
       "materials": []
     },
     {
       "id": "junzhi-sanzhiyifu",
       "name": "军队文职·三支一扶",
-      "category": "公考事业编",
+      "category": "公考/事业编/军警",
       "desc": "军队文职/三支一扶备考笔记入口,内容陆续更新中。",
       "chapters": [
         {
@@ -827,13 +961,21 @@
           "count": 0
         }
       ],
-      "papers": [],
+      "papers": [
+        {
+          "id": "paper-1",
+          "name": "历年真题(建设中)",
+          "file": "banks/junzhi-sanzhiyifu/paper-1.json",
+          "count": 0,
+          "durationSec": 5400
+        }
+      ],
       "materials": []
     },
     {
       "id": "jineng-dengji",
       "name": "职业技能等级(电工·汽修·中式烹调等)",
-      "category": "职业技能",
+      "category": "职业技能等级/生活服务",
       "desc": "各工种职业技能等级备考笔记入口,内容陆续更新中。",
       "chapters": [
         {
@@ -843,13 +985,21 @@
           "count": 0
         }
       ],
-      "papers": [],
+      "papers": [
+        {
+          "id": "paper-1",
+          "name": "历年真题(建设中)",
+          "file": "banks/jineng-dengji/paper-1.json",
+          "count": 0,
+          "durationSec": 5400
+        }
+      ],
       "materials": []
     },
     {
       "id": "renli-ziyuan",
       "name": "人力资源管理师",
-      "category": "职业技能",
+      "category": "职业技能等级/生活服务",
       "desc": "人力资源管理师备考笔记与自测练习入口,内容陆续更新中。",
       "chapters": [
         {
@@ -859,13 +1009,21 @@
           "count": 0
         }
       ],
-      "papers": [],
+      "papers": [
+        {
+          "id": "paper-1",
+          "name": "历年真题(建设中)",
+          "file": "banks/renli-ziyuan/paper-1.json",
+          "count": 0,
+          "durationSec": 5400
+        }
+      ],
       "materials": []
     },
     {
       "id": "yuying-jiazheng",
       "name": "育婴员·保育师·家政",
-      "category": "职业技能",
+      "category": "职业技能等级/生活服务",
       "desc": "育婴员/保育师/家政类备考笔记入口,内容陆续更新中。",
       "chapters": [
         {
@@ -875,13 +1033,21 @@
           "count": 0
         }
       ],
-      "papers": [],
+      "papers": [
+        {
+          "id": "paper-1",
+          "name": "历年真题(建设中)",
+          "file": "banks/yuying-jiazheng/paper-1.json",
+          "count": 0,
+          "durationSec": 5400
+        }
+      ],
       "materials": []
     },
     {
       "id": "xinli-zixunshi",
       "name": "心理咨询师",
-      "category": "职业技能",
+      "category": "职业技能等级/生活服务",
       "desc": "心理咨询相关知识笔记入口,内容陆续更新中。",
       "chapters": [
         {
@@ -891,13 +1057,21 @@
           "count": 0
         }
       ],
-      "papers": [],
+      "papers": [
+        {
+          "id": "paper-1",
+          "name": "历年真题(建设中)",
+          "file": "banks/xinli-zixunshi/paper-1.json",
+          "count": 0,
+          "durationSec": 5400
+        }
+      ],
       "materials": []
     },
     {
       "id": "chaji-kafei",
       "name": "茶艺师·咖啡师",
-      "category": "职业技能",
+      "category": "职业技能等级/生活服务",
       "desc": "茶艺师/咖啡师等兴趣类笔记入口,内容陆续更新中。",
       "chapters": [
         {
@@ -907,13 +1081,21 @@
           "count": 0
         }
       ],
-      "papers": [],
+      "papers": [
+        {
+          "id": "paper-1",
+          "name": "历年真题(建设中)",
+          "file": "banks/chaji-kafei/paper-1.json",
+          "count": 0,
+          "durationSec": 5400
+        }
+      ],
       "materials": []
     },
     {
       "id": "kuaiji-zhicheng",
       "name": "会计职称(初·中·高级)",
-      "category": "财经会计",
+      "category": "财经/会计",
       "desc": "会计职称各级别备考笔记入口,内容陆续更新中。",
       "chapters": [
         {
@@ -923,13 +1105,21 @@
           "count": 0
         }
       ],
-      "papers": [],
+      "papers": [
+        {
+          "id": "paper-1",
+          "name": "历年真题(建设中)",
+          "file": "banks/kuaiji-zhicheng/paper-1.json",
+          "count": 0,
+          "durationSec": 5400
+        }
+      ],
       "materials": []
     },
     {
       "id": "cpa",
       "name": "注册会计师(CPA)",
-      "category": "财经会计",
+      "category": "财经/会计",
       "desc": "注册会计师备考笔记与自测练习入口,内容陆续更新中。",
       "chapters": [
         {
@@ -939,13 +1129,21 @@
           "count": 0
         }
       ],
-      "papers": [],
+      "papers": [
+        {
+          "id": "paper-1",
+          "name": "历年真题(建设中)",
+          "file": "banks/cpa/paper-1.json",
+          "count": 0,
+          "durationSec": 5400
+        }
+      ],
       "materials": []
     },
     {
       "id": "shuiwushi",
       "name": "税务师",
-      "category": "财经会计",
+      "category": "财经/会计",
       "desc": "税务师备考笔记与自测练习入口,内容陆续更新中。",
       "chapters": [
         {
@@ -955,13 +1153,21 @@
           "count": 0
         }
       ],
-      "papers": [],
+      "papers": [
+        {
+          "id": "paper-1",
+          "name": "历年真题(建设中)",
+          "file": "banks/shuiwushi/paper-1.json",
+          "count": 0,
+          "durationSec": 5400
+        }
+      ],
       "materials": []
     },
     {
       "id": "jingjishi",
       "name": "经济师(初·中级)",
-      "category": "财经会计",
+      "category": "财经/会计",
       "desc": "经济师备考笔记与自测练习入口,内容陆续更新中。",
       "chapters": [
         {
@@ -971,7 +1177,15 @@
           "count": 0
         }
       ],
-      "papers": [],
+      "papers": [
+        {
+          "id": "paper-1",
+          "name": "历年真题(建设中)",
+          "file": "banks/jingjishi/paper-1.json",
+          "count": 0,
+          "durationSec": 5400
+        }
+      ],
       "materials": []
     }
   ]
