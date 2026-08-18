@@ -1,0 +1,2002 @@
+{
+  "questions": [
+    {
+      "id": "yijian-jingji-ch1-q1",
+      "type": "single",
+      "stem": "现金流入与现金流出之差称为（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "现金流量"
+        },
+        {
+          "key": "B",
+          "text": "净现金流量"
+        },
+        {
+          "key": "C",
+          "text": "净现金"
+        },
+        {
+          "key": "D",
+          "text": "纯现金"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jingji-ch1-q2",
+      "type": "single",
+      "stem": "（）是国家凭借政治权力参与国民收入分配和再分配的一种货币形式。",
+      "options": [
+        {
+          "key": "A",
+          "text": "税金"
+        },
+        {
+          "key": "B",
+          "text": "市场"
+        },
+        {
+          "key": "C",
+          "text": "利润"
+        },
+        {
+          "key": "D",
+          "text": "保险"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jingji-ch1-q3",
+      "type": "single",
+      "stem": "财务现金流量表按其评价的角度不同分类，其中不包括（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "项目财务现金流量表"
+        },
+        {
+          "key": "B",
+          "text": "资本金财务现金流量表"
+        },
+        {
+          "key": "C",
+          "text": "投资各方财务现金流量表"
+        },
+        {
+          "key": "D",
+          "text": "项目差额财务现金流量表"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jingji-ch1-q4",
+      "type": "single",
+      "stem": "动态投资回收期是把投资项目各年的净现金流量按基准收益率（）之后，再来推算投资回收期，这是它与静态投资回收期的根本区别。",
+      "options": [
+        {
+          "key": "A",
+          "text": "直接加减"
+        },
+        {
+          "key": "B",
+          "text": "动态加减"
+        },
+        {
+          "key": "C",
+          "text": "动态变化"
+        },
+        {
+          "key": "D",
+          "text": "折成现值"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jingji-ch1-q5",
+      "type": "single",
+      "stem": "某建设项目估计总投资2800万元，项目建成后各年净收益为320万元，利率为10%则该项目的静态投资回收期为：（）年。",
+      "options": [
+        {
+          "key": "A",
+          "text": "11"
+        },
+        {
+          "key": "B",
+          "text": "8.75"
+        },
+        {
+          "key": "C",
+          "text": "9.95"
+        },
+        {
+          "key": "D",
+          "text": "7.5"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jingji-ch1-q6",
+      "type": "single",
+      "stem": "偿债能力指标主要有：借款偿还期、（）、偿债备付率。",
+      "options": [
+        {
+          "key": "A",
+          "text": "利息备付率"
+        },
+        {
+          "key": "B",
+          "text": "利息偿还期"
+        },
+        {
+          "key": "C",
+          "text": "借款偿还期"
+        },
+        {
+          "key": "D",
+          "text": "偿债额"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jingji-ch1-q7",
+      "type": "single",
+      "stem": "基准收益率应（）单位资金成本和单位投资的机会成本，这样才能使资金得到最有效的利用。",
+      "options": [
+        {
+          "key": "A",
+          "text": "高于"
+        },
+        {
+          "key": "B",
+          "text": "低于"
+        },
+        {
+          "key": "C",
+          "text": "等于"
+        },
+        {
+          "key": "D",
+          "text": "不低于"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jingji-ch1-q8",
+      "type": "single",
+      "stem": "敏感系数高，表示项目效益对该不确定因素的影响（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "敏感程度低"
+        },
+        {
+          "key": "B",
+          "text": "敏感程度高"
+        },
+        {
+          "key": "C",
+          "text": "不会有影响"
+        },
+        {
+          "key": "D",
+          "text": "敏感程度与之无关"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jingji-ch1-q9",
+      "type": "single",
+      "stem": "价值工程涉及到价值、（）和寿命周期成本等三个基本要素。",
+      "options": [
+        {
+          "key": "A",
+          "text": "价格"
+        },
+        {
+          "key": "B",
+          "text": "成本"
+        },
+        {
+          "key": "C",
+          "text": "功能"
+        },
+        {
+          "key": "D",
+          "text": "费用"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jingji-ch1-q10",
+      "type": "single",
+      "stem": "某项目期望在2年后获得一笔100万的投资额，在年利率为10%情况下，每年年末应提存的金额是（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "40万"
+        },
+        {
+          "key": "B",
+          "text": "50万"
+        },
+        {
+          "key": "C",
+          "text": "47.6万"
+        },
+        {
+          "key": "D",
+          "text": "45万"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jingji-ch1-q11",
+      "type": "single",
+      "stem": "设备的（）就是指设备从投入使用到因技术落后而被淘汰所延续的时间。",
+      "options": [
+        {
+          "key": "A",
+          "text": "经济寿命"
+        },
+        {
+          "key": "B",
+          "text": "技术寿命"
+        },
+        {
+          "key": "C",
+          "text": "自然寿命"
+        },
+        {
+          "key": "D",
+          "text": "物质寿命"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jingji-ch1-q12",
+      "type": "single",
+      "stem": "设备的经济寿命是指从开始投入到（）的使用年限。",
+      "options": [
+        {
+          "key": "A",
+          "text": "经常发生故障"
+        },
+        {
+          "key": "B",
+          "text": "设备报废"
+        },
+        {
+          "key": "C",
+          "text": "维修费大于其收益"
+        },
+        {
+          "key": "D",
+          "text": "其年度费用最小"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jingji-ch1-q13",
+      "type": "single",
+      "stem": "增量（），就是增量投资所带来的经营成本上的节约来补偿其增量投资的年限。",
+      "options": [
+        {
+          "key": "A",
+          "text": "效益"
+        },
+        {
+          "key": "B",
+          "text": "投资率"
+        },
+        {
+          "key": "C",
+          "text": "投资收益率"
+        },
+        {
+          "key": "D",
+          "text": "投资回收期"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jingji-ch1-q14",
+      "type": "single",
+      "stem": "在利润表中，纳入分部报表的各个部分最多有（）个。",
+      "options": [
+        {
+          "key": "A",
+          "text": "8"
+        },
+        {
+          "key": "B",
+          "text": "9"
+        },
+        {
+          "key": "C",
+          "text": "12"
+        },
+        {
+          "key": "D",
+          "text": "10"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jingji-ch1-q15",
+      "type": "single",
+      "stem": "在商品交易中，最典型、最常见的商业信用形式为（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "预收账款"
+        },
+        {
+          "key": "B",
+          "text": "应付票据"
+        },
+        {
+          "key": "C",
+          "text": "应付账款"
+        },
+        {
+          "key": "D",
+          "text": "周转信贷"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jingji-ch1-q16",
+      "type": "single",
+      "stem": "延期付款，但早付款可享受现金折扣，如“2/10，1/20，0/30”表示的意思是（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "表示在信用期间10天内付款可享受2折的折扣，20天内付款可享受1折的折扣，超过20天则全额付款"
+        },
+        {
+          "key": "B",
+          "text": "表示在信用期间10天内付款可享受2天的回旋余地，20天内付款可享受1天的回旋余地，超过20天则无回旋余地"
+        },
+        {
+          "key": "C",
+          "text": "表示如果在超过信用期限10天内就交2％的滞纳金，超过20天就交1％的滞纳金"
+        },
+        {
+          "key": "D",
+          "text": "表示在信用期间10天内付款可享受2％的折扣，20天内付款可享受1％的折扣，超过20天则全额付款"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jingji-ch1-q17",
+      "type": "single",
+      "stem": "已知某企业的税前利润为500万元，所得税为50万元，平均资产总额为1000万元，求企业的总资产报酬率（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "50％"
+        },
+        {
+          "key": "B",
+          "text": "45％"
+        },
+        {
+          "key": "C",
+          "text": "5％"
+        },
+        {
+          "key": "D",
+          "text": "49.7％"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jingji-ch1-q18",
+      "type": "single",
+      "stem": "反映企业盈利能力的核心指标是（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "利润"
+        },
+        {
+          "key": "B",
+          "text": "净资产收益率"
+        },
+        {
+          "key": "C",
+          "text": "总资产报酬率"
+        },
+        {
+          "key": "D",
+          "text": "平均净资产"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jingji-ch1-q19",
+      "type": "single",
+      "stem": "表示与上年相比，企业销售(营业)收入的增减变化情况，是评价企业成长状况和发展能力的重要指标是指（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "净资产收益率"
+        },
+        {
+          "key": "B",
+          "text": "资产负债率"
+        },
+        {
+          "key": "C",
+          "text": "资本积累率"
+        },
+        {
+          "key": "D",
+          "text": "营业增长率"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jingji-ch1-q20",
+      "type": "single",
+      "stem": "（）是企业当年所有者权益总的增长率，反映了企业所有者权益在当年的变动水平。",
+      "options": [
+        {
+          "key": "A",
+          "text": "净资产收益率"
+        },
+        {
+          "key": "B",
+          "text": "资产负债率"
+        },
+        {
+          "key": "C",
+          "text": "资本积累率"
+        },
+        {
+          "key": "D",
+          "text": "营业增长率"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jingji-ch1-q21",
+      "type": "single",
+      "stem": "借贷记账法的记账规则是（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "有借必有贷，借贷必相等"
+        },
+        {
+          "key": "B",
+          "text": "一借一贷"
+        },
+        {
+          "key": "C",
+          "text": "一借多贷"
+        },
+        {
+          "key": "D",
+          "text": "一贷多借"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jingji-ch1-q22",
+      "type": "single",
+      "stem": "专用记账凭证按其反映的经济业务内容不同分类，下列选项不属于专用记账凭证的是（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "收款凭证"
+        },
+        {
+          "key": "B",
+          "text": "付款凭证"
+        },
+        {
+          "key": "C",
+          "text": "转账凭证"
+        },
+        {
+          "key": "D",
+          "text": "原始凭证"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jingji-ch1-q23",
+      "type": "single",
+      "stem": "以下各项说法正确的是（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "材料费是指直接从事建筑安装工程施工生产工人开支的各项费用"
+        },
+        {
+          "key": "B",
+          "text": "人工费是指施工过程中耗用的构成工程实体的原材料、辅助材料、构配件、零件和半成品的费用"
+        },
+        {
+          "key": "C",
+          "text": "施工机械使用费是指施工机械在规定的使用年限内，陆续收回其原值及购置资金的时间价值"
+        },
+        {
+          "key": "D",
+          "text": "直接工程费是指施工过程中耗费的构成工程实体的各项费用"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jingji-ch1-q24",
+      "type": "single",
+      "stem": "仓储损耗费属于下列中的（）费用。",
+      "options": [
+        {
+          "key": "A",
+          "text": "运输损耗费"
+        },
+        {
+          "key": "B",
+          "text": "检验试验费"
+        },
+        {
+          "key": "C",
+          "text": "采购及保管费"
+        },
+        {
+          "key": "D",
+          "text": "材料运杂费"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jingji-ch1-q25",
+      "type": "single",
+      "stem": "公式∑(施工机械台班消耗量×机械台班单价)是（）的计算公式。",
+      "options": [
+        {
+          "key": "A",
+          "text": "机械台班单价"
+        },
+        {
+          "key": "B",
+          "text": "台班折旧费"
+        },
+        {
+          "key": "C",
+          "text": "运输损耗率"
+        },
+        {
+          "key": "D",
+          "text": "施工机械使用费"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jingji-ch1-q26",
+      "type": "single",
+      "stem": "大修理费指施工机械按规定的大修理间隔台班进行必要的大修理，以恢复其（）功能所需的费用。",
+      "options": [
+        {
+          "key": "A",
+          "text": "全部"
+        },
+        {
+          "key": "B",
+          "text": "部分"
+        },
+        {
+          "key": "C",
+          "text": "正常"
+        },
+        {
+          "key": "D",
+          "text": "主要"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jingji-ch1-q27",
+      "type": "single",
+      "stem": "经常修理费不包括（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "为保障机械正常运转所需替换设备与随机配备工具附具的摊销和维护费用"
+        },
+        {
+          "key": "B",
+          "text": "机械运转中日常保养所需润滑与擦拭的材料费用"
+        },
+        {
+          "key": "C",
+          "text": "为组织采购、供应和保管材料过程中所需要的各项费用"
+        },
+        {
+          "key": "D",
+          "text": "机械停滞期间的维护和保养费用"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jingji-ch1-q28",
+      "type": "single",
+      "stem": "规费的内容不包括（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "住房公积金"
+        },
+        {
+          "key": "B",
+          "text": "危险作业意外伤害保险"
+        },
+        {
+          "key": "C",
+          "text": "社会保障费"
+        },
+        {
+          "key": "D",
+          "text": "劳动保险费"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jingji-ch1-q29",
+      "type": "single",
+      "stem": "企业管理办公用的文具、纸张、账表、印刷、邮电、书报、会议、水电、烧水和集体取暖(包括现场临时宿舍取暖)用煤等费用计入（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "财务费"
+        },
+        {
+          "key": "B",
+          "text": "固定资产使用费"
+        },
+        {
+          "key": "C",
+          "text": "办公费"
+        },
+        {
+          "key": "D",
+          "text": "工具用具使用费"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jingji-ch1-q30",
+      "type": "single",
+      "stem": "下列各选项中不属于差旅交通费的是（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "工伤人员就医路费"
+        },
+        {
+          "key": "B",
+          "text": "六个月以上的病假人员工资"
+        },
+        {
+          "key": "C",
+          "text": "退职一次性路费"
+        },
+        {
+          "key": "D",
+          "text": "管理部门使用的交通工具的油料、燃料、养路费及牌照费"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jingji-ch1-q31",
+      "type": "single",
+      "stem": "（）是指管理和试验部门及附属生产单位使用的属于固定资产的房屋、设备仪器等的折旧、大修、维修或租赁费。",
+      "options": [
+        {
+          "key": "A",
+          "text": "办公费"
+        },
+        {
+          "key": "B",
+          "text": "工具用具使用费"
+        },
+        {
+          "key": "C",
+          "text": "财产保险费"
+        },
+        {
+          "key": "D",
+          "text": "固定资产使用费"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jingji-ch1-q32",
+      "type": "single",
+      "stem": "下列各选项中不计入劳动保险费的是（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "住勤补助费"
+        },
+        {
+          "key": "B",
+          "text": "抚恤费"
+        },
+        {
+          "key": "C",
+          "text": "易地安家补助费"
+        },
+        {
+          "key": "D",
+          "text": "职工退职金"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jingji-ch1-q33",
+      "type": "single",
+      "stem": "公式：(直接费＋间接费＋利润)×税率，计算的是（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "措施费"
+        },
+        {
+          "key": "B",
+          "text": "利润"
+        },
+        {
+          "key": "C",
+          "text": "税金"
+        },
+        {
+          "key": "D",
+          "text": "人工费"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jingji-ch1-q34",
+      "type": "single",
+      "stem": "如该分项的直接工程费仅为人工费，无材料费和机械费时，可采用以（）为基数计算该分项的间接费和利润。",
+      "options": [
+        {
+          "key": "A",
+          "text": "人工费和机械费合计"
+        },
+        {
+          "key": "B",
+          "text": "人工费、材料费、机械费合计"
+        },
+        {
+          "key": "C",
+          "text": "人工费"
+        },
+        {
+          "key": "D",
+          "text": "材料费、机械费合计"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jingji-ch1-q35",
+      "type": "single",
+      "stem": "工程量清单一个最基本的功能是（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "为计价和询标、评标的基础"
+        },
+        {
+          "key": "B",
+          "text": "为施工过程中支付工程进度款提供依据"
+        },
+        {
+          "key": "C",
+          "text": "为办理竣工结算及工程索赔提供了重要依据"
+        },
+        {
+          "key": "D",
+          "text": "作为信息的载体，为潜在的投标者提供必要的信息"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jingji-ch1-q36",
+      "type": "single",
+      "stem": "清单一经报出，即被认为是包括了所有应该发生的措施项目的（）费用。",
+      "options": [
+        {
+          "key": "A",
+          "text": "大部分"
+        },
+        {
+          "key": "B",
+          "text": "主要"
+        },
+        {
+          "key": "C",
+          "text": "全部"
+        },
+        {
+          "key": "D",
+          "text": "一小部分"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jingji-ch1-q37",
+      "type": "single",
+      "stem": "《建设工程工程量清单计价规范(GB50500-2003)》是（）工程量清单编制的依据。",
+      "options": [
+        {
+          "key": "A",
+          "text": "措施"
+        },
+        {
+          "key": "B",
+          "text": "分部分项工程量清单"
+        },
+        {
+          "key": "C",
+          "text": "其他项目名称和相应数量"
+        },
+        {
+          "key": "D",
+          "text": "以上均正确"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jingji-ch1-q38",
+      "type": "single",
+      "stem": "封面由（）填写、签字、盖章。",
+      "options": [
+        {
+          "key": "A",
+          "text": "投标人"
+        },
+        {
+          "key": "B",
+          "text": "标底编制人"
+        },
+        {
+          "key": "C",
+          "text": "建筑设计单位"
+        },
+        {
+          "key": "D",
+          "text": "招标人"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jingji-ch1-q39",
+      "type": "single",
+      "stem": "工程量清单计价应包括按招标文件规定，完成工程量清单所列项目的（）费用。",
+      "options": [
+        {
+          "key": "A",
+          "text": "主要"
+        },
+        {
+          "key": "B",
+          "text": "全部"
+        },
+        {
+          "key": "C",
+          "text": "一大部分"
+        },
+        {
+          "key": "D",
+          "text": "一小部分"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jingji-ch1-q40",
+      "type": "single",
+      "stem": "于2003年7月1日实施的《建设工程工程量清单计价规范》GB50500-2003，规定工程量清单应采用（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "工料单价法计价"
+        },
+        {
+          "key": "B",
+          "text": "综合复计价"
+        },
+        {
+          "key": "C",
+          "text": "综合单价法计价"
+        },
+        {
+          "key": "D",
+          "text": "工料复计价"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jingji-ch1-q41",
+      "type": "single",
+      "stem": "办公和生活家具购置费按照设计定员人数乘以（）计算。",
+      "options": [
+        {
+          "key": "A",
+          "text": "单项指标"
+        },
+        {
+          "key": "B",
+          "text": "差旅交通费"
+        },
+        {
+          "key": "C",
+          "text": "综合指标"
+        },
+        {
+          "key": "D",
+          "text": "职工福利费"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jingji-ch1-q42",
+      "type": "single",
+      "stem": "建筑安装工程费用定额是按（）划分的。",
+      "options": [
+        {
+          "key": "A",
+          "text": "按照投资的费用性质"
+        },
+        {
+          "key": "B",
+          "text": "按照专业性质"
+        },
+        {
+          "key": "C",
+          "text": "按照主编单位和管理权限"
+        },
+        {
+          "key": "D",
+          "text": "按同一性质的施工过程"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jingji-ch1-q43",
+      "type": "single",
+      "stem": "全国统一定额是由（）综合全国工程建设中技术和施工组织管理的情况编制。",
+      "options": [
+        {
+          "key": "A",
+          "text": "国家建设行政主管部门"
+        },
+        {
+          "key": "B",
+          "text": "行业建设行政主管部门"
+        },
+        {
+          "key": "C",
+          "text": "地区建设行政主管部门"
+        },
+        {
+          "key": "D",
+          "text": "施工企业"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jingji-ch1-q44",
+      "type": "single",
+      "stem": "不属于计时测定的方法的有（）等。",
+      "options": [
+        {
+          "key": "A",
+          "text": "写实记录法"
+        },
+        {
+          "key": "B",
+          "text": "测时法"
+        },
+        {
+          "key": "C",
+          "text": "背诵法"
+        },
+        {
+          "key": "D",
+          "text": "工作日写实法"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jingji-ch1-q45",
+      "type": "single",
+      "stem": "材料消耗定额是在合理和节约使用材料的条件下，生产单位质量（）产品所必须消耗的一定规格的材料、成品、半成品和水、电等资源的数量标准。",
+      "options": [
+        {
+          "key": "A",
+          "text": "低劣"
+        },
+        {
+          "key": "B",
+          "text": "合格"
+        },
+        {
+          "key": "C",
+          "text": "高档"
+        },
+        {
+          "key": "D",
+          "text": "抵档"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jingji-ch1-q46",
+      "type": "single",
+      "stem": "涨价预备费估算一般是以（）为基数。",
+      "options": [
+        {
+          "key": "A",
+          "text": "设备购置费"
+        },
+        {
+          "key": "B",
+          "text": "基本预备费"
+        },
+        {
+          "key": "C",
+          "text": "分年工程涨价费用"
+        },
+        {
+          "key": "D",
+          "text": "分年工程费用"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jingji-ch1-q47",
+      "type": "single",
+      "stem": "总包商在投标时还要考虑总包商的（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "管理费"
+        },
+        {
+          "key": "B",
+          "text": "保险费"
+        },
+        {
+          "key": "C",
+          "text": "临时设施工程费"
+        },
+        {
+          "key": "D",
+          "text": "施工单位人工费"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jingji-ch1-q48",
+      "type": "multiple",
+      "stem": "关于临界点的叙述不正确的是（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "临界点是指项目不允许不确定因素向不利方向变化的极限值"
+        },
+        {
+          "key": "B",
+          "text": "超过极限，项目的效益指标将不可行"
+        },
+        {
+          "key": "C",
+          "text": "如当产品价格下降到某一值时，财务内部收益率将刚好等于基准收益率，此点称为产品价格下降的临界点"
+        },
+        {
+          "key": "D",
+          "text": "临界点可用临界点百分比或者临界值分别表示某一变量的变化达到一定的百分比或者一定数值时，项目的效益指标将从不可行转变为可行临界点"
+        },
+        {
+          "key": "E",
+          "text": "通过计算临界点来进行敏感性分析"
+        }
+      ],
+      "answer": [
+        "A",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-jingji-ch1-q49",
+      "type": "multiple",
+      "stem": "为了引导和启发进行创造性的思考，常用的方案创造方法有以下几种：（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "头脑风暴法"
+        },
+        {
+          "key": "B",
+          "text": "歌顿法(模糊目标法)"
+        },
+        {
+          "key": "C",
+          "text": "专家意见法(德尔菲法)"
+        },
+        {
+          "key": "D",
+          "text": "专家检查法"
+        },
+        {
+          "key": "E",
+          "text": "ABC法"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-jingji-ch1-q50",
+      "type": "multiple",
+      "stem": "价值工程研究对象的选择一般说来有以下几个原则：（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "从设计方面看，对产品结构复杂、性能和技术指标差距大、体积大、重量大的产品进行价值工程活动，可使产品结构、性能、技术水平得到优化，从而提高产品价值"
+        },
+        {
+          "key": "B",
+          "text": "从生产方面看，对量多面广、关键部件、工艺复杂、原材料消耗高和废品率高的产品或零部件，特别是对量多、产值比重大的产品，只要成本下降，所取得总的经济效果就大"
+        },
+        {
+          "key": "C",
+          "text": "从市场销售方面看，选择用户意见多、系统配套差、维修能力低、竞争力差、利润率低的，生命周期较长的，市场上畅销但竞争激烈的、新产品、新工艺等进行价值工程活动，以赢得消费者的认同，占领更大的市场份额"
+        },
+        {
+          "key": "D",
+          "text": "从成本方面看，选择成本高于同类产品、成本比重大的，如材料费、管理费、人工费等，推行价值工程就是要降低成本，以最低的寿命周期成本可靠地实现必要功能"
+        },
+        {
+          "key": "E",
+          "text": "从功能方面看，产品要符合用户的要求，而且使成本控制在最低"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-jingji-ch1-q51",
+      "type": "multiple",
+      "stem": "影响资金时间价值的因素很多，其中主要有：（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "资金的使用时间"
+        },
+        {
+          "key": "B",
+          "text": "资金的形态"
+        },
+        {
+          "key": "C",
+          "text": "资金投入和回收的特点"
+        },
+        {
+          "key": "D",
+          "text": "资金数量的大小"
+        },
+        {
+          "key": "E",
+          "text": "资金周转的速度"
+        }
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-jingji-ch1-q52",
+      "type": "multiple",
+      "stem": "对新技术、新工艺和新材料应用方案技术经济比较分析的方法有（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "折算费用法"
+        },
+        {
+          "key": "B",
+          "text": "ABC分析法"
+        },
+        {
+          "key": "C",
+          "text": "其他指标分析"
+        },
+        {
+          "key": "D",
+          "text": "增量投资分析法"
+        },
+        {
+          "key": "E",
+          "text": "歌顿法"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-jingji-ch1-q53",
+      "type": "multiple",
+      "stem": "对于施工企业来说资产负债表的附表内容应包括（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "利润分配表"
+        },
+        {
+          "key": "B",
+          "text": "资产减值准备明细表"
+        },
+        {
+          "key": "C",
+          "text": "股东权益增减变动表"
+        },
+        {
+          "key": "D",
+          "text": "应交增值税明细表"
+        },
+        {
+          "key": "E",
+          "text": "现金流量表"
+        }
+      ],
+      "answer": [
+        "B",
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-jingji-ch1-q54",
+      "type": "multiple",
+      "stem": "下面选项中，在现金流量表中属于\"现金\"的是：（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "库存现金"
+        },
+        {
+          "key": "B",
+          "text": "其他货币资金"
+        },
+        {
+          "key": "C",
+          "text": "通知金融企业便可提取的定期存款"
+        },
+        {
+          "key": "D",
+          "text": "不能随时支取的定期存款"
+        },
+        {
+          "key": "E",
+          "text": "银行存款"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-jingji-ch1-q55",
+      "type": "multiple",
+      "stem": "在财务报表中，利润表的主要结构形式分为（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "多步式利润表"
+        },
+        {
+          "key": "B",
+          "text": "单步式利润表"
+        },
+        {
+          "key": "C",
+          "text": "报告式利润表"
+        },
+        {
+          "key": "D",
+          "text": "账户式利润表"
+        },
+        {
+          "key": "E",
+          "text": "年计利润表"
+        }
+      ],
+      "answer": [
+        "A",
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-jingji-ch1-q56",
+      "type": "multiple",
+      "stem": "在资产分类中，属于其他资产的有：（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "流动资产"
+        },
+        {
+          "key": "B",
+          "text": "长期投资"
+        },
+        {
+          "key": "C",
+          "text": "无形资产"
+        },
+        {
+          "key": "D",
+          "text": "临时设施"
+        },
+        {
+          "key": "E",
+          "text": "长期待摊费用"
+        }
+      ],
+      "answer": [
+        "D",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-jingji-ch1-q57",
+      "type": "multiple",
+      "stem": "下列形式适合长期借款利率的有（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "固定利率"
+        },
+        {
+          "key": "B",
+          "text": "变动利率"
+        },
+        {
+          "key": "C",
+          "text": "浮动利率"
+        },
+        {
+          "key": "D",
+          "text": "单利率"
+        },
+        {
+          "key": "E",
+          "text": "复利率"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-jingji-ch1-q58",
+      "type": "multiple",
+      "stem": "企业应当组织工程、技术、财会等部门的相关专业人员对编制的概预算重审查（）等是否真实、完整、准确。",
+      "options": [
+        {
+          "key": "A",
+          "text": "编制依据"
+        },
+        {
+          "key": "B",
+          "text": "定额套用"
+        },
+        {
+          "key": "C",
+          "text": "单价的计算方法"
+        },
+        {
+          "key": "D",
+          "text": "项目内容"
+        },
+        {
+          "key": "E",
+          "text": "工程量的计算"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-jingji-ch1-q59",
+      "type": "multiple",
+      "stem": "会计核算具有（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "有效性"
+        },
+        {
+          "key": "B",
+          "text": "完整性"
+        },
+        {
+          "key": "C",
+          "text": "连续性"
+        },
+        {
+          "key": "D",
+          "text": "系统性"
+        },
+        {
+          "key": "E",
+          "text": "综合性"
+        }
+      ],
+      "answer": [
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-jingji-ch1-q60",
+      "type": "multiple",
+      "stem": "采购及保管费是指为组织采购、供应和保管材料过程中所需要的各项费用，包括（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "采购费"
+        },
+        {
+          "key": "B",
+          "text": "仓储费"
+        },
+        {
+          "key": "C",
+          "text": "工地保管费"
+        },
+        {
+          "key": "D",
+          "text": "保健费用"
+        },
+        {
+          "key": "E",
+          "text": "修理费"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-jingji-ch1-q61",
+      "type": "multiple",
+      "stem": "措施费是指为完成工程项目施工，发生于该工程（）和（）的非工程实体项目的费用。",
+      "options": [
+        {
+          "key": "A",
+          "text": "施工前"
+        },
+        {
+          "key": "B",
+          "text": "施工过程中"
+        },
+        {
+          "key": "C",
+          "text": "施工后"
+        },
+        {
+          "key": "D",
+          "text": "竣工验收时"
+        },
+        {
+          "key": "E",
+          "text": "生产准备时"
+        }
+      ],
+      "answer": [
+        "A",
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-jingji-ch1-q62",
+      "type": "multiple",
+      "stem": "措施费包括（）所需要的各项费用。",
+      "options": [
+        {
+          "key": "A",
+          "text": "环境保护费"
+        },
+        {
+          "key": "B",
+          "text": "大型机械设备进出场及安拆费"
+        },
+        {
+          "key": "C",
+          "text": "混凝土、钢筋混凝土模板及支架费"
+        },
+        {
+          "key": "D",
+          "text": "工程排污费"
+        },
+        {
+          "key": "E",
+          "text": "已完工程及设备保护费"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-jingji-ch1-q63",
+      "type": "multiple",
+      "stem": "规费是指（）规定必须缴纳的费用(简称规费)",
+      "options": [
+        {
+          "key": "A",
+          "text": "政府"
+        },
+        {
+          "key": "B",
+          "text": "团体"
+        },
+        {
+          "key": "C",
+          "text": "企业"
+        },
+        {
+          "key": "D",
+          "text": "有关权力部门"
+        },
+        {
+          "key": "E",
+          "text": "学校"
+        }
+      ],
+      "answer": [
+        "A",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-jingji-ch1-q64",
+      "type": "multiple",
+      "stem": "下列各项中不正确的是（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "以直接费为计算基础，规费费率＝×人工占直接费的比例"
+        },
+        {
+          "key": "B",
+          "text": "以人工费为计算基础，规费费率＝×100%"
+        },
+        {
+          "key": "C",
+          "text": "以直接费为计算基础，规费费率＝×100%"
+        },
+        {
+          "key": "D",
+          "text": "以人工费和机械费合计为计算基础，规费费率＝×100%"
+        },
+        {
+          "key": "E",
+          "text": "以人工费和机械费合计为计算基础，规费费率＝×人工占直接费的比例"
+        }
+      ],
+      "answer": [
+        "B",
+        "C",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-jingji-ch1-q65",
+      "type": "multiple",
+      "stem": "下列各选项中正确的是（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "行业统一定额一般只在本行业的范围内使用"
+        },
+        {
+          "key": "B",
+          "text": "全国统一定额在全国范围内执行"
+        },
+        {
+          "key": "C",
+          "text": "地区统一定额仅在本地区范围内使用"
+        },
+        {
+          "key": "D",
+          "text": "企业定额只在本企业内部使用"
+        },
+        {
+          "key": "E",
+          "text": "补充定额只能在指定的范围内使用"
+        }
+      ],
+      "answer": [
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-jingji-ch1-q66",
+      "type": "multiple",
+      "stem": "关于各选项正确的是（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "每工产量＝1/单位产品时间定额(工日)"
+        },
+        {
+          "key": "B",
+          "text": "时间定额×产量定额＝1"
+        },
+        {
+          "key": "C",
+          "text": "综合时间定额＝∑各单项(工序)时间定额"
+        },
+        {
+          "key": "D",
+          "text": "综合产量定额＝1/综合时间定额(工日)"
+        },
+        {
+          "key": "E",
+          "text": "时间定额＋产量定额＝1"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-jingji-ch1-q67",
+      "type": "multiple",
+      "stem": "估算工作按投资决策过程的进展的阶段的三个不同是（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "阶段"
+        },
+        {
+          "key": "B",
+          "text": "操作人"
+        },
+        {
+          "key": "C",
+          "text": "工作深度"
+        },
+        {
+          "key": "D",
+          "text": "工作性质"
+        },
+        {
+          "key": "E",
+          "text": "估算的准确度"
+        }
+      ],
+      "answer": [
+        "A",
+        "C",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    }
+  ]
+}

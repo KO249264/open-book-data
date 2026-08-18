@@ -1,0 +1,6767 @@
+{
+  "questions": [
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q1",
+      "type": "judge",
+      "stem": "智慧建筑的设计应充分考虑用户体验，实现建筑环境的自适应调节。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q2",
+      "type": "judge",
+      "stem": "智慧建筑中，所有设备必须接入互联网才能实现智能化功能。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q3",
+      "type": "judge",
+      "stem": "智慧建筑设计标准鼓励采用可再生能源和绿色建材，以降低环境影响。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q4",
+      "type": "judge",
+      "stem": "智慧建筑的信息安全等级可以根据建筑规模大小适当降低。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q5",
+      "type": "single",
+      "stem": "以下哪项不是智慧建筑的基本特征?",
+      "options": [
+        {
+          "key": "A",
+          "text": "信息化"
+        },
+        {
+          "key": "B",
+          "text": "自动化"
+        },
+        {
+          "key": "C",
+          "text": "人工干预为主"
+        },
+        {
+          "key": "D",
+          "text": "智能化"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q6",
+      "type": "single",
+      "stem": "智慧建筑中用于实现设备互联互通的核心技术是:",
+      "options": [
+        {
+          "key": "A",
+          "text": "云计算"
+        },
+        {
+          "key": "B",
+          "text": "物联网"
+        },
+        {
+          "key": "C",
+          "text": "人工智能"
+        },
+        {
+          "key": "D",
+          "text": "大数据"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q7",
+      "type": "single",
+      "stem": "智慧建筑设计标准中，对数据存储的要求是:",
+      "options": [
+        {
+          "key": "A",
+          "text": "所有数据必须本地存储"
+        },
+        {
+          "key": "B",
+          "text": "数据可随意删除"
+        },
+        {
+          "key": "C",
+          "text": "数据应分类存储并保障安全"
+        },
+        {
+          "key": "D",
+          "text": "数据无需备份"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q8",
+      "type": "multiple",
+      "stem": "以下哪些系统属于智慧建筑中常见的智能化子系统?",
+      "options": [
+        {
+          "key": "A",
+          "text": "楼宇自动化系统"
+        },
+        {
+          "key": "B",
+          "text": "安防监控系统"
+        },
+        {
+          "key": "C",
+          "text": "智能照明系统"
+        },
+        {
+          "key": "D",
+          "text": "手工抄表系统"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q9",
+      "type": "multiple",
+      "stem": "智慧建筑设计应遵循的原则包括:",
+      "options": [
+        {
+          "key": "A",
+          "text": "以人为本"
+        },
+        {
+          "key": "B",
+          "text": "技术先进"
+        },
+        {
+          "key": "C",
+          "text": "经济合理"
+        },
+        {
+          "key": "D",
+          "text": "忽视环境影响"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q10",
+      "type": "judge",
+      "stem": "民用建筑室内应采取隔声、吸声、消声等措施，以满足使用功能要求。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q11",
+      "type": "judge",
+      "stem": "建筑内有减少反射声要求的空间，应做隔声设计。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "应为吸声设计",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q12",
+      "type": "judge",
+      "stem": "竣工验收时，应对建筑采光、照明进行检测，包括照度、色温、显色指数等项目。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q13",
+      "type": "judge",
+      "stem": "建筑工程中混凝土外加剂的氨释放量不应大于0.5%。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "应不大于0.10%)",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q14",
+      "type": "single",
+      "stem": "下列哪项不是建筑光环境竣工验收时应检测的项目?",
+      "options": [
+        {
+          "key": "A",
+          "text": "照度"
+        },
+        {
+          "key": "B",
+          "text": "色温"
+        },
+        {
+          "key": "C",
+          "text": "反射比"
+        },
+        {
+          "key": "D",
+          "text": "土壤氡浓度"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q15",
+      "type": "single",
+      "stem": "建筑热工设计中，下列哪类地区应进行防热设计?",
+      "options": [
+        {
+          "key": "A",
+          "text": "严寒地区"
+        },
+        {
+          "key": "B",
+          "text": "夏热冬暖地区"
+        },
+        {
+          "key": "C",
+          "text": "寒冷B区"
+        },
+        {
+          "key": "D",
+          "text": "温和A区"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q16",
+      "type": "single",
+      "stem": "建筑内产生噪声的设备对敏感房间产生干扰时，应采取以下哪项措施?",
+      "options": [
+        {
+          "key": "A",
+          "text": "增加照明"
+        },
+        {
+          "key": "B",
+          "text": "设置空气净化器"
+        },
+        {
+          "key": "C",
+          "text": "采取隔振措施"
+        },
+        {
+          "key": "D",
+          "text": "增加通风口"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q17",
+      "type": "multiple",
+      "stem": "以下哪些属于建筑环境中应控制的室内空气质量污染物?",
+      "options": [
+        {
+          "key": "A",
+          "text": "氢"
+        },
+        {
+          "key": "B",
+          "text": "甲醛"
+        },
+        {
+          "key": "C",
+          "text": "二氧化碳"
+        },
+        {
+          "key": "D",
+          "text": "氨"
+        },
+        {
+          "key": "E",
+          "text": "氧气"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q18",
+      "type": "multiple",
+      "stem": "建筑光环境中，以下哪些场所应设置应急照明?",
+      "options": [
+        {
+          "key": "A",
+          "text": "存在爆炸性危险的场所"
+        },
+        {
+          "key": "B",
+          "text": "有洁净度要求的场所"
+        },
+        {
+          "key": "C",
+          "text": "有腐蚀性气体的场所"
+        },
+        {
+          "key": "D",
+          "text": "所有办公区域"
+        },
+        {
+          "key": "E",
+          "text": "室外休闲步道"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q19",
+      "type": "judge",
+      "stem": "《绿色建筑评价标准》GB/T50378-2019是2024年首次发布的新标准。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "2019年发布，2024年6月发布局部修订版，10月实施。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q20",
+      "type": "judge",
+      "stem": "2014年《绿色建筑评价标准》修订版首次引入了星级评价体系。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "2014年首次全面修订，首次引入星级评价体系(基本级、一星级、二星级、三星级)",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q21",
+      "type": "judge",
+      "stem": "《绿色建筑评价标准》适用于工业厂房、仓库等工业建筑。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "工业建筑不适用，应按《绿色工业建筑评价标准》 (GB/T50878-2013)执行。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q22",
+      "type": "judge",
+      "stem": "绿色建筑评价的五大性能是安全耐久、健康舒适、生活便利、资源节约、环境宜居。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "标准将评价指标体系从原“ 四节一环保”升级为五大类，明确为安全耐久、健康舒适、生活便利、资源节约、环境宜居。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q23",
+      "type": "judge",
+      "stem": "2024年版《绿色建筑评价标准》将绿色建材应用比例纳入控制项，一星级≥10%、二星级≥20%、三星级≥30%。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "2024年修订版明确一星级≥ 10%、二星级≥20%、三星级 ≥30%。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q24",
+      "type": "judge",
+      "stem": "绿色建筑评价的双重机制是指设计阶段预评价和运行阶段评价。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "创新性建立'设计阶段预评价 '与'运行阶段评价'双重机制",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q25",
+      "type": "judge",
+      "stem": "基本级绿色建筑评价要求总得分≥60分，每类指标评分项得分≥30%满分。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "。基本级只需满足所有控制项，总得分≥60分是一星级",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q26",
+      "type": "single",
+      "stem": "《绿色建筑评价标准》的发展历程可概括为",
+      "options": [
+        {
+          "key": "A",
+          "text": "二版二修"
+        },
+        {
+          "key": "B",
+          "text": "三版三修"
+        },
+        {
+          "key": "C",
+          "text": "四版四修"
+        },
+        {
+          "key": "D",
+          "text": "五版五修"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "要标求准发。展历程可概括为'三版三修'，体现绿色发展理念持续深化。",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q27",
+      "type": "single",
+      "stem": "2014年《绿色建筑评价标准》修订版的主要创新是",
+      "options": [
+        {
+          "key": "A",
+          "text": "首次引入星级评价体系"
+        },
+        {
+          "key": "B",
+          "text": "将绿色建材应用比例纳入控制项"
+        },
+        {
+          "key": "C",
+          "text": "强化低碳效能"
+        },
+        {
+          "key": "D",
+          "text": "优化可再生能源评价方式"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "2014年首次全面修订，首次引入星级评价体系，形成'六要素'评价体系。",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q28",
+      "type": "single",
+      "stem": "《绿色建筑评价标准》GB/T50378-2019(2024年版)的适用范围不包括",
+      "options": [
+        {
+          "key": "A",
+          "text": "城镇住宅"
+        },
+        {
+          "key": "B",
+          "text": "农村住宅"
+        },
+        {
+          "key": "C",
+          "text": "工业厂房"
+        },
+        {
+          "key": "D",
+          "text": "商业建筑"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "工业建筑不适用，应按《绿色工业建筑评价标准》 (GB/T50878-2013)执行。",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q29",
+      "type": "single",
+      "stem": "绿色建筑评价的等级划分中，三星级的要求是",
+      "options": [
+        {
+          "key": "A",
+          "text": "≥60分"
+        },
+        {
+          "key": "B",
+          "text": "≥70分"
+        },
+        {
+          "key": "C",
+          "text": "≥85分"
+        },
+        {
+          "key": "D",
+          "text": "≥90分分"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "三星级要求总得分≥85分，且每类指标评分项得分≥30% 满分。",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q30",
+      "type": "single",
+      "stem": "2024年版《绿色建筑评价标准》对绿色建材应用比例的要求是",
+      "options": [
+        {
+          "key": "A",
+          "text": "一星级≥5%"
+        },
+        {
+          "key": "B",
+          "text": "一星级≥10%"
+        },
+        {
+          "key": "C",
+          "text": "一星级≥15%"
+        },
+        {
+          "key": "D",
+          "text": "一星级≥20%"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "2024年修订版明确一星级≥ 10%、二星级≥20%、三星级 ≥30%。",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q31",
+      "type": "single",
+      "stem": "绿色建筑评价的双重机制是指",
+      "options": [
+        {
+          "key": "A",
+          "text": "设计与施工阶段评价"
+        },
+        {
+          "key": "B",
+          "text": "设计预评价与运行阶段评价"
+        },
+        {
+          "key": "C",
+          "text": "实施与运营阶段评价"
+        },
+        {
+          "key": "D",
+          "text": "设计与运营阶段评价"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "创新性建立'设计阶段预评价 '与'运行阶段评价'双重机制。",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q32",
+      "type": "multiple",
+      "stem": "绿色建筑评价原则包括",
+      "options": [
+        {
+          "key": "A",
+          "text": "因地制宜"
+        },
+        {
+          "key": "B",
+          "text": "全寿命期"
+        },
+        {
+          "key": "C",
+          "text": "安全耐久"
+        },
+        {
+          "key": "D",
+          "text": "节能优先"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "评价原则包括因地制宜(A)、全寿命期(B)、安全耐久 (C)，'节能优先'是早期理念",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q33",
+      "type": "multiple",
+      "stem": "2024年版《绿色建筑评价标准》重点修订内容包括",
+      "options": [
+        {
+          "key": "A",
+          "text": "增强低碳效能"
+        },
+        {
+          "key": "B",
+          "text": "强化性能保障"
+        },
+        {
+          "key": "C",
+          "text": "优化可再生能源评价方式"
+        },
+        {
+          "key": "D",
+          "text": "强化建筑外观设计"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "修订重点包括增强低碳效能、强化性能保障、优化可再生能源评价方式",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q34",
+      "type": "multiple",
+      "stem": "绿色建筑评价的五大性能包括",
+      "options": [
+        {
+          "key": "A",
+          "text": "安全耐久"
+        },
+        {
+          "key": "B",
+          "text": "健康舒适"
+        },
+        {
+          "key": "C",
+          "text": "生活便利"
+        },
+        {
+          "key": "D",
+          "text": "资源节约"
+        },
+        {
+          "key": "E",
+          "text": "环境宜居"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "analysis": "核心为五大性能:安全耐久 (A)、健康舒适(B)、生活便利(C)、资源节约(D)、环境",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q35",
+      "type": "multiple",
+      "stem": "2024年版《绿色建筑评价标准》对评价流程的要求包括",
+      "options": [
+        {
+          "key": "A",
+          "text": "设计预评价在施工图审查后"
+        },
+        {
+          "key": "B",
+          "text": "运行评价在竣工验收后一年"
+        },
+        {
+          "key": "C",
+          "text": "评价主体为具备资质机构"
+        },
+        {
+          "key": "D",
+          "text": "依据包括控制项与评分项评定"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q36",
+      "type": "judge",
+      "stem": "数字化转型是建筑企业的“可选项”，而非“必答题”",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "“数字化转型是数字时代企业生存和发展的必答题”，不是可选项。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q37",
+      "type": "judge",
+      "stem": "数字产业化和产业数字化是同一概念，只是表述不同。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "明确区分，前者是“技术本身的产业化”，后者是“传统产业用数字技术改造”。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q38",
+      "type": "judge",
+      "stem": "中国数字经济规模在2024年已达到53.9万亿元，预计2035年将突破105万亿元。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": ":2024年为53.9万亿元，预测 2035年接近105万亿元人民币。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q39",
+      "type": "single",
+      "stem": "以下哪一项不是“数字化转型成熟度模型”的主要视角?",
+      "options": [
+        {
+          "key": "A",
+          "text": "战略牵引"
+        },
+        {
+          "key": "B",
+          "text": "技术基础"
+        },
+        {
+          "key": "C",
+          "text": "财务回报"
+        },
+        {
+          "key": "D",
+          "text": "数据驱动"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": ":提到的六个视角为:战略、需求、技术、数据、流程、组织，未提及“财务回报”",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q40",
+      "type": "single",
+      "stem": "住建部公布的智能建造试点城市共有多少个?",
+      "options": [
+        {
+          "key": "A",
+          "text": "20个"
+        },
+        {
+          "key": "B",
+          "text": "22个"
+        },
+        {
+          "key": "C",
+          "text": "24个"
+        },
+        {
+          "key": "D",
+          "text": "26个"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q41",
+      "type": "single",
+      "stem": "以下哪一项最能体现“产业数字化”的核心特征?",
+      "options": [
+        {
+          "key": "A",
+          "text": "开发新的AI算法"
+        },
+        {
+          "key": "B",
+          "text": "建筑企业引入BIM技术优化施工流程"
+        },
+        {
+          "key": "C",
+          "text": "成立数字科技公司"
+        },
+        {
+          "key": "D",
+          "text": "销售建筑设计软件"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "产业数字化强调“传统产业+ 数字技术”BIM用于施工流程优化是典型应用。",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q42",
+      "type": "multiple",
+      "stem": "以下哪些内容在各地“智能建造评价标准”中被普遍采用?",
+      "options": [
+        {
+          "key": "A",
+          "text": "数字化设计"
+        },
+        {
+          "key": "B",
+          "text": "绿色建材加分"
+        },
+        {
+          "key": "C",
+          "text": "智能生产"
+        },
+        {
+          "key": "D",
+          "text": "智慧运维与数据协同"
+        },
+        {
+          "key": "E",
+          "text": "综合效益评估"
+        }
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "analysis": "“数字化设计、智能生产、智慧运维、综合效益”是各地标准共性内容;绿色建材加分仅为部分城市(如佛山)特色，不属于“普遍采用”。",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q43",
+      "type": "multiple",
+      "stem": "建筑行业数字化转型方法论中提到的“六步法”包括以下哪些?",
+      "options": [
+        {
+          "key": "A",
+          "text": "以战略为牵引"
+        },
+        {
+          "key": "B",
+          "text": "以财务为核心"
+        },
+        {
+          "key": "C",
+          "text": "以流程为突破"
+        },
+        {
+          "key": "D",
+          "text": "以组织为关键"
+        },
+        {
+          "key": "E",
+          "text": "以技术为基础"
+        }
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "analysis": "PPT明确列出六步法:战略、需求、技术、数据、流程、组织;“财务”不在其中。",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q44",
+      "type": "judge",
+      "stem": "2019年4月19日，《中国建造2035战略研究》项目启动会召开。该研究将为我国实现从“建造强国”向“建造大国”的转变提供强有力的支撑。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "实现从“建造大国”向“建造强国”的转变。说反了。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q45",
+      "type": "judge",
+      "stem": "以云计算、大数据、人工智能、3D打印等技术为代表的第四次工业革命已经来临，社会进入智能时代。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q46",
+      "type": "judge",
+      "stem": "建筑工程建造的发展是循序渐进的，已经经历了机械化建造、数字化建造和信息化建造三大发展阶段，目前正处于智能化的阶段。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "目前正处于信息化到智能化的过渡阶段。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q47",
+      "type": "judge",
+      "stem": "目前，我国建造行业从业人员约2000万人，居各行业之首。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "我国建造行业从业人员约 4000万人。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q48",
+      "type": "single",
+      "stem": "以下哪一项不是丁烈云院士对智能建造阐述中提到的“三化 ”",
+      "options": [
+        {
+          "key": "A",
+          "text": "数字化"
+        },
+        {
+          "key": "B",
+          "text": "智能化"
+        },
+        {
+          "key": "C",
+          "text": "工业化"
+        },
+        {
+          "key": "D",
+          "text": "网络化"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "智能建造，是新一代信息技术与工程建造融合形成的工程建造创新模式:即利用以“ 三化”(数字化、网络化和智",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q49",
+      "type": "single",
+      "stem": "以云计算、大数据、人工智能、3D打印等技术为代表的第()次工业革命已经来临,社会进入智能时代。",
+      "options": [
+        {
+          "key": "A",
+          "text": "一"
+        },
+        {
+          "key": "B",
+          "text": "二"
+        },
+        {
+          "key": "C",
+          "text": "三"
+        },
+        {
+          "key": "D",
+          "text": "四"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "能第化四次) 工业革命已经来临，社会进入智能时代。",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q50",
+      "type": "single",
+      "stem": "以下哪一项不是丁烈云院士对智能建造阐述中提到的“三算”。",
+      "options": [
+        {
+          "key": "A",
+          "text": "算据"
+        },
+        {
+          "key": "B",
+          "text": "算法"
+        },
+        {
+          "key": "C",
+          "text": "云计算"
+        },
+        {
+          "key": "D",
+          "text": "算力"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "“三算”指算据、算力、算法",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q51",
+      "type": "multiple",
+      "stem": "智能建造工程师主要有以下几类?",
+      "options": [
+        {
+          "key": "A",
+          "text": "智能建造标准管理类"
+        },
+        {
+          "key": "B",
+          "text": "智能建造具研发类"
+        },
+        {
+          "key": "C",
+          "text": "智能建造工程应用类"
+        },
+        {
+          "key": "D",
+          "text": "智能建造工程教育类"
+        },
+        {
+          "key": "E",
+          "text": "智能建造现场施工类"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "智能建造工程师:智能建造标准管理类、智能建造具研发类、智能建造工程应用类、智能建造工程教育类",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q52",
+      "type": "multiple",
+      "stem": "智能建造工程师基本素质主要体现在以下哪些方面。",
+      "options": [
+        {
+          "key": "A",
+          "text": "职业道德"
+        },
+        {
+          "key": "B",
+          "text": "健康素质"
+        },
+        {
+          "key": "C",
+          "text": "团队协作"
+        },
+        {
+          "key": "D",
+          "text": "专业素质"
+        },
+        {
+          "key": "E",
+          "text": "沟通协调"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "analysis": "智能建造工程师基本素质主要体现在职业道德、健康素质、团队协作及沟通协调等",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q53",
+      "type": "judge",
+      "stem": "智能机器人必须具有人类的外形才能执行任务。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "大多数机器人是设计来执行特定任务的机器，而不考虑其模样”，说明机器人不一定需要具备人类外形。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q54",
+      "type": "judge",
+      "stem": "ROS是一种操作系统，专门为机器人开发提供中间件、工具和社区支持。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "ROS(Robot Operating System)提供消息传递系统 (中间件)、开发工具、功能模块和全球社区支持。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q55",
+      "type": "judge",
+      "stem": "智能机器人的“智能”体现在自主性、适应性、交互性、学习性和协同性五个方面。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": ":明确列出了智能机器人的五大智能特性，并分别进行了详细解释。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q56",
+      "type": "judge",
+      "stem": "工业4.0的代表事件是人工智能入选中国媒体十大流行语和ChatGPT的发布。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q57",
+      "type": "single",
+      "stem": "以下哪项技术用于解决“机器人在哪里”的问题?",
+      "options": [
+        {
+          "key": "A",
+          "text": "图像处理"
+        },
+        {
+          "key": "B",
+          "text": "路径规划"
+        },
+        {
+          "key": "C",
+          "text": "SLAM"
+        },
+        {
+          "key": "D",
+          "text": "运动学建模"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "SLAM(同时定位与地图构建) 是用于解决“机器人在哪里 ”的核心技术。",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q58",
+      "type": "single",
+      "stem": "以下哪项不是智能机器人操作系统的核心组成?",
+      "options": [
+        {
+          "key": "A",
+          "text": "消息传递系统"
+        },
+        {
+          "key": "B",
+          "text": "工具集"
+        },
+        {
+          "key": "C",
+          "text": "硬件驱动"
+        },
+        {
+          "key": "D",
+          "text": "社区支持"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "ROS的四大核心组成是:Plumbing(消息传递)、 Tools(工具)、Capabilities (功能)Community(社区)，未提及“硬件驱动”",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q59",
+      "type": "single",
+      "stem": "以下哪种轮子结构可以实现任意方向移动?",
+      "options": [
+        {
+          "key": "A",
+          "text": "差分驱动轮"
+        },
+        {
+          "key": "B",
+          "text": "麦克纳姆轮"
+        },
+        {
+          "key": "C",
+          "text": "履带式"
+        },
+        {
+          "key": "D",
+          "text": "双轮驱动"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "麦克纳姆轮可实现平移与旋转解耦，支持任意方向运动",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q60",
+      "type": "multiple",
+      "stem": "以下哪些属于智能机器人四大核心技术?",
+      "options": [
+        {
+          "key": "A",
+          "text": "图像处理"
+        },
+        {
+          "key": "B",
+          "text": "路径规划"
+        },
+        {
+          "key": "C",
+          "text": "语音识别"
+        },
+        {
+          "key": "D",
+          "text": "运动学"
+        },
+        {
+          "key": "E",
+          "text": "SLAM"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "analysis": "。智能机器人四大核心技术包括:SLAM(测绘与定位)、路径规划、运动学和图像处理。语音识别未被列入。",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q61",
+      "type": "multiple",
+      "stem": "以下哪些属于智能机器人的“智能”体现?",
+      "options": [
+        {
+          "key": "A",
+          "text": "自主性"
+        },
+        {
+          "key": "B",
+          "text": "适应性"
+        },
+        {
+          "key": "C",
+          "text": "交互性"
+        },
+        {
+          "key": "D",
+          "text": "可扩展性"
+        },
+        {
+          "key": "E",
+          "text": "学习性"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q62",
+      "type": "judge",
+      "stem": "建筑业是中国国民经济的支柱产业之一。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "到2030年，全球建筑行业产值预计将增长50%，达到15.5 万亿美元。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q63",
+      "type": "judge",
+      "stem": "到2030年，全球建筑行业产值预计将增长50%，达到15.5万亿美元。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "文档中提到“到2030年，全球建筑行业的产值将增长 85%，达到15.5万亿美元”，不是50%。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q64",
+      "type": "judge",
+      "stem": "建筑机器人目前已经在建筑工地上实现了大规模普及应用",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "文档指出建筑机器人“还停留在局部单一环节的简单动作应用”，存在“实用性差 ”\"成本高”等问题，尚未大规模普及。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q65",
+      "type": "judge",
+      "stem": "建筑机器人发展面临的一个主要问题是专业跨度大，难以理解和适配复制",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "文档明确提到\"专业跨度大” 是建筑机器人面临的问题之",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q66",
+      "type": "single",
+      "stem": "以下哪项不是建筑机器人核心组成部分?",
+      "options": [
+        {
+          "key": "A",
+          "text": "控制器"
+        },
+        {
+          "key": "B",
+          "text": "减速器"
+        },
+        {
+          "key": "C",
+          "text": "传感器"
+        },
+        {
+          "key": "D",
+          "text": "建筑模板"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "一文档中列出的机器人核心组成部分包括电机、控制器、伺服系统、减速器、传感器及算法，未提及建筑模板。",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q67",
+      "type": "single",
+      "stem": "关于建筑机器人发展现状，以下说法正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "国内建筑机器人发展起步早，技术领先全球"
+        },
+        {
+          "key": "B",
+          "text": "国内产品同质化严重，多数源于博智林体系"
+        },
+        {
+          "key": "C",
+          "text": "建筑机器人已全面替代人工施工"
+        },
+        {
+          "key": "D",
+          "text": "建筑机器人成本远低于人工"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "文档指出“国内建筑机器人研发起步于碧桂园”“国内产品同质化较为严重”，其他选项与事实不符。",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q68",
+      "type": "single",
+      "stem": "以下哪项政策明确提到推广建筑机器人?",
+      "options": [
+        {
+          "key": "A",
+          "text": "《关于加快新型建筑工业化发展的若干意见》"
+        },
+        {
+          "key": "B",
+          "text": "《中国制造2025》"
+        },
+        {
+          "key": "C",
+          "text": "《绿色建筑行动方案》"
+        },
+        {
+          "key": "D",
+          "text": "《建筑节能与绿色建筑发展十三五规划》"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q69",
+      "type": "multiple",
+      "stem": "以下哪些因素推动了建筑机器人发展的有利形势?",
+      "options": [
+        {
+          "key": "A",
+          "text": "政策推动"
+        },
+        {
+          "key": "B",
+          "text": "建筑工艺标准化提升"
+        },
+        {
+          "key": "C",
+          "text": "人工智能与传感器技术成熟"
+        },
+        {
+          "key": "D",
+          "text": "建筑工人数量持续增加"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "政策密集出台、建筑工艺标准化提升、AI与传感器技术成熟等因素，有利于建筑机器人发展。建筑工人数量实际在减少。",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q70",
+      "type": "multiple",
+      "stem": "建筑机器人目前面临的主要问题包括",
+      "options": [
+        {
+          "key": "A",
+          "text": "场景复杂、非标准化"
+        },
+        {
+          "key": "B",
+          "text": "成本高于人工"
+        },
+        {
+          "key": "C",
+          "text": "专业跨度大，难以适配工艺"
+        },
+        {
+          "key": "D",
+          "text": "已完全实现人机协作"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "建筑机器人面临的诸多问题，包括场景复杂、成跨度大等，尚未实现完全的人机",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q71",
+      "type": "judge",
+      "stem": "GIS(Geographic Information System或 Geo-Information system),又称为地理信息系统，它是一种空间信息系统。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q72",
+      "type": "judge",
+      "stem": "数字孪生(Digital Twin)是一种集成多物理、多尺度、多学科属性，具有实时同步、忠实映射、高保真度特性，能够实现物理世界与信息世界交互与融合的技术手段。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q73",
+      "type": "judge",
+      "stem": "物联网是新一代信息技术的重要组成部分，也是信息化时代的重要发展阶段，其英文名称是 Internet of things(loT)，即物物相连的互联网。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "物联网是新一代信息技术的重要组成部分，也是信息化时代的重要发展阶段，其英文名称是Internet of things(loT)，即物物相连的互联网。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q74",
+      "type": "judge",
+      "stem": "AI是智能系统的简称。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "AI是人工智能的简称，全英文名为Artificial Intelligence，缩写为AI。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q75",
+      "type": "single",
+      "stem": "( )是需要新处理模式才能具有更强的决策力、洞察发现力和流程优化能力来适应海量、高增长率和多样化的信息资产。",
+      "options": [
+        {
+          "key": "A",
+          "text": "智能化"
+        },
+        {
+          "key": "B",
+          "text": "人工智能"
+        },
+        {
+          "key": "C",
+          "text": "云技术"
+        },
+        {
+          "key": "D",
+          "text": "大数据"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "“大数据”(Big Data)是需要新处理模式才能具有更强的决策力、洞察发现力和流程优化能力来适应海量、高增长率和多样化的信息资产",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q76",
+      "type": "single",
+      "stem": "以下哪一项不属于建筑中使用到的智能设备的( )。",
+      "options": [
+        {
+          "key": "A",
+          "text": "智能安全帽"
+        },
+        {
+          "key": "B",
+          "text": "3D打印机"
+        },
+        {
+          "key": "C",
+          "text": "三维扫描仪"
+        },
+        {
+          "key": "D",
+          "text": "塔吊"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "智能塔吊才属于智能设备",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q77",
+      "type": "multiple",
+      "stem": "虚拟现实技术的基本特征有哪些?(多选)",
+      "options": [
+        {
+          "key": "A",
+          "text": "浸没感"
+        },
+        {
+          "key": "B",
+          "text": "交互性"
+        },
+        {
+          "key": "C",
+          "text": "多感知性"
+        },
+        {
+          "key": "D",
+          "text": "构想性"
+        },
+        {
+          "key": "E",
+          "text": "智能性"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "虚拟现实技术的基本特征:浸没感、交互性、多感知性、构想性，四个特点",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q78",
+      "type": "multiple",
+      "stem": "数字李生技术通过对物理实体进行( )后，建立高保真度的数字孪生模型。",
+      "options": [
+        {
+          "key": "A",
+          "text": "数据采集"
+        },
+        {
+          "key": "B",
+          "text": "数据处理"
+        },
+        {
+          "key": "C",
+          "text": "数据挖掘"
+        },
+        {
+          "key": "D",
+          "text": "数据传输"
+        },
+        {
+          "key": "E",
+          "text": "数据协调"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "analysis": "数字孪生技术通过对物理实体进行数据采集、数据处理、数据传输后，建立高保真度的数字孪生模型，实现对物理世界的描述、诊断、决策、预测等一系列功能。",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q79",
+      "type": "judge",
+      "stem": "美国密歇根大学 Michael Grieves 教授于 2002年在 PLM课程中首次提出“数字孪生”这一概念。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "Michael Grieves 教授 2002 年在 PLM 课程中引入的是“ 镜像空间模型概念，2011年在《Virtually Perfect》一书中才将该概念模型称之为 “数字孪生”，并非2002年首次提出“数字孪生”概念",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q80",
+      "type": "judge",
+      "stem": "数字孪生技术的典型特征包含数据驱动、模型支撑、软件定义、精准映射、智能决策。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "。数字孪生技术的典型特征有数据驱动、模型支撑、软件定义、精准映射、智能决策，与题目表述一致。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q81",
+      "type": "judge",
+      "stem": ":国内2018年陶飞等提出了数字孪生车间的概念，并设计了产品数字孪生的体系架构。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "2018年陶飞等分析数字孪生理论研究进展，论证五维结构模型和六条应用准则，提出数字孪生车间概念;而设计产品数字孪生体系架构的是庄存波等人，并非陶飞等，题目混淆了不同学者的成果",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q82",
+      "type": "judge",
+      "stem": "数字孪生在智能建造中的技术架构分为物理层、数据层、模型层、功能层四层。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "。数字孪生在智能建造中的技术架构分为物理层、数据层、模型层、功能层四层，题目表述符合该内容。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q83",
+      "type": "single",
+      "stem": "以下哪个机构对数字孪生的定义为“充分利用物理模型、传感器更新、运行历史等数据，集成多学科、多物理量、多尺度、多概率的仿真过程?",
+      "options": [
+        {
+          "key": "A",
+          "text": "德勤"
+        },
+        {
+          "key": "B",
+          "text": "美国国防采办大学"
+        },
+        {
+          "key": "C",
+          "text": "埃森哲"
+        },
+        {
+          "key": "D",
+          "text": "密歇根大学"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q84",
+      "type": "single",
+      "stem": "我国政府将数字孪生城市作为实现智慧城市的必要途径和有效手段，并在哪个区域的规划纲要中明确指出要坚持数字城市与现实城市同步规划、同步建设?",
+      "options": [
+        {
+          "key": "A",
+          "text": "北京"
+        },
+        {
+          "key": "B",
+          "text": "上海"
+        },
+        {
+          "key": "C",
+          "text": "雄安新区"
+        },
+        {
+          "key": "D",
+          "text": "深圳"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q85",
+      "type": "single",
+      "stem": "数字孪生在智能建造中，虚拟空间的模型不包括以下哪种类型?",
+      "options": [
+        {
+          "key": "A",
+          "text": "BIM模型"
+        },
+        {
+          "key": "B",
+          "text": "有限元模型"
+        },
+        {
+          "key": "C",
+          "text": "扫描点云模型"
+        },
+        {
+          "key": "D",
+          "text": "思维导图模型"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q86",
+      "type": "multiple",
+      "stem": "数字孪生技术概述中，从概念来看的核心点包括以下哪些?",
+      "options": [
+        {
+          "key": "A",
+          "text": "物理世界与数字世界之间的映射"
+        },
+        {
+          "key": "B",
+          "text": "动态的映射"
+        },
+        {
+          "key": "C",
+          "text": "仅为物理的映射，不包含逻辑、行为、流程的映射"
+        },
+        {
+          "key": "D",
+          "text": "物理世界与数字世界是双向关系"
+        },
+        {
+          "key": "E",
+          "text": "数字孪生体与实体孪生体全生命周期共生共长"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "analysis": "数字孪生技术包括物理世界与数字世界之间的映射、动态的映射、不仅是物理映射，还包含逻辑、行为、流程的映射、物理世界与数字世界是双向关系、数字孪生体与实体孪生体全生命周期共生共长。选项C中“仅为物理的映射”表述错误，排除 C，其余ABDE均为正确核心点",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q87",
+      "type": "multiple",
+      "stem": "数字孪生在智能建造应用的系统层，具体功能包括以下哪些?",
+      "options": [
+        {
+          "key": "A",
+          "text": "施工进度监控"
+        },
+        {
+          "key": "B",
+          "text": "安全风险预警"
+        },
+        {
+          "key": "C",
+          "text": "数据采集"
+        },
+        {
+          "key": "D",
+          "text": "施工工艺模拟"
+        },
+        {
+          "key": "E",
+          "text": "数据预处理"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "analysis": "系统层具体功能有施工进度监控、安全风险预警、自动化监测、施工工艺模拟、构件吊装指导等;数据采集和数据预处理属于数据处理层的步骤，并非系统功能排除CE",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q88",
+      "type": "judge",
+      "stem": "地理信息系统(GIS)是在计算机硬、软件系统支持下，仅对地球表层部分空间中的地理分布数据进行采集、储存、管理、运算、分析、显示和描述的技术系统。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "GIS的定义，GIS是在计算机硬、软件系统支持下，对“ 整个或部分”地球表层(包括大气层)空间中的有关地理分布数据进行采集、储存等操作的技术系统，题目中“仅对地球表层部分空间\"的表述缩小了数据覆盖范围，与定",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q89",
+      "type": "judge",
+      "stem": "GIS技术的优势中，分布式存储与管理可综合用于PB级矢量数据、文件型数据和百亿级瓦片等异构数据的存储，并在内核上扩展大数据引擎提供统一管理接口。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "义GIS不技符术的优势”有分布式存储与管理通过大规模分布式存储系统，综合用于PB级矢量数据、文件型数据和百亿级瓦片等异构数据的存储，且在内核上扩展大数据引擎提供统一管理接口，题目表述与该内容一致。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q90",
+      "type": "judge",
+      "stem": "国内GIS技术发展的特点包含三维GIS、组件式GIS、Web GIS和移动GIS，其中 WebGIS无法实现跨平台应用。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "Web GIS的优点之一是具备跨平台特性，能够基于JAVA技术实现一次编程、多处运行，题目中“无法实现跨平台应用”的表述与该优势相",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q91",
+      "type": "single",
+      "stem": "首次提出地理信息系统”这一概念，并与他人合作建立加拿大地理信息系统的是以下哪位学者 ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "美国的 Michael Grieves"
+        },
+        {
+          "key": "B",
+          "text": "加拿大的Roger F.Tomlinson"
+        },
+        {
+          "key": "C",
+          "text": "日本的某科研人员"
+        },
+        {
+          "key": "D",
+          "text": "印度的遥感技术专家"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q92",
+      "type": "single",
+      "stem": "以下哪种技术不属于GIS与其他技术合称的“3S 系统”?",
+      "options": [
+        {
+          "key": "A",
+          "text": "全球定位系统(GPS)"
+        },
+        {
+          "key": "B",
+          "text": "遥感系统(RS)"
+        },
+        {
+          "key": "C",
+          "text": "大数据处理技术(Big Data)"
+        },
+        {
+          "key": "D",
+          "text": "地理信息系统 (GIS)"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "地理信息系统(GIS)与全球定位系统(GPS)、遥感系统(RS) 合称“3S系统”;C选项大数据处理技术不属于“3S系统 ”范畴，因此答案为C。",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q93",
+      "type": "single",
+      "stem": "国内GIS技术应用中，集GIS、GPS、移动通信技术于一身，以平板电脑或智能手机为移动终端，适用于野外数据采集的是哪种技术?",
+      "options": [
+        {
+          "key": "A",
+          "text": "三维GIS"
+        },
+        {
+          "key": "B",
+          "text": "组件式GIS"
+        },
+        {
+          "key": "C",
+          "text": "WebGISD"
+        },
+        {
+          "key": "D",
+          "text": "移动GIS"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q94",
+      "type": "multiple",
+      "stem": "以下属于GIS定义中包含的核心内容有哪些?",
+      "options": [
+        {
+          "key": "A",
+          "text": "使用的工具为计算机软硬件系统"
+        },
+        {
+          "key": "B",
+          "text": "研究对象是空间物体的地理分布数据及属性"
+        },
+        {
+          "key": "C",
+          "text": "数据建立过程包括采集、存贮、管理、处理、检索、分析和显示"
+        },
+        {
+          "key": "D",
+          "text": "仅能处理二维空间数据，无法处理三维数据"
+        },
+        {
+          "key": "E",
+          "text": "无需依赖数据库即可实现数据管理"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "GS定义包含三方面核心内容:1使用工具为计算机软硬件系统:2研究对象是空间物体的地理分布数据及属性:3 数据建立过程包括采集、存贮、管理等操作。D选项错误，因国内GIS发展已包含三维GIS技术，可处理三维数据;E选项错误，GIS以地理空间数据库为基础，依赖数据库实现数据管理，故正确答",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q95",
+      "type": "multiple",
+      "stem": "在GIS技术在智能建造的具体应用中，以下属于其应用场景的有哪些?",
+      "options": [
+        {
+          "key": "A",
+          "text": "资源清查与管理"
+        },
+        {
+          "key": "B",
+          "text": "区域规划"
+        },
+        {
+          "key": "C",
+          "text": "灾害监测"
+        },
+        {
+          "key": "D",
+          "text": "土地调查和地籍管理"
+        },
+        {
+          "key": "E",
+          "text": "普通商品零售价格统计"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "案为ABC。",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q96",
+      "type": "judge",
+      "stem": "CPU是嵌入式设备中唯一的核心处理器类型，MCU不具备处理能力。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "物联网系统通常由设备端、云平台和应用端三部分组成，形成“端-云-用”的铁三角结构。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q97",
+      "type": "judge",
+      "stem": "JSON是一种轻量级的数据交换格式，适合用于物联网设备与云平台之间的数据通信。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "“物联网通信数据格式”指出JSON具有“轻量级、自描述、易于理解”的特点，并强调其“适合于服务器和客户端的交互”。在物联网典型架构中，设备端通过 MQTT 等协议上传的数据普遍采用 JSON格式，便于云端解析与",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q98",
+      "type": "judge",
+      "stem": "应用端开发中，HTML负责网页样式设计，CSS负责网页结构构建。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "存应储用端。开发技术部分说明:HTML用于“构建网页结构、定义内容元素”，CSS用于 “页面样式设计实现布局、颜色和字体等视觉效果”。题干把二者职责完全颠倒，因此错误。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q99",
+      "type": "judge",
+      "stem": "物联网系统通常由设备端、云平台和应用端三部分组成，形成“端-云-用”的铁三角结构。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "“系统组成:设备端+云平台+ 应用端 ‘铁三角’”，说明三者通过Wi-Fi/4G/LoRa等传输工作，构成“端云一体” 的核心智能体系。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q100",
+      "type": "single",
+      "stem": "以下哪一项不属于PPT 明确列出的嵌入式设备开发流程?",
+      "options": [
+        {
+          "key": "A",
+          "text": "硬件设计与选择"
+        },
+        {
+          "key": "B",
+          "text": "板级支持包(BSP)开发"
+        },
+        {
+          "key": "C",
+          "text": "用户界面(UI)美学设计"
+        },
+        {
+          "key": "D",
+          "text": "安全与可靠性设计"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "开发方式共列出8个步骤:硬件设计一BSP一操作系统/中间件一应用软件一系统集成测试一嵌入式联网通信一性能优化与功耗管理一安全与可靠性设计。其中并不要求 “UI美学设计”，该内容属于应用端或产品层面的视觉设计，非嵌入式开发核心流",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q101",
+      "type": "single",
+      "stem": "在智能建造现场需要“低功耗、广覆盖、中低速率”传输传感器数据，应选择哪种无线通信技术?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Wi-Fi"
+        },
+        {
+          "key": "B",
+          "text": "ZigBee"
+        },
+        {
+          "key": "C",
+          "text": "NB-loT"
+        },
+        {
+          "key": "D",
+          "text": "USB"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "程设备。接口表格把NB-loT归入\" 长距离/低功耗”阵营，并标注其典型速率〈200kbps，正好满足“中低速率、广覆盖、电池供电”的工地监测场景;Wi-Fi覆盖短且功耗高， ZigBee虽低功耗但覆盖距离有限，USB为有线接口，均不符合题干要求，",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q102",
+      "type": "single",
+      "stem": "物联网云平台中，把“软件即服务”提供给用户，让用户直接通过浏览器或App使用业务系统，该层英文缩写是:",
+      "options": [
+        {
+          "key": "A",
+          "text": "laaS"
+        },
+        {
+          "key": "B",
+          "text": "PaaS"
+        },
+        {
+          "key": "C",
+          "text": "SaaS"
+        },
+        {
+          "key": "D",
+          "text": "MQTT"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "云服务特点部分列出三层云服务模式:laaS(基础设施)、 PaaS(平台)、SaaS(软件)直接面向终端用户提供完整应用软件，无需用户关心底层硬件或平台维护，符合“软件即服务”",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q103",
+      "type": "multiple",
+      "stem": "下列哪些无线通信技术在PPT中被归类为“长距离”并可用于物联网设备端?",
+      "options": [
+        {
+          "key": "A",
+          "text": "LoRa"
+        },
+        {
+          "key": "B",
+          "text": "NB-loT"
+        },
+        {
+          "key": "C",
+          "text": "4G"
+        },
+        {
+          "key": "D",
+          "text": "ZigBee"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "设备接口表格把LoRa、NB- loT、4G均列在“长距离”一栏;ZigBee被列在“短距离” 一栏，故不选。",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q104",
+      "type": "multiple",
+      "stem": "嵌入式设备开发团队常设哪些岗位?",
+      "options": [
+        {
+          "key": "A",
+          "text": "硬件工程师"
+        },
+        {
+          "key": "B",
+          "text": "驱动工程师"
+        },
+        {
+          "key": "C",
+          "text": "通信技术工程师"
+        },
+        {
+          "key": "D",
+          "text": "Web前端开发工程师"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "列出5类岗位:硬件工程师、驱动工程师、通信技术工程师、嵌入式开发工程师、测试工程师。\"Web前端开发工程师”属于应用端/互联网岗位，未在该处出现。",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q105",
+      "type": "multiple",
+      "stem": "智能建造物联网系统中，哪些系统明确属于“施工过程安全监测类”应用?",
+      "options": [
+        {
+          "key": "A",
+          "text": "智能塔吊安全监控系统"
+        },
+        {
+          "key": "B",
+          "text": "高支模智能监测系统"
+        },
+        {
+          "key": "C",
+          "text": "深基坑智能监测系统"
+        },
+        {
+          "key": "D",
+          "text": "智能混凝土标准养护室"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "智能塔吊安全监控系统、高支模智能监测系统、深基坑智能监测系统三者均面向施工阶段的安全监测。而“智能混凝土标准养护室”属于材料养护环境控制，不属于 “过程安全监测”范畴，故",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q106",
+      "type": "multiple",
+      "stem": "在“水下大直径盾构隧道采集监测系统”中提到该系统需完成的多项任务，下列哪些属于该案例明确列出的建设内容?",
+      "options": [
+        {
+          "key": "A",
+          "text": "数字化需求分析"
+        },
+        {
+          "key": "B",
+          "text": "软硬件架构设计"
+        },
+        {
+          "key": "C",
+          "text": "可视化大屏"
+        },
+        {
+          "key": "D",
+          "text": "5G边缘计算节点部署"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "不选 D。",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q107",
+      "type": "judge",
+      "stem": "国家《\"十四五”建筑节能与绿色建筑发展规划》提出，到2025年超低能耗、近零能耗建筑推广面积超5000万m。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q108",
+      "type": "judge",
+      "stem": "我国建筑领域碳排放仅包括运行阶段，不包括建材生产。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "(建筑碳排放含运行+建材生产，合计约28%)",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q109",
+      "type": "judge",
+      "stem": "近零能耗建筑的能耗较现行节能标准降低60%~75%以上。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q110",
+      "type": "judge",
+      "stem": "中央财政对超低能耗建筑的补贴标准是300元/m。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "(实际为500元/m2)",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q111",
+      "type": "judge",
+      "stem": "上海市提出到2025年新建居住建筑全面执行超低能耗建筑标准。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q112",
+      "type": "judge",
+      "stem": "上海对超低能耗建筑的容积率奖励最高为3%。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q113",
+      "type": "judge",
+      "stem": "上海市“十四五”建筑节能规划目标是累计建设超低能耗建筑1000万m。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q114",
+      "type": "judge",
+      "stem": "临港新片区零碳园区试点不允许企业参与碳排放配额交易。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q115",
+      "type": "judge",
+      "stem": "北京大兴机场综合服务楼的地源热泵系统COP≥4.5。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q116",
+      "type": "judge",
+      "stem": "杭州低碳社区的户均年用电量高于普通住宅。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "户均年用电量≤2000kWh，较普通住宅降低50%)",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q117",
+      "type": "judge",
+      "stem": "上海既有医院改造中，外墙保温采用了50mm挤塑板。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q118",
+      "type": "judge",
+      "stem": "杭州低碳社区的可再生能源仅包括户用光伏。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "含社区集中光伏+储能",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q119",
+      "type": "judge",
+      "stem": "被动式技术仅包括建筑设计和围护结构优化。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "还包括自然通风、采光优化",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q120",
+      "type": "judge",
+      "stem": "超低能耗建筑初期造价比传统建筑高5%~10%。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "等实际高10%~20%",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q121",
+      "type": "judge",
+      "stem": "未来零碳建筑的趋势之一是“建筑作为能源产消者”参与电网调峰。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q122",
+      "type": "judge",
+      "stem": "目前我国建筑领域已全面纳入全国碳市场。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "仍在推进中，未全面纳入",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q123",
+      "type": "single",
+      "stem": "以下哪项不属于国家层面推动超低能耗建筑的技术标准?",
+      "options": [
+        {
+          "key": "A",
+          "text": "《近零能耗建筑技术标准》(GB/T51350-2019)"
+        },
+        {
+          "key": "B",
+          "text": "《超低能耗建筑技术导则》(建科[2019]174 号)"
+        },
+        {
+          "key": "C",
+          "text": "《绿色建筑评价标准》(GB/T50378)"
+        },
+        {
+          "key": "D",
+          "text": "《建筑节能工程施工质量验收标"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "(《绿色建筑评价标准》是通用标准，非超低能耗专项)",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q124",
+      "type": "single",
+      "stem": "我国建筑运行碳排放占全国总量的比例约为?",
+      "options": [
+        {
+          "key": "A",
+          "text": "5%"
+        },
+        {
+          "key": "B",
+          "text": "10%"
+        },
+        {
+          "key": "C",
+          "text": "15%"
+        },
+        {
+          "key": "D",
+          "text": "20%以上"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "(2024年数据:建筑运行碳排放约占全国21.9%)",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q125",
+      "type": "single",
+      "stem": "《近零能耗建筑技术标准》中，“近零能耗建筑”的能耗目标是较现亍标准降低多少?",
+      "options": [
+        {
+          "key": "A",
+          "text": "30%~50%"
+        },
+        {
+          "key": "B",
+          "text": "60%~75%"
+        },
+        {
+          "key": "C",
+          "text": "75%~90%"
+        },
+        {
+          "key": "D",
+          "text": "90%以上"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q126",
+      "type": "single",
+      "stem": "上海市建筑运行碳排放占全市总量的比例约为?",
+      "options": [
+        {
+          "key": "A",
+          "text": "10%"
+        },
+        {
+          "key": "B",
+          "text": "15%"
+        },
+        {
+          "key": "C",
+          "text": "18%"
+        },
+        {
+          "key": "D",
+          "text": "22%"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q127",
+      "type": "single",
+      "stem": "以下哪项是上海针对既有建筑改造的专项政策?",
+      "options": [
+        {
+          "key": "A",
+          "text": "《上海市超低能耗建筑项目管理规定》"
+        },
+        {
+          "key": "B",
+          "text": "《上海市低碳发展实践区建设管理办法》"
+        },
+        {
+          "key": "C",
+          "text": "《上海市既有建筑绿色改造技术导则》"
+        },
+        {
+          "key": "D",
+          "text": "《上海市绿色建筑示范项目管理办法》"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q128",
+      "type": "single",
+      "stem": "上海虹桥商务区近零能耗办公建筑的主要政策依据是?",
+      "options": [
+        {
+          "key": "A",
+          "text": "《中国(上海)自由贸易试验区临港新片区条例》"
+        },
+        {
+          "key": "B",
+          "text": "《上海市低碳发展实践区建设管理办法》"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q129",
+      "type": "single",
+      "stem": "以下哪个案例属于既有建筑改造?",
+      "options": [
+        {
+          "key": "A",
+          "text": "北京大兴机场服务楼"
+        },
+        {
+          "key": "B",
+          "text": "杭州低碳社区"
+        },
+        {
+          "key": "C",
+          "text": "上海某既有医院改造"
+        },
+        {
+          "key": "D",
+          "text": "虹桥商务区近零能耗办"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q130",
+      "type": "single",
+      "stem": "北京大兴机场服务楼的年供暖空调能耗较传统建筑降低比例约为 ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "35%"
+        },
+        {
+          "key": "B",
+          "text": "50%"
+        },
+        {
+          "key": "C",
+          "text": "65%"
+        },
+        {
+          "key": "D",
+          "text": "80%"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q131",
+      "type": "single",
+      "stem": "杭州低碳社区的户用光伏容量约为?",
+      "options": [
+        {
+          "key": "A",
+          "text": "3~5kW/户"
+        },
+        {
+          "key": "B",
+          "text": "8~10kW/户"
+        },
+        {
+          "key": "C",
+          "text": "12~15kW/户"
+        },
+        {
+          "key": "D",
+          "text": "20kW/户以上"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q132",
+      "type": "single",
+      "stem": "以下哪项属于主动式技术?",
+      "options": [
+        {
+          "key": "A",
+          "text": "建筑外遮阳设计;"
+        },
+        {
+          "key": "B",
+          "text": "真空绝热板保温;"
+        },
+        {
+          "key": "C",
+          "text": "磁悬浮热泵;"
+        },
+        {
+          "key": "D",
+          "text": "自然通风优化"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "主动式技术为设备系统",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q133",
+      "type": "single",
+      "stem": "超低能耗建筑面临的成本挑战主要来自?",
+      "options": [
+        {
+          "key": "A",
+          "text": "保温材料、节能门窗、高效设备;"
+        },
+        {
+          "key": "B",
+          "text": "土地购置费用"
+        },
+        {
+          "key": "C",
+          "text": "人工施工成本"
+        },
+        {
+          "key": "D",
+          "text": "绿化景观投入"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q134",
+      "type": "single",
+      "stem": "未来零碳社区的核心特征是?",
+      "options": [
+        {
+          "key": "A",
+          "text": "单栋建筑独立供能"
+        },
+        {
+          "key": "B",
+          "text": "能源、交通、废弃物系统协同减碳"
+        },
+        {
+          "key": "C",
+          "text": "完全依赖化石能源"
+        },
+        {
+          "key": "D",
+          "text": "仅使用太阳能"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q135",
+      "type": "multiple",
+      "stem": "国家推动超低能耗建筑的激励机制包括?",
+      "options": [
+        {
+          "key": "A",
+          "text": "财政补贴(500元/m2)"
+        },
+        {
+          "key": "B",
+          "text": "容积率奖励(部分地区)"
+        },
+        {
+          "key": "C",
+          "text": "碳排放权交易(潜在路径)"
+        },
+        {
+          "key": "D",
+          "text": "强制淘汰传统建筑技术"
+        },
+        {
+          "key": "E",
+          "text": "绿色金融支持(低息贷款、绿色债券)"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q136",
+      "type": "multiple",
+      "stem": "以下属于国家“双碳”相关顶层规划的是?",
+      "options": [
+        {
+          "key": "A",
+          "text": "《2030年前碳达峰行动方案》"
+        },
+        {
+          "key": "B",
+          "text": "《“十四五”建筑节能与绿色建筑发展规划》"
+        },
+        {
+          "key": "C",
+          "text": "《上海市“十四五”建筑节能专项规划》"
+        },
+        {
+          "key": "D",
+          "text": "《巴黎协定》"
+        },
+        {
+          "key": "E",
+          "text": "《加快推动建筑领域节能降碳工作方案》"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "E"
+      ],
+      "analysis": "(C为地方规划，D为国际公约",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q137",
+      "type": "multiple",
+      "stem": "上海推动超低能耗建筑的创新政策工具包括?",
+      "options": [
+        {
+          "key": "A",
+          "text": "容积率奖励(1%~3%)"
+        },
+        {
+          "key": "B",
+          "text": "绿色信贷(绿色债券、低息贷款)"
+        },
+        {
+          "key": "C",
+          "text": "区域协同试点(临港、虹桥)"
+        },
+        {
+          "key": "D",
+          "text": "强制安装光伏系统"
+        },
+        {
+          "key": "E",
+          "text": "财政资金补贴(市、区专项补贴)"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "analysis": "D,有对所有建筑，而非专超低能耗建筑",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q138",
+      "type": "multiple",
+      "stem": "以下属于上海超低能耗建筑政策落地案例的是?",
+      "options": [
+        {
+          "key": "A",
+          "text": "临港新片区“零碳园区”"
+        },
+        {
+          "key": "B",
+          "text": "虹桥商务区“近零能耗办公建筑”"
+        },
+        {
+          "key": "C",
+          "text": "北京大兴机场服务楼"
+        },
+        {
+          "key": "D",
+          "text": "杭州低碳社区"
+        },
+        {
+          "key": "E",
+          "text": "徐汇滨江“近零碳超高层建筑”"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "E"
+      ],
+      "analysis": "C/D两者为其他城市案例",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q139",
+      "type": "multiple",
+      "stem": "上海中电信息港项目采用了下列哪些低碳节能措施?",
+      "options": [
+        {
+          "key": "A",
+          "text": "地源热泵系统(实现冬季100%清洁供暖)"
+        },
+        {
+          "key": "B",
+          "text": "智能联供系统(冷水机组+燃气锅炉智慧调峰)"
+        },
+        {
+          "key": "C",
+          "text": "部署园区级“光伏一体化”发电系统"
+        },
+        {
+          "key": "D",
+          "text": "超低能耗建筑围护结构(高性能保温材料)"
+        },
+        {
+          "key": "E",
+          "text": "三级分项计量与能耗监测平台"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "analysis": "C未提及光伏一体化发电系统",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q140",
+      "type": "multiple",
+      "stem": "杭州低碳社区的资源能源循环措施包括?",
+      "options": [
+        {
+          "key": "A",
+          "text": "雨水收集(绿化灌溉)"
+        },
+        {
+          "key": "B",
+          "text": "厨余垃圾就地处理(产沼发电)"
+        },
+        {
+          "key": "C",
+          "text": "生活污水直接排放"
+        },
+        {
+          "key": "D",
+          "text": "全部使用市政供电"
+        },
+        {
+          "key": "E",
+          "text": "光伏照明系统"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "E"
+      ],
+      "analysis": "CD不符合零碳目标",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q141",
+      "type": "multiple",
+      "stem": "超低能耗建筑的技术体系包括?",
+      "options": [
+        {
+          "key": "A",
+          "text": "被动式技术(建筑设计、围护结构)"
+        },
+        {
+          "key": "B",
+          "text": "主动式技术(高效设备、可再生能源)"
+        },
+        {
+          "key": "C",
+          "text": "自动调控(BEMS、数字孪生)"
+        },
+        {
+          "key": "D",
+          "text": "高成本装修"
+        },
+        {
+          "key": "E",
+          "text": "智慧化运行管理系统(能耗监测、智能调"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q142",
+      "type": "multiple",
+      "stem": "未来超低能耗建筑的发展趋势包括?",
+      "options": [
+        {
+          "key": "A",
+          "text": "零碳社区(能源-交通-废弃物协同)"
+        },
+        {
+          "key": "B",
+          "text": "建筑与智能电网融合(产消者参与调峰)"
+        },
+        {
+          "key": "C",
+          "text": "绿色金融工具覆盖(碳减排支持工具)"
+        },
+        {
+          "key": "D",
+          "text": "淘汰所有传统建材"
+        },
+        {
+          "key": "E",
+          "text": "健康建筑与生物气候设计(健康舒适与能效统一)"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q143",
+      "type": "judge",
+      "stem": "BIM的本质是简单的三维模型，主要用于展示建筑外观，无需整合建筑全生命周期信息。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "BIM核心是”(信息)”，需整合几何、物理、成本、工期等全生命周期信息，并非简单三维模型。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q144",
+      "type": "judge",
+      "stem": "国家多省市已出台强制BIM应用政策，未采用BIM技术的企业可能在招投标中处于劣势，甚至被排除在重点项目之外。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q145",
+      "type": "judge",
+      "stem": "BIM的模拟性仅能实现建筑外观模拟，无法对施工过程、安全风险等进行预演。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "BIM模拟性涵盖过程与行为模拟，可预判施工问题、识别安全隐患。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q146",
+      "type": "judge",
+      "stem": "BIM与智能建造正推动建筑业从传统粗放模式，向数字化、精细化、智能化的新型建造模式转型",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "BIM是建筑业从粗放向数字化、精细化转型的关键驱动。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q147",
+      "type": "judge",
+      "stem": "BIM可为业主方生成可视化方案模型与投资分析模型，辅助评估设计方案的视觉效果、空间布局，助力更符合商业意图的投资决策。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "项目前期BIM生成的可视化模型能帮助业主直观评估方案，为投资决策提供支撑，符合题干描述。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q148",
+      "type": "judge",
+      "stem": "设计方基于统一BIM平台，可实现建筑、结构、机电多专业并行设计，实时协同发现并解决跨专业冲突，将施工阶段问题前置到设计阶段。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "设计方BIM价值包括“打破专业壁垒，多专业在同一模型并行设计、实时协同”，与题干表述一致。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q149",
+      "type": "judge",
+      "stem": "施工方在投标阶段利用BIM仅能制作三维动画提升技术标展示效果，无法为商务标成本测算提供支持。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "施工方投标阶段 BIM价值涵盖“商务标精准:基于 BIM模型快速获取精确工程量，辅助成本测算”题干表述错误",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q150",
+      "type": "judge",
+      "stem": "英国通过《政府建设战略》明确要求2016年前所有政府项目实现BIM Level 2协同，属于典型的政府强制推广BIM模式。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q151",
+      "type": "single",
+      "stem": "BIM定义中，核心要素是",
+      "options": [
+        {
+          "key": "A",
+          "text": "三维几何模型"
+        },
+        {
+          "key": "B",
+          "text": "建筑信息(I)"
+        },
+        {
+          "key": "C",
+          "text": "施工进度表"
+        },
+        {
+          "key": "D",
+          "text": "材料清单"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "BIM的两个关键点之一是 \"I(信息)是核心”，涵盖多类建筑信息。",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q152",
+      "type": "single",
+      "stem": "企业参与“一带一路”等国际业务时，缺少BIM技术能力可能导致。",
+      "options": [
+        {
+          "key": "A",
+          "text": "无需承担影响，仅国内项目需BIM"
+        },
+        {
+          "key": "B",
+          "text": "难符合项目准入条件，落后于竞争对手"
+        },
+        {
+          "key": "C",
+          "text": "可通过人工管理替代，无明显劣势"
+        },
+        {
+          "key": "D",
+          "text": "仅增加少量沟通成本，不影响项目中标"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q153",
+      "type": "single",
+      "stem": "BIM的“协调性”特征，主要解决传统建筑业的哪类问题 1o",
+      "options": [
+        {
+          "key": "A",
+          "text": "成本超支"
+        },
+        {
+          "key": "B",
+          "text": "工期延误"
+        },
+        {
+          "key": "C",
+          "text": "错漏碰缺"
+        },
+        {
+          "key": "D",
+          "text": "人才短缺"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "BIM通过碰撞检测，在施工前解决传统“错漏碰缺”问题，体现协调性价值。",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q154",
+      "type": "single",
+      "stem": "下列哪项不属于BIM为业主方带来的核心价值?",
+      "options": [
+        {
+          "key": "A",
+          "text": "生成可视化模型辅助投资决策"
+        },
+        {
+          "key": "B",
+          "text": "自动生成工程量清单控制项目成本"
+        },
+        {
+          "key": "C",
+          "text": "仅通过二维图纸进行施工交底"
+        },
+        {
+          "key": "D",
+          "text": "交付数字李生模型提升运维效率"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "业主方BIM价值均基于三维数字化模型，“仅通过二维图纸交底” 是传统模式，不属于 BIM价值，其余选项均符合 PPT内容。",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q155",
+      "type": "single",
+      "stem": "设计方修改BIM模型中某一墙体的厚度时，对应的平面图、立面图、材料统计表同步自动更新，这主要体现了BIM的什么优势?",
+      "options": [
+        {
+          "key": "A",
+          "text": "可视化沟通"
+        },
+        {
+          "key": "B",
+          "text": "参数化关联"
+        },
+        {
+          "key": "C",
+          "text": "模拟性分析"
+        },
+        {
+          "key": "D",
+          "text": "协调性碰撞检测"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "设计方 BIM效率提升源于“ 参数化关联:一处修改，处处更新”，题干场景正是该优势的体现，其余选项与题干",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q156",
+      "type": "single",
+      "stem": "关于各国BIM应用特点，下列描述正确的是?",
+      "options": [
+        {
+          "key": "A",
+          "text": "美国仅依靠市场驱动，无政府层面BIM推广政策"
+        },
+        {
+          "key": "B",
+          "text": "新加坡通过设立BIM基金，补贴企业培训与软硬件成本"
+        },
+        {
+          "key": "C",
+          "text": "日本由政府强制要求所有企业全面应用BIM"
+        },
+        {
+          "key": "D",
+          "text": "英国未采用国际标准，自行制定独立BIM规范"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "新加坡有“设立BIM基金补贴企业”的支持措施(B正确); 美国有政府引导政策(A错); 日本以企业主导(C错);英国采用ISO19650国际标准",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q157",
+      "type": "multiple",
+      "stem": "下列属于BIM四大核心特征的有",
+      "options": [
+        {
+          "key": "A",
+          "text": "可视化"
+        },
+        {
+          "key": "B",
+          "text": "模拟性"
+        },
+        {
+          "key": "C",
+          "text": "单一性"
+        },
+        {
+          "key": "D",
+          "text": "协调性"
+        },
+        {
+          "key": "E",
+          "text": "优化性"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "analysis": "BIM四大核心特征为可视化、模拟性、协调性、优化性，C 选项\"单一性”并非其特征。",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q158",
+      "type": "multiple",
+      "stem": "下列属于国外BIM推广政策或措施的有?",
+      "options": [
+        {
+          "key": "A",
+          "text": "美国2007年要求所有大型联邦项目采用 BIM"
+        },
+        {
+          "key": "B",
+          "text": "英国发布《政府建设战略》强制政府项目BIM 应用"
+        },
+        {
+          "key": "C",
+          "text": "新加坡分阶段强制面积超5000m2项目提交BIM模型"
+        },
+        {
+          "key": "D",
+          "text": "日本国土交通省2010年后制定BIM实施路线图"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q159",
+      "type": "judge",
+      "stem": "住宅项目中，BIM的核心价值之一是将标准户型作为参数化“族”存入数据库，支持开发商在多个项目中快速复制成功产品，提升设计效率与产品一致性。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "住宅项目依赖标准化户型库和楼型库，通过BIM模型实现方案快速调用、组合与微调，支撑项目快速复制，符合题干描述。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q160",
+      "type": "judge",
+      "stem": ".工业厂房的设计核心是生产工艺流程，BIM模型需优先定位大型生产设备，建筑结构需为设备提供支撑，而非优先规划建筑空间。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "工艺主导的“设备先行”设计指出，工业厂房设计以生产流程为核心，BIM模型需优先满足设备定位与运维需求，与题干表述一致。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q161",
+      "type": "judge",
+      "stem": "大型公共建筑中，医院建筑的BIM应用聚焦“医疗流程与洁净防疫”，超高层建筑聚焦“垂直安全与效率”，大型场馆聚焦“大跨度结构与多场景适配”。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "题干准确概括了三类大型公共建筑的BIM应用核心方向，题干表述正确。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q162",
+      "type": "judge",
+      "stem": "BIM在工业厂房管线综合中的作用仅为解决管道空间碰撞问题，无需考虑安全生产规范要求。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "BIM不仅解决空间碰撞，还能按规范自动检查管道间距、检修净空等，确保符合安全与可操作性要求，题干“仅解决空间碰撞” 表述片面，故错误。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q163",
+      "type": "judge",
+      "stem": "基础设施项目中，BIM与地理信息系统(GIS)深度融合是其区别于单体建筑的核心特征之一，可用于线路优化、环境影响分析等宏观尺度应用。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "基础设施BIM应用的核心特征包括与GIS深度融合，可实现线路优化、土方量计算等宏观应用，题干表述与原文一",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q164",
+      "type": "judge",
+      "stem": "历史建筑保护与改扩建项目中，BIM的核心应用逻辑是“创造新建”，通过参数化设计生成全新建筑模型，而非关注现状记录与最小干预。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "致历史。建筑项目中BIM核心从“ 创造新建”转向“精准记录、科学分析与最小干预”，题干与核心逻辑相悖，故错",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q165",
+      "type": "judge",
+      "stem": "装饰装修工程中，BIM可精准定位机电末端设备(风口、灯具等)，实现与天花造型、墙面饰板的完美协调，提升空间精致观感。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "误装饰。装修BIM应用包括机电末端与装饰面层的综合集成优化，题干表述符合原文。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q166",
+      "type": "judge",
+      "stem": "住宅开发项目交付的BIM核心数据是可复用的户型库，公建和工业厂房项目交付的是用于智慧运维的数字孪生模型。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "住宅项目核心策略是标准化与高周转，交付可复用户型库;公建和厂房则以数字孪生支撑运维，题干表述正确。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q167",
+      "type": "single",
+      "stem": "以下哪项属于住宅开发项目(含装配式)的核心特点?",
+      "options": [
+        {
+          "key": "A",
+          "text": "造型独特、个性化需求强"
+        },
+        {
+          "key": "B",
+          "text": "标准化程度高、成本敏感、工期紧"
+        },
+        {
+          "key": "C",
+          "text": "预制率低、设计周期长"
+        },
+        {
+          "key": "D",
+          "text": "重复性弱、成本可控性低"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q168",
+      "type": "single",
+      "stem": "BIM在超高层建筑中的核心应用聚焦于哪一方向?",
+      "options": [
+        {
+          "key": "A",
+          "text": "医疗流程与洁净防疫"
+        },
+        {
+          "key": "B",
+          "text": "大跨度结构与多场景适配"
+        },
+        {
+          "key": "C",
+          "text": "垂直安全与效率"
+        },
+        {
+          "key": "D",
+          "text": "生产工艺流程集成"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "超高层建筑的BIM应用聚焦“ 垂直安全与效率”，包括优化核心筒、模拟抗风抗震等;A是医院建筑重点，B是大型场馆重点，D是工业厂房重",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q169",
+      "type": "single",
+      "stem": "BIM技术在工业厂房项目中的独特核心是?",
+      "options": [
+        {
+          "key": "A",
+          "text": "生成不同装修风格的VR漫游动画"
+        },
+        {
+          "key": "B",
+          "text": "与生产工艺流程的深度集成"
+        },
+        {
+          "key": "C",
+          "text": "快速复制标准化产品"
+        },
+        {
+          "key": "D",
+          "text": "模拟多场景座位调整"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "工业厂房BIM应用的核心是与生产工艺流程深度集成;A、C 是住宅项目应用，D是大型场馆应用，均不符合题干要求",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q170",
+      "type": "single",
+      "stem": "BIM与地理信息系统(GIS)深度融合在基础设施项目中的核心作用是?",
+      "options": [
+        {
+          "key": "A",
+          "text": "精准记录历史建筑的每一处构造与病害"
+        },
+        {
+          "key": "B",
+          "text": "在宏观尺度优化线路、计算土方量、分析环境影响"
+        },
+        {
+          "key": "C",
+          "text": "驱动数控机床加工装饰装修复杂异形构件"
+        },
+        {
+          "key": "D",
+          "text": "模拟机电末端设备与天花造型的布局协调"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "基础设施BIM与GIS融合的核心价值是“宏观尺度上的线路优化、土方量精确计算、征地拆迁模拟和环境影响分析”;A是历史建筑保护的BIM 作用，C、D是装饰装修工程的BIM应用，均不符合题干“ 基础设施项目”要求。",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q171",
+      "type": "single",
+      "stem": "历史建筑保护项目中，BIM获取高精度现状模型的核心技术是?",
+      "options": [
+        {
+          "key": "A",
+          "text": "数控机床定制化生产"
+        },
+        {
+          "key": "B",
+          "text": "4D施工模拟优化"
+        },
+        {
+          "key": "C",
+          "text": "三维激光扫描与摄影测量"
+        },
+        {
+          "key": "D",
+          "text": "传感器实时监测数据整合"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "通过三维激光扫描与摄影测量可逆向生成历史建筑高精度现状模型;A是装饰装修构件加工手段，B是装修施工管理工具，D是基础设施运维技术，故选择C。",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q172",
+      "type": "single",
+      "stem": "以下哪项属于装饰装修工程中 BIM的独特核心应用?",
+      "options": [
+        {
+          "key": "A",
+          "text": "地质风险预警与动态支护设计"
+        },
+        {
+          "key": "B",
+          "text": "复杂异形造型的深化设计与精准下料"
+        },
+        {
+          "key": "C",
+          "text": "征地拆迁模拟与环境影响分析"
+        },
+        {
+          "key": "D",
+          "text": "历史建筑残损构件受力评估"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "装饰装修BIM可通过参数化设计实现复杂异形构件的深化与精准下料;A是基础设施应用，C是基础设施宏观应用， D是历史建筑保护应用，均不符合题干要求。",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q173",
+      "type": "multiple",
+      "stem": "BIM在住宅开发项目中的核心应用价值包括",
+      "options": [
+        {
+          "key": "A",
+          "text": "赋能标准化与快速复制，提升产品一致性"
+        },
+        {
+          "key": "B",
+          "text": "生成VR漫游动画，助力精准营销"
+        },
+        {
+          "key": "C",
+          "text": "直接生成预制构件加工图纸，支撑工业化建造"
+        },
+        {
+          "key": "D",
+          "text": "交付户级精度数字孪生模型，简化运维流程"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "标准化复制、营销与成本控制、工业化建造、批量交付与运维四个维度皆是住宅项目的BIM技术应用价值。",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q174",
+      "type": "multiple",
+      "stem": "以下属于大型公共建筑BIM核心应用重点的有",
+      "options": [
+        {
+          "key": "A",
+          "text": "超复杂专业协同，构建数字孪生模型"
+        },
+        {
+          "key": "B",
+          "text": "高危工况管控，规避坍塌、坠落等风险"
+        },
+        {
+          "key": "C",
+          "text": "公共设施运维适配，模拟公共应急场景"
+        },
+        {
+          "key": "D",
+          "text": "优先定位生产设备，满足工艺流程需求"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "大型公共建筑的共性BIM应用包括超复杂协同、高危工况管控、公共运维适配;D是工业厂房的应用重点，并非大型公共建筑，故排除。",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q175",
+      "type": "multiple",
+      "stem": "BIM在历史建筑保护与改扩建项目中的核心应用价值包括",
+      "options": [
+        {
+          "key": "A",
+          "text": "生成高精度数字孪生模型，建立永久数字化档案"
+        },
+        {
+          "key": "B",
+          "text": "结合结构分析软件，科学评估残损构件与加固方案效果"
+        },
+        {
+          "key": "C",
+          "text": "模拟新旧部分协调性，确保历史风貌不受破坏"
+        },
+        {
+          "key": "D",
+          "text": "关联传统工艺与材料信息，传承文化遗产原真性"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "从数字档案、结构分析、新旧衔接、工艺材料管理四个维度，选项A、B、C、D分别对应各维度内容，均符合原文。",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q176",
+      "type": "multiple",
+      "stem": "不同类型项目的BIM 应用策略重心匹配正确的有",
+      "options": [
+        {
+          "key": "A",
+          "text": "住宅开发项目:标准化、模块化、高周转"
+        },
+        {
+          "key": "B",
+          "text": "基础设施项目:地理环境交互、机械化施工与全生命周期运维"
+        },
+        {
+          "key": "C",
+          "text": "历史建筑项目:信息精准记录、科学分析与最小干预"
+        },
+        {
+          "key": "D",
+          "text": "装饰装修项目:超复杂系统整合与高危工况管控"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "A、B、C的策略重心与项目类型匹配;D是大型公共建筑与工业厂房的应用重心，装饰装修项目核心是效果还原、精准下料等，故排除D。",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q177",
+      "type": "judge",
+      "stem": "4DBIM是在3D建筑模型基础上融入时间维度(进度计划)，通过“可视化、动态化”特性实现施工进度的动态管理，是BIM在进度管理中的核心应用形式。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "依据“BIM与进度管理(4D BIM)概述内容，4D BIM的定义明确为“3D模型+时间维度 ”，核心价值即通过可视化动态演示施工进展、管控进度，与题干表述一致，故正",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q178",
+      "type": "judge",
+      "stem": "传统进度管理模式中，进度计划(甘特图)、工程图纸(CAD)与现场实际情况可实现实时数据联动，设计变更后进度计划能自动同步调整。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "确传统。模式的核心痛点是“信息与实体脱节”，进度计划、图纸、现场实际三者独立，设计变更后需人工调整进度计划，无法自动同步，题干“实时联动、自动调整",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q179",
+      "type": "judge",
+      "stem": "5D BIM是在4DBIM(3D模型+时间)基础上进一步融入成本维度，形成“模型-进度-成本”三者联动，可解决传统成本管理“事后核算、被动超支”的问题。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "”参考表\"述BI错M与误成。本管理(5D BIM)\"概述，5D BIM的核心逻辑是“4D+成本”，通过三者联动实现成本的事前预测、事中管控，直接针对传统成本管理“事后核算”的痛点，题干表述正确。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q180",
+      "type": "judge",
+      "stem": "4DBIM仅能动态展示施工进度，无法模拟施工顺序合理性及空间冲突，需等到现场施工时才能发现工序冲突问题。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "依据“4D模拟与分析”内容，4D BIM可通过施工预演验证施工顺序合理性，提前发现空间冲突(如脚手架与机电安装的冲突)并优化，避免现场返工，题干“无法模拟冲突”表述错误。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q181",
+      "type": "judge",
+      "stem": "BIM在质量管理竣工交付阶段的核心目标是确保质量数据完整可追溯，通过数字化模型整合全周期质量数据，为运维阶段提供基础。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "BIM与质量管理中竣工交付阶段的核心目标为“质量数据完整可追溯”，且BIM通过模型整合全周期数据支撑运维，题干描述正确。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q182",
+      "type": "judge",
+      "stem": "传统安全管理中，70%的施工安全事故源于对风险点理解不到位，这一问题主要因安全交底以口头讲解+二维示意图为主，复杂工序风险点难以清晰传递。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "传统安全管理方式的核心问题是工人安全交底依赖“口头+二维图”，复杂工序风险点难讲清，且70%事故源于风险点理解不到位，表述正确",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q183",
+      "type": "judge",
+      "stem": "BIM安全管理在前期准备阶段规定，施工阶段模型精度需达到LOD200即可，无需包含脚手架立杆直径、防护栏杆高度等安全设施参数。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "。根据施工阶段安全管理需求，模型需达到300以上的精度，包含相关安全设施的参数，该表述与原文参数不符，故错误。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q184",
+      "type": "judge",
+      "stem": "根据BIM安全管理价值数据，其可使危大工程安全事故率降低70%-90%，轻伤事故减少60%，且该量化成果仅需依赖BIM技术即可实现，无需配合管理流程。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "BIM技术实现安全事故率的降低，还需科学的管理流程和高效的执行力共同配合，仅依赖 BIM技术无法实现，该表述忽略关键前提，故错误",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q185",
+      "type": "judge",
+      "stem": "传统施工现场总体规划以CAD二维图纸+经验判断为核心，在项目规模扩大、工艺复杂的场景下易暴露空间冲突难预判、协同低效等问题。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "。传统场地规划的核心方式即为“CAD二维图纸+经验判断 ”，且明确指出该模式在复杂项目中存在空间冲突、动态适应性弱等痛点，该表述",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q186",
+      "type": "judge",
+      "stem": "BIM在施工现场总体规划中的核心价值，包括三维空间可视化、4D动态模拟、多专业协同平台支撑，可实现场地管理从“二维粗放”到“三维精细”的升级。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "正BIM确场。地规划的核心赋能点-- 三维空间可视化、资源量化计算、4D动态模拟、安全合规校验、多专业协同，题干表述涵盖核心价值正确。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q187",
+      "type": "judge",
+      "stem": "在BIM与物联网、智慧工地的集成体系中，BIM是智慧工地的数据核心(承载三维模型与全周期数据)，物联网是“感知神经”(实时采集现场数据)，二者协同实现“数据驱动的智能管控”。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "BIM与物联网在智慧工地中的角色分工--BIM为数据核心、物联网为感知神经，共同打破传统工地信息孤岛，表述正确。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q188",
+      "type": "judge",
+      "stem": "BIM施工现场总体规划一旦完成初步布局，即可作为静态方案指导施工全程，无需根据施工进度、工序变化进行动态调整。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "施工阶段需根据进度、工序或需求变化(如设计变更、资源需求调整)实时更新BIM模型布局，并推送至现场指导调整，题干描述的“无需动态调整” 错误。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q189",
+      "type": "judge",
+      "stem": "BIM实施的顶层设计中，明确BIM目标需满足可量化、强关联业务且对齐全参与方利益，避免模糊目标或单方面推动，这是BIM成功的核心前提。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "明确 BIM实施目标需可量化且对齐业主、设计、施工等多方利益，避免模糊目标或单方面推动，题干表述正确",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q190",
+      "type": "judge",
+      "stem": "BIM技术体系构建中，构件命名无需统一规范，各专业可按自身习惯命名，不影响模型协同与数据查找。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "构件命名需包含“专业+部位 +类型+编号”，统一规范是模型协同、数据查找的基础，题干“无需统一” 与此要求相悖，故错误。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q191",
+      "type": "judge",
+      "stem": "BIM人员能力建设中，对管理层(如项目经理)的培训重点是“BIM价值与决策要点”,而非Revit软件操作技巧。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "“人员能力建设” 指出，管理层培训需聚焦BIM价值与决策支持，技术层才重点培训软件操作，题干表述符合分层次培训的核心逻辑，正确",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q192",
+      "type": "judge",
+      "stem": "仅通过Revit软件就可以实现并满足BIM技术应用的要求。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "。“BIM是 Revit，Revit 就是 BIM”是常见误区，BIM是系统性工程，Revit 只是建模软件，故错误。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q193",
+      "type": "single",
+      "stem": "4D BIM进度管理的核心环节是实现“时间-空间”的关联，该环节具体指的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "仅导入3D模型，无需关联进度计划"
+        },
+        {
+          "key": "B",
+          "text": "将进度计划中的“任务”与3D模型中的“构件”精准映射绑定"
+        },
+        {
+          "key": "C",
+          "text": "仅编制甘特图进度计划，不与模型关联"
+        },
+        {
+          "key": "D",
+          "text": "仅通过移动端采集现场进度数据，不更新模型"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "4DBIM的核心是“任务-构件 ”的精准映射，通过绑定进度任务与模型构件，形成“ 时间-空间”关联关系，其余选项均未体现“关联”核心，故正确答案为B。",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q194",
+      "type": "single",
+      "stem": "传统成本管理中，人工从CAD图纸提取工程量(如钢筋长度、混凝土体积)存在的主要问题是",
+      "options": [
+        {
+          "key": "A",
+          "text": "效率高、误差率低"
+        },
+        {
+          "key": "B",
+          "text": "效率低、误差率较高，大体量项目算量周期较长"
+        },
+        {
+          "key": "C",
+          "text": "可实时同步成本数据，支持动态管控"
+        },
+        {
+          "key": "D",
+          "text": "无需人工干预，可自动生成工程量清单"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "传统人工算量的核心问题是 “耗时且易出错”，大体量项目算量周期1-2个月，误差率超5%，A、C、D均为5D BIM 的优势，而非传统模式特点，故正确答案为B。",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q195",
+      "type": "single",
+      "stem": "5DBIM成本管理的“全周期管控”不包括以下哪个阶段",
+      "options": [
+        {
+          "key": "A",
+          "text": "施工前:成本预测与多方案比选"
+        },
+        {
+          "key": "B",
+          "text": "施工中:动态监控成本偏差并纠偏"
+        },
+        {
+          "key": "C",
+          "text": "竣工后:快速结算与数据复用"
+        },
+        {
+          "key": "D",
+          "text": "运维阶段:仅依赖人工记录设备维护成本，不关联模型"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "5DBIM覆盖“施工前-施工中- 竣工后”全阶段，D选项“运维阶段仅人工记录、不关联模型”是传统运维成本管理方式，不属于5DBIM的全周期管控范畴，故正确答案为D。",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q196",
+      "type": "single",
+      "stem": "以下哪项属于BIM在质量管理竣工交付阶段的核心应用?",
+      "options": [
+        {
+          "key": "A",
+          "text": "模拟深基坑边坡稳定性，验证施工方案安全性"
+        },
+        {
+          "key": "B",
+          "text": "将整合质量数据(检测报告、验收记录)的BIM模型交付相关方"
+        },
+        {
+          "key": "C",
+          "text": "用VR模拟吊装超载事故，强化工人风险意识"
+        },
+        {
+          "key": "D",
+          "text": "优化施工总平面，确保消防通道宽度≥4m"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "选项B属于竣工交付阶段中全周期质量数据整合交付的核心应用;A、D属于BIM安全管理设计阶段内容，C属于 BIM 安全管理施工阶段内容，均不符合题干质量管理竣工交付阶段要求。",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q197",
+      "type": "single",
+      "stem": "传统安全管理模式的核心局限性不包括以下哪项?",
+      "options": [
+        {
+          "key": "A",
+          "text": "风险识别依赖人工经验与二维图纸，隐蔽风险难预判"
+        },
+        {
+          "key": "B",
+          "text": "安全数据结构化存储，可直接复用至同类项目"
+        },
+        {
+          "key": "C",
+          "text": "安全巡查靠人工目测，隐患记录滞后且易漏检"
+        },
+        {
+          "key": "D",
+          "text": "应急预案为文字描述，救援时难快速定位风险点"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "A、C、D均为传统安全管理方式的核心问题和缺陷;而安全数据结构化存储、可复用是 BIM安全管理的优势，并非传统模式特点，故B为正确答案。",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q198",
+      "type": "single",
+      "stem": "BIM在安全管理施工阶段实现“实时风险监控与预警”的关键手段是?",
+      "options": [
+        {
+          "key": "A",
+          "text": "基于二维图纸制定危大工程风险清单"
+        },
+        {
+          "key": "B",
+          "text": "关联物联网(loT)设备，实时采集数据并自动预警"
+        },
+        {
+          "key": "C",
+          "text": "组织工人进行纸质版安全交底培训"
+        },
+        {
+          "key": "D",
+          "text": "用文字文档记录隐患整改过程"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "A、C、D均为传统安全管理手段，不符合BIM实时监控的技术特征，故排除。B选项是安全管理实现实时风险监控与预警的关键手段。",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q199",
+      "type": "single",
+      "stem": "以下哪项属于传统施工现场总体规划的典型痛点",
+      "options": [
+        {
+          "key": "A",
+          "text": "可提前检测空间冲突，避免二次搬运"
+        },
+        {
+          "key": "B",
+          "text": "空间冲突难预判、动态适应性弱，各参与方沟通低效"
+        },
+        {
+          "key": "C",
+          "text": "结合进度模拟不同阶段场地需求，资源配置精准"
+        },
+        {
+          "key": "D",
+          "text": "基于统一模型协同，减少场地使用争议"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "传统场地规划的痛点包括“ 空间冲突难以预判”“动态适应性弱”“各参与方沟通低效”;选项A、C、D均为BIM 场地规划的优势，而非传统模式痛点，故选择B。",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q200",
+      "type": "single",
+      "stem": "BIM在施工现场总体规划的冲突检测与模拟优化环节，主要针对哪些维度的冲突进行排查?",
+      "options": [
+        {
+          "key": "A",
+          "text": "仅关注临时设施与永久工程的位置冲突"
+        },
+        {
+          "key": "B",
+          "text": "空间冲突与功能冲突"
+        },
+        {
+          "key": "C",
+          "text": "仅检测材料堆放区的面积不足问题"
+        },
+        {
+          "key": "D",
+          "text": "仅校验安全设施的数量是否达标"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "冲突检测涵盖“空间冲突 ”(如塔吊与高压线距离不满足规范、材料区占用消防通道)和“功能冲突”(如运输路线与工人通道交叉、加工区与动火点无防火间距)，选项B完整覆盖该内容，其余选项均片面，故选择B。",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q201",
+      "type": "single",
+      "stem": "在BIM与物联网集成的智慧工地进度管理中，核心管控逻辑是?",
+      "options": [
+        {
+          "key": "A",
+          "text": "仅依赖人工记录施工进度，定期整理成纸质报告"
+        },
+        {
+          "key": "B",
+          "text": "通过4D模型(三维+时间)关联物联网实时数据，对比计划与实际进度，动态纠偏"
+        },
+        {
+          "key": "C",
+          "text": "仅通过物联网采集设备数据，不与BIM模型关联"
+        },
+        {
+          "key": "D",
+          "text": "基于二维图纸制定进度计划，不考虑现场实际数据反馈"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "智慧工地进度管理的核心是物联网采集人、机、料实时数据一关联 BIM4D模型一对比计划与实际进度一生成偏差报告并动态纠偏;选项A、C 、D均为传统进度管理方式或片应用，故选择B。",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q202",
+      "type": "single",
+      "stem": "以下哪项是BIM实施“顶层设计与组织保障” 的核心内容?",
+      "options": [
+        {
+          "key": "A",
+          "text": "仅搭建BIM协同管理平台，确保模型格式兼容"
+        },
+        {
+          "key": "B",
+          "text": "明确可量化的BIM目标、建立专项组织架构、制定实施计划与制度"
+        },
+        {
+          "key": "C",
+          "text": "仅对一线施工人员开展Revit软件操作培训"
+        },
+        {
+          "key": "D",
+          "text": "仅跟踪BIM模型构建进度，不关注应用效果"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "BIM的顶层设计与组织保障包含三个核心要点:明确可量化目标、建立决策层+执行层+ 支持层组织架构、制定分阶段计划与配套制度;选项A属于技术体系，C属于人员能力建设，D属于过程管控的片面内容，故选择B。",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q203",
+      "type": "single",
+      "stem": "BIM协同管理平台的核心功能不包括以下哪项?",
+      "options": [
+        {
+          "key": "A",
+          "text": "支持多参与方在线查看、批注模型，实现模型共享"
+        },
+        {
+          "key": "B",
+          "text": "将材料检测报告、验收记录等非几何数据关联至模型构件"
+        },
+        {
+          "key": "C",
+          "text": "仅支持线下传输模型文件，不具备在线任务协同功能"
+        },
+        {
+          "key": "D",
+          "text": "在模型上标记问题并跟踪整改，实现问题闭环管理"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "协同平台需覆盖“模型共享、数据关联、任务协同、问题闭环”，且支持移动端访问;选项C“仅线下传文件” 是传统协同模式的缺陷，不属于BIM协同平台功能，故选",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q204",
+      "type": "single",
+      "stem": "以下哪项属于BIM技术应用的常见误区?",
+      "options": [
+        {
+          "key": "A",
+          "text": "认为BIM需结合组织管理、人员能力才能落地，而非单纯技术应用"
+        },
+        {
+          "key": "B",
+          "text": "认为BIM是万能药，能解决所有工程问题(如质量、安全、成本的全部问题)"
+        },
+        {
+          "key": "C",
+          "text": "认为BIM实施需分阶段推进(试点一推广一深化)，避免激进方案"
+        },
+        {
+          "key": "D",
+          "text": "认为BIM需全参与方协同(业主、设计、施工、监理)，而非单一部门推动"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "择C",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q205",
+      "type": "multiple",
+      "stem": "4D BIM在进度管理中的优势包括以下哪些",
+      "options": [
+        {
+          "key": "A",
+          "text": "可视化沟通:动态演示施工过程，非专业人员可直观理解进度"
+        },
+        {
+          "key": "B",
+          "text": "施工预演:提前模拟施工顺序，规避空间冲突(如管线与结构梁碰撞)"
+        },
+        {
+          "key": "C",
+          "text": "进度预警:实时对比计划与实际进度，自动推送滞后预警"
+        },
+        {
+          "key": "D",
+          "text": "直接降低材料采购成本:自动生成材料价格并强制降价"
+        },
+        {
+          "key": "E",
+          "text": "动态协同:多方在统一平台操作，实时同步进度数据，缩短问题解决时间"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "analysis": "4DBIM优势，A(可视化)、 B(施工预演)、C(进度预警) 、E(动态协同)均为4D BIM的明确优势;D选项“直接降低材料采购成本、强制降价” 不属于4D BIM功能材料价格管控是5D BIM结合成本数据库实现的，故排除 D，正确",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q206",
+      "type": "multiple",
+      "stem": "传统进度管理模式存在诸多问题，下列属于传统进度管理痛点的有",
+      "options": [
+        {
+          "key": "A",
+          "text": "信息孤岛:进度计划、图纸、现场数据相互独立，无法联动"
+        },
+        {
+          "key": "B",
+          "text": "技术超前:依赖复杂的数字化工具，操作难度大"
+        },
+        {
+          "key": "C",
+          "text": "进度与资源脱节:未关联“人、材、机”资源，易导致现场待料"
+        },
+        {
+          "key": "D",
+          "text": "协同低效:分包反馈冲突需多环节传递，平均耗时3-5天"
+        },
+        {
+          "key": "E",
+          "text": "可视化缺失:甘特图抽象，非专业人员难理解任务对应的工程实体"
+        }
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "analysis": "答传案统为进度AB管CE理。问题，A(信息孤岛)、C(进度与资源脱节) 、D(协同低效)、E(可视化缺失)均为明确痛点;B选项“技术超前、操作复杂”与传统模式“依赖Excel、CAD等基础工具，技术粗放”的特点相悖，故排除B，正确答案为",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q207",
+      "type": "multiple",
+      "stem": "根据PPT内容，BIM在质量管理全周期中的阶段重点包括以下哪些?",
+      "options": [
+        {
+          "key": "A",
+          "text": "设计阶段:聚焦“源头避错”，从设计端预防质量问题"
+        },
+        {
+          "key": "B",
+          "text": "施工阶段:聚焦“过程控错”，通过动态管控减少质量偏差"
+        },
+        {
+          "key": "C",
+          "text": "竣工交付阶段:聚焦“数据留痕”，确保质量数据完整可追溯"
+        },
+        {
+          "key": "D",
+          "text": "竣工交付阶段:聚焦“数据留痕”，交付二维CAD图纸用于后续查看"
+        },
+        {
+          "key": "E",
+          "text": "运维阶段:聚焦“隐患整改”，直接替代物业进行设备维修"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "A、B、C为BIM在质量管理全周期阶段的重点;D表述错误，竣工交付阶段，交付二维CAD不是BIM在质量管理中的重点;E表述错误，竣工模型为运维阶段质量维护提供数据支撑，并非直接替代物业维修。故排除D、E。",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q208",
+      "type": "multiple",
+      "stem": "BIM安全管理的核心优势包括以下哪些方面?",
+      "options": [
+        {
+          "key": "A",
+          "text": "三维可视化风险预演:直观展示空间冲突、参数超标风险，预判结构失稳隐患"
+        },
+        {
+          "key": "B",
+          "text": "沉浸式安全交底:通过VR/AR技术叠加模型，提升工人对风险点的理解"
+        },
+        {
+          "key": "C",
+          "text": "动态监控与实时预警:关联loT设备，超标时自动标红并推送预警信息"
+        },
+        {
+          "key": "D",
+          "text": "依赖纸质记录存档:将隐患整改单、培训记录分散存储，便于快速查阅"
+        },
+        {
+          "key": "E",
+          "text": "BIM安全管理:仅在施工过程中实现对施工项目现场的安全管理"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "A、B、C均是BIM安全管理的核心优势;D为传统安全管理的特点，且分散存储”是传统模式的缺陷，并非BIM优势，故排除D。E选项，BIM安全管理并非仅在施工阶段应用施工前和竣工阶段，都有相关应用场景。故排除E。",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q209",
+      "type": "multiple",
+      "stem": "BIM在施工现场总体规划中的优势包括以下哪些方面?",
+      "options": [
+        {
+          "key": "A",
+          "text": "三维空间可视化:直观展示临时设施、设备、路线的立体关系，提前排查冲突"
+        },
+        {
+          "key": "B",
+          "text": "4D动态模拟:结合施工进度，模拟不同阶段场地需求，避免静态规划脱节"
+        },
+        {
+          "key": "C",
+          "text": "多专业协同:提供统一模型平台，协调施工、监理、分包等多方场地需求"
+        },
+        {
+          "key": "D",
+          "text": "资源配置优化:通过模型精准匹配资源需求，减少过度建设或资源不足"
+        },
+        {
+          "key": "E",
+          "text": "基于二维CAD的场地规划:可以使用CAD对场地进行规划和布置"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "BIM在施工现场总体规划中的优势包括以下哪些方面?()A. 三维空间可视化:直观展示临时设施、设备、路线的立体关系，提前排查冲突B.4D动态模拟:结合施工进度，模拟不同阶段场地需求，避免静态规划脱节C.多专业协同:提供统一模型平台，协调施工、监理、分包等多方场地需求D.资源配置优化:通过模型精准匹配资源需求，减少过度建设或资源不足E.基于二维CAD的场地规划:可以使用 CAD对场地进行规划和布置",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q210",
+      "type": "multiple",
+      "stem": "BIM与物联网集成的智慧工地，可覆盖哪些核心管理维度?",
+      "options": [
+        {
+          "key": "A",
+          "text": "进度管理:动态对比计划与实际进度"
+        },
+        {
+          "key": "B",
+          "text": "质量与安全管理:实时监测风险，自动预警"
+        },
+        {
+          "key": "C",
+          "text": "物资、环境管理:精准管控材料消耗，监测施工环境"
+        },
+        {
+          "key": "D",
+          "text": "人员管理:定位考勤与岗位技能匹配调度"
+        },
+        {
+          "key": "E",
+          "text": "视频监控:可以通过摄像头实现工地现场的视频监控"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "智慧工地覆盖“进度、质量、安全、物资、环境、人员 ”六大核心管理维度，选项A 、B、C、D分别对应其中关键维度，均为原文提及的核心应用方向。E选项为传统硬件设施的常规应用，与BIM技术和物联网集成应用相关性不",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q211",
+      "type": "multiple",
+      "stem": "根据PPT内容，BIM成功实施的核心要素包括以下哪些方面?",
+      "options": [
+        {
+          "key": "A",
+          "text": "顶层设计与组织保障:明确目标、责任与流程"
+        },
+        {
+          "key": "B",
+          "text": "技术体系构建:统一标准、搭建协同平台、管理全周期数据"
+        },
+        {
+          "key": "C",
+          "text": "人员能力建设:分层次培训、引入内外部专家、建立激励机制"
+        },
+        {
+          "key": "D",
+          "text": "过程管控与落地:跟踪进度、管控质量、复盘优化"
+        },
+        {
+          "key": "E",
+          "text": "资源与协同支持:保障人财物资源、推动全参与方协同"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "analysis": "BIM成功实施的核心要素包括 “顶层设计与组织保障”“ 技术体系构建”“人员能力建设”“过程管控与落地 ”“资源与协同支持”五大维度，选项A、B、C、D、E分别对应各维度核心内容，均",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q212",
+      "type": "multiple",
+      "stem": "BIM人员能力建设的关键措施有哪些?",
+      "options": [
+        {
+          "key": "A",
+          "text": "分层次培训:针对管理层、技术层、一线人员定制不同培训内容"
+        },
+        {
+          "key": "B",
+          "text": "引入外部顾问(如BIM咨询公司)与内部专家，提供经验支撑"
+        },
+        {
+          "key": "C",
+          "text": "建立人才激励机制:将BIM能力纳入晋升考核、提供物质与荣誉奖励"
+        },
+        {
+          "key": "D",
+          "text": "仅开展通用软件培训，不区分角色(如管理层与一线人员培训内容一致)"
+        },
+        {
+          "key": "E",
+          "text": "需要所有岗位人员掌握BIM建模能力，通过BIM建模技能等级测试"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "符人合员原能文力建。设的关键措施包括分层次培训、引入内外部专家、建立激励机制;选项 D“不区分角色的通用培训” 是人员培训的常见错误做法，不符合精准赋能要求，故排除D。E选项中企业内可区分建模人员和用模人员，并非所有岗位都需掌握建模",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q213",
+      "type": "judge",
+      "stem": "装配式混凝土建筑应将结构系统、外围护系统、设备与管线系统、内装系统集成，实现建筑功能完整、性能优良。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "能力。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q214",
+      "type": "judge",
+      "stem": "装配整体式混凝土剪力墙结构是全部剪力墙采用预制墙板构建成的装配整体式混凝土结构。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q215",
+      "type": "judge",
+      "stem": "装配式混凝土建筑的设备与管线宜与主体结构相分离，应方便维修更换，且不应影响主体结构安全。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q216",
+      "type": "judge",
+      "stem": "2020年《关于推动智能建造与建筑工业化协同发展的指导意见》与《关于加快新型建筑工业化发展的若干意见》要求，以大力发展建筑工业化为载体，以数字化转型为动力加大智能建造在工程建设各环节应用。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q217",
+      "type": "judge",
+      "stem": "建筑的部件之间、部件与设备之间的连接宜采用特殊化接口。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q218",
+      "type": "judge",
+      "stem": "对建筑方案和结构体系进行优化，提高预制构件的重复率和装配化率，采取适当的预制率，合理拆分和设计构件，提高生产效率、降低施工难度是应用建筑工业化技术手段提升PC建筑的经济性的重要要素。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q219",
+      "type": "judge",
+      "stem": "装配式混凝土建筑应实现全装修，内装系统可后置考虑。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q220",
+      "type": "judge",
+      "stem": "根据结构形式和预制方案，大致可将装配整体式混凝土结构分为装配整体式框架结构、装配整体式剪力墙结构、装配整体式框架-剪力墙结构。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q221",
+      "type": "judge",
+      "stem": "预制构件堆放时预埋吊件应朝上，标识宜朝向堆垛间的通道。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q222",
+      "type": "judge",
+      "stem": "当采用插放架直立堆放或运输构件时，宜采取水平运输方式;插放架应有足够的承载力和刚度，并应支垫稳固。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q223",
+      "type": "judge",
+      "stem": "未经设计允许可以对预制构件进行切割、开洞。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q224",
+      "type": "judge",
+      "stem": "灌浆料拌合物应在制备后30min内用完。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q225",
+      "type": "judge",
+      "stem": "装配式混凝土建筑技术标准GB/T51231-2016中吊装作业安全规定遇到雨、雪、雾天气，或者风力大于6级时，不得进行吊装作业。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q226",
+      "type": "judge",
+      "stem": "预制构件运输时应做好安全和成品防护，对于超高、超宽、形状特殊的大型预制构件应制定专门的保证措施。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q227",
+      "type": "judge",
+      "stem": "全灌浆接头与半灌浆接头，应分别进行形式检验，两种类型接头的型式检验报告不可互相替代。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q228",
+      "type": "judge",
+      "stem": "灌浆料同条件养护试件抗压强度达到35N/mm2后，方可进行对接头有扰动的后续施工。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q229",
+      "type": "judge",
+      "stem": "装配式混凝土构件预制叠合板拉毛深度不宜小于6mm，叠合梁拉毛深度不宜小于4mm。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q230",
+      "type": "judge",
+      "stem": "竖向构件安装就位后，可通过临时支撑对构件的位置和标高进行微调。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q231",
+      "type": "judge",
+      "stem": "套筒灌浆料应与灌浆套筒匹配使用。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q232",
+      "type": "judge",
+      "stem": "预制柱套筒灌浆施工时，灌浆料的初始流动度应不小于300mm。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q233",
+      "type": "judge",
+      "stem": "预制柱全灌浆套简连接施工前应编制专项施工方案。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q234",
+      "type": "judge",
+      "stem": "预制柱全灌浆套筒施工时应该从套筒灌浆孔灌浆。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q235",
+      "type": "judge",
+      "stem": "关于全灌浆套筒和半灌浆套筒，全灌浆套筒对钢筋的定位要求更高。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q236",
+      "type": "single",
+      "stem": "国务院《关于大力发展装配式建筑的指导意见》的工作目标中提出要推动形成批设计、施工、部品部件规模化生产企业，具有现代装配建造水平的(以及与之相适应的专业化技能队伍。",
+      "options": [
+        {
+          "key": "A",
+          "text": "设计总承包企业"
+        },
+        {
+          "key": "B",
+          "text": "工程总承包企业"
+        },
+        {
+          "key": "C",
+          "text": "施工总承包企业"
+        },
+        {
+          "key": "D",
+          "text": "设计-施工总承包"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q237",
+      "type": "single",
+      "stem": "在国务院办公厅《关于大力发展装配式建筑的指导意见》中指出:装配式建筑是用预制部品部件在工地装配而成的建筑，发展装配式建筑是( )的重大变革。",
+      "options": [
+        {
+          "key": "A",
+          "text": "设计理念"
+        },
+        {
+          "key": "B",
+          "text": "建造方式"
+        },
+        {
+          "key": "C",
+          "text": "施工工艺"
+        },
+        {
+          "key": "D",
+          "text": "数字建设"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q238",
+      "type": "single",
+      "stem": "住房和城乡建设部发布《城乡建设领域碳达峰实施方案》，明确2030年前城乡建设领域碳排放达到峰值，提出大力发展装配式建筑，推广钢结构住宅，到2030年装配式建筑占当年城镇新建建筑的比例达到",
+      "options": [
+        {
+          "key": "A",
+          "text": "20%"
+        },
+        {
+          "key": "B",
+          "text": "30%"
+        },
+        {
+          "key": "C",
+          "text": "40%"
+        },
+        {
+          "key": "D",
+          "text": "50%"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q239",
+      "type": "single",
+      "stem": "装配式建筑设计应遵循的原则是",
+      "options": [
+        {
+          "key": "A",
+          "text": "少规格、多组合"
+        },
+        {
+          "key": "B",
+          "text": "多规格、少组合"
+        },
+        {
+          "key": "C",
+          "text": "多规格、多组合"
+        },
+        {
+          "key": "D",
+          "text": "按照设计师意愿"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q240",
+      "type": "single",
+      "stem": "装配式混凝土建筑应结合( )的原则整体策划，协同建筑、结构、机电、装饰装修等专业要求，制定施工组织设计。",
+      "options": [
+        {
+          "key": "A",
+          "text": "标准化设计"
+        },
+        {
+          "key": "B",
+          "text": "装配化施工"
+        },
+        {
+          "key": "C",
+          "text": "设计、加工、采购一体化"
+        },
+        {
+          "key": "D",
+          "text": "设计、生产、装配一体"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q241",
+      "type": "single",
+      "stem": "以下关于装配式建筑的说法不妥的是( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "装配式建筑是一个系统工程"
+        },
+        {
+          "key": "B",
+          "text": "装配式建筑是由预制部品部件在工地装配而成的建筑"
+        },
+        {
+          "key": "C",
+          "text": "装配式建筑包括装配式混凝土建筑、装配式钢结构建筑、装配式木结构建筑及装配式混合结构建筑"
+        },
+        {
+          "key": "D",
+          "text": "装配式建筑是仅涉及结构的装配"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q242",
+      "type": "single",
+      "stem": "施工现场应根据施工平面规划设置运输通道和存放场地，下列不符合规定的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "现场运输道路和存放场地应坚实平整，并应有排水设施"
+        },
+        {
+          "key": "B",
+          "text": "施工现场内道路应按照构件运输车辆的要求合理设置转弯半径及道路坡度"
+        },
+        {
+          "key": "C",
+          "text": "预制构件运送到施工现场后，所有构件堆放在一起，不需要分类码放"
+        },
+        {
+          "key": "D",
+          "text": "构件的存放应具有足够的抗倾覆能力"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q243",
+      "type": "single",
+      "stem": "预制叠合板构件，外露桁架钢筋、预埋件在混凝土浇筑前宜采取( )措施，防止混凝土滴落在上面。",
+      "options": [
+        {
+          "key": "A",
+          "text": "检查"
+        },
+        {
+          "key": "B",
+          "text": "防污染"
+        },
+        {
+          "key": "C",
+          "text": "纠正"
+        },
+        {
+          "key": "D",
+          "text": "支撑"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q244",
+      "type": "single",
+      "stem": "装配式建筑构件吊装用吊具应根据预制构件形状、尺寸及重量等参数进行配置，吊3.索水平夹角不宜小于( )，且不应小于( );对尺寸较大或形状复杂的预制构件，宜采用有分配梁或分配桁架的吊具。",
+      "options": [
+        {
+          "key": "A",
+          "text": "60° 45°"
+        },
+        {
+          "key": "B",
+          "text": "60° 30°"
+        },
+        {
+          "key": "C",
+          "text": "45° 30°"
+        },
+        {
+          "key": "D",
+          "text": "80° 45°"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q245",
+      "type": "single",
+      "stem": "构件安装就位后，可通过临时支撑对构件的位置和( )进行微调。",
+      "options": [
+        {
+          "key": "A",
+          "text": "垂直度"
+        },
+        {
+          "key": "B",
+          "text": "标高"
+        },
+        {
+          "key": "C",
+          "text": "长度"
+        },
+        {
+          "key": "D",
+          "text": "宽度"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q246",
+      "type": "single",
+      "stem": "预制构件安装就位后应及时采取临时固定措施。预制构件与吊具的分离应在校准定位及( )后进行。",
+      "options": [
+        {
+          "key": "A",
+          "text": "后浇混凝土浇筑"
+        },
+        {
+          "key": "B",
+          "text": "临时固定措施安装完成"
+        },
+        {
+          "key": "C",
+          "text": "构件灌浆"
+        },
+        {
+          "key": "D",
+          "text": "焊接锚固"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q247",
+      "type": "single",
+      "stem": "预制构件安装中下侧说法不正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "预制构件安装过程中应根据水准点和轴线校正位置，安装就位后应及时采取临时固定措施"
+        },
+        {
+          "key": "B",
+          "text": "预制构件与吊具的分离应在校准定位及临时固定措施安装完成后进行"
+        },
+        {
+          "key": "C",
+          "text": "临时固定措施的拆除应在装配式结构能达到后续施工承载要求后进行"
+        },
+        {
+          "key": "D",
+          "text": "临时固定措施的拆除应在装配式结构的连接混凝土强度达到 100%后才可进行"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q248",
+      "type": "single",
+      "stem": "由于操作面的限制，不便于混凝土的振捣密实时，宜采用( )结合部位或接缝处混凝土施工，并应符合国家现行有关标准的规定。",
+      "options": [
+        {
+          "key": "A",
+          "text": "微膨胀混凝土"
+        },
+        {
+          "key": "B",
+          "text": "自密实混凝土"
+        },
+        {
+          "key": "C",
+          "text": "细石混凝土"
+        },
+        {
+          "key": "D",
+          "text": "高强混凝土"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q249",
+      "type": "single",
+      "stem": "纵向钢筋采用套筒灌浆连接时，套筒之间的净距不应小于( )。",
+      "options": [
+        {
+          "key": "A",
+          "text": "15mm"
+        },
+        {
+          "key": "B",
+          "text": "20mm且≥d"
+        },
+        {
+          "key": "C",
+          "text": "25mm"
+        },
+        {
+          "key": "D",
+          "text": "25mm且≥d"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q250",
+      "type": "single",
+      "stem": "外挂墙板与主体结构宜采用( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "柔性连接"
+        },
+        {
+          "key": "B",
+          "text": "刚性连接"
+        },
+        {
+          "key": "C",
+          "text": "半柔性连接"
+        },
+        {
+          "key": "D",
+          "text": "半刚性连接"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q251",
+      "type": "single",
+      "stem": "下列不属于预制构件粗糙面常用处理工艺的是( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "水洗法"
+        },
+        {
+          "key": "B",
+          "text": "拉毛"
+        },
+        {
+          "key": "C",
+          "text": "凿毛"
+        },
+        {
+          "key": "D",
+          "text": "喷砂"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q252",
+      "type": "single",
+      "stem": "悬臂结构底模及支架拆除时的混凝土强度要求，达到设计混凝土强度等级值的( )方可拆除。",
+      "options": [
+        {
+          "key": "A",
+          "text": "50%"
+        },
+        {
+          "key": "B",
+          "text": "75%"
+        },
+        {
+          "key": "C",
+          "text": "80%"
+        },
+        {
+          "key": "D",
+          "text": "100%"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q253",
+      "type": "single",
+      "stem": "吊装作业时，如遇到雨、雪、雾天气，或者风力大于( )级时，不得进行6.吊装作业。",
+      "options": [
+        {
+          "key": "A",
+          "text": "4"
+        },
+        {
+          "key": "B",
+          "text": "5"
+        },
+        {
+          "key": "C",
+          "text": "6"
+        },
+        {
+          "key": "D",
+          "text": "7"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q254",
+      "type": "multiple",
+      "stem": "在《关于大力发展装配建筑的指导意见》中，发展装配式建筑有利于( )。",
+      "options": [
+        {
+          "key": "A",
+          "text": "节约资源能源"
+        },
+        {
+          "key": "B",
+          "text": "减少施工污染"
+        },
+        {
+          "key": "C",
+          "text": "提升劳动生产效率"
+        },
+        {
+          "key": "D",
+          "text": "提升质量安全水平"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q255",
+      "type": "multiple",
+      "stem": "在国务院办公厅《关于大力发展装配建筑的指导意见》中提出，大力发展装8.配式建筑，要坚持 ( )，提高技术水平和工程质量，促进建筑产业转型升级。",
+      "options": [
+        {
+          "key": "A",
+          "text": "标准化设计"
+        },
+        {
+          "key": "B",
+          "text": "工厂化生产"
+        },
+        {
+          "key": "C",
+          "text": "装配化施工"
+        },
+        {
+          "key": "D",
+          "text": "一体化装修"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q256",
+      "type": "multiple",
+      "stem": "在装配式建筑方案设计阶段，应协调( )之间的关系，并应加强建筑、结构、设备、装修等专业之间的配合。",
+      "options": [
+        {
+          "key": "A",
+          "text": "建设"
+        },
+        {
+          "key": "B",
+          "text": "设计"
+        },
+        {
+          "key": "C",
+          "text": "制作"
+        },
+        {
+          "key": "D",
+          "text": "施工"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q257",
+      "type": "multiple",
+      "stem": "大力发展装配式建筑，有利于( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "促进建筑业与信息化工业化深度融合"
+        },
+        {
+          "key": "B",
+          "text": "培育新产业新动能"
+        },
+        {
+          "key": "C",
+          "text": "推动化解过剩产能"
+        },
+        {
+          "key": "D",
+          "text": "彻底代替现浇混凝土建筑"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q258",
+      "type": "multiple",
+      "stem": "预制构件检验合格出厂前，应出具构件质量证明文件，文件具体包括( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "出厂合格证"
+        },
+        {
+          "key": "B",
+          "text": "混凝土强度检验报告"
+        },
+        {
+          "key": "C",
+          "text": "钢筋套筒等其他构件钢筋连接类型的工艺检验报告"
+        },
+        {
+          "key": "D",
+          "text": "合同要求的其他质量证明文件"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q259",
+      "type": "multiple",
+      "stem": "灌浆作业是装配整体构件工程施工质量的关键环节，对作业人员应进行培训考核，并持证上岗，同时要求有专职检验人员在灌浆操作全过程进行监督，下列选项中哪些属于套筒灌浆连接接头的质量保证措施",
+      "options": [
+        {
+          "key": "A",
+          "text": "采用经验证的钢筋套筒和灌浆料配套产品"
+        },
+        {
+          "key": "B",
+          "text": "施工人员是经培训合格的专业人员，严格按技术操作要求执行"
+        },
+        {
+          "key": "C",
+          "text": "操作施工时，应做好灌浆作业的视频资料，质量检查人员进行全程施工质量检查，能提供可追溯的全过程灌浆质量检查记录"
+        },
+        {
+          "key": "D",
+          "text": "检验批验收时，如对套筒灌浆连接接头质量有疑问，可委托第三方独立检测机构进行非破损检"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q260",
+      "type": "multiple",
+      "stem": "测装配式混凝土结构安装施工前应合理规划( )，并应采取成品堆放保护措施。",
+      "options": [
+        {
+          "key": "A",
+          "text": "构件运输通道"
+        },
+        {
+          "key": "B",
+          "text": "临时堆放场地"
+        },
+        {
+          "key": "C",
+          "text": "人员班组情况"
+        },
+        {
+          "key": "D",
+          "text": "机具设备配备"
+        }
+      ],
+      "answer": [
+        "A",
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q261",
+      "type": "multiple",
+      "stem": "装配整体式混凝土建筑前期技术策划应在项目规划审批立项前进行，并对项目定位、技术路线、成本控制、效率目标作出明确要求;对项目所在区域( )进行评估。",
+      "options": [
+        {
+          "key": "A",
+          "text": "构件生产能力"
+        },
+        {
+          "key": "B",
+          "text": "施工装配能力"
+        },
+        {
+          "key": "C",
+          "text": "施工装配能力"
+        },
+        {
+          "key": "D",
+          "text": "吊装条件"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q262",
+      "type": "multiple",
+      "stem": "《装配式混凝土建筑技术标准》GB/T 51231规定，吊装大型构件、薄壁构件或形状复杂的构件时，应使用( )等吊具。",
+      "options": [
+        {
+          "key": "A",
+          "text": "溜绳"
+        },
+        {
+          "key": "B",
+          "text": "吊篮"
+        },
+        {
+          "key": "C",
+          "text": "分配梁"
+        },
+        {
+          "key": "D",
+          "text": "分配桁架"
+        }
+      ],
+      "answer": [
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q263",
+      "type": "multiple",
+      "stem": "造成照片中墙体钢筋歪斜的主要原因可能有。",
+      "options": [
+        {
+          "key": "A",
+          "text": "人员踩踏"
+        },
+        {
+          "key": "B",
+          "text": "故意弯折"
+        },
+        {
+          "key": "C",
+          "text": "运输、存放过程中磕碰"
+        },
+        {
+          "key": "D",
+          "text": "设计要求"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q264",
+      "type": "multiple",
+      "stem": "预制构件的结构性能检验主要检查项为( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "构件承载力"
+        },
+        {
+          "key": "B",
+          "text": "构件挠度"
+        },
+        {
+          "key": "C",
+          "text": "构件裂缝宽度"
+        },
+        {
+          "key": "D",
+          "text": "构件外观"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch2-q265",
+      "type": "multiple",
+      "stem": "竖向构件采用联通腔灌浆，并应合理划分连通灌浆区域;每个区域除预留( )外，应形成密闭空间，不应漏浆。",
+      "options": [
+        {
+          "key": "A",
+          "text": "灌浆孔"
+        },
+        {
+          "key": "B",
+          "text": "出浆孔"
+        },
+        {
+          "key": "C",
+          "text": "安装孔"
+        },
+        {
+          "key": "D",
+          "text": "排气孔"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    }
+  ]
+}

@@ -1,0 +1,881 @@
+{
+  "questions": [
+    {
+      "id": "yijian-jidian-shiwu-ch1-q1",
+      "type": "single",
+      "stem": "活塞式压缩机主轴应采用（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "直轴"
+        },
+        {
+          "key": "B",
+          "text": "曲轴"
+        },
+        {
+          "key": "C",
+          "text": "心轴"
+        },
+        {
+          "key": "D",
+          "text": "挠性轴"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jidian-shiwu-ch1-q2",
+      "type": "single",
+      "stem": "交流电路中，视在功率S的单位为（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "瓦特(w)"
+        },
+        {
+          "key": "B",
+          "text": "伏安(VA)"
+        },
+        {
+          "key": "C",
+          "text": "焦耳(J)"
+        },
+        {
+          "key": "D",
+          "text": "乏(Var)"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jidian-shiwu-ch1-q3",
+      "type": "single",
+      "stem": "物体的导热系数是指单位厚度的物体与外界具有单位温度差时，在它的单位面积上，单位（）的导热量。",
+      "options": [
+        {
+          "key": "A",
+          "text": "长度"
+        },
+        {
+          "key": "B",
+          "text": "体积"
+        },
+        {
+          "key": "C",
+          "text": "重量"
+        },
+        {
+          "key": "D",
+          "text": "时间"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jidian-shiwu-ch1-q4",
+      "type": "single",
+      "stem": "自动控制系统中，闭环控制的目的是使被控变量与（）达到一致。",
+      "options": [
+        {
+          "key": "A",
+          "text": "设定值"
+        },
+        {
+          "key": "B",
+          "text": "控制值"
+        },
+        {
+          "key": "C",
+          "text": "偏差值"
+        },
+        {
+          "key": "D",
+          "text": "调节值"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jidian-shiwu-ch1-q5",
+      "type": "single",
+      "stem": "缆风绳是桅杆式起重机的稳定系统，副缆风绳直径大小的选用原则是（）选取。",
+      "options": [
+        {
+          "key": "A",
+          "text": "以主缆风绳的工作拉力"
+        },
+        {
+          "key": "B",
+          "text": "以主缆风绳的初拉力"
+        },
+        {
+          "key": "C",
+          "text": "比主缆风绳较小的直径"
+        },
+        {
+          "key": "D",
+          "text": "以主缆风绳相同直径"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jidian-shiwu-ch1-q6",
+      "type": "single",
+      "stem": "设备基础定位放线可依据（）图和有关建筑物的轴线、边沿线及标高线，划定安装基准线。",
+      "options": [
+        {
+          "key": "A",
+          "text": "设备布置"
+        },
+        {
+          "key": "B",
+          "text": "工艺流程"
+        },
+        {
+          "key": "C",
+          "text": "设备装配"
+        },
+        {
+          "key": "D",
+          "text": "土建施工"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jidian-shiwu-ch1-q7",
+      "type": "single",
+      "stem": "大型风机起动运转前应（）迸、出口风阀。",
+      "options": [
+        {
+          "key": "A",
+          "text": "全开启"
+        },
+        {
+          "key": "B",
+          "text": "开启2／3"
+        },
+        {
+          "key": "C",
+          "text": "关闭2/3"
+        },
+        {
+          "key": "D",
+          "text": "全关闭"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jidian-shiwu-ch1-q8",
+      "type": "single",
+      "stem": "由于工艺需要，管道与设备需作为一个系统进行试压，管道的设计压力为1.8MPa，设备的设计压力为l.6MPa，试验压力均为设计压力的l．5倍，则系统强度试验压力可为（）MPa。",
+      "options": [
+        {
+          "key": "A",
+          "text": "2.07"
+        },
+        {
+          "key": "B",
+          "text": "2.25"
+        },
+        {
+          "key": "C",
+          "text": "2.40"
+        },
+        {
+          "key": "D",
+          "text": "2.70"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jidian-shiwu-ch1-q9",
+      "type": "single",
+      "stem": "压缩空气系统中，空气压缩机与储气罐之间的管路上宜装（）o",
+      "options": [
+        {
+          "key": "A",
+          "text": "截止阀"
+        },
+        {
+          "key": "B",
+          "text": "球阀"
+        },
+        {
+          "key": "C",
+          "text": "止回阀"
+        },
+        {
+          "key": "D",
+          "text": "角阀"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jidian-shiwu-ch1-q10",
+      "type": "single",
+      "stem": "净化空调系统风管制作时，风管及部件的各个缝隙处应用密封（）密封。",
+      "options": [
+        {
+          "key": "A",
+          "text": "胶"
+        },
+        {
+          "key": "B",
+          "text": "带"
+        },
+        {
+          "key": "C",
+          "text": "填料"
+        },
+        {
+          "key": "D",
+          "text": "圈"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jidian-shiwu-ch1-q11",
+      "type": "single",
+      "stem": "为降低噪声，对噪声大的机械设备要设置（）o",
+      "options": [
+        {
+          "key": "A",
+          "text": "隔声罩"
+        },
+        {
+          "key": "B",
+          "text": "隔声闯"
+        },
+        {
+          "key": "C",
+          "text": "隔声屏"
+        },
+        {
+          "key": "D",
+          "text": "隔声幕"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jidian-shiwu-ch1-q12",
+      "type": "single",
+      "stem": "仪表的压力取源部件，其检测的液体、蒸汽和可凝性气体的温度高于（）℃，应带有冷凝附件。",
+      "options": [
+        {
+          "key": "A",
+          "text": "45"
+        },
+        {
+          "key": "B",
+          "text": "50"
+        },
+        {
+          "key": "C",
+          "text": "55"
+        },
+        {
+          "key": "D",
+          "text": "60"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jidian-shiwu-ch1-q13",
+      "type": "single",
+      "stem": "合理选择装配和焊接顺序、焊接方法，是对焊接变形和焊接应力的（）控制措施。",
+      "options": [
+        {
+          "key": "A",
+          "text": "设计因素"
+        },
+        {
+          "key": "B",
+          "text": "施工方案"
+        },
+        {
+          "key": "C",
+          "text": "工艺因素"
+        },
+        {
+          "key": "D",
+          "text": "施工方法"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jidian-shiwu-ch1-q14",
+      "type": "single",
+      "stem": "当管道及设备冷保温层的厚度大于（）mm时，保温层应分层施工。",
+      "options": [
+        {
+          "key": "A",
+          "text": "60"
+        },
+        {
+          "key": "B",
+          "text": "65"
+        },
+        {
+          "key": "C",
+          "text": "70"
+        },
+        {
+          "key": "D",
+          "text": "75"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jidian-shiwu-ch1-q15",
+      "type": "single",
+      "stem": "机电安装工程总承包项目经理部应在工程（），向分承包方和内部各层面管理人员、技术人员作施工任务划分的交底。",
+      "options": [
+        {
+          "key": "A",
+          "text": "总包合同签订后"
+        },
+        {
+          "key": "B",
+          "text": "图纸设计交底中"
+        },
+        {
+          "key": "C",
+          "text": "前期准备工作中"
+        },
+        {
+          "key": "D",
+          "text": "施工组织总设计编制后"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jidian-shiwu-ch1-q16",
+      "type": "single",
+      "stem": "机电安装工程的进口设备验收，首先应办理报关和通关手续，经过（）合格后，再按设备进口的规定，进行设备进货验收工作。",
+      "options": [
+        {
+          "key": "A",
+          "text": "检测"
+        },
+        {
+          "key": "B",
+          "text": "商检"
+        },
+        {
+          "key": "C",
+          "text": "质检"
+        },
+        {
+          "key": "D",
+          "text": "鉴定"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jidian-shiwu-ch1-q17",
+      "type": "single",
+      "stem": "锅炉到货后，应检查锅炉的生产许可证明、随机（）文件必须符合规定，设备零部件齐全无损坏。",
+      "options": [
+        {
+          "key": "A",
+          "text": "安全和质量"
+        },
+        {
+          "key": "B",
+          "text": "工艺和质量"
+        },
+        {
+          "key": "C",
+          "text": "技术和质量"
+        },
+        {
+          "key": "D",
+          "text": "安全和技术"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jidian-shiwu-ch1-q18",
+      "type": "single",
+      "stem": "在编制的电力设施保护区内安装作业施工方案中，要写明施工作业时请（）部门派员监管。",
+      "options": [
+        {
+          "key": "A",
+          "text": "设施管理"
+        },
+        {
+          "key": "B",
+          "text": "电力管理"
+        },
+        {
+          "key": "C",
+          "text": "设施使用"
+        },
+        {
+          "key": "D",
+          "text": "建设管理"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jidian-shiwu-ch1-q19",
+      "type": "single",
+      "stem": "《机械设备安装工程施工及验收通用规范》强制性条文规定：交给施工人员进行安装的机械设备，必须符合（）标准的规定，并应有合格证明。",
+      "options": [
+        {
+          "key": "A",
+          "text": "制造和工艺"
+        },
+        {
+          "key": "B",
+          "text": "设计和工艺"
+        },
+        {
+          "key": "C",
+          "text": "设计和产品"
+        },
+        {
+          "key": "D",
+          "text": "制造和产品"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-jidian-shiwu-ch1-q20",
+      "type": "multiple",
+      "stem": "链传动与齿轮传动相比，其主要特点是（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "适用的圆周速度和功率范围广"
+        },
+        {
+          "key": "B",
+          "text": "传动比大"
+        },
+        {
+          "key": "C",
+          "text": "制造和安装精度要求较低"
+        },
+        {
+          "key": "D",
+          "text": "传动平稳性较差"
+        },
+        {
+          "key": "E",
+          "text": "传动结构简单"
+        }
+      ],
+      "answer": [
+        "C",
+        "D",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-jidian-shiwu-ch1-q21",
+      "type": "multiple",
+      "stem": "滚动轴承与滑动轴承相比，其优点是（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "抗冲击能力强"
+        },
+        {
+          "key": "B",
+          "text": "摩擦阻力小"
+        },
+        {
+          "key": "C",
+          "text": "起动灵敏"
+        },
+        {
+          "key": "D",
+          "text": "润滑简便"
+        },
+        {
+          "key": "E",
+          "text": "高速时噪声低"
+        }
+      ],
+      "answer": [
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-jidian-shiwu-ch1-q22",
+      "type": "multiple",
+      "stem": "造成流体在管路中阻力损失的原因包括（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "流体的粘滞性"
+        },
+        {
+          "key": "B",
+          "text": "流体的惯性"
+        },
+        {
+          "key": "C",
+          "text": "管路断面突变"
+        },
+        {
+          "key": "D",
+          "text": "流体静压力"
+        },
+        {
+          "key": "E",
+          "text": "流体的化学特性"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-jidian-shiwu-ch1-q23",
+      "type": "multiple",
+      "stem": "机械设备零部件的主要形状误差包括（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "垂直度"
+        },
+        {
+          "key": "B",
+          "text": "直线度"
+        },
+        {
+          "key": "C",
+          "text": "平面度"
+        },
+        {
+          "key": "D",
+          "text": "圆度"
+        },
+        {
+          "key": "E",
+          "text": "圆柱度"
+        }
+      ],
+      "answer": [
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-jidian-shiwu-ch1-q24",
+      "type": "multiple",
+      "stem": "火灾报警联动控制系统的精装修消防验收内容包括（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "各项消防系统"
+        },
+        {
+          "key": "B",
+          "text": "消防管线及连接"
+        },
+        {
+          "key": "C",
+          "text": "各项消防设施"
+        },
+        {
+          "key": "D",
+          "text": "安全疏散"
+        },
+        {
+          "key": "E",
+          "text": "室内装修"
+        }
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-jidian-shiwu-ch1-q25",
+      "type": "multiple",
+      "stem": "智能建筑系统联动调试应包括（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "单体调试检查"
+        },
+        {
+          "key": "B",
+          "text": "系统的接线检查"
+        },
+        {
+          "key": "C",
+          "text": "系统通信检查"
+        },
+        {
+          "key": "D",
+          "text": "系统监控性能的测试"
+        },
+        {
+          "key": "E",
+          "text": "系统联动功能的测试"
+        }
+      ],
+      "answer": [
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-jidian-shiwu-ch1-q26",
+      "type": "multiple",
+      "stem": "机电安装分项工程是按（）等进行划分。",
+      "options": [
+        {
+          "key": "A",
+          "text": "专业性质"
+        },
+        {
+          "key": "B",
+          "text": "主要工程材料"
+        },
+        {
+          "key": "C",
+          "text": "施工工艺"
+        },
+        {
+          "key": "D",
+          "text": "设备类别"
+        },
+        {
+          "key": "E",
+          "text": "工种类别"
+        }
+      ],
+      "answer": [
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-jidian-shiwu-ch1-q27",
+      "type": "multiple",
+      "stem": "锅炉的高压无缝钢管是用（）制造的。",
+      "options": [
+        {
+          "key": "A",
+          "text": "普通碳素钢"
+        },
+        {
+          "key": "B",
+          "text": "优质碳素钢"
+        },
+        {
+          "key": "C",
+          "text": "普通低合金钢"
+        },
+        {
+          "key": "D",
+          "text": "低温合金钢"
+        },
+        {
+          "key": "E",
+          "text": "合金结构钢"
+        }
+      ],
+      "answer": [
+        "B",
+        "C",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-jidian-shiwu-ch1-q28",
+      "type": "multiple",
+      "stem": "特种设备安装单位除具有独立法人资格外，还应具备相应的（）条件。",
+      "options": [
+        {
+          "key": "A",
+          "text": "企业资质等级"
+        },
+        {
+          "key": "B",
+          "text": "人员配备"
+        },
+        {
+          "key": "C",
+          "text": "作业设备、工具和检测仪器"
+        },
+        {
+          "key": "D",
+          "text": "管理体系"
+        },
+        {
+          "key": "E",
+          "text": "业绩"
+        }
+      ],
+      "answer": [
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-jidian-shiwu-ch1-q29",
+      "type": "multiple",
+      "stem": "接地装置的接地电阻值由（）等因素决定。",
+      "options": [
+        {
+          "key": "A",
+          "text": "接地体形状"
+        },
+        {
+          "key": "B",
+          "text": "接地体敷设位置"
+        },
+        {
+          "key": "C",
+          "text": "接地体数量"
+        },
+        {
+          "key": "D",
+          "text": "接地体方向"
+        },
+        {
+          "key": "E",
+          "text": "埋入处土壤的理化性质"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    }
+  ]
+}

@@ -1,0 +1,736 @@
+{
+  "questions": [
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch5-q1",
+      "type": "judge",
+      "stem": "《上海市建设工程文明施工管理规定》自2009年首次颁布以来，至今未作任何修订。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch5-q2",
+      "type": "judge",
+      "stem": "根据规定，文明施工费用应在工程概算、预算中单独列项，确保专款专用。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch5-q3",
+      "type": "judge",
+      "stem": "施工单位可以将文明施工费用挪用于其他施工环节，只要整体项目达标即可。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch5-q4",
+      "type": "judge",
+      "stem": "夜间22:00至次日6:00禁止高噪声作业，连续浇筑等特殊情况可申请豁免。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch5-q5",
+      "type": "single",
+      "stem": "根据《上海市文明施工管理规定》，以下哪类单位承担文明施工的主体责任?",
+      "options": [
+        {
+          "key": "A",
+          "text": "建设单位"
+        },
+        {
+          "key": "B",
+          "text": "设计单位"
+        },
+        {
+          "key": "C",
+          "text": "施工单位"
+        },
+        {
+          "key": "D",
+          "text": "监理单位"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch5-q6",
+      "type": "single",
+      "stem": "围挡高度在不同工程中有差异化要求，其中**重点区域**的围挡高度应为",
+      "options": [
+        {
+          "key": "A",
+          "text": "1.5米"
+        },
+        {
+          "key": "B",
+          "text": "1.8米"
+        },
+        {
+          "key": "C",
+          "text": "2.0米"
+        },
+        {
+          "key": "D",
+          "text": "2.5米"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch5-q7",
+      "type": "single",
+      "stem": "以下哪项措施**不属于**湿法作业的应用场景?",
+      "options": [
+        {
+          "key": "A",
+          "text": "土方开挖"
+        },
+        {
+          "key": "B",
+          "text": "拆除破碎"
+        },
+        {
+          "key": "C",
+          "text": "材料切割"
+        },
+        {
+          "key": "D",
+          "text": "夜间照明"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch5-q8",
+      "type": "multiple",
+      "stem": "以下哪些单位在文明施工中承担明确责任?",
+      "options": [
+        {
+          "key": "A",
+          "text": "建设单位"
+        },
+        {
+          "key": "B",
+          "text": "设计单位"
+        },
+        {
+          "key": "C",
+          "text": "施工单位"
+        },
+        {
+          "key": "D",
+          "text": "监理单位"
+        },
+        {
+          "key": "E",
+          "text": "材料供应商"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch5-q9",
+      "type": "multiple",
+      "stem": "以下哪些措施可以有效减少施工现场的**扬尘污染**?",
+      "options": [
+        {
+          "key": "A",
+          "text": "增夜间照明亮度"
+        },
+        {
+          "key": "B",
+          "text": "安装PM10在线监测设备"
+        },
+        {
+          "key": "C",
+          "text": "使用湿法作业"
+        },
+        {
+          "key": "D",
+          "text": "车辆冲洗平加合微信"
+        },
+        {
+          "key": "E",
+          "text": "设置围挡喷淋系统"
+        }
+      ],
+      "answer": [
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch5-q10",
+      "type": "judge",
+      "stem": "土木行业的数据增长主要受技术进步、政策驱动和内生效率需求三大力量推动，这使得其数字化条件趋于成熟。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch5-q11",
+      "type": "judge",
+      "stem": "土木行业的数字化转型速度与金融业相当，因为两者都高度依赖数据驱动决策。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "土木业的滞后性两者数字化速度并不相当。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch5-q12",
+      "type": "judge",
+      "stem": "、在使用Al进行建筑方案生成时，精准、专业的描述性提示词对于生成理想的结果至关重要。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch5-q13",
+      "type": "judge",
+      "stem": "最小二乘法的核心思想是找到一条直线，使得所有数据点到这条直线的垂直距离(而非水平距离) 之和最小。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "最小二乘法其核心是让“误差的平方和\"最小，而不是“ 距离之和”最小。使用“平方和\"是为了避免正负误差抵消，并放大大误差的影响。因此，“距离之和最小”的表述是错误的。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch5-q14",
+      "type": "judge",
+      "stem": "“天蝉”施工机器人系统由中国建筑第八工程局有限公司实施。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "，“天蝉”系统的实施单位明确为中国建筑第八工程局有限公司。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch5-q15",
+      "type": "judge",
+      "stem": "“天工开物”AI智巡平台基于Unity3D引擎开发。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "该平台基于UE5引擎开发，而非Unity3D。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch5-q16",
+      "type": "judge",
+      "stem": "“云工大模型”是国内首个建筑人工智能MaaS系统。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "“云工大模型”足国内首个建筑人工智能MaaS (Model as a Service)系统。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch5-q17",
+      "type": "judge",
+      "stem": "盾构自主驾驶系统的核心目标是实现盾构机的完全无人化操作。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "核心是人机协同，而非完全无人化。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch5-q18",
+      "type": "single",
+      "stem": "讲稿中提到，土木行业当前正处“工业4.0”阶段。以下哪一项最符合“工业4.0”的核心特征?",
+      "options": [
+        {
+          "key": "A",
+          "text": "蒸汽动力机械的广泛应用"
+        },
+        {
+          "key": "B",
+          "text": "基于计算机的自动化生产"
+        },
+        {
+          "key": "C",
+          "text": "电气化和生产流水线"
+        },
+        {
+          "key": "D",
+          "text": "物联网与高度数字化、智能化的融合"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch5-q19",
+      "type": "single",
+      "stem": "在讲解线性回归的案例中，用“房屋面积”预测“房屋售价”。直线方程y=bx+a中的参数b(斜率)在实际业务中代表了什么?",
+      "options": [
+        {
+          "key": "A",
+          "text": "房屋的固定基础价格"
+        },
+        {
+          "key": "B",
+          "text": "每平方米的单位价格"
+        },
+        {
+          "key": "C",
+          "text": "预测房价的最大可能值"
+        },
+        {
+          "key": "D",
+          "text": "面积与房价无关的部分"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "线性回归方程y=bx+a中，\"b: 直线的斜率。在房价例子里，可以理解为‘每平方米的单价’。a才代表“固定基",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch5-q20",
+      "type": "single",
+      "stem": "土木行业数字化相对滞后的原因，下列哪一项是最主要的内生性原因(即由行业自身特性导致)?",
+      "options": [
+        {
+          "key": "A",
+          "text": "政策与标准体系尚不健全"
+        },
+        {
+          "key": "B",
+          "text": "项目制特点导致标准化难，且短期投资回报不明确"
+        },
+        {
+          "key": "C",
+          "text": "中小企业多，组织结构传统"
+        },
+        {
+          "key": "D",
+          "text": "缺乏政府的强制推广措施"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch5-q21",
+      "type": "single",
+      "stem": "“云工大模型”创新提出了哪种技术来解决行业痛点?",
+      "options": [
+        {
+          "key": "A",
+          "text": "单一模态模型"
+        },
+        {
+          "key": "B",
+          "text": "MoE多模态混合专家模型"
+        },
+        {
+          "key": "C",
+          "text": "传统机器学习模型"
+        },
+        {
+          "key": "D",
+          "text": "简单规则引擎"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch5-q22",
+      "type": "single",
+      "stem": "“天蝉”施工机器人系统的核心功能不包括?",
+      "options": [
+        {
+          "key": "A",
+          "text": "集成"
+        },
+        {
+          "key": "B",
+          "text": "监测"
+        },
+        {
+          "key": "C",
+          "text": "控制"
+        },
+        {
+          "key": "D",
+          "text": "设计"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch5-q23",
+      "type": "single",
+      "stem": "“云工·图”的主要功能是?",
+      "options": [
+        {
+          "key": "A",
+          "text": "工况计算"
+        },
+        {
+          "key": "B",
+          "text": "图纸理解与绘制"
+        },
+        {
+          "key": "C",
+          "text": "方案审查"
+        },
+        {
+          "key": "D",
+          "text": "知识检索"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch5-q24",
+      "type": "multiple",
+      "stem": "AI技术在土木行业的设计阶段已经展现出多种应用能力。以下哪些场景是讲稿中实际提及的案例?",
+      "options": [
+        {
+          "key": "A",
+          "text": "根据单张自然图片(如枫叶)提取元素，生成建筑灵感设计。"
+        },
+        {
+          "key": "B",
+          "text": "根据简单的文字描述和地块红线图，批量生成建筑方案灵感图。"
+        },
+        {
+          "key": "C",
+          "text": "将未设计完的黑白CAD线稿自动细化为彩色平面图。"
+        },
+        {
+          "key": "D",
+          "text": "将彩色平面图自动转换为实景鸟瞰效果图。"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch5-q25",
+      "type": "multiple",
+      "stem": "E土.木完全行独业立近完年成来从数结字构化计进算程到加施速工的图推绘动制力的量全，流下程列。哪些因素被明确列为主要的推动力?",
+      "options": [
+        {
+          "key": "A",
+          "text": "BIM、物联网、人工智能等技术的深度融合应用。"
+        },
+        {
+          "key": "B",
+          "text": "全球多国推行智慧城市、绿色建筑等政策导向。"
+        },
+        {
+          "key": "C",
+          "text": "土木行业极高的利润率支撑了大规模技术投资。"
+        },
+        {
+          "key": "D",
+          "text": "为应对劳动力短缺、提升效率、降低成本的内生需求。"
+        },
+        {
+          "key": "E",
+          "text": "数字孪生等新兴市场展现出高速增长潜力。"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch5-q26",
+      "type": "multiple",
+      "stem": "“云工大模型”旨在解决住建行业的哪些核心痛点?",
+      "options": [
+        {
+          "key": "A",
+          "text": "数据量大冗杂难处理"
+        },
+        {
+          "key": "B",
+          "text": "专业算法泛化性能差"
+        },
+        {
+          "key": "C",
+          "text": "运行算力成本价格高"
+        },
+        {
+          "key": "D",
+          "text": "行业级开放平台缺乏"
+        },
+        {
+          "key": "E",
+          "text": "施工人员不足"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch5-q27",
+      "type": "multiple",
+      "stem": "“天工开物”AI智巡平台的创新亮点包括?",
+      "options": [
+        {
+          "key": "A",
+          "text": "数据自主收集"
+        },
+        {
+          "key": "B",
+          "text": "平台快速部署"
+        },
+        {
+          "key": "C",
+          "text": "AI技术支撑"
+        },
+        {
+          "key": "D",
+          "text": "完全替代人工"
+        },
+        {
+          "key": "E",
+          "text": "支持5G通讯"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "平台亮点为数据自主收集、快速部署和AI支撑，D、E非核心亮点。",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch5-q28",
+      "type": "multiple",
+      "stem": "盾构自主驾驶系统的集成化核心功能有哪些?",
+      "options": [
+        {
+          "key": "A",
+          "text": "进度跟踪"
+        },
+        {
+          "key": "B",
+          "text": "模型解释"
+        },
+        {
+          "key": "C",
+          "text": "主动报警"
+        },
+        {
+          "key": "D",
+          "text": "处置引导"
+        },
+        {
+          "key": "E",
+          "text": "自动维修"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "系统集成了进度跟踪、模型解释、主动报警与处置引导",
+      "difficulty": 3
+    }
+  ]
+}

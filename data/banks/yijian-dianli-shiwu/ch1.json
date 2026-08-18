@@ -1,0 +1,872 @@
+{
+  "questions": [
+    {
+      "id": "yijian-dianli-shiwu-ch1-q1",
+      "type": "single",
+      "stem": "当工程地质勘察的主要任务之一是为了查明建筑场地不良地质现象的成因、分布范围、危害程度及其发展趋势，以便为场地内主要建筑物的布置及建筑总平面布置提供依据时，这种工程地质勘察通常称为（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "选址勘察"
+        },
+        {
+          "key": "B",
+          "text": "场地勘察"
+        },
+        {
+          "key": "C",
+          "text": "初步勘察"
+        },
+        {
+          "key": "D",
+          "text": "详细勘察"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-dianli-shiwu-ch1-q2",
+      "type": "single",
+      "stem": "在电力系统中，变压器绕组的作用是（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "取得较高的导磁率"
+        },
+        {
+          "key": "B",
+          "text": "改变电压和传递能量"
+        },
+        {
+          "key": "C",
+          "text": "调节高低线圈的匝数比"
+        },
+        {
+          "key": "D",
+          "text": "控制励磁电流和短路电流"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-dianli-shiwu-ch1-q3",
+      "type": "single",
+      "stem": "在混凝土施工中，为了使混凝土拌合物易于施工操作和获得均匀密实的混凝土，应控制混凝土拌合物的流动性、保水性和（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "抗渗性"
+        },
+        {
+          "key": "B",
+          "text": "抗冻性"
+        },
+        {
+          "key": "C",
+          "text": "抗侵蚀性"
+        },
+        {
+          "key": "D",
+          "text": "黏聚性"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-dianli-shiwu-ch1-q4",
+      "type": "single",
+      "stem": "对于厂区道路的混凝土面层，为了防止混凝土由于温度和收缩变形引起过大应力而发生断裂，需要设置（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "施工缝"
+        },
+        {
+          "key": "B",
+          "text": "伸缩缝"
+        },
+        {
+          "key": "C",
+          "text": "沉降缝"
+        },
+        {
+          "key": "D",
+          "text": "抗震疑"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-dianli-shiwu-ch1-q5",
+      "type": "single",
+      "stem": "锅炉钢架安装前，对安装的设备应进行（）次验收",
+      "options": [
+        {
+          "key": "A",
+          "text": "1"
+        },
+        {
+          "key": "B",
+          "text": "2"
+        },
+        {
+          "key": "C",
+          "text": "3"
+        },
+        {
+          "key": "D",
+          "text": "4"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-dianli-shiwu-ch1-q6",
+      "type": "single",
+      "stem": "正常情况下，在输电线路张力放线时，张力场地应置放（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "主张力机和小张力机"
+        },
+        {
+          "key": "B",
+          "text": "主张力机和小牵引机"
+        },
+        {
+          "key": "C",
+          "text": "主牵引机和小牵引机"
+        },
+        {
+          "key": "D",
+          "text": "主牵引机和小张力机"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-dianli-shiwu-ch1-q7",
+      "type": "single",
+      "stem": "在电力工程建设设计阶段，初步设计工作的内容包括进行初步设计和编制（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "施工预算"
+        },
+        {
+          "key": "B",
+          "text": "工程概算"
+        },
+        {
+          "key": "C",
+          "text": "修正概算"
+        },
+        {
+          "key": "D",
+          "text": "施工图预算"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-dianli-shiwu-ch1-q8",
+      "type": "single",
+      "stem": "火力发电厂的主要生产系统包括（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "输煤系统、汽水系统、发电系统和控制系统"
+        },
+        {
+          "key": "B",
+          "text": "燃烧系统、冷却系统、除尘系统和电气系统"
+        },
+        {
+          "key": "C",
+          "text": "给水系统、汽水系统、发电系统和保护系统"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-dianli-shiwu-ch1-q9",
+      "type": "single",
+      "stem": "根据厂区围墙内的地下设施按地下沟管合槽一次施工的要求，主厂房锅炉外侧的地下沟、管、线应尽量与（）同时施工。",
+      "options": [
+        {
+          "key": "A",
+          "text": "厂房基础"
+        },
+        {
+          "key": "B",
+          "text": "烟尘系统基础"
+        },
+        {
+          "key": "C",
+          "text": "锅炉基础"
+        },
+        {
+          "key": "D",
+          "text": "辅机基础"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-dianli-shiwu-ch1-q10",
+      "type": "single",
+      "stem": "核电厂建造质量不符合项为C1、C2、C3级，对C3级不符合项的处理措施必须得到（）的书面批准和确认。",
+      "options": [
+        {
+          "key": "A",
+          "text": "监理工程师"
+        },
+        {
+          "key": "B",
+          "text": "总工程师"
+        },
+        {
+          "key": "C",
+          "text": "业主"
+        },
+        {
+          "key": "D",
+          "text": "项目经理"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-dianli-shiwu-ch1-q11",
+      "type": "single",
+      "stem": "按事故造成的后果划分，电力工程质量事故可以分为（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "一般事故和重大事故"
+        },
+        {
+          "key": "B",
+          "text": "指导事故和操作事故"
+        },
+        {
+          "key": "C",
+          "text": "无意事故和有意事故"
+        },
+        {
+          "key": "D",
+          "text": "未遂事故和已遂事故"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-dianli-shiwu-ch1-q12",
+      "type": "single",
+      "stem": "在整体组立杆塔施工过程中，下列有关临时拉线的规定，正确的是（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "调整杆塔倾斜时，可以增设临时拉线"
+        },
+        {
+          "key": "B",
+          "text": "安装一根永久拉线，方可拆除一根临时接线"
+        },
+        {
+          "key": "C",
+          "text": "组立杆塔的临时拉线不得超过两天"
+        },
+        {
+          "key": "D",
+          "text": "杆塔上有人时，仅可以微调临时拉线"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-dianli-shiwu-ch1-q13",
+      "type": "single",
+      "stem": "当电厂烟囱施工至110m高度时，应将烟囱周围（）颁发的相应资许可证。",
+      "options": [
+        {
+          "key": "A",
+          "text": "安全生产监督部门"
+        },
+        {
+          "key": "B",
+          "text": "技术监督局"
+        },
+        {
+          "key": "C",
+          "text": "核安全局"
+        },
+        {
+          "key": "D",
+          "text": "核监督部门"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-dianli-shiwu-ch1-q14",
+      "type": "single",
+      "stem": "《起重机械安全监察规程》不适用于（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "浮式起重机"
+        },
+        {
+          "key": "B",
+          "text": "门式起重式"
+        },
+        {
+          "key": "C",
+          "text": "桥式起重机"
+        },
+        {
+          "key": "D",
+          "text": "汽车起重机"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-dianli-shiwu-ch1-q15",
+      "type": "single",
+      "stem": "根据《电力建设施工及验收技术规范》的规定，锅炉受热面系统安装完成后，在进行水压试验前，一般可进行一次压力控制在（）MPa范围内的风压试验。",
+      "options": [
+        {
+          "key": "A",
+          "text": "0.2～0.3"
+        },
+        {
+          "key": "B",
+          "text": "0.4～0.5"
+        },
+        {
+          "key": "C",
+          "text": "0.6～0.7"
+        },
+        {
+          "key": "D",
+          "text": "0.8～0.9"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-dianli-shiwu-ch1-q16",
+      "type": "single",
+      "stem": "我国《建筑工程施工质量验收统一标准》中规定：在制定检验批的抽样的方案时，对于一般项目，合格质量水平的α、β值应控制在（）范围内。",
+      "options": [
+        {
+          "key": "A",
+          "text": "α不宜超过3%，β不宜超过5%"
+        },
+        {
+          "key": "B",
+          "text": "α不宜超过3%，β不宜超过7%"
+        },
+        {
+          "key": "C",
+          "text": "α不宜超过5%，β不宜超过10%"
+        },
+        {
+          "key": "D",
+          "text": "α不宜超过7%，β不宜超过10%"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-dianli-shiwu-ch1-q17",
+      "type": "single",
+      "stem": "根据《电力建设安全工作规程》的规定，储存或加工易爆物品的场地周围（）m范围内，严禁进行焊接、切割与热处理作。",
+      "options": [
+        {
+          "key": "A",
+          "text": "10"
+        },
+        {
+          "key": "B",
+          "text": "15"
+        },
+        {
+          "key": "C",
+          "text": "20"
+        },
+        {
+          "key": "D",
+          "text": "25"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-dianli-shiwu-ch1-q18",
+      "type": "single",
+      "stem": "根据《建设工程施工现场供用电安全规范》的规定，低压电缆（不包括没浸电缆）需架空敷设时，其架设高度不应低于（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "0.5"
+        },
+        {
+          "key": "B",
+          "text": "1.0"
+        },
+        {
+          "key": "C",
+          "text": "1.5"
+        },
+        {
+          "key": "D",
+          "text": "2.0"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-dianli-shiwu-ch1-q19",
+      "type": "single",
+      "stem": "根据《电力建设施工及验收技术规范》的规定，锅炉受热面系统安装完成后，在进行水压试验时，环境温度一般应在（）℃以上。",
+      "options": [
+        {
+          "key": "A",
+          "text": "-5"
+        },
+        {
+          "key": "B",
+          "text": "0"
+        },
+        {
+          "key": "C",
+          "text": "+1"
+        },
+        {
+          "key": "D",
+          "text": "+5"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-dianli-shiwu-ch1-q20",
+      "type": "multiple",
+      "stem": "应用杆件强度条件公式N/A≤[σ]（式中N为杆件计算截面上的内力，A为杆件计算截面的面积，[σ]为杆件材料的许用应力），可以用来（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "校核杆件的刚度"
+        },
+        {
+          "key": "B",
+          "text": "校核杆件的强度"
+        },
+        {
+          "key": "C",
+          "text": "设计杆件的截面尺寸"
+        },
+        {
+          "key": "D",
+          "text": "计算杆件的许可荷载"
+        },
+        {
+          "key": "E",
+          "text": "计算杆件的纵向弯曲"
+        }
+      ],
+      "answer": [
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-dianli-shiwu-ch1-q21",
+      "type": "multiple",
+      "stem": "在开然地基中，软土的主要特征主要包括（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "强度较低"
+        },
+        {
+          "key": "B",
+          "text": "透水性较差"
+        },
+        {
+          "key": "C",
+          "text": "流变性不明显"
+        },
+        {
+          "key": "D",
+          "text": "在荷载作用下较易固结"
+        },
+        {
+          "key": "E",
+          "text": "具有显著的结构性"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-dianli-shiwu-ch1-q22",
+      "type": "multiple",
+      "stem": "送电线路复没（定位）的方法有（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "前视定位法"
+        },
+        {
+          "key": "B",
+          "text": "平行定位法"
+        },
+        {
+          "key": "C",
+          "text": "重转定位法"
+        },
+        {
+          "key": "D",
+          "text": "矩形定位法"
+        },
+        {
+          "key": "E",
+          "text": "趋近定位法"
+        }
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-dianli-shiwu-ch1-q23",
+      "type": "multiple",
+      "stem": "硅酸盐水泥具有（）等性能。",
+      "options": [
+        {
+          "key": "A",
+          "text": "强度发展快"
+        },
+        {
+          "key": "B",
+          "text": "水化热低"
+        },
+        {
+          "key": "C",
+          "text": "干缩大"
+        },
+        {
+          "key": "D",
+          "text": "抗冻性好"
+        },
+        {
+          "key": "E",
+          "text": "耐腐蚀性差"
+        }
+      ],
+      "answer": [
+        "A",
+        "D",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-dianli-shiwu-ch1-q24",
+      "type": "multiple",
+      "stem": "在发电厂的一次设备中，可限制电流或过电压的设备包括（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "线路电抗器"
+        },
+        {
+          "key": "B",
+          "text": "避雷线"
+        },
+        {
+          "key": "C",
+          "text": "电压互感器"
+        },
+        {
+          "key": "D",
+          "text": "电流互感器"
+        },
+        {
+          "key": "E",
+          "text": "避雷针"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-dianli-shiwu-ch1-q25",
+      "type": "multiple",
+      "stem": "在炎力发是工程施工中，安装工程主要施工方案的范围一般包含（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "锅炉水压试验"
+        },
+        {
+          "key": "B",
+          "text": "汽机台板就位"
+        },
+        {
+          "key": "C",
+          "text": "主厂房结构吊装"
+        },
+        {
+          "key": "D",
+          "text": "焊接与检验"
+        },
+        {
+          "key": "E",
+          "text": "保温、没漆施工"
+        }
+      ],
+      "answer": [
+        "A",
+        "D",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-dianli-shiwu-ch1-q26",
+      "type": "multiple",
+      "stem": "工程材料质量检验的方法通常有（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "书面检验"
+        },
+        {
+          "key": "B",
+          "text": "外观检验"
+        },
+        {
+          "key": "C",
+          "text": "对比检验"
+        },
+        {
+          "key": "D",
+          "text": "理化检验"
+        },
+        {
+          "key": "E",
+          "text": "无损检验"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-dianli-shiwu-ch1-q27",
+      "type": "multiple",
+      "stem": "在制定电力工程质量问题处理方案时，有些质量缺陷，虽已起出了国家标准及规范要求，但经过分析、论证，可以做出勿需处理的结论。其通常包括（）等情况。",
+      "options": [
+        {
+          "key": "A",
+          "text": "不影响结构安全、生产工艺和使用要求的质量问题"
+        },
+        {
+          "key": "B",
+          "text": "检验中的质量问题"
+        },
+        {
+          "key": "C",
+          "text": "通过后续工序可弥补的质量缺陷"
+        },
+        {
+          "key": "D",
+          "text": "不影响工程造价的质量缺陷"
+        },
+        {
+          "key": "E",
+          "text": "经复核验算仍能满足设计要求的质量缺陷"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-dianli-shiwu-ch1-q28",
+      "type": "multiple",
+      "stem": "根据《电建设安全工作规程》的规定，张力放线前应专人对（）等问题进行检查。",
+      "options": [
+        {
+          "key": "A",
+          "text": "牵引设备及张力设备的锚固"
+        },
+        {
+          "key": "B",
+          "text": "通信联络点的缺失"
+        },
+        {
+          "key": "C",
+          "text": "转角杆塔放线滑车的预倾措施是否可靠"
+        },
+        {
+          "key": "D",
+          "text": "牵引强安全系数是否至少等2"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-dianli-shiwu-ch1-q29",
+      "type": "multiple",
+      "stem": "根据《电力建设安全工作规程》的规定，对已充油变压器的微少渗漏进行补焊时，应遵守的规定包括（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "变压器顶部应有开启的洞口"
+        },
+        {
+          "key": "B",
+          "text": "焊接部位应在油面以下"
+        },
+        {
+          "key": "C",
+          "text": "应采用断续的电焊"
+        },
+        {
+          "key": "D",
+          "text": "应向全体参加人员进行安全技术交底"
+        },
+        {
+          "key": "E",
+          "text": "焊点部位允许有少量油污"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    }
+  ]
+}

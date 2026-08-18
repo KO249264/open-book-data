@@ -267,11 +267,25 @@
       ],
       "papers": [
         {
-          "id": "paper-1",
-          "name": "历年真题(建设中)",
-          "file": "banks/yijian/paper-1.json",
-          "count": 0,
-          "durationSec": 5400
+          "id": "paper2004",
+          "name": "2004年真题",
+          "file": "banks/yijian/paper2004.json",
+          "count": 99,
+          "durationSec": 7200
+        },
+        {
+          "id": "paper2005",
+          "name": "2005年真题",
+          "file": "banks/yijian/paper2005.json",
+          "count": 75,
+          "durationSec": 7200
+        },
+        {
+          "id": "paper2007",
+          "name": "2007年真题",
+          "file": "banks/yijian/paper2007.json",
+          "count": 35,
+          "durationSec": 7200
         }
       ],
       "materials": []
@@ -424,13 +438,13 @@
       "id": "xiaofang-gcs",
       "name": "注册消防工程师",
       "category": "建筑/工程建设",
-      "desc": "注册消防工程师备考笔记与自测练习入口,内容陆续更新中。",
+      "desc": "注册消防工程师全章节自测题库,含解析与出处。",
       "chapters": [
         {
           "id": "ch1",
-          "name": "第1章 · 内容建设中",
+          "name": "第1章 · 燃烧与火灾基本原理",
           "file": "banks/xiaofang-gcs/ch1.json",
-          "count": 0
+          "count": 350
         },
         {
           "id": "ch2",
@@ -439,9 +453,45 @@
           "count": 350
         },
         {
+          "id": "ch3",
+          "name": "第3章 · 消防给水与灭火设施",
+          "file": "banks/xiaofang-gcs/ch3.json",
+          "count": 350
+        },
+        {
+          "id": "ch4",
+          "name": "第4章 · 火灾自动报警系统与消防联动控制",
+          "file": "banks/xiaofang-gcs/ch4.json",
+          "count": 350
+        },
+        {
+          "id": "ch5",
+          "name": "第5章 · 防烟排烟系统与建筑防爆",
+          "file": "banks/xiaofang-gcs/ch5.json",
+          "count": 350
+        },
+        {
+          "id": "ch6",
+          "name": "第6章 · 其他灭火设施与灭火器配置",
+          "file": "banks/xiaofang-gcs/ch6.json",
+          "count": 350
+        },
+        {
+          "id": "ch7",
+          "name": "第7章 · 消防安全管理",
+          "file": "banks/xiaofang-gcs/ch7.json",
+          "count": 350
+        },
+        {
           "id": "ch8",
           "name": "第8章 · 消防设施检测与维护管理",
           "file": "banks/xiaofang-gcs/ch8.json",
+          "count": 350
+        },
+        {
+          "id": "ch9",
+          "name": "第9章 · 消防安全案例分析",
+          "file": "banks/xiaofang-gcs/ch9.json",
           "count": 350
         }
       ],
@@ -460,13 +510,61 @@
       "id": "jiegou-gcs",
       "name": "注册结构工程师",
       "category": "建筑/工程建设",
-      "desc": "注册结构工程师备考笔记与自测练习入口,内容陆续更新中。",
+      "desc": "注册结构工程师全章节自测题库,含解析与出处。",
       "chapters": [
         {
           "id": "ch1",
-          "name": "第1章 · 内容建设中",
+          "name": "第1章 · 荷载与作用",
           "file": "banks/jiegou-gcs/ch1.json",
-          "count": 0
+          "count": 350
+        },
+        {
+          "id": "ch2",
+          "name": "第2章 · 结构设计基本原则",
+          "file": "banks/jiegou-gcs/ch2.json",
+          "count": 350
+        },
+        {
+          "id": "ch3",
+          "name": "第3章 · 混凝土结构设计原理",
+          "file": "banks/jiegou-gcs/ch3.json",
+          "count": 350
+        },
+        {
+          "id": "ch4",
+          "name": "第4章 · 钢结构设计原理",
+          "file": "banks/jiegou-gcs/ch4.json",
+          "count": 350
+        },
+        {
+          "id": "ch5",
+          "name": "第5章 · 砌体结构设计原理",
+          "file": "banks/jiegou-gcs/ch5.json",
+          "count": 350
+        },
+        {
+          "id": "ch6",
+          "name": "第6章 · 地基基础设计",
+          "file": "banks/jiegou-gcs/ch6.json",
+          "count": 350
+        },
+        {
+          "id": "ch7",
+          "name": "第7章 · 高层建筑结构体系",
+          "file": "banks/jiegou-gcs/ch7.json",
+          "count": 350
+        },
+        {
+          "id": "ch8",
+          "name": "第8章 · 建筑抗震设计基本原理",
+          "file": "banks/jiegou-gcs/ch8.json",
+          "count": 350
+        },
+        {
+          "id": "ch9",
+          "name": "第9章 · 结构施工图识读与构造要求综合应用",
+          "file": "banks/jiegou-gcs/ch9.json",
+          "count": 350
         }
       ],
       "papers": [
@@ -484,13 +582,61 @@
       "id": "kancha-sheji",
       "name": "勘察设计工程师(岩土·给排水·电气·暖通)",
       "category": "建筑/工程建设",
-      "desc": "勘察设计类工程师备考笔记与自测练习入口,内容陆续更新中。",
+      "desc": "勘察设计类注册工程师公共基础全章节自测题库,含解析与出处。",
       "chapters": [
         {
           "id": "ch1",
-          "name": "第1章 · 内容建设中",
+          "name": "第1章 · 高等数学与工程数学基础",
           "file": "banks/kancha-sheji/ch1.json",
-          "count": 0
+          "count": 350
+        },
+        {
+          "id": "ch2",
+          "name": "第2章 · 普通物理学基础",
+          "file": "banks/kancha-sheji/ch2.json",
+          "count": 350
+        },
+        {
+          "id": "ch3",
+          "name": "第3章 · 普通化学基础",
+          "file": "banks/kancha-sheji/ch3.json",
+          "count": 350
+        },
+        {
+          "id": "ch4",
+          "name": "第4章 · 理论力学与材料力学基础",
+          "file": "banks/kancha-sheji/ch4.json",
+          "count": 350
+        },
+        {
+          "id": "ch5",
+          "name": "第5章 · 流体力学基础",
+          "file": "banks/kancha-sheji/ch5.json",
+          "count": 350
+        },
+        {
+          "id": "ch6",
+          "name": "第6章 · 电工电子技术基础",
+          "file": "banks/kancha-sheji/ch6.json",
+          "count": 350
+        },
+        {
+          "id": "ch7",
+          "name": "第7章 · 工程经济基础",
+          "file": "banks/kancha-sheji/ch7.json",
+          "count": 350
+        },
+        {
+          "id": "ch8",
+          "name": "第8章 · 法律法规与执业注册制度基础",
+          "file": "banks/kancha-sheji/ch8.json",
+          "count": 350
+        },
+        {
+          "id": "ch9",
+          "name": "第9章 · 职业道德与工程伦理基础",
+          "file": "banks/kancha-sheji/ch9.json",
+          "count": 350
         }
       ],
       "papers": [
@@ -1342,6 +1488,380 @@
           "durationSec": 5400
         }
       ],
+      "materials": []
+    },
+    {
+      "id": "sh-anquanyuan-a",
+      "name": "安全员A证题库",
+      "category": "安全/应急/特种作业",
+      "desc": "安全员A证题库,含单选、多选、判断题,按章节练习。",
+      "chapters": [
+        {
+          "id": "ch1",
+          "name": "安全员A证题库",
+          "file": "banks/sh-anquanyuan-a/ch1.json",
+          "count": 822
+        }
+      ],
+      "papers": [],
+      "materials": []
+    },
+    {
+      "id": "sh-anquanyuan-b",
+      "name": "安全员B证题库",
+      "category": "安全/应急/特种作业",
+      "desc": "安全员B证题库,含单选、多选、判断题,按章节练习。",
+      "chapters": [
+        {
+          "id": "ch1",
+          "name": "安全员B证题库",
+          "file": "banks/sh-anquanyuan-b/ch1.json",
+          "count": 1647
+        }
+      ],
+      "papers": [],
+      "materials": []
+    },
+    {
+      "id": "sh-anquanyuan-c3",
+      "name": "安全员C3题库",
+      "category": "安全/应急/特种作业",
+      "desc": "安全员C3题库,含单选、多选、判断题,按章节练习。",
+      "chapters": [
+        {
+          "id": "ch1",
+          "name": "安全员C3题库",
+          "file": "banks/sh-anquanyuan-c3/ch1.json",
+          "count": 1951
+        }
+      ],
+      "papers": [],
+      "materials": []
+    },
+    {
+      "id": "sh-anquanyuan-a-jixu",
+      "name": "A继教题库",
+      "category": "安全/应急/特种作业",
+      "desc": "A继教题库,含单选、多选、判断题,按章节练习。",
+      "chapters": [
+        {
+          "id": "ch1",
+          "name": "A继教题库",
+          "file": "banks/sh-anquanyuan-a-jixu/ch1.json",
+          "count": 444
+        }
+      ],
+      "papers": [],
+      "materials": []
+    },
+    {
+      "id": "sh-anquanyuan-b-jixu",
+      "name": "B继教题库",
+      "category": "安全/应急/特种作业",
+      "desc": "B继教题库,含单选、多选、判断题,按章节练习。",
+      "chapters": [
+        {
+          "id": "ch1",
+          "name": "B继教题库",
+          "file": "banks/sh-anquanyuan-b-jixu/ch1.json",
+          "count": 901
+        }
+      ],
+      "papers": [],
+      "materials": []
+    },
+    {
+      "id": "sh-anquanyuan-c3-jixu",
+      "name": "C3综合继教题库",
+      "category": "安全/应急/特种作业",
+      "desc": "C3综合继教题库,含单选、多选、判断题,按章节练习。",
+      "chapters": [
+        {
+          "id": "ch1",
+          "name": "C3综合继教题库",
+          "file": "banks/sh-anquanyuan-c3-jixu/ch1.json",
+          "count": 927
+        }
+      ],
+      "papers": [],
+      "materials": []
+    },
+    {
+      "id": "sh-erjian-jixu2026-shizheng",
+      "name": "市政工程全部试题",
+      "category": "建筑/工程建设",
+      "desc": "市政工程全部试题,含单选、多选、判断题,按章节练习。",
+      "chapters": [
+        {
+          "id": "ch1",
+          "name": "第1章 · 必修",
+          "file": "banks/sh-erjian-jixu2026-shizheng/ch1.json",
+          "count": 89
+        },
+        {
+          "id": "ch2",
+          "name": "第2章 · 必修《上海市安全生产事故隐患排查治理办法》2024年4月2日",
+          "file": "banks/sh-erjian-jixu2026-shizheng/ch2.json",
+          "count": 6
+        },
+        {
+          "id": "ch3",
+          "name": "第3章 · 必修-《上海市建设工程文明施工管理规定》2019年9月18日上海市人民政府令23号",
+          "file": "banks/sh-erjian-jixu2026-shizheng/ch3.json",
+          "count": 9
+        },
+        {
+          "id": "ch4",
+          "name": "第4章 · 选修",
+          "file": "banks/sh-erjian-jixu2026-shizheng/ch4.json",
+          "count": 736
+        }
+      ],
+      "papers": [],
+      "materials": []
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu",
+      "name": "建筑工程全部试题",
+      "category": "建筑/工程建设",
+      "desc": "建筑工程全部试题,含单选、多选、判断题,按章节练习。",
+      "chapters": [
+        {
+          "id": "ch1",
+          "name": "第1章 · 城市更新与建筑工程项目的可持续发展",
+          "file": "banks/sh-erjian-jixu2026-jianzhu/ch1.json",
+          "count": 60
+        },
+        {
+          "id": "ch2",
+          "name": "第2章 · 智慧建筑设计标准GB/T50314-2023",
+          "file": "banks/sh-erjian-jixu2026-jianzhu/ch2.json",
+          "count": 265
+        },
+        {
+          "id": "ch3",
+          "name": "第3章 · 绿色施工与绿色施工技术",
+          "file": "banks/sh-erjian-jixu2026-jianzhu/ch3.json",
+          "count": 17
+        },
+        {
+          "id": "ch4",
+          "name": "第4章 · 建筑抗震设计规范GB5011-2025（局部修订)",
+          "file": "banks/sh-erjian-jixu2026-jianzhu/ch4.json",
+          "count": 114
+        },
+        {
+          "id": "ch5",
+          "name": "第5章 · 上海市建设工程文明施工管理规定（2019年9月18日上海市任命政府令第23号",
+          "file": "banks/sh-erjian-jixu2026-jianzhu/ch5.json",
+          "count": 28
+        },
+        {
+          "id": "ch6",
+          "name": "第6章 · 领导人关于安全生产的讲话和重要的会议精神（习近平）",
+          "file": "banks/sh-erjian-jixu2026-jianzhu/ch6.json",
+          "count": 105
+        },
+        {
+          "id": "ch7",
+          "name": "第7章 · 项目管理规划的内容和编制方法",
+          "file": "banks/sh-erjian-jixu2026-jianzhu/ch7.json",
+          "count": 127
+        },
+        {
+          "id": "ch8",
+          "name": "第8章 · <中华人民共和国环境噪声污染防治法》2022年",
+          "file": "banks/sh-erjian-jixu2026-jianzhu/ch8.json",
+          "count": 9
+        },
+        {
+          "id": "ch9",
+          "name": "第9章 · 建筑工人实名制管理办法（试行）",
+          "file": "banks/sh-erjian-jixu2026-jianzhu/ch9.json",
+          "count": 9
+        },
+        {
+          "id": "ch10",
+          "name": "第10章 · <中华人民共和国劳动法》2018年修订",
+          "file": "banks/sh-erjian-jixu2026-jianzhu/ch10.json",
+          "count": 18
+        },
+        {
+          "id": "ch11",
+          "name": "第11章 · 《注册建造师执业管理办法》",
+          "file": "banks/sh-erjian-jixu2026-jianzhu/ch11.json",
+          "count": 7
+        },
+        {
+          "id": "ch12",
+          "name": "第12章 · 注册建造师职业道德",
+          "file": "banks/sh-erjian-jixu2026-jianzhu/ch12.json",
+          "count": 89
+        },
+        {
+          "id": "ch13",
+          "name": "第13章 · 智慧工地建设的关键技术",
+          "file": "banks/sh-erjian-jixu2026-jianzhu/ch13.json",
+          "count": 18
+        },
+        {
+          "id": "ch14",
+          "name": "第14章 · 智慧工地应用举例",
+          "file": "banks/sh-erjian-jixu2026-jianzhu/ch14.json",
+          "count": 9
+        },
+        {
+          "id": "ch15",
+          "name": "第15章 · 智慧工地的政策背景及建设意义",
+          "file": "banks/sh-erjian-jixu2026-jianzhu/ch15.json",
+          "count": 85
+        }
+      ],
+      "papers": [],
+      "materials": []
+    },
+    {
+      "id": "sh-erjian-jixu2026-jidian",
+      "name": "机电工程全部试题",
+      "category": "建筑/工程建设",
+      "desc": "机电工程全部试题,含单选、多选、判断题,按章节练习。",
+      "chapters": [
+        {
+          "id": "ch1",
+          "name": "第1章 · 上海市二级注册建造师继续教育实施细则2025",
+          "file": "banks/sh-erjian-jixu2026-jidian/ch1.json",
+          "count": 35
+        },
+        {
+          "id": "ch2",
+          "name": "第2章 · 上海市建设工程文明施工管理规定（2019年9月18日上海市",
+          "file": "banks/sh-erjian-jixu2026-jidian/ch2.json",
+          "count": 116
+        },
+        {
+          "id": "ch3",
+          "name": "第3章 · 建设工程项目安全生产管理（含施工现场消防管理）",
+          "file": "banks/sh-erjian-jixu2026-jidian/ch3.json",
+          "count": 167
+        },
+        {
+          "id": "ch4",
+          "name": "第4章 · 智慧工地架构设计",
+          "file": "banks/sh-erjian-jixu2026-jidian/ch4.json",
+          "count": 18
+        },
+        {
+          "id": "ch5",
+          "name": "第5章 · 智慧工地的政策背景及建设意义",
+          "file": "banks/sh-erjian-jixu2026-jidian/ch5.json",
+          "count": 653
+        }
+      ],
+      "papers": [],
+      "materials": []
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili",
+      "name": "水利水电工程全部试题",
+      "category": "建筑/工程建设",
+      "desc": "水利水电工程全部试题,含单选、多选、判断题,按章节练习。",
+      "chapters": [
+        {
+          "id": "ch1",
+          "name": "第1章 · 判断题",
+          "file": "banks/sh-erjian-jixu2026-shuili/ch1.json",
+          "count": 402
+        },
+        {
+          "id": "ch2",
+          "name": "第2章 · 单选题",
+          "file": "banks/sh-erjian-jixu2026-shuili/ch2.json",
+          "count": 347
+        },
+        {
+          "id": "ch3",
+          "name": "第3章 · 多选题",
+          "file": "banks/sh-erjian-jixu2026-shuili/ch3.json",
+          "count": 222
+        }
+      ],
+      "papers": [],
+      "materials": []
+    },
+    {
+      "id": "yijian-fagui",
+      "name": "一级建造师·建设工程法规及相关知识",
+      "category": "建筑/工程建设",
+      "desc": "一级建造师·建设工程法规及相关知识,2004-2007年历年真题,按年份分章节练习。",
+      "chapters": [
+        {
+          "id": "ch1",
+          "name": "2004年真题",
+          "file": "banks/yijian-fagui/ch1.json",
+          "count": 94
+        },
+        {
+          "id": "ch2",
+          "name": "2005年真题",
+          "file": "banks/yijian-fagui/ch2.json",
+          "count": 80
+        }
+      ],
+      "papers": [],
+      "materials": []
+    },
+    {
+      "id": "yijian-jingji",
+      "name": "一级建造师·建设工程经济",
+      "category": "建筑/工程建设",
+      "desc": "一级建造师·建设工程经济,2004-2007年历年真题,按年份分章节练习。",
+      "chapters": [
+        {
+          "id": "ch1",
+          "name": "2005年真题",
+          "file": "banks/yijian-jingji/ch1.json",
+          "count": 67
+        },
+        {
+          "id": "ch2",
+          "name": "2007年真题",
+          "file": "banks/yijian-jingji/ch2.json",
+          "count": 75
+        }
+      ],
+      "papers": [],
+      "materials": []
+    },
+    {
+      "id": "yijian-dianli-shiwu",
+      "name": "一级建造师·电力工程管理与实务",
+      "category": "建筑/工程建设",
+      "desc": "一级建造师·电力工程管理与实务,2004-2007年历年真题,按年份分章节练习。",
+      "chapters": [
+        {
+          "id": "ch1",
+          "name": "2006年真题",
+          "file": "banks/yijian-dianli-shiwu/ch1.json",
+          "count": 29
+        }
+      ],
+      "papers": [],
+      "materials": []
+    },
+    {
+      "id": "yijian-jidian-shiwu",
+      "name": "一级建造师·机电工程管理与实务",
+      "category": "建筑/工程建设",
+      "desc": "一级建造师·机电工程管理与实务,2004-2007年历年真题,按年份分章节练习。",
+      "chapters": [
+        {
+          "id": "ch1",
+          "name": "2006年真题",
+          "file": "banks/yijian-jidian-shiwu/ch1.json",
+          "count": 29
+        }
+      ],
+      "papers": [],
       "materials": []
     }
   ]

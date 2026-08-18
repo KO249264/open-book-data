@@ -1,0 +1,173 @@
+{
+  "questions": [
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch11-q1",
+      "type": "judge",
+      "stem": "继续教育的学时可以累计计算。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch11-q2",
+      "type": "judge",
+      "stem": "只有初始注册的建造师才需要参加继续教育。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch11-q3",
+      "type": "judge",
+      "stem": "参加网络培训不能获得继续教育学分。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch11-q4",
+      "type": "judge",
+      "stem": "继续教育学分在建造师整个执业生涯中都有效。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "“周期有效制”，而非终身有效。每个注册周期(3年)内取得的120学时学分，仅在本周期内有效，",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch11-q5",
+      "type": "single",
+      "stem": "建造师注册时，应当具备的条件不包括( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "身体健康，能够正常履行职责"
+        },
+        {
+          "key": "B",
+          "text": "具备相应的学历和工作经验"
+        },
+        {
+          "key": "C",
+          "text": "通过国家统一考试"
+        },
+        {
+          "key": "D",
+          "text": "具有良好的职业道德"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch11-q6",
+      "type": "single",
+      "stem": "施工现场安全管理的第一责任人是( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "企业负责人"
+        },
+        {
+          "key": "B",
+          "text": "项目负责人"
+        },
+        {
+          "key": "C",
+          "text": "安全员"
+        },
+        {
+          "key": "D",
+          "text": "技术负责人"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch11-q7",
+      "type": "multiple",
+      "stem": "建造师在注册有效期内，如果改变执业单位，应当( )。",
+      "options": [
+        {
+          "key": "A",
+          "text": "办理变更注册"
+        },
+        {
+          "key": "B",
+          "text": "办理延续注册"
+        },
+        {
+          "key": "C",
+          "text": "办理注销注册"
+        },
+        {
+          "key": "D",
+          "text": "办理重新注册"
+        },
+        {
+          "key": "E",
+          "text": "参加继续教育"
+        }
+      ],
+      "answer": [
+        "A",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    }
+  ]
+}

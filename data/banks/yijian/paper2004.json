@@ -1,0 +1,2951 @@
+{
+  "questions": [
+    {
+      "id": "yijian-paper2004-q1",
+      "type": "single",
+      "stem": "项目管理的核心任务是（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "环境管理"
+        },
+        {
+          "key": "B",
+          "text": "信息管理"
+        },
+        {
+          "key": "C",
+          "text": "目标控制"
+        },
+        {
+          "key": "D",
+          "text": "组织协调"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q2",
+      "type": "single",
+      "stem": "向工程监理单位委托建设工程项目监理任务的单位是（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "政府主管部门"
+        },
+        {
+          "key": "B",
+          "text": "质量监督机构"
+        },
+        {
+          "key": "C",
+          "text": "项目法人"
+        },
+        {
+          "key": "D",
+          "text": "项目总承包方"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q3",
+      "type": "single",
+      "stem": "我国《建筑法》规定，（）。可以规定实行强制监理的建筑工程的范围。",
+      "options": [
+        {
+          "key": "A",
+          "text": "全国人大常委会"
+        },
+        {
+          "key": "B",
+          "text": "国务院"
+        },
+        {
+          "key": "C",
+          "text": "各级地方政府"
+        },
+        {
+          "key": "D",
+          "text": "县级以上建设行政主管部门"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q4",
+      "type": "single",
+      "stem": "建设工程项目的组织结构如采用矩阵组织结构模式，则每一个工作部门的指令源有（）个。",
+      "options": [
+        {
+          "key": "A",
+          "text": "1"
+        },
+        {
+          "key": "B",
+          "text": "2"
+        },
+        {
+          "key": "C",
+          "text": "3"
+        },
+        {
+          "key": "D",
+          "text": "4"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q5",
+      "type": "single",
+      "stem": "工作流程图是以图示形式反映一个组织系统中各项工作之间的（）联系。",
+      "options": [
+        {
+          "key": "A",
+          "text": "合同"
+        },
+        {
+          "key": "B",
+          "text": "经济"
+        },
+        {
+          "key": "C",
+          "text": "逻辑"
+        },
+        {
+          "key": "D",
+          "text": "指令"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q6",
+      "type": "single",
+      "stem": "项目管理最基本的方法论是（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "项目目标的策划"
+        },
+        {
+          "key": "B",
+          "text": "项目目标的动态控制"
+        },
+        {
+          "key": "C",
+          "text": "项目管理的目标"
+        },
+        {
+          "key": "D",
+          "text": "项目管理的的信息化"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q7",
+      "type": "single",
+      "stem": "在应用动态控制原理控制建设工程项目目标时，调整项目管理班子人员属于（）措施。",
+      "options": [
+        {
+          "key": "A",
+          "text": "组织"
+        },
+        {
+          "key": "B",
+          "text": "合同"
+        },
+        {
+          "key": "C",
+          "text": "经济"
+        },
+        {
+          "key": "D",
+          "text": "技术"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q8",
+      "type": "single",
+      "stem": "在建设工程项目施工中处于中心地位，对建设工程项目施工负责有全面管理责任的是（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "项目总监理工程师"
+        },
+        {
+          "key": "B",
+          "text": "派驻施工现场的业主代表"
+        },
+        {
+          "key": "C",
+          "text": "施工企业项目经理"
+        },
+        {
+          "key": "D",
+          "text": "施工现场技术负责人"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q9",
+      "type": "single",
+      "stem": "取得建造师注册证书的人员是否担任工程项目施工的项目经理，应由（）决定。",
+      "options": [
+        {
+          "key": "A",
+          "text": "政府主管部门"
+        },
+        {
+          "key": "B",
+          "text": "业主"
+        },
+        {
+          "key": "C",
+          "text": "施工企业"
+        },
+        {
+          "key": "D",
+          "text": "行业协会"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q10",
+      "type": "single",
+      "stem": "施工企业人力资源管理的任务包括（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "团队建设"
+        },
+        {
+          "key": "B",
+          "text": "信息发布"
+        },
+        {
+          "key": "C",
+          "text": "变更控制"
+        },
+        {
+          "key": "D",
+          "text": "沟通规划"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q11",
+      "type": "single",
+      "stem": "旁站监理是指监理人员在建设工程项目施工阶段监理中，对关键部位、关键工序的（）实施全过程现场跟班的监督活动。",
+      "options": [
+        {
+          "key": "A",
+          "text": "施工安全"
+        },
+        {
+          "key": "B",
+          "text": "施工进度"
+        },
+        {
+          "key": "C",
+          "text": "施工成本"
+        },
+        {
+          "key": "D",
+          "text": "施工质量"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q12",
+      "type": "single",
+      "stem": "施工企业在需要实施旁站监理的关键部位、关键工序开始施工（）前，应当书面通知监理企业派驻工地的项目监理机构。",
+      "options": [
+        {
+          "key": "A",
+          "text": "24h"
+        },
+        {
+          "key": "B",
+          "text": "48h"
+        },
+        {
+          "key": "C",
+          "text": "72h"
+        },
+        {
+          "key": "D",
+          "text": "5D"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q13",
+      "type": "single",
+      "stem": "建设工程项目策划的最终目的是为了（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "分析和论证项目的投资目标"
+        },
+        {
+          "key": "B",
+          "text": "选择项目的融资方式"
+        },
+        {
+          "key": "C",
+          "text": "使项目建设的决策和实施增值"
+        },
+        {
+          "key": "D",
+          "text": "确定项目管理的组织形式"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q14",
+      "type": "single",
+      "stem": "施工成本分析是施工成本管理的主要任务之一，下列关于施工成本分析的表述中正确的是（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "施工成本分析的实质是在施工之前对成本进行估算"
+        },
+        {
+          "key": "B",
+          "text": "施工成本分析是指科学地预测成本水平及其发展趋势"
+        },
+        {
+          "key": "C",
+          "text": "施工成本分析是指预测成本控制的薄弱环节"
+        },
+        {
+          "key": "D",
+          "text": "施工成本分析应贯穿于施工成本管理的全过程"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q15",
+      "type": "single",
+      "stem": "建设工程项目施工成本管理的组织措施之一是（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "编制施工成本控制工作流程图"
+        },
+        {
+          "key": "B",
+          "text": "制定施工方案并对其进行分析论证"
+        },
+        {
+          "key": "C",
+          "text": "进行工程风险分析并制定防范性对策"
+        },
+        {
+          "key": "D",
+          "text": "防止和处理施工索赔"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q16",
+      "type": "single",
+      "stem": "建设工程项目按其成本构成编制施工成本计划时，是指将施工成本分解为（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "直接费、间接费、利润、税金"
+        },
+        {
+          "key": "B",
+          "text": "单位工程施工成本及分部、分项工程施工成本"
+        },
+        {
+          "key": "C",
+          "text": "人工费、材料费、施工机械使用费、措施费、间接费"
+        },
+        {
+          "key": "D",
+          "text": "建筑工程费和安装工程费"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q17",
+      "type": "single",
+      "stem": "工程量清单漏项或设计变更引起的新的工程量清单项目，其相应综合单价首先应由（）。提出。",
+      "options": [
+        {
+          "key": "A",
+          "text": "监理工程师"
+        },
+        {
+          "key": "B",
+          "text": "承包人"
+        },
+        {
+          "key": "C",
+          "text": "发包人"
+        },
+        {
+          "key": "D",
+          "text": "工程造价管理部门"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q18",
+      "type": "single",
+      "stem": "由于非承包商责任造成承包商自有机械设备窝工，其索赔费按（）计算。",
+      "options": [
+        {
+          "key": "A",
+          "text": "台班费"
+        },
+        {
+          "key": "B",
+          "text": "台班折旧费"
+        },
+        {
+          "key": "C",
+          "text": "折算租金"
+        },
+        {
+          "key": "D",
+          "text": "折管租金乘以规定的降效系数"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q19",
+      "type": "single",
+      "stem": "确定工程预付款的支付额度时，应考虑的主要因素是（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "工期与施工方法"
+        },
+        {
+          "key": "B",
+          "text": "施工方法与施工组织措施"
+        },
+        {
+          "key": "C",
+          "text": "工期与合同价款"
+        },
+        {
+          "key": "D",
+          "text": "合同价款与施工组织措施"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q20",
+      "type": "single",
+      "stem": "根据《建设工程施工合同<示范文本>》，对于实施工程预付款的建设工程项目，工程预付款的支付时间不迟于约定的开工日期前（）。天。",
+      "options": [
+        {
+          "key": "A",
+          "text": "7"
+        },
+        {
+          "key": "B",
+          "text": "14"
+        },
+        {
+          "key": "C",
+          "text": "28"
+        },
+        {
+          "key": "D",
+          "text": "30"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q21",
+      "type": "single",
+      "stem": "当采用主材计等够差方法结算时，发包人在招标文件中列出的需要调整价差的主要材料的基期价格，一般采用（）的材料信息价。",
+      "options": [
+        {
+          "key": "A",
+          "text": "国家工程造价管理机构公布"
+        },
+        {
+          "key": "B",
+          "text": "当时当地工程造价管理机构公布"
+        },
+        {
+          "key": "C",
+          "text": "发包人自行采集的市场"
+        },
+        {
+          "key": "D",
+          "text": "项目管理咨询公司所确定"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q22",
+      "type": "single",
+      "stem": "在工程进度款的计算中，其单价的计算主要根据（）的工程价格的计算方法决定。",
+      "options": [
+        {
+          "key": "A",
+          "text": "设计概算"
+        },
+        {
+          "key": "B",
+          "text": "投标报价中"
+        },
+        {
+          "key": "C",
+          "text": "发包人和承包人事先约定"
+        },
+        {
+          "key": "D",
+          "text": "发包人和监理工程师事先约定"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q23",
+      "type": "single",
+      "stem": "建设工程项目施工成本控制包括若干环节，其中最具实质性的是（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "纠偏"
+        },
+        {
+          "key": "B",
+          "text": "分析"
+        },
+        {
+          "key": "C",
+          "text": "比较"
+        },
+        {
+          "key": "D",
+          "text": "检查"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q24",
+      "type": "single",
+      "stem": "建设工程项目施工成本偏差是指（）之差。",
+      "options": [
+        {
+          "key": "A",
+          "text": "已完工程实际施工成本与拟完工程计划施工成本"
+        },
+        {
+          "key": "B",
+          "text": "已完工程计划施工成本与拟完工程计划施工成本"
+        },
+        {
+          "key": "C",
+          "text": "已完工程实际施工成本与已完工程计划施工成本"
+        },
+        {
+          "key": "D",
+          "text": "已完工程计划施工成本与拟完工程实际施工成本"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q25",
+      "type": "single",
+      "stem": "下列方法中，可用于分析建设工程项目施工成本偏差的方法是（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "因素分析法和比较法"
+        },
+        {
+          "key": "B",
+          "text": "曲线法和表格法"
+        },
+        {
+          "key": "C",
+          "text": "连环置换法和比率法"
+        },
+        {
+          "key": "D",
+          "text": "连环置换法和曲线法"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q26",
+      "type": "single",
+      "stem": "在建设工程项目施工成本分析方法中，可用来分析各种因素对成本的影响程度的方法是（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "相关比率法"
+        },
+        {
+          "key": "B",
+          "text": "比重分析法"
+        },
+        {
+          "key": "C",
+          "text": "连环置换法"
+        },
+        {
+          "key": "D",
+          "text": "动态比率法"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q27",
+      "type": "single",
+      "stem": "横道图进度计划的优点是（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "便于确定关键工作"
+        },
+        {
+          "key": "B",
+          "text": "工作之间的逻辑关系表达清楚"
+        },
+        {
+          "key": "C",
+          "text": "表达方式直观"
+        },
+        {
+          "key": "D",
+          "text": "工作时差易于分析"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q28",
+      "type": "single",
+      "stem": "根据JGJ/T121-99《工程网络计划技术规程》，在双代号时标网络计划中是（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "以波形线表示工作，以虚箭线表示虚工作，以实箭线表示工作的自由时差"
+        },
+        {
+          "key": "B",
+          "text": "以波形线表示工作，以实箭线表示虚工作，以虚箭线表示工作的自由时差"
+        },
+        {
+          "key": "C",
+          "text": "以实箭线表示工作，以波形线表示虚工作，以虚箭线表示工作的自由时差"
+        },
+        {
+          "key": "D",
+          "text": "以实箭线表示工作，以虚箭线表示虚工作，以波形线表示工作的自由时差"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q29",
+      "type": "single",
+      "stem": "在下图所示的双代号网络计划中，工作C的总时差为（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "0"
+        },
+        {
+          "key": "B",
+          "text": "3"
+        },
+        {
+          "key": "C",
+          "text": "5"
+        },
+        {
+          "key": "D",
+          "text": "8"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q30",
+      "type": "single",
+      "stem": "工程网络计划中的关键工作是指（）的工作。",
+      "options": [
+        {
+          "key": "A",
+          "text": "自由时差最小"
+        },
+        {
+          "key": "B",
+          "text": "总时差最小"
+        },
+        {
+          "key": "C",
+          "text": "工作持续时间最长"
+        },
+        {
+          "key": "D",
+          "text": "时距为零"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q31",
+      "type": "single",
+      "stem": "就建设工程项目进度控制的主要工作环节而言，其正确的工作程序为（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "编制计划、目标的分析和论证、调整计划、跟踪计划的执行"
+        },
+        {
+          "key": "B",
+          "text": "编制与调整计划、跟踪计划的执行、目标的分析和论证"
+        },
+        {
+          "key": "C",
+          "text": "目标的分析和论证、跟踪计划的执行、编制与调整计划"
+        },
+        {
+          "key": "D",
+          "text": "目标的分析和论证、编制计划、跟踪计划的执行、调整计划"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q32",
+      "type": "single",
+      "stem": "在建设工程项目管理机构中，应有专门的工作部门和符合进度控制岗位资格的专人负责进度控制工作，这是进度控制中重要的（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "组织措施"
+        },
+        {
+          "key": "B",
+          "text": "合同措施"
+        },
+        {
+          "key": "C",
+          "text": "经济措施"
+        },
+        {
+          "key": "D",
+          "text": "技术措施"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q33",
+      "type": "single",
+      "stem": "大型建设工程项目总进度目标论证的核心工作是通过（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "编制总进度纲要，论证总进度目标实现的可能性"
+        },
+        {
+          "key": "B",
+          "text": "分析工程发包组织方式，论证总进度目标分解的合理性"
+        },
+        {
+          "key": "C",
+          "text": "分析施工技术方面的资料，论证总进度目标的控制措施"
+        },
+        {
+          "key": "D",
+          "text": "分析施工组织资料，论证总进度目标实现的条件"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q34",
+      "type": "single",
+      "stem": "论证建设工程项目总进度目标时，其工作内容包括：（1）编制总进度计划；（2）项目的工作编码；（3）项目结构分析等工作。上述三项工作正确的程序为（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "（3）（2）（1）"
+        },
+        {
+          "key": "B",
+          "text": "（1）（3）（2）"
+        },
+        {
+          "key": "C",
+          "text": "（2）（1）（3）"
+        },
+        {
+          "key": "D",
+          "text": "（1）（2）（3）"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q35",
+      "type": "single",
+      "stem": "建设工程项目质量控制系统的控制目标是（）所规定的质量标准。",
+      "options": [
+        {
+          "key": "A",
+          "text": "施工承包企业"
+        },
+        {
+          "key": "B",
+          "text": "建设工程项目目标"
+        },
+        {
+          "key": "C",
+          "text": "国家工程质量验收标准"
+        },
+        {
+          "key": "D",
+          "text": "国家工程建设强制性标准"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q36",
+      "type": "single",
+      "stem": "建设工程项目的施工组织方案中需要决定和安排（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "施工程序和工艺顺序"
+        },
+        {
+          "key": "B",
+          "text": "施工工艺和施工方法"
+        },
+        {
+          "key": "C",
+          "text": "工艺顺序和施工方法"
+        },
+        {
+          "key": "D",
+          "text": "施工流向和施工工艺"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q37",
+      "type": "single",
+      "stem": "施工验收质量控制是对工程项目中各类已完工程质量的控制，该工作应在（）进行。",
+      "options": [
+        {
+          "key": "A",
+          "text": "单位工程竣工验收阶段"
+        },
+        {
+          "key": "B",
+          "text": "项目施工全过程各阶段"
+        },
+        {
+          "key": "C",
+          "text": "隐蔽工程验收阶段"
+        },
+        {
+          "key": "D",
+          "text": "分部工程验收阶段"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q38",
+      "type": "single",
+      "stem": "施工承包单位对工程质量问题的责任不能因（）而减轻责任。",
+      "options": [
+        {
+          "key": "A",
+          "text": "设计图纸错误"
+        },
+        {
+          "key": "B",
+          "text": "勘察资料失实"
+        },
+        {
+          "key": "C",
+          "text": "监理机构验收失误"
+        },
+        {
+          "key": "D",
+          "text": "试桩检测有误"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q39",
+      "type": "single",
+      "stem": "建设工程项目的施工质量计划编制完成后，应经（）批准确认后执行。",
+      "options": [
+        {
+          "key": "A",
+          "text": "企业技术负责人审核并报请工程监理单位或建设单位"
+        },
+        {
+          "key": "B",
+          "text": "项目经理审核并报请工程监理单位或建设单位"
+        },
+        {
+          "key": "C",
+          "text": "工程监理单位审核并报请建设单位"
+        },
+        {
+          "key": "D",
+          "text": "工程监理单位审核并报请工程质量监督机构"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q40",
+      "type": "single",
+      "stem": "对施工承包企业而言，在施工准备阶段控制施工质量的主要工作内容之一是（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "办理施工许可"
+        },
+        {
+          "key": "B",
+          "text": "确定检验批"
+        },
+        {
+          "key": "C",
+          "text": "编制施工组织设计文件"
+        },
+        {
+          "key": "D",
+          "text": "办理质量监督手续"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q41",
+      "type": "single",
+      "stem": "按现行施工管理制度规定，工地现场安装的危险性较大的起重机械设备安装完毕，必须经（）验收合格方能使用。",
+      "options": [
+        {
+          "key": "A",
+          "text": "建设单位"
+        },
+        {
+          "key": "B",
+          "text": "设备供应部门"
+        },
+        {
+          "key": "C",
+          "text": "安全管理部门"
+        },
+        {
+          "key": "D",
+          "text": "专业管理部门"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q42",
+      "type": "single",
+      "stem": "建设工程项目施工质量验收时，对施工质量保证资料的检查包括施工全过程的技术质量管理资料。其中，又以原材料、施工检测、测量复核及（）。资料为重点检查内容。",
+      "options": [
+        {
+          "key": "A",
+          "text": "检验批抽检"
+        },
+        {
+          "key": "B",
+          "text": "弧度试验"
+        },
+        {
+          "key": "C",
+          "text": "功能性试验"
+        },
+        {
+          "key": "D",
+          "text": "垂直度检测"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q43",
+      "type": "single",
+      "stem": "按现行有关规定，应对工程中涉及结构安全的材料及施工内容进行（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "封样鉴定"
+        },
+        {
+          "key": "B",
+          "text": "见证取样检测"
+        },
+        {
+          "key": "C",
+          "text": "模拟试件检测"
+        },
+        {
+          "key": "D",
+          "text": "同条件养护检测"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q44",
+      "type": "single",
+      "stem": "我国《建筑法》和《建设工程质量管理条例》规定，政府行政主管部门应设立专门机构，对建设工程质量行使（）职能。",
+      "options": [
+        {
+          "key": "A",
+          "text": "验收"
+        },
+        {
+          "key": "B",
+          "text": "保证"
+        },
+        {
+          "key": "C",
+          "text": "监督"
+        },
+        {
+          "key": "D",
+          "text": "规范"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q45",
+      "type": "single",
+      "stem": "用直方图法对工程质量进行统计分析时，通过对直方图的（）的观察分析，可以判断和平过程是否正常、稳定。",
+      "options": [
+        {
+          "key": "A",
+          "text": "位置"
+        },
+        {
+          "key": "B",
+          "text": "形状"
+        },
+        {
+          "key": "C",
+          "text": "比例"
+        },
+        {
+          "key": "D",
+          "text": "大小"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q46",
+      "type": "single",
+      "stem": "质量记录是质量管理体系文件的组成部分，质量记录应以规定的文件形式和程序进行，并应有实施、验证、审核等人员的（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "职务任务"
+        },
+        {
+          "key": "B",
+          "text": "岗位职责"
+        },
+        {
+          "key": "C",
+          "text": "操作要求"
+        },
+        {
+          "key": "D",
+          "text": "签字及意见"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q47",
+      "type": "single",
+      "stem": "建设工程项目的职业健康安全管理的目的是（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "保护建设工程产品生产者的健康与安全"
+        },
+        {
+          "key": "B",
+          "text": "控制工作场所内员工及其他进入现场人员的安全条件和因素"
+        },
+        {
+          "key": "C",
+          "text": "避免和因使用不当对使用者造成健康和安全的危害"
+        },
+        {
+          "key": "D",
+          "text": "保护建设工程产品生产者和使用者的健康与安全"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q48",
+      "type": "single",
+      "stem": "用事故发生的频率和事故后果的严重程度来判断安全风险的等级时，若事故发生的频率极小，事故后果的严惩程度为重大损失（严重伤害），则安全风险所属的等级为（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "I--可忽略风险"
+        },
+        {
+          "key": "B",
+          "text": "II--可容许风险"
+        },
+        {
+          "key": "C",
+          "text": "III--中度风险"
+        },
+        {
+          "key": "D",
+          "text": "IV--重大风险"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q49",
+      "type": "single",
+      "stem": "在两类危险源中，第一类危险源控制的方法有（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "增加设备安全系数，提高可*性"
+        },
+        {
+          "key": "B",
+          "text": "消除危险源，限制危险物质进行故障---安全设计"
+        },
+        {
+          "key": "D",
+          "text": "设置安全监控系统"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q50",
+      "type": "single",
+      "stem": "按照我国《企业伤亡事故分类》标准规定，一次事故中死亡职工1~2人的属（）事故。",
+      "options": [
+        {
+          "key": "A",
+          "text": "死亡"
+        },
+        {
+          "key": "B",
+          "text": "重大伤亡"
+        },
+        {
+          "key": "C",
+          "text": "特大伤亡"
+        },
+        {
+          "key": "D",
+          "text": "一般伤亡"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q51",
+      "type": "single",
+      "stem": "在职业健康安全管理体系（GB/T28001--2001）的一级要素“实施和运行”中，属于该体系核心要素的是（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "文件、运行控制"
+        },
+        {
+          "key": "B",
+          "text": "结构和职责、运行控制"
+        },
+        {
+          "key": "C",
+          "text": "培训、意识和能力"
+        },
+        {
+          "key": "D",
+          "text": "应急准备和响应"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q52",
+      "type": "single",
+      "stem": "职业健康安全与环境管理体系文件体现方式的多样性是指其文件可以用（）等表示。",
+      "options": [
+        {
+          "key": "A",
+          "text": "管理规定、法规"
+        },
+        {
+          "key": "B",
+          "text": "操作规程、活动准则"
+        },
+        {
+          "key": "C",
+          "text": "程序文件、法律条款"
+        },
+        {
+          "key": "D",
+          "text": "文字、表格、流程图"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q53",
+      "type": "single",
+      "stem": "建设工程项目施工招标必须具备的条件之一是（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "评标细则已经审查并获批准"
+        },
+        {
+          "key": "B",
+          "text": "应当履行审批手续的初步设计及概算已获批准"
+        },
+        {
+          "key": "C",
+          "text": "应当履行审批手续的初步设计图及预算已获批准"
+        },
+        {
+          "key": "D",
+          "text": "施工招标文件及标底已编制完成"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q54",
+      "type": "single",
+      "stem": "建设工程项目施工投标文件一般应包括投标函、投标报价、施工组织设计和（）等内容。",
+      "options": [
+        {
+          "key": "A",
+          "text": "资格预审文件"
+        },
+        {
+          "key": "B",
+          "text": "政府法律文件"
+        },
+        {
+          "key": "C",
+          "text": "商务和技术编差表"
+        },
+        {
+          "key": "D",
+          "text": "评标办法"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q55",
+      "type": "single",
+      "stem": "业主依据建设工程施工承包合同支付工程合同款可分（）四个阶段进行。",
+      "options": [
+        {
+          "key": "A",
+          "text": "履约担保金、工程预付款、工程进度款和最终付款"
+        },
+        {
+          "key": "B",
+          "text": "履约担保金、工程进度款、工程付款和退还保留金"
+        },
+        {
+          "key": "C",
+          "text": "工程预付款、工程进度款、工程变更款和最终付款"
+        },
+        {
+          "key": "D",
+          "text": "工程预付款、工程进度款、最终付款和退还保留金"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q56",
+      "type": "single",
+      "stem": "采用工程项目总承包模式的建设工程项目，发包人可将（）等一系列工作全部发包给一家承包单位。",
+      "options": [
+        {
+          "key": "A",
+          "text": "勘察、设计、施工、监理"
+        },
+        {
+          "key": "B",
+          "text": "设计、施工、材料和设备采购"
+        },
+        {
+          "key": "C",
+          "text": "资金筹措、勘察、设计、材料和设备采购"
+        },
+        {
+          "key": "D",
+          "text": "资金筹措、勘察、设计、施工、监理"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q57",
+      "type": "single",
+      "stem": "我国《建设工程施工合同<示范文本>》由（）三部分组成。",
+      "options": [
+        {
+          "key": "A",
+          "text": "协议书、合同条款和工程图纸"
+        },
+        {
+          "key": "B",
+          "text": "协议书、合同条款和专用条款"
+        },
+        {
+          "key": "C",
+          "text": "合同条款、专用条款和工程图纸"
+        },
+        {
+          "key": "D",
+          "text": "协议书、通用条款和专用条款"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q58",
+      "type": "single",
+      "stem": "某建设工程项目承发包双方签订了设计一施工总承包合同，下列属于承包人工作范围的是（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "落实项目资金"
+        },
+        {
+          "key": "B",
+          "text": "办理规划许可证"
+        },
+        {
+          "key": "C",
+          "text": "办理篱工许可证"
+        },
+        {
+          "key": "D",
+          "text": "完成设计文件"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q59",
+      "type": "single",
+      "stem": "根据我国现行规定，施工投标保证金的数额一般为投标价的某一百分比，但其最高额度不超过（）。万元人民币。",
+      "options": [
+        {
+          "key": "A",
+          "text": "50"
+        },
+        {
+          "key": "B",
+          "text": "80"
+        },
+        {
+          "key": "C",
+          "text": "100"
+        },
+        {
+          "key": "D",
+          "text": "120"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q60",
+      "type": "single",
+      "stem": "建设工程中的反索赔是相对索赔而言的，反索赔的提出者（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "仅限发包方"
+        },
+        {
+          "key": "B",
+          "text": "仅限承包方"
+        },
+        {
+          "key": "C",
+          "text": "发包方和承包方均可"
+        },
+        {
+          "key": "D",
+          "text": "仅限监理方"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q61",
+      "type": "single",
+      "stem": "工程竣工验收合格并办理了移交手续，表明（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "解除了承包人的所有责任"
+        },
+        {
+          "key": "B",
+          "text": "承包人即可获得全部工程价款"
+        },
+        {
+          "key": "C",
+          "text": "承包人工程施工任务的完成"
+        },
+        {
+          "key": "D",
+          "text": "承包人和发包人所有关系的解除"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q62",
+      "type": "single",
+      "stem": "在对建设工程合同实施的控制过程中，承包人合同管理人员进行合同诊断的主要内容之一是（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "分析合同文件的组成"
+        },
+        {
+          "key": "B",
+          "text": "分析合同执行差异的原因"
+        },
+        {
+          "key": "C",
+          "text": "分析合同的计价方法"
+        },
+        {
+          "key": "D",
+          "text": "分析合同的承包范围"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q63",
+      "type": "single",
+      "stem": "下列事件中属于特殊风险索赔的事件是（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "洪涝灾害"
+        },
+        {
+          "key": "B",
+          "text": "百年不遇的暴风雪"
+        },
+        {
+          "key": "C",
+          "text": "暴动"
+        },
+        {
+          "key": "D",
+          "text": "海啸"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q64",
+      "type": "single",
+      "stem": "国际际承包合同主要是业主通过（）的方式确定承包商后订立。",
+      "options": [
+        {
+          "key": "A",
+          "text": "招标"
+        },
+        {
+          "key": "B",
+          "text": "直接发包"
+        },
+        {
+          "key": "C",
+          "text": "在有良好合作关系的战略伙伴中选择"
+        },
+        {
+          "key": "D",
+          "text": "在工程师推荐名单中随机抽取"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q65",
+      "type": "single",
+      "stem": "建设工程监理合同标准条件中应包括（）等内容。",
+      "options": [
+        {
+          "key": "A",
+          "text": "合同适用的法律"
+        },
+        {
+          "key": "B",
+          "text": "监理业务执行的起止时间"
+        },
+        {
+          "key": "C",
+          "text": "监理的工作范围和内容"
+        },
+        {
+          "key": "D",
+          "text": "合同生效、变更与终生"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q66",
+      "type": "single",
+      "stem": "为了实现有序和科学的项目住处管理。应由（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "业主方编制统一的信息管理职能分工表"
+        },
+        {
+          "key": "B",
+          "text": "业主方和项目参与各方编制各自的信息管理手册"
+        },
+        {
+          "key": "C",
+          "text": "业主方制定统一的信息安全管理规定"
+        },
+        {
+          "key": "D",
+          "text": "业主方制定统一的信息管理保密制度"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q67",
+      "type": "single",
+      "stem": "建设工程项目管理应重视利用住处技术的手段进行信息管理，其核心的手段是（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "服务于信息处理的应用软件"
+        },
+        {
+          "key": "B",
+          "text": "收发电子邮件的专用软件"
+        },
+        {
+          "key": "C",
+          "text": "基于网络的信息处理平台"
+        },
+        {
+          "key": "D",
+          "text": "基于企业内部信息管理的网络系统"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q68",
+      "type": "single",
+      "stem": "项目管理信息系统中进度控制的功能包括（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "计算和分析投标估算数据"
+        },
+        {
+          "key": "B",
+          "text": "编制投资使用计划"
+        },
+        {
+          "key": "C",
+          "text": "查询和统计合同执行情况"
+        },
+        {
+          "key": "D",
+          "text": "编制资源需求量计划"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q69",
+      "type": "single",
+      "stem": "项目管理信息系统是基于计算机的项目管理的信息系统，主要用于项目的（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "信息检索和查询"
+        },
+        {
+          "key": "B",
+          "text": "目标控制"
+        },
+        {
+          "key": "C",
+          "text": "人、财、物的管理"
+        },
+        {
+          "key": "D",
+          "text": "信息收集和存储"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2004-q70",
+      "type": "multiple",
+      "stem": "建设工程项目的实施阶段包括（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "设计阶段"
+        },
+        {
+          "key": "B",
+          "text": "设计准备阶段"
+        },
+        {
+          "key": "C",
+          "text": "可行性研究性阶段"
+        },
+        {
+          "key": "D",
+          "text": "施工阶段"
+        },
+        {
+          "key": "E",
+          "text": "动用前准备阶段"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-paper2004-q71",
+      "type": "multiple",
+      "stem": "在建设工程项目各参与单位中，需对项目总投资或总造价进行目标管理的单位有（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "业主方"
+        },
+        {
+          "key": "B",
+          "text": "设计方"
+        },
+        {
+          "key": "C",
+          "text": "施工方"
+        },
+        {
+          "key": "D",
+          "text": "供货方"
+        },
+        {
+          "key": "E",
+          "text": "项目总承包方"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-paper2004-q72",
+      "type": "multiple",
+      "stem": "以下关于线性组织结构模式的描述中，正确的有（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "指令路径较短"
+        },
+        {
+          "key": "B",
+          "text": "指令湖泊是惟一的"
+        },
+        {
+          "key": "C",
+          "text": "不能跨部门下达指令"
+        },
+        {
+          "key": "D",
+          "text": "只适用于大型工程项"
+        },
+        {
+          "key": "E",
+          "text": "允许越级指挥"
+        }
+      ],
+      "answer": [
+        "B",
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-paper2004-q73",
+      "type": "multiple",
+      "stem": "施工方项目管理职能分工表是以表的形式反映项目管理班子内部（）对各项工作的管理职能分工。",
+      "options": [
+        {
+          "key": "A",
+          "text": "项目经理"
+        },
+        {
+          "key": "B",
+          "text": "各工作部门"
+        },
+        {
+          "key": "C",
+          "text": "各工作岗位"
+        },
+        {
+          "key": "D",
+          "text": "总包与专业分包"
+        },
+        {
+          "key": "E",
+          "text": "专业分包与劳务分包"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-paper2004-q74",
+      "type": "multiple",
+      "stem": "在国际上，业主方项目管理的方式有多种可能，在以下描述中，正确的是（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "业主方自行完成其项目管理任务"
+        },
+        {
+          "key": "B",
+          "text": "业主方委托项目管理咨询公司进行项目管理"
+        },
+        {
+          "key": "C",
+          "text": "业主方与项目管理咨询公司共同进行项目管理任务"
+        },
+        {
+          "key": "D",
+          "text": "业主方委托本工程的总承包管理公司完成其项目管理任务"
+        },
+        {
+          "key": "E",
+          "text": "业主方委托本工程的项目总承包公司完成其项目管理任务"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-paper2004-q75",
+      "type": "multiple",
+      "stem": "对于采用建设项目总承包模式的某建设工程项目，其项目管理规划可以由（）编制。",
+      "options": [
+        {
+          "key": "A",
+          "text": "业主方"
+        },
+        {
+          "key": "B",
+          "text": "业主方的项目管理单位"
+        },
+        {
+          "key": "C",
+          "text": "设计方"
+        },
+        {
+          "key": "D",
+          "text": "施工监理方"
+        },
+        {
+          "key": "E",
+          "text": "项目总承包方"
+        }
+      ],
+      "answer": [
+        "A",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-paper2004-q76",
+      "type": "multiple",
+      "stem": "旁站监理人员实施旁站监理时，发现施工活动已经或者可能危及工程质量的，应及时向（）报告。",
+      "options": [
+        {
+          "key": "A",
+          "text": "项目业主代表"
+        },
+        {
+          "key": "B",
+          "text": "项目业主"
+        },
+        {
+          "key": "C",
+          "text": "施工方项目经理"
+        },
+        {
+          "key": "D",
+          "text": "监理工程师"
+        },
+        {
+          "key": "E",
+          "text": "总监理工程师"
+        }
+      ],
+      "answer": [
+        "D",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-paper2004-q77",
+      "type": "multiple",
+      "stem": "常用的建设工程项目施工成本设计可按（）编制。",
+      "options": [
+        {
+          "key": "A",
+          "text": "施工成本组成"
+        },
+        {
+          "key": "B",
+          "text": "人力资源需求"
+        },
+        {
+          "key": "C",
+          "text": "子项目组成"
+        },
+        {
+          "key": "D",
+          "text": "工程进度"
+        },
+        {
+          "key": "E",
+          "text": "材料种类"
+        }
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-paper2004-q78",
+      "type": "multiple",
+      "stem": "在建设工程项目施工索赔中，可索赔的人工费包括（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "完成合同之外的额外工作所花费的人工费用"
+        },
+        {
+          "key": "B",
+          "text": "施工企业因雨季停工后加班增加的人工费用"
+        },
+        {
+          "key": "C",
+          "text": "法定人工费增长费用"
+        },
+        {
+          "key": "D",
+          "text": "非承包商责任造成的工期延长导致的工资上涨费"
+        },
+        {
+          "key": "E",
+          "text": "不可抗力造成的工期延长导致的工资上涨费"
+        }
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-paper2004-q79",
+      "type": "multiple",
+      "stem": "在建设工程项目施工索赔中，可索赔的材料费包括（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "非承包商原因导致材料实际用量超过计划用量而增加的费用"
+        },
+        {
+          "key": "B",
+          "text": "因政策调整导致材料价格上涨的费用"
+        },
+        {
+          "key": "C",
+          "text": "因质量原因地行工程返工所增加的材料费"
+        },
+        {
+          "key": "D",
+          "text": "因承包商提前采购材料而发生的超期储存费用"
+        },
+        {
+          "key": "E",
+          "text": "由业主原因造成的材料损耗费"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-paper2004-q80",
+      "type": "multiple",
+      "stem": "在建设工程项目施工过程中，施工机械使用费的索赔款项包括（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "因机械故障停工维修而导致的窝工费"
+        },
+        {
+          "key": "B",
+          "text": "因监理工程师指令错误导致机械停工的窝工费"
+        },
+        {
+          "key": "C",
+          "text": "非承包商责任导致工效降低增加的机械使用费"
+        },
+        {
+          "key": "D",
+          "text": "因机械操作工患病停工而导致的机械窝工费"
+        },
+        {
+          "key": "E",
+          "text": "由于完成额外工作增加的机械使用费"
+        }
+      ],
+      "answer": [
+        "B",
+        "C",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-paper2004-q81",
+      "type": "multiple",
+      "stem": "横道图法是分析建设工程项目施工成本偏差的常用方法，其特点包括（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "能够直观地显示偏差分析所需用的资料"
+        },
+        {
+          "key": "B",
+          "text": "能够准确表达施工成本的绝对偏差"
+        },
+        {
+          "key": "C",
+          "text": "能够准确表达施工成本的相对偏差"
+        },
+        {
+          "key": "D",
+          "text": "能够直观地显示施工成本的局部偏差和累计偏差"
+        },
+        {
+          "key": "E",
+          "text": "能够直观地显示偏差的严重程序"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-paper2004-q82",
+      "type": "multiple",
+      "stem": "地行分部分项工程施工成本分析时，其资料来源包括（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "工程合同总价"
+        },
+        {
+          "key": "B",
+          "text": "实耗人工和材料"
+        },
+        {
+          "key": "C",
+          "text": "施工预算"
+        },
+        {
+          "key": "D",
+          "text": "工程概算"
+        },
+        {
+          "key": "E",
+          "text": "实际工程量"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-paper2004-q83",
+      "type": "multiple",
+      "stem": "在建设工程项目进度计划系统中，按计划的深度不同划分的进度计划包括（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "总进度规划"
+        },
+        {
+          "key": "B",
+          "text": "设计透度计划"
+        },
+        {
+          "key": "C",
+          "text": "项目子系统进度计划"
+        },
+        {
+          "key": "D",
+          "text": "施工进度计划"
+        },
+        {
+          "key": "E",
+          "text": "业主方项目实施进行计划"
+        }
+      ],
+      "answer": [
+        "A",
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-paper2004-q84",
+      "type": "multiple",
+      "stem": "在建设工程项目总进度目标论证中，项目的工作编码是指一个工作项的编码，编码时应考虑的因素包括对不同（）。的标识。",
+      "options": [
+        {
+          "key": "A",
+          "text": "计划层"
+        },
+        {
+          "key": "B",
+          "text": "计划对象"
+        },
+        {
+          "key": "C",
+          "text": "工作类别"
+        },
+        {
+          "key": "D",
+          "text": "计划方式"
+        },
+        {
+          "key": "E",
+          "text": "计划目标"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-paper2004-q85",
+      "type": "multiple",
+      "stem": "建设工程项目进度计划系统的内容包括（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "总进度纲要"
+        },
+        {
+          "key": "B",
+          "text": "二级进度计划"
+        },
+        {
+          "key": "C",
+          "text": "进度计划审批程序"
+        },
+        {
+          "key": "D",
+          "text": "进度计划实施效果分析"
+        },
+        {
+          "key": "E",
+          "text": "工程实际进度信息"
+        }
+      ],
+      "answer": [
+        "A",
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-paper2004-q86",
+      "type": "multiple",
+      "stem": "建设工程项目的施工方案包括（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "材料采购方案"
+        },
+        {
+          "key": "B",
+          "text": "技术方案"
+        },
+        {
+          "key": "C",
+          "text": "人员培训方案"
+        },
+        {
+          "key": "D",
+          "text": "组织方案"
+        },
+        {
+          "key": "E",
+          "text": "质量管理认证方案"
+        }
+      ],
+      "answer": [
+        "B",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-paper2004-q87",
+      "type": "multiple",
+      "stem": "建设单位收到施工承包单位的单位工程验收申请后，应组织（）等方面人员进行验收，并形成验收报告。",
+      "options": [
+        {
+          "key": "A",
+          "text": "施工单位"
+        },
+        {
+          "key": "B",
+          "text": "检测单位"
+        },
+        {
+          "key": "C",
+          "text": "设计单位"
+        },
+        {
+          "key": "D",
+          "text": "监理单位"
+        },
+        {
+          "key": "E",
+          "text": "质量监督机构"
+        }
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-paper2004-q88",
+      "type": "multiple",
+      "stem": "政府质量监督机构对建设工程质量监督的职能包括（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "制定行业质量管理规程"
+        },
+        {
+          "key": "B",
+          "text": "确认检测单位资质等级"
+        },
+        {
+          "key": "C",
+          "text": "监督工程各方主体的质量行为"
+        },
+        {
+          "key": "D",
+          "text": "认证施工企业的质量管理体系"
+        },
+        {
+          "key": "E",
+          "text": "检查工程实体质量"
+        }
+      ],
+      "answer": [
+        "C",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-paper2004-q89",
+      "type": "multiple",
+      "stem": "GB/T19000-IS9000（2000级）质量管理体系标准中的质量管理原则包括（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "质量第一"
+        },
+        {
+          "key": "B",
+          "text": "事前控制"
+        },
+        {
+          "key": "C",
+          "text": "领导作用"
+        },
+        {
+          "key": "D",
+          "text": "过程方法"
+        },
+        {
+          "key": "E",
+          "text": "基于事实的决策"
+        }
+      ],
+      "answer": [
+        "C",
+        "D",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-paper2004-q90",
+      "type": "multiple",
+      "stem": "根据我国GB12523-90《建筑施工场界噪声限值》规定，建筑施工现场噪声限值是（）。DB。",
+      "options": [
+        {
+          "key": "A",
+          "text": "各种打桩机昼间为85"
+        },
+        {
+          "key": "B",
+          "text": "吊车、升降机等昼间为65"
+        },
+        {
+          "key": "C",
+          "text": "推土机昼间和夜间分别为75和50"
+        },
+        {
+          "key": "D",
+          "text": "挖掘机昼间和夜间分别为70和55"
+        },
+        {
+          "key": "E",
+          "text": "混凝土搅拌机昼间和夜间分别为70和55"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-paper2004-q91",
+      "type": "multiple",
+      "stem": "在环境管理体系（GB/T24001）的一级要素“规划”中，包含的二级要素有（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "环境因素"
+        },
+        {
+          "key": "B",
+          "text": "法律和其他要求"
+        },
+        {
+          "key": "C",
+          "text": "信息交流"
+        },
+        {
+          "key": "D",
+          "text": "目标和指标"
+        },
+        {
+          "key": "E",
+          "text": "环境管理方案"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-paper2004-q92",
+      "type": "multiple",
+      "stem": "施工单位中标后与建设工程项目招标人进行合同谈判后达到一致的内容，应以（）。方式确定下来作为合同的附件。",
+      "options": [
+        {
+          "key": "A",
+          "text": "合同补遗"
+        },
+        {
+          "key": "B",
+          "text": "会议纪要"
+        },
+        {
+          "key": "C",
+          "text": "协议书"
+        },
+        {
+          "key": "D",
+          "text": "投标补充文件"
+        },
+        {
+          "key": "E",
+          "text": "工程变更文件"
+        }
+      ],
+      "answer": [
+        "A",
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-paper2004-q93",
+      "type": "multiple",
+      "stem": "按照建设工程承发包方式分类，建设工程合同类型包括（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "勘察、设计或施工总承包合同"
+        },
+        {
+          "key": "B",
+          "text": "总价合同"
+        },
+        {
+          "key": "C",
+          "text": "工程项目总承包合同"
+        },
+        {
+          "key": "D",
+          "text": "工程监理合同"
+        },
+        {
+          "key": "E",
+          "text": "建设工程物资采购合同"
+        }
+      ],
+      "answer": [
+        "A",
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-paper2004-q94",
+      "type": "multiple",
+      "stem": "根据GF-2003-0214《建设工程施工劳务分包合同<示范文本>》，需由劳务分包人承担的保险费用有（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "施工场地内劳务分包人自有人员生命财产"
+        },
+        {
+          "key": "B",
+          "text": "运至施工现场用于施工的材料和特安装设备"
+        },
+        {
+          "key": "C",
+          "text": "承包人提供给劳务人员使用的机械设备"
+        },
+        {
+          "key": "D",
+          "text": "从事危险作业的劳务分包人职工的意外伤害"
+        },
+        {
+          "key": "E",
+          "text": "施工场地内劳务分包人自有的施工机构设备"
+        }
+      ],
+      "answer": [
+        "A",
+        "D",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-paper2004-q95",
+      "type": "multiple",
+      "stem": "在实施建设工程合同前，对合同价格的分析内容包括（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "合同所采用的计价方法"
+        },
+        {
+          "key": "B",
+          "text": "工程计量程序"
+        },
+        {
+          "key": "C",
+          "text": "合同价格的调整"
+        },
+        {
+          "key": "D",
+          "text": "拖欠工程款的合同责任"
+        },
+        {
+          "key": "E",
+          "text": "定额的编制方法"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-paper2004-q96",
+      "type": "multiple",
+      "stem": "国际工程施工中的质量管理由（）主管。",
+      "options": [
+        {
+          "key": "A",
+          "text": "发包人"
+        },
+        {
+          "key": "B",
+          "text": "承包人的项目经理"
+        },
+        {
+          "key": "C",
+          "text": "承包人指定的技术副经理"
+        },
+        {
+          "key": "D",
+          "text": "工程师"
+        },
+        {
+          "key": "E",
+          "text": "承包人指定的总工程师"
+        }
+      ],
+      "answer": [
+        "B",
+        "C",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-paper2004-q97",
+      "type": "multiple",
+      "stem": "国际工程承包合同争议解决的方式包括（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "协商"
+        },
+        {
+          "key": "B",
+          "text": "调解"
+        },
+        {
+          "key": "C",
+          "text": "仲裁"
+        },
+        {
+          "key": "D",
+          "text": "诉讼"
+        },
+        {
+          "key": "E",
+          "text": "单方解除合同"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-paper2004-q98",
+      "type": "multiple",
+      "stem": "为了满足建设工程项目施工成本管理的要求，项目成本项编码时应考虑的因素包括（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "投资估算"
+        },
+        {
+          "key": "B",
+          "text": "概预算"
+        },
+        {
+          "key": "C",
+          "text": "合同价"
+        },
+        {
+          "key": "D",
+          "text": "工程款支付"
+        },
+        {
+          "key": "E",
+          "text": "计价程序"
+        }
+      ],
+      "answer": [
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-paper2004-q99",
+      "type": "multiple",
+      "stem": "建设工程项目信息可以按（）。进行分类。",
+      "options": [
+        {
+          "key": "A",
+          "text": "项目管理工作的对象"
+        },
+        {
+          "key": "B",
+          "text": "项目实施的工作过程。"
+        },
+        {
+          "key": "C",
+          "text": "项目规模的大小"
+        },
+        {
+          "key": "D",
+          "text": "项目管理工作的任务"
+        },
+        {
+          "key": "E",
+          "text": "项目信息的内容属性"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    }
+  ]
+}

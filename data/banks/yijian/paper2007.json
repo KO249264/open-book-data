@@ -1,0 +1,980 @@
+{
+  "questions": [
+    {
+      "id": "yijian-paper2007-q1",
+      "type": "single",
+      "stem": "大中型工程项目是由多个（）组成的。",
+      "options": [
+        {
+          "key": "A",
+          "text": "单项工程"
+        },
+        {
+          "key": "B",
+          "text": "单体工程"
+        },
+        {
+          "key": "C",
+          "text": "单位工程"
+        },
+        {
+          "key": "D",
+          "text": "分项工程"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2007-q2",
+      "type": "single",
+      "stem": "建设工程项目管理的核心任务是项目的（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "目标规划"
+        },
+        {
+          "key": "B",
+          "text": "目标比选"
+        },
+        {
+          "key": "C",
+          "text": "目标论证"
+        },
+        {
+          "key": "D",
+          "text": "目标控制"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2007-q3",
+      "type": "single",
+      "stem": "工作流程组织反映一个组织系统中各项工作之间的（）关系",
+      "options": [
+        {
+          "key": "A",
+          "text": "静态组织"
+        },
+        {
+          "key": "B",
+          "text": "动态组织"
+        },
+        {
+          "key": "C",
+          "text": "工艺"
+        },
+        {
+          "key": "D",
+          "text": "从属"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2007-q4",
+      "type": "single",
+      "stem": "线性组织结构的特点是（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "每一个工作部门只有一个直接的下级部门"
+        },
+        {
+          "key": "B",
+          "text": "每一个工作部门只有一个直接的上级部门"
+        },
+        {
+          "key": "C",
+          "text": "谁的级别高,就听谁的指令"
+        },
+        {
+          "key": "D",
+          "text": "可以越级指挥或请示"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2007-q5",
+      "type": "single",
+      "stem": "施工总承包模式与施工总承管理模式的相同之处在于（）",
+      "options": [
+        {
+          "key": "B",
+          "text": "总包单位对分包单位的管理责任"
+        },
+        {
+          "key": "C",
+          "text": "业主对分包单位的付款方式"
+        },
+        {
+          "key": "D",
+          "text": "业主对分包单位的选择和认可权限"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2007-q6",
+      "type": "single",
+      "stem": "建设工程项目管理规划是指导项目管理工作的（）文件。",
+      "options": [
+        {
+          "key": "A",
+          "text": "操作性"
+        },
+        {
+          "key": "B",
+          "text": "实施性"
+        },
+        {
+          "key": "C",
+          "text": "纲领性"
+        },
+        {
+          "key": "D",
+          "text": "作业性"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2007-q7",
+      "type": "single",
+      "stem": "建设工程项目目标动态控制的核心是（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "合理确定计划值"
+        },
+        {
+          "key": "B",
+          "text": "认真收集实际值"
+        },
+        {
+          "key": "C",
+          "text": "适当调整工程项目目标"
+        },
+        {
+          "key": "D",
+          "text": "比较分析,采取纠偏措施"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2007-q8",
+      "type": "single",
+      "stem": "根据《建设工程项目管理规范》(GB、/T50326-2006),施工方项目经理的管理控制包括（）等。",
+      "options": [
+        {
+          "key": "A",
+          "text": "主持项目的投标工作"
+        },
+        {
+          "key": "B",
+          "text": "组建工程项目经理部"
+        },
+        {
+          "key": "C",
+          "text": "制订项目经理内部计酬办法"
+        },
+        {
+          "key": "D",
+          "text": "选择具有相应资质的分包人"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2007-q9",
+      "type": "single",
+      "stem": "按照我国现行管理体制,施工方项目经理（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "是施工企业法定代表人"
+        },
+        {
+          "key": "B",
+          "text": "是施工企业法定代表人在工程项目上的代表人"
+        },
+        {
+          "key": "C",
+          "text": "是一个技术岗位,而不是管理岗位"
+        },
+        {
+          "key": "D",
+          "text": "须在企业项目管理领导下主持项目管理工作"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2007-q10",
+      "type": "single",
+      "stem": "对专业性较强的工程项目,项目监理机构应编制工程建设监理实施细则,并必须经（）批准后执行。",
+      "options": [
+        {
+          "key": "A",
+          "text": "监理单位技术负责人"
+        },
+        {
+          "key": "B",
+          "text": "总监理工程师"
+        },
+        {
+          "key": "C",
+          "text": "专业监理工程师"
+        },
+        {
+          "key": "D",
+          "text": "专业工程师"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2007-q11",
+      "type": "single",
+      "stem": "旁站监理人员实施旁站监理时,如发现施工单位存在违反工程建设强制性标准的行为,首先应（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "责令施工单位立即整改"
+        },
+        {
+          "key": "B",
+          "text": "立即下达工程暂停令"
+        },
+        {
+          "key": "C",
+          "text": "立即报告政府主管部门"
+        },
+        {
+          "key": "D",
+          "text": "立即报告业主代表和总监理工程师"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2007-q12",
+      "type": "single",
+      "stem": "施工成本计划通常有三类指标,即（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "拟定工作预算成本指标,已完成工作预算成本指标和成本降低率指标"
+        },
+        {
+          "key": "B",
+          "text": "成本计划的数量指标,质量指标和效益指标"
+        },
+        {
+          "key": "C",
+          "text": "预算成本指标,计划成本指标和实际成本指标"
+        },
+        {
+          "key": "D",
+          "text": "人、财、物成本指标"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2007-q13",
+      "type": "single",
+      "stem": "项目经理部对竣工工程成本核算的目的是（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "考核项目管理绩效"
+        },
+        {
+          "key": "B",
+          "text": "寻求进一步降低成本的途径"
+        },
+        {
+          "key": "C",
+          "text": "考核企业经营效益"
+        },
+        {
+          "key": "D",
+          "text": "分析成本偏差的原因"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2007-q14",
+      "type": "single",
+      "stem": "项目施工准备阶段的成本计划是以项目实施方案为依据,采用（）编制而形成的实施性施工成本计划。",
+      "options": [
+        {
+          "key": "A",
+          "text": "概算定额"
+        },
+        {
+          "key": "B",
+          "text": "单位估价表"
+        },
+        {
+          "key": "C",
+          "text": "预算定额"
+        },
+        {
+          "key": "D",
+          "text": "施工定额"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2007-q15",
+      "type": "single",
+      "stem": "施工成本计划是施工项目成本控制的一个重要环节。一般情况下,施工成本计划总额应控制在（）的范围内。",
+      "options": [
+        {
+          "key": "A",
+          "text": "固定成本"
+        },
+        {
+          "key": "B",
+          "text": "目标成本"
+        },
+        {
+          "key": "C",
+          "text": "预算成本"
+        },
+        {
+          "key": "D",
+          "text": "实际成本"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2007-q16",
+      "type": "single",
+      "stem": "对大中型工程项目,按项目组成编制施工成本计划时,其总成本分解的顺序是（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "单项工程成本→单位(子单位)工程成本→分部(子分部)工程成本→分项工程成本"
+        },
+        {
+          "key": "B",
+          "text": "单位(子单位)工程成本→单项工程成本→分部(子)分部)工程成本→分项工程成本"
+        },
+        {
+          "key": "C",
+          "text": "分项工程成本→分部(子分部)工程成本→单位(子单位)工程成本→单项工程成本"
+        },
+        {
+          "key": "D",
+          "text": "分部(子分部)工程成本→分项工程成本→单项工程成本→单位(子单位)工程成本"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2007-q17",
+      "type": "single",
+      "stem": "如按工程进度编制施工成本计划,在编制网络计划时应充分考虑控制对项目分解深度的要求,同时还应考虑施工成本指出计划对（）的要求。",
+      "options": [
+        {
+          "key": "A",
+          "text": "成本目标"
+        },
+        {
+          "key": "B",
+          "text": "项目目标"
+        },
+        {
+          "key": "C",
+          "text": "成本分解"
+        },
+        {
+          "key": "D",
+          "text": "项目划分"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2007-q18",
+      "type": "single",
+      "stem": "根据《建设工程工程量清单计价规范》,施工过程中如发现图纸设计错误,因修改设计而新增的工程量清单项目,其综合单价应（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "由发包人提出,经工程师确认"
+        },
+        {
+          "key": "B",
+          "text": "由工程师提出,经发包人确认"
+        },
+        {
+          "key": "C",
+          "text": "由承包人提出,经发包人确认"
+        },
+        {
+          "key": "D",
+          "text": "由发包人提出,经承包人确认"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2007-q19",
+      "type": "single",
+      "stem": "根据《建设工程施工合同(示范文本)》,承包人在工程变更确定后（）天内,可提出变更涉及的追加合同价款要求的报告,经工程师确认后相应调整合同价款。",
+      "options": [
+        {
+          "key": "A",
+          "text": "14"
+        },
+        {
+          "key": "B",
+          "text": "21"
+        },
+        {
+          "key": "C",
+          "text": "28"
+        },
+        {
+          "key": "D",
+          "text": "30"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2007-q20",
+      "type": "single",
+      "stem": "FIDIC合同条件所规定的工程支付中,属于暂付费用的是（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "保留金、工程变更费用、业主索赔费用"
+        },
+        {
+          "key": "B",
+          "text": "迟付款利息、业主索赔费用"
+        },
+        {
+          "key": "C",
+          "text": "动员预付款、材料预付款、保留金"
+        },
+        {
+          "key": "D",
+          "text": "工程变更费用、成本增减费用"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2007-q21",
+      "type": "single",
+      "stem": "施工成本控制工作的一般步骤是（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "检查---分析----比较----预测----纠偏"
+        },
+        {
+          "key": "B",
+          "text": "比较---分析---预测----纠偏---检查"
+        },
+        {
+          "key": "C",
+          "text": "预测---比较---分析----检查----纠偏"
+        },
+        {
+          "key": "D",
+          "text": "预测---检查----分析---比较---纠偏"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2007-q22",
+      "type": "single",
+      "stem": "某分项工程计划工程量3000m3，计划成本15元/m3，实际完成工程量2500m3，实际成本20元/m3，则该分项工程的施工进度偏差为（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "拖后7500元"
+        },
+        {
+          "key": "B",
+          "text": "提前7500元"
+        },
+        {
+          "key": "C",
+          "text": "拖后12500元"
+        },
+        {
+          "key": "D",
+          "text": "提前12500元"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2007-q23",
+      "type": "single",
+      "stem": "施工成本偏差分析可采用不同的表达方法，常用的有（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "横道图法、表格法、和曲线法"
+        },
+        {
+          "key": "B",
+          "text": "网络图法、横道图法和表格法"
+        },
+        {
+          "key": "C",
+          "text": "比较法、因素分析法和差额计算法"
+        },
+        {
+          "key": "D",
+          "text": "网络图法、表格法和曲线法"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2007-q24",
+      "type": "single",
+      "stem": "下列各项措施中，（）是建设工程项目进度控制的技术措施",
+      "options": [
+        {
+          "key": "A",
+          "text": "确定各类进度计划的审批程序"
+        },
+        {
+          "key": "B",
+          "text": "选择工程承发包模式"
+        },
+        {
+          "key": "C",
+          "text": "优选项目设计、施工方案"
+        },
+        {
+          "key": "D",
+          "text": "选择合理的合同结构"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2007-q25",
+      "type": "single",
+      "stem": "论证建设工程项目总进度目标时，需要进行：①编制各层进度计划：②项目的工作编码;③进度计划系统的结构分析等项工作，对上述工作而言，正确的工作步骤是（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "①-②-③"
+        },
+        {
+          "key": "B",
+          "text": "②-①-③"
+        },
+        {
+          "key": "C",
+          "text": "②-③-①"
+        },
+        {
+          "key": "D",
+          "text": "③-②-①"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2007-q26",
+      "type": "single",
+      "stem": "建设工程项目的业主和参与方都有进度控制的任务，各方（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "控制的目标相同、但控制的时间范畴不同"
+        },
+        {
+          "key": "B",
+          "text": "控制的目标不同、但控制的时间范畴相同"
+        },
+        {
+          "key": "C",
+          "text": "控制的目标和时间范畴均相同"
+        },
+        {
+          "key": "D",
+          "text": "控制的目标和时间范畴各不相同"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2007-q27",
+      "type": "single",
+      "stem": "某道路工程在进行基层和面层施工时,为了给面层铺设提供工作面和工作条件,需待基层铺设一定时间后才能进行面层摊铺,这种时间间隔是（）时距。",
+      "options": [
+        {
+          "key": "A",
+          "text": "STS"
+        },
+        {
+          "key": "B",
+          "text": "FTF"
+        },
+        {
+          "key": "C",
+          "text": "STF"
+        },
+        {
+          "key": "D",
+          "text": "FTS"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2007-q28",
+      "type": "single",
+      "stem": "某双代号网络计划中(以天为单位),工作K的最早开始时间为6,工作持续时间为4,工作M的最迟完成时间为22。工作持续时间为10,工作N的最迟完成时间为20,工作持续时间为5,已知工作K只有M,N两项紧后工作,工作K的总时差为（）天。",
+      "options": [
+        {
+          "key": "A",
+          "text": "2"
+        },
+        {
+          "key": "B",
+          "text": "3"
+        },
+        {
+          "key": "C",
+          "text": "5"
+        },
+        {
+          "key": "D",
+          "text": "6"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2007-q29",
+      "type": "single",
+      "stem": "根据《GB、/T19000-ISO9000(2000)》的定义，质量管理是指确立质量方针及实施质量方针的全部职能及工作内容，并对其工作效果进行（）的一系列工作。",
+      "options": [
+        {
+          "key": "A",
+          "text": "考核和评价"
+        },
+        {
+          "key": "B",
+          "text": "评价和记录"
+        },
+        {
+          "key": "C",
+          "text": "预测和评价"
+        },
+        {
+          "key": "D",
+          "text": "评价和改进"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2007-q30",
+      "type": "single",
+      "stem": "在PD、C、A、循环中，P阶段的职能包括（）等。",
+      "options": [
+        {
+          "key": "A",
+          "text": "确定质量改进目标，制定改进措施"
+        },
+        {
+          "key": "B",
+          "text": "明确质量要求和目标，提出质量管理行动方案"
+        },
+        {
+          "key": "C",
+          "text": "采取应急措施，解决质量问题"
+        },
+        {
+          "key": "D",
+          "text": "规范质量行为，组织质量计划的部署和交底"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2007-q31",
+      "type": "single",
+      "stem": "建设工程项目质量的形成过程，体现了从目标决策，目标细化到目标实现的系统过程，而质量目标的决策是（）的职能。",
+      "options": [
+        {
+          "key": "A",
+          "text": "建设单位"
+        },
+        {
+          "key": "B",
+          "text": "设计单位"
+        },
+        {
+          "key": "C",
+          "text": "项目管理咨询单位"
+        },
+        {
+          "key": "D",
+          "text": "建设项目工程总承包单位"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2007-q32",
+      "type": "single",
+      "stem": "建设工程项目实施过程中，质量控制系统涉及多个质量责任主体，其中属于监控主体的是（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "建设单位"
+        },
+        {
+          "key": "B",
+          "text": "劳务分包单位"
+        },
+        {
+          "key": "C",
+          "text": "施工单位"
+        },
+        {
+          "key": "D",
+          "text": "材料供应单位"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2007-q33",
+      "type": "single",
+      "stem": "建设工程项目质量控制系统的管理文件或手册，是承担该项目实施任务各方应共同遵循的管理依据，它在（）过程中形成。",
+      "options": [
+        {
+          "key": "A",
+          "text": "分析系统质量控制界面"
+        },
+        {
+          "key": "B",
+          "text": "编制系统质量控制计划"
+        },
+        {
+          "key": "C",
+          "text": "制定系统质量控制制度"
+        },
+        {
+          "key": "D",
+          "text": "明确系统质量控制网络"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2007-q34",
+      "type": "single",
+      "stem": "通过对竞争机制，利益机制的制度设计或安排，可形成建设工程项目质量控制系统运行的核心机制，即（）机制。",
+      "options": [
+        {
+          "key": "A",
+          "text": "持续改进"
+        },
+        {
+          "key": "B",
+          "text": "反馈"
+        },
+        {
+          "key": "C",
+          "text": "约束"
+        },
+        {
+          "key": "D",
+          "text": "动力"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-paper2007-q35",
+      "type": "single",
+      "stem": "根据建设工程监理规范，施工组织设计在经监理工程师审核，签认后还应报（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "建设单位"
+        },
+        {
+          "key": "B",
+          "text": "工程质量监督机构"
+        },
+        {
+          "key": "C",
+          "text": "设计单位"
+        },
+        {
+          "key": "D",
+          "text": "当地建设行政主管部门"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    }
+  ]
+}

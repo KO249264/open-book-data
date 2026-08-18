@@ -1,0 +1,8044 @@
+{
+  "questions": [
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q1",
+      "type": "judge",
+      "stem": "上海市二级注册建造师继续教育仅适用于建筑工程、机电工程两个专业的注册建造师。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "适用于所有注册专业，不限于建筑、机电。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q2",
+      "type": "judge",
+      "stem": "继续教育是二级建造师延续注册、逾期初始注册、逾期增项注册的必备条件。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q3",
+      "type": "judge",
+      "stem": "上海市二级注册建造师继续教育的学习形式以面授教学为主，网络教育为辅助。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "以网络教育为主，面授为辅助。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q4",
+      "type": "judge",
+      "stem": "委人才中心负责培训管理平台的建设和运维工作。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "平台建设运维不由委人才中心负责。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q5",
+      "type": "judge",
+      "stem": "评标办法具体包括经评审的合理低价法、有担保的最低价中标法、澄清低价法、综合评估法和法律法规允许的其他评标办法。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q6",
+      "type": "judge",
+      "stem": "经评审的合理低价法是对通过初步评审，技术合格且投标评审价高于合理低价的投标文件进行商务打分，按照得分由低到高的顺序推荐中标候选人的评标办法。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "应按得分由高到低排序。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q7",
+      "type": "judge",
+      "stem": "经评审的合理低价法，技术专家对技术标进行详细评审。详细评审分为票决制和打分制。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q8",
+      "type": "judge",
+      "stem": "招标人对投标人的澄清文件进行审查，将实质性响应澄清要求的确定为通过商务标澄清的投标人。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q9",
+      "type": "judge",
+      "stem": "综合评估法(一)是对通过初步评审的投标文件进行技术、商务打分，按照总得分由高到低的顺序推荐中标候选人的评标办法。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q10",
+      "type": "judge",
+      "stem": "技术标最终得分为各专家折算分数的算术平均值。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q11",
+      "type": "judge",
+      "stem": "商务标得分为投标总价得分、单价甄别得分和信用得分之和。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q12",
+      "type": "judge",
+      "stem": "招标人不可以对中标候选人提出定标需澄清的问题。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "招标人可以依法提出澄清。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q13",
+      "type": "judge",
+      "stem": "技术否决投标评审里形式否决条款包括投标人名称：投标人名称与营业执照、资质证书、安全生产许可证不一致。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q14",
+      "type": "judge",
+      "stem": "技术否决投标评审里资格否决条款包括采用资格预审的项目，投标文件与资格预审申请文件的项目负责人不一致(离职、重病、死亡的除外)。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q15",
+      "type": "judge",
+      "stem": "技术否决投标评审里资格否决条款包括投标人与本招标项目的其他投标人存在控股、管理关系。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q16",
+      "type": "judge",
+      "stem": "项目负责人未在规定时间参加测试的，或者在测试时对其编制的投标文件不熟悉的，评标委员会判定其测试不通过，其投标文件进入后续评审。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "测试不通过不得进入后续评审。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q17",
+      "type": "judge",
+      "stem": "建设单位可根据项目进度需求，自行压缩勘察、设计和施工的合理工期，无需额外论证。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "严禁任意压缩合理工期，确需调整应论证。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q18",
+      "type": "judge",
+      "stem": "检测单位在同一建设工程项目中，不得同时接受建设单位和施工单位的检测委托。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q19",
+      "type": "judge",
+      "stem": "施工单位首次上岗的施工作业人员，正式上岗前应安排不少于三个月的实习操作。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q20",
+      "type": "judge",
+      "stem": "经审查通过的施工图设计文件，若需变更主要内容，可由建设单位与设计单位协商后直接实施，无需重新审查。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "重大变更必须重新报审。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q21",
+      "type": "judge",
+      "stem": "勘察单位在勘察作业前，无需编制勘察大纲，仅需按经验开展专项勘察即可。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "必须编制勘察大纲。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q22",
+      "type": "judge",
+      "stem": "设计单位应参与重点部位的分部、分项和单位工程验收，且需参与竣工验收并提供使用维护说明。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q23",
+      "type": "judge",
+      "stem": "施工单位的特种作业人员需持证上岗，新上岗人员需实习操作三个月。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q24",
+      "type": "judge",
+      "stem": "因施工单位原因导致建设工程质量不符合约定，发包人仅能要求施工单位无偿修理，不得要求返工、改建。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "可要求修理、返工、改建。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q25",
+      "type": "judge",
+      "stem": "监理单位的首要任务是代表施工单位对施工质量与安全实行监理。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "监理代表建设单位。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q26",
+      "type": "judge",
+      "stem": "检测单位在同一建设工程项目中可以同时接受建设单位和施工单位的检测委托。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "同一项目不得同时接受双方委托。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q27",
+      "type": "judge",
+      "stem": "市建设行政管理部门可以组织编制优于国家标准的地方工程建设质量和安全技术标准。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q28",
+      "type": "judge",
+      "stem": "建设行政管理部门实施监督检测时，可委托已对该项目实施过检测的单位。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "不得委托已对该项目检测过的单位。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q29",
+      "type": "judge",
+      "stem": "本市行政区域内所有生产经营单位安全生产事故隐患的排查治理及其监督管理工作，均适用《上海市安全生产事故隐患排查治理办法》,不受其他法律、法规、规章限制。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "需同时遵守上位法。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q30",
+      "type": "judge",
+      "stem": "生产经营单位的主要负责人是本单位事故隐患排查治理的第一责任人，需保障事故隐患排查治理的相关资金投入。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q31",
+      "type": "judge",
+      "stem": "任何单位和个人发现事故隐患后，只能向应急管理部门举报。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "可向负有监管职责的部门举报。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q32",
+      "type": "judge",
+      "stem": "生产经营单位发现一般事故隐患后，应当立即停止使用相关设施、设备，局部停产停业进行治理。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "一般隐患立即整改，不必一律停产。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q33",
+      "type": "judge",
+      "stem": "《上海市建设工程文明施工管理规定》自2009年首次颁布以来，至今未作任何修订。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "已多次修订。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q34",
+      "type": "judge",
+      "stem": "根据规定，文明施工费用应在工程概算、预算中单独列项，确保专款专用。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q35",
+      "type": "judge",
+      "stem": "施工单位可以将文明施工费用挪用于其他施工环节，只要整体项目达标即可。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "必须专款专用。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q36",
+      "type": "judge",
+      "stem": "夜间22:00至次日6:00禁止高噪声作业，连续浇筑等特殊情况可申请豁免。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q37",
+      "type": "judge",
+      "stem": "习近平总书记强调，安全生产是民生大事，必须坚持\"人民至上、生命至上\"。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q38",
+      "type": "judge",
+      "stem": "总书记指出，只要经济发展上去了，安全生产可以适当放一放、缓一缓。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "坚持人民至上、生命至上。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q39",
+      "type": "judge",
+      "stem": "\"管行业必须管安全、管业务必须管安全、管生产经营必须管安全\"是总书记对安全生产责任体系的重要要求。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q40",
+      "type": "judge",
+      "stem": "企业安全生产主体责任只需做到安全投入和应急救援\"两个到位\"即可。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "要求四个到位。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q41",
+      "type": "judge",
+      "stem": "总书记提出，要建立风险分级管控和隐患排查治理双重预防机制。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q42",
+      "type": "judge",
+      "stem": "\"一厂出事故、万厂受教育\"体现了举一反三、警示教育的重要理念。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q43",
+      "type": "judge",
+      "stem": "总书记要求，对煤矿、危化品、道路交通等重点行业领域实施\"生命防护工程\"。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q44",
+      "type": "judge",
+      "stem": "安全生产工作中，底线思维和极限思维是指事故发生后如何最大限度减少损失。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "重在事前防范、未萌预判。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q45",
+      "type": "judge",
+      "stem": "施工总承包序列设有10个类别。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "共12个类别。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q46",
+      "type": "judge",
+      "stem": "施工劳务序列不分类别和等级。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q47",
+      "type": "judge",
+      "stem": "取得施工总承包资质的企业，可以将劳务作业分包给任何有经验的施工队。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "必须分包给有资质的劳务企业。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q48",
+      "type": "judge",
+      "stem": "模板脚手架专业承包资质分为一级和二级。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "不分等级。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q49",
+      "type": "judge",
+      "stem": "建筑业企业资质标准中，企业主要人员的年龄限制为60周岁以下。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q50",
+      "type": "judge",
+      "stem": "施工总承包特级资质的标准在本标准中已详细规定。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "特级标准另行制定。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q51",
+      "type": "judge",
+      "stem": "自2021年7月1日起，建筑业企业施工劳务资质由审批制改为备案制。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q52",
+      "type": "judge",
+      "stem": "根据业务范围，取得专业承包资质的企业可以将所承接的专业工程再次分包。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "不得再次分包。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q53",
+      "type": "judge",
+      "stem": "企业首次申请建筑业企业资质，可以从任意等级开始申请。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "一般从最低等级申请。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q54",
+      "type": "judge",
+      "stem": "施工总承包资质序列的特级、一级资质以及铁路工程施工总承包二级资质由国务院住房城乡建设主管部门许可。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q55",
+      "type": "judge",
+      "stem": "建筑业企业资质证书的有效期为10年。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "有效期5年。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q56",
+      "type": "judge",
+      "stem": "企业在资质证书有效期内发生法定代表人变更的，应当在工商部门办理变更手续后1个月内办理资质证书变更手续。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q57",
+      "type": "judge",
+      "stem": "企业申请资质升级、增项，在申请之日起前一年内发生过较大以上质量安全事故的，资质许可机关将不予批准。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q58",
+      "type": "judge",
+      "stem": "企业主要人员可以同时受聘或注册于两家及以上企业。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "不得同时受聘多家企业。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q59",
+      "type": "judge",
+      "stem": "资质许可机关应当撤销建筑业企业资质的情形之一，包括对不符合资质标准条件的企业准予资质许可。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q60",
+      "type": "judge",
+      "stem": "企业以欺骗、贿赂等不正当手段取得建筑业企业资质的，不仅会被撤销资质，还会被处以罚款，且申请企业在3年内不得再次申请。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q61",
+      "type": "judge",
+      "stem": "注册建造师初始注册的有效期是3年。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q62",
+      "type": "judge",
+      "stem": "注册建造师执业资格注册有效期满需继续执业的，应当在注册有效期届满30日前申请延续注册。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q63",
+      "type": "judge",
+      "stem": "注册建造师因过错造成一般质量事故的，应被吊销执业资格证书，5年内不予注册。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "一般事故停止执业1年。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q64",
+      "type": "judge",
+      "stem": "注册建造师执业人员因过错造成重大质量事故，情节特别恶劣的，终身不予注册。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q65",
+      "type": "judge",
+      "stem": "县级以上人民政府住房城乡建设主管部门履行监督检查职责时，有权要求被检查人员出示注册证书。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q66",
+      "type": "judge",
+      "stem": "注册建造师变更执业单位时，办理变更注册手续后，注册有效期重新计算。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "延续原有效期。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q67",
+      "type": "judge",
+      "stem": "继续教育的学时可以累计计算。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q68",
+      "type": "judge",
+      "stem": "只有初始注册的建造师才需要参加继续教育。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "延续、增项均需继续教育。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q69",
+      "type": "judge",
+      "stem": "参网络培训不能获得继续教育学分。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "网络培训可获得学分。加70.继续教育学分在建造师整个执业生涯中都有效。(×) 解析：仅对应注册周期有效。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q70",
+      "type": "judge",
+      "stem": "若发现工程存在质量隐患、安全问题或违规行为，不隐瞒、不推诿，及时采取整改措施并向相关方报告，以规避责任；面对执业过失或问题，主动承担相应责任，积极配合调查处理，杜绝逃避责任的行为。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "应如实报告、履职尽责。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q71",
+      "type": "judge",
+      "stem": "建筑企业的\"挂证\"行为被记入诚信信息平台后，该记录应永久保存，不得删除或屏蔽，以确保惩戒的持续性。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "按规定期限保存。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q72",
+      "type": "judge",
+      "stem": "诚信信息平台的作用之一是为建设单位选择合作企业提供参考，减少因信息不对称导致的合同履约风险。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q73",
+      "type": "judge",
+      "stem": "建筑行业诚信信息平台的构建，需整合住建、人社、税务等多部门数据，实现\" 一处失信、处处受限”的联合惩戒效果。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q74",
+      "type": "judge",
+      "stem": "本发文首次提出在建筑物明显部位设置永久性标牌，公示五方责任主体及项目负责人信息。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q75",
+      "type": "judge",
+      "stem": "根据本发文，允许信用良好企业直接上浮两个等级承揽工程。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "可放宽范围，不得越级两个等级。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q76",
+      "type": "judge",
+      "stem": "本发文要求政府投资工程带头推行工程总承包 (EPC)。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q77",
+      "type": "judge",
+      "stem": "允许建设单位以\"代建\"为由免除质量责任。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "不得免除质量责任。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q78",
+      "type": "judge",
+      "stem": "本发文提出10年内装配式建筑占新建面积达到30%。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "2025年占比30%。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q79",
+      "type": "judge",
+      "stem": "本发文要求所有海外项目必须使用中国标准，不得采用当地标准。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "遵循项目所在国规定。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q80",
+      "type": "judge",
+      "stem": "本发文提出到2025年中级工以上建筑工人达到1000万人。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q81",
+      "type": "judge",
+      "stem": "本发文禁止在新建建筑中使用 BIM技术。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "鼓励推广 BIM。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q82",
+      "type": "judge",
+      "stem": "新型建筑工业化主要依靠传统施工方式，通过增加人工投入来提高建筑质量和效率。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "以工厂预制、装配施工为主。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q83",
+      "type": "judge",
+      "stem": "在新型建筑工业化项目中，建筑师负责制鼓励设计单位提供全过程咨询服务，包括项目策划、施工指导和运营维护等阶段。 85.在新型建筑工业化项目中，推广应用绿色建材是提升建筑质量和环保性能的重要措施。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q84",
+      "type": "judge",
+      "stem": "工程总承包模式不适合新型建筑工业化项目，因为它无法整合设计、生产、施工环节，提升资源配置效率。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "优先采用工程总承包。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q85",
+      "type": "judge",
+      "stem": "\"十三五\"期间，全国城镇新建绿色建筑占新建建筑面积比例达到77%。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q86",
+      "type": "judge",
+      "stem": "当前我国建筑碳排放总量已经达峰并呈现持续下降趋势。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "尚未达峰。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q87",
+      "type": "judge",
+      "stem": "发达国家普遍通过经济手段(如低息贷款、税收优惠)引导市场主体推进建筑节能。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q88",
+      "type": "judge",
+      "stem": "我国绿色建筑目前以运行标识为主，设计标识比例较低。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "以设计标识为主。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q89",
+      "type": "judge",
+      "stem": "\"十四五\"期间，国家鼓励所有新建建筑都必须达到绿色建筑三星级标准。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "分级引导，不强制全三星。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q90",
+      "type": "judge",
+      "stem": "到2025年，全国目标完成既有建筑节能改造面积不少于3.5亿平方米。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q91",
+      "type": "judge",
+      "stem": "\"十四五\"时期，国家将推动新建民用建筑节能标准逐步提高到超低能耗水平。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q92",
+      "type": "judge",
+      "stem": "根据文件，所有地区都必须统一执行相同的建筑节能目标和标准，不能因地制宜。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "因地制宜、分类指导。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q93",
+      "type": "judge",
+      "stem": "到2025年，我国城镇新建建筑将全部建成绿色建筑。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q94",
+      "type": "judge",
+      "stem": "\"十四五\"期间，国家将推动所有新建建筑都达到超低能耗建筑标准。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "逐步推广，不全部强制。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q95",
+      "type": "judge",
+      "stem": "公共建筑运行节能管理中，室内温度控制机制的建立和执行是重要措施之一。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q96",
+      "type": "judge",
+      "stem": "到2025年，装配式建筑占城镇新建建筑的比例将达到50%。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "目标30%。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q97",
+      "type": "judge",
+      "stem": "绿色施工只注重节约材料，对节水、节能、节地不作强制要求。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "四节一环保全面要求。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q98",
+      "type": "judge",
+      "stem": "施工现场设置车辆冲洗平台、围挡喷淋属于扬尘控制措施。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q99",
+      "type": "judge",
+      "stem": "智能建造仅指使用BIM 软件，与机器人、物联网无关。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "包含物联网、机器人等。 102.施工垃圾应分类收集、回收利用，减少现场焚烧和填埋。(√)",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q100",
+      "type": "judge",
+      "stem": "EPC 模式下，设计责任由业主承担。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "总承包单位承担设计责任。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q101",
+      "type": "judge",
+      "stem": "全过程咨询涵盖投资决策、工程建设、运营维护等阶段。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q102",
+      "type": "judge",
+      "stem": "北京城市更新项目中，EPC+ 全过程咨询模式应用效果显著。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q103",
+      "type": "judge",
+      "stem": "绿色债券发行要求募集资金用于绿色建筑面积≥50%。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "要求不低于80%。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q104",
+      "type": "judge",
+      "stem": "高性能混凝土 (HPC) 是以耐久性作为设计的主要指标，而普通混凝土则以抗压强度为最基本特征。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q105",
+      "type": "judge",
+      "stem": "高性能混凝土的水胶比通常大于0.4。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "一般≤0.38。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q106",
+      "type": "judge",
+      "stem": "TBM 是指\"隧道掘进机\",它仅适用于岩质隧道，不适用于土质隧道。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "可用于软土、复合地层。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q107",
+      "type": "judge",
+      "stem": "TBM 施工中，掘进与安装管片在双护盾TBM中可以同时进行，而在单护盾TBM 中不能同时进行。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q108",
+      "type": "judge",
+      "stem": "高性能混凝土中矿物微细粉的最大掺量中，硅粉的限值为15%。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "限值≤10%。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q109",
+      "type": "judge",
+      "stem": "TBM 破岩方式主要包括挤压式和切削式，其中挤压式主要依靠滚刀的剪切与弯断作用。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "破岩机理表述错误。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q110",
+      "type": "judge",
+      "stem": "三峡大坝工程中未使用高性能混凝土。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "大量使用。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q111",
+      "type": "judge",
+      "stem": "TBM 施工适用于任何长度的隧道，短于1km 的隧道同样经济高效。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "短隧道不经济。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q112",
+      "type": "judge",
+      "stem": "高性能混凝土的拌制必须采用强制式搅拌机，且原材料计量偏差要求严格。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q113",
+      "type": "judge",
+      "stem": "上海大歌剧院的\"扇轴\"核心区A 区采用了强度高达165MPa 的超高性能混凝土 (UHPC) 作为主受力构件，这在国内尚属首例。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q114",
+      "type": "judge",
+      "stem": "TBM 施工中若遇到断层、溶洞等不良地质，只能放弃TBM 工法，改用钻爆法。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "可采取超前处理措施。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q115",
+      "type": "judge",
+      "stem": "高性能混凝土的配合比设计中，胶凝材料总量宜控制在300~400kg/m³。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "宜450~600kg/m³。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q116",
+      "type": "judge",
+      "stem": "长江干流禁止新建化工园区。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q117",
+      "type": "judge",
+      "stem": "《长江保护法》仅适用于长江干流，不适用于其众多支流。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "适用于全流域。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q118",
+      "type": "judge",
+      "stem": "长江流域地方各级人民政府应当落实本行政区域的生态环境保护和修复、促进资源合理利用、优化产业结构和布局、维护流域生态安全的责任。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q119",
+      "type": "judge",
+      "stem": "公民有权依法获取长江流域生态环境保护的相关信息，参与和监督长江保护工作。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q120",
+      "type": "judge",
+      "stem": "为了解决当地能源问题，鼓励在长江流域的重要支流上规划建设小水电项目。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "严格限制小水电。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q121",
+      "type": "judge",
+      "stem": "为了发展经济，可以在长江流域的生态保护红区内开展适度的旅游和生产经营活动。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "红线内禁止生产经营。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q122",
+      "type": "judge",
+      "stem": "黄河流域水资源实行统一调度，优先满足城乡居民生活用水。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q123",
+      "type": "judge",
+      "stem": "黄河下游滩区可以大规模开发农业种植。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "滩区限制开发。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q124",
+      "type": "judge",
+      "stem": "黄河流域禁止新建高耗水、高污染项目。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q125",
+      "type": "judge",
+      "stem": "黄河生态流量管控目标由水利部单独制定。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "多部门协同制定。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q126",
+      "type": "judge",
+      "stem": "黄河流域水资源利用，优先满足城乡居民生活用水，保障基本生态用水，统筹生产用水。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q127",
+      "type": "judge",
+      "stem": "国家加强黄河流域河道、湖泊管理和保护。河道、湖泊管理范围由黄河流域管理机构和有关省级以上地方人民政府依法科学划定并公布。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "由县级以上政府划定。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q128",
+      "type": "judge",
+      "stem": "国家实行黄河流域河道采砂规划和许可制度。黄河流域河道采砂应当依法取得采砂许可。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q129",
+      "type": "judge",
+      "stem": "国家在黄河流域实行强制性用水定额管理制度。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q130",
+      "type": "judge",
+      "stem": "因水利基础设施建设需要，在工程范围内进行的采砂活动，可不受本条例约束，无需办理采砂许可。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "必须办理许可。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q131",
+      "type": "judge",
+      "stem": "长江水利委员会仅负责长江干流采砂许可，重要跨省支流由县级水行政主管部门负责。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "跨省支流由长江委管理。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q132",
+      "type": "judge",
+      "stem": "采砂许可证应置于施工现场显著位置以备查验，作业内容需与许可一致。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q133",
+      "type": "judge",
+      "stem": "在长江鱼类产卵场、洄游通道等生态敏感区，方案审批通过后可在非禁渔期采砂。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "禁渔期禁止采砂。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q134",
+      "type": "judge",
+      "stem": "非法采砂仅由单位承担责任，施工管理人员无需承担个人责任。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "直接责任人依法追责。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q135",
+      "type": "judge",
+      "stem": "检测单位应当在资质等级许可的范围内承担质量检测业务。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q136",
+      "type": "judge",
+      "stem": "乙级资质的检测单位可以承担一级堤防穿堤建筑物的质量检测业务。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "乙级不得承担一级堤防重要建筑物检测。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q137",
+      "type": "judge",
+      "stem": "县级以上人民政府水行政主管部门应当加强对检测单位及其质量检测活动的监督检查。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q138",
+      "type": "judge",
+      "stem": "水利部负责审批检测单位甲级和乙级资质。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "乙级由省级审批。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q139",
+      "type": "judge",
+      "stem": "水利工程建设程序一般分为：项目建议书、可行性研究报告、施工准备、初步设计、建设实施、生产准备、竣工验收、后评价等阶段。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q140",
+      "type": "judge",
+      "stem": "可行性研究报告已经批准，年度水利投资计划下达后，主体工程即可开工建设。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "必须办理施工许可。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q141",
+      "type": "judge",
+      "stem": "建设项目后评价必须遵循客观、公正、科学的原则，分析合理、评价公正。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q142",
+      "type": "judge",
+      "stem": "施工准备阶段可以组织进行主体工程施工招标。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "主体招标在初步设计后。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q143",
+      "type": "judge",
+      "stem": "项目档案应完整、准确、系统、规范和安全。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q144",
+      "type": "judge",
+      "stem": "监理单位负责对现场监理机构的归档文件的完整性、准确性、系统性、有效性和规范性进行审查，形成监理审核报告。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "由项目法人组织档案审查。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q145",
+      "type": "judge",
+      "stem": "项目法人对项目档案工作负总责，实行统一管理、统一制度、统一标准。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q146",
+      "type": "judge",
+      "stem": "档案验收是建设项目档案工作的重要组成部分，是保证项目档案完整、准确、系统、规范和安全的重要手段，是水利工程建设项目竣工验收的重要内容。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q147",
+      "type": "judge",
+      "stem": "在通航水域进行航道日常养护作业，由于其公益性，无需向海事管理机构进行任何报备。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "必须报备。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q148",
+      "type": "judge",
+      "stem": "船舶在内河通航水域拖带超长物体，必须在拖带开始前24小时向海事管理机构报告。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q149",
+      "type": "judge",
+      "stem": "水利工程施工单位是安全生产的责任主体，其主要负责人对安全生产工作全面负责。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q150",
+      "type": "judge",
+      "stem": "发生施工船舶碰撞事故后，只需立即报告本单位负责人，由单位内部处理即可，无需向海事管理机构报告。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "必须报告海事部门。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q151",
+      "type": "judge",
+      "stem": "船舶停泊时，只要系固牢固，可以将所有船员安排上岸休息，无需安排人员值班。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "必须留值班人员。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q152",
+      "type": "judge",
+      "stem": "任何单位和个人都可以在河道管理范围内清洗装贮过油类的车辆、容器。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "严禁清洗有毒有害污染物。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q153",
+      "type": "judge",
+      "stem": "在堤防上建房，一经发现，除限期拆除外，还可并处警告、罚款或没收非法所得。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q154",
+      "type": "judge",
+      "stem": "城镇建设和发展可以占用河道滩地。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "禁止占用河道滩地。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q155",
+      "type": "judge",
+      "stem": "护堤护岸林木，任何单位和个人都可以侵占、砍伐或者破坏。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "依法保护，禁止破坏。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q156",
+      "type": "judge",
+      "stem": "对河道管理范围内的阻水障碍物，逾期不清除的，由防汛指挥部组织强行清除，并由设障者负担全部清障费用。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q157",
+      "type": "judge",
+      "stem": "防汛工作实行全面规划、统筹兼顾、预防为主、及时抢险、局部利益服从全局利益的原则。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q158",
+      "type": "judge",
+      "stem": "有防汛任务的部门和单位应当按照各自的职责，加强汛期安全检查。发现安全隐患的，应当及时向防汛指挥机构报告并等待指令。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "应立即处置并报告。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q159",
+      "type": "judge",
+      "stem": "防汛工程设施应当划定管理和保护范围。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q160",
+      "type": "judge",
+      "stem": "建设单位在地下公共工程的施工图设计和施工过程中，应当落实防汛影响专项论证报告及其审查意见中提出的预防和减轻防汛安全影响的对策和措施。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q161",
+      "type": "judge",
+      "stem": "根据《中华人民共和国防洪法》,防洪费用按照政府投入同受益者合理承担相结合的原则筹集。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q162",
+      "type": "judge",
+      "stem": "根据《中华人民共和国防洪法》,防洪规划可以独立于所在流域、区域的综合规划；区域防洪规划无需服从所在流域的流域防洪规划。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "必须服从流域综合规划。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q163",
+      "type": "judge",
+      "stem": "根据《中华人民共和国防洪法》,洪泛区是指有工程设施保护的洪水泛滥所及的地区。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "洪泛区无工程保护。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q164",
+      "type": "judge",
+      "stem": "根据《上海市防汛条例》,本市建立防汛分级预警和响应制度，以绿、黄、橙、红四色分别表示轻重不同的防汛预警，以IV、Ⅲ、Ⅱ、I 依次表示相应的四级响应等级。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q165",
+      "type": "judge",
+      "stem": "根据水利部《关于加强在建水利工程安全度汛工作的指导意见》,在建水利工程安全度汛工作的目标要求为：\"人员不伤亡、水库不垮坝、重要堤防不决口、重要基础设施不受冲击\"。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q166",
+      "type": "judge",
+      "stem": "在《年度在建水利工程安全度汛备案表》中明确在建水利工程安全度汛\"三个责任人\",并在施工现场显著位置公布。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q167",
+      "type": "judge",
+      "stem": "根据水利部《关于加强在建水利工程安全度汛工作的指导意见》,在河道管理范围内跨河、穿堤、临河的工程设施时，如果施工办公区和生活区采取必要防护措施，并保证施工设备及人员汛期严格服从河道防洪管理要求，则可以在河道范围内临时布置。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "严禁布置在行洪通道内。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q168",
+      "type": "judge",
+      "stem": "根据水利部《关于加强在建水利工程安全度汛工作的指导意见》,负责项目监管的流域管理机构主要负责人应负责建立本工程安全度汛风险查找、研判、预警、防范、处置、责任等风险管控\"六项机制\"。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "由项目法人建立。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q169",
+      "type": "judge",
+      "stem": "装配式堤防挡墙是指全部在现场浇筑完成的挡墙结构。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "工厂预制、现场装配。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q170",
+      "type": "judge",
+      "stem": "装配式挡墙的连接方式包括螺栓连接和焊接。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q171",
+      "type": "judge",
+      "stem": "传统挡墙在施工周期和环境影响方面优于装配式挡墙。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "装配式更优。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q172",
+      "type": "judge",
+      "stem": "生态护坡只需满足结构安全要求，无需考虑生态功能。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "必须兼顾生态与安全。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q173",
+      "type": "judge",
+      "stem": "石笼护坡具有良好的透水性和柔韧性，适用于山区河流。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q174",
+      "type": "judge",
+      "stem": "植被护坡中，草本植物根系深，适合用于增强深层土壤稳定性。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "草本根系浅。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q175",
+      "type": "judge",
+      "stem": "生态混凝土护坡不具备植物生长功能。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "可生长植物。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q176",
+      "type": "judge",
+      "stem": "装配式挡墙的设计要点包括荷载计算、基础设计、构件尺寸确定和连接设计。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q177",
+      "type": "judge",
+      "stem": "生态护坡的植物选择应优先考虑外来物种，以提高景观效果。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "优先乡土植物。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q178",
+      "type": "judge",
+      "stem": "上海外滩防汛墙采用的是空箱式防汛墙结构。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q179",
+      "type": "judge",
+      "stem": "装配式挡墙在施工过程中受天气影响较大。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "受天气影响小。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q180",
+      "type": "judge",
+      "stem": "生态框护坡结构中，基础部分通常不需要排水设计。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "必须做排水设计。二、单选题(共175题，每题列出所有选项)",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q181",
+      "type": "judge",
+      "stem": "“天蝉”施工机器人系统由中国建筑第八工程局有限公司实施。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q182",
+      "type": "judge",
+      "stem": "“云工大模型”是国内首个建筑人工智能MaaS 系统。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q183",
+      "type": "judge",
+      "stem": "国家推广“智能建造”技术标准，对未掌握该技术的建筑企业而言是外部威胁，对已布局该技术的企业则是外部机会。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q184",
+      "type": "judge",
+      "stem": "建筑工程企业的“特级建筑资质”属于内部优势，可直接帮助企业获取高端项目资源。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q185",
+      "type": "judge",
+      "stem": "某建筑企业通过收购混凝土供应商实现“上下游整合”,此策略属于一体化战略中的“后向一体化”。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q186",
+      "type": "judge",
+      "stem": "产品战略是建筑企业发展战略的重要组成，包括产品定位、开发、组合及全生命周期管理等内容。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q187",
+      "type": "judge",
+      "stem": "必须进行招标的施工项目，其施工单项合同估算价应在400万元人民币以上。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q188",
+      "type": "judge",
+      "stem": "建设工程施工合同文件的解释顺序中，合同协议书优先于中标通知书。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q189",
+      "type": "judge",
+      "stem": "质量控制点应设置在施工难度大、对工程质量影响大的关键部位。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q190",
+      "type": "judge",
+      "stem": "施工企业选聘项目经理的方式是直接委派。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q191",
+      "type": "judge",
+      "stem": "项目经理应组织测量人员，按照标准测量控制点，进行复测和高程控制，属于施工技术准备。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q192",
+      "type": "judge",
+      "stem": "项目经理应在危险性较大的分部分项工程施工前，组织项目团队成员编制专项施工方案。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q193",
+      "type": "judge",
+      "stem": "项目监理机构要求停工时，项目经理应要求总监理工程师签发书面停工指令，并说明停工理由。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q194",
+      "type": "judge",
+      "stem": "项目管理策划应由项目管理规划策划和项目管理配套策划组成。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q195",
+      "type": "judge",
+      "stem": "项目管理范围应包括完成项目的全部内容，并与各相关方的工作协调一致。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q196",
+      "type": "judge",
+      "stem": "项目管理实施规划文件是对规划大纲内容应得到全面深化和具体化。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q197",
+      "type": "judge",
+      "stem": "组织应将项目管理配套策划作为项目管理规划的支撑措施纳入项目管理策划过程。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q198",
+      "type": "judge",
+      "stem": "根据《建筑施工组织设计规范》,按照编制对象不同，施工组织设计分为施工组织总设计、单位工程施工组织设计和施工方案。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q199",
+      "type": "judge",
+      "stem": "风险是管理目的与实施成果之间的不确定性。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q200",
+      "type": "judge",
+      "stem": "施工项目实施的干扰因素与风险因素中，人为的干扰是最主要的干扰。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q201",
+      "type": "judge",
+      "stem": "对干扰因素的排除，只能通过认真分析、研究，采取有针对性的措施，并加以实施使之成功才能见效。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q202",
+      "type": "judge",
+      "stem": "风险识别主要靠风险调查。风险调查是项目实施中一个不断进行的过程。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q203",
+      "type": "judge",
+      "stem": "直接成本是指实施过程中耗费的构成工程实体或有助于工程实体形成的各项费用支出，包括人工费、材料费、机械使用费。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q204",
+      "type": "judge",
+      "stem": "成本管理的系统性主要表现在成本管理结构的系统化和成本控制的总体优化。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q205",
+      "type": "judge",
+      "stem": "承包成本(责任成本)是指根据工程量清单计算出来的工程量，企业的建筑、安装工程基础定额和由各地区的市场劳务价格、材料价格信息，并按有关取费的指导性费率进行计算。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q206",
+      "type": "judge",
+      "stem": "工程项目成本的形成控制主要指项目经理部对工程项目成本的实施控制，包括制度控制、定额或指标控制、合同控制等。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q207",
+      "type": "judge",
+      "stem": "标价分离完成后，根据项目综合情况，施工单位管理部门与施工项目经理共同确认标价分离、成本降低率，商务部门完成施工责任成本分解。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q208",
+      "type": "judge",
+      "stem": "网络计划能够利用软件进行计算、优化和调整，实现动态控制。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q209",
+      "type": "judge",
+      "stem": "虚箭线不占用时间，也不消耗资源，只是起着联系的作用。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q210",
+      "type": "judge",
+      "stem": "对于铁路、公路、地铁、输电线路、天然气管道等线性工程，更适合采用垂直图表达方式。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q211",
+      "type": "judge",
+      "stem": "质量控制是质量管理的一部分，是致力于满足质量要求的一系列相关活动。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q212",
+      "type": "judge",
+      "stem": "施工质量控制的特点是由工程项目的工程特点和施工生产的特点决定的。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q213",
+      "type": "judge",
+      "stem": "施工质量控制应贯彻全面全过程质量管理的思想，运用动态控制原理，进行质量的事前、事中和事后控制。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q214",
+      "type": "judge",
+      "stem": "施工质量控制的基本形式有事前控制、事中控制和事后控制。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q215",
+      "type": "judge",
+      "stem": "企业应加强对施工人员的质量意识教育和业务技术培训，提高施工人员的素质。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q216",
+      "type": "judge",
+      "stem": "材料是工程施工的物质条件，材料质量是工程质量的基础。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q217",
+      "type": "judge",
+      "stem": "施工质量控制依据包括工程建设合同、设计文件、技术规范等。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q218",
+      "type": "judge",
+      "stem": "建设工程项目职业健康安全管理中，项目经理是项目安全管理的第一责任人，需对项目安全目标的实现负总责。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q219",
+      "type": "judge",
+      "stem": "深基坑、高支模等危险性较大的分部分项工程，施工单位需编制专项施工方案，并经总监理工程师签字确认后方可实施。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q220",
+      "type": "judge",
+      "stem": "施工单位应当在施工组织设计中编制安全技术措施和临时用电方案，并对达到一定规模的危险性较大的分部分项工程编制专项施工方案。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q221",
+      "type": "judge",
+      "stem": "关于生产安全事故应急救援预案，应急预案演练每年至少一次综合演练，每半年至少一次现场处置演练。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q222",
+      "type": "judge",
+      "stem": "应建立项目信息与知识管理制度，及时、准确、全面地收集信息与知识，安全、可靠、方便、快捷地存储、传输信息和知识，有效、适宜地使用信息和知识。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q223",
+      "type": "judge",
+      "stem": "项目管理机构应根据实际需要设立信息与知识管理岗位，配备熟悉项目管理业务流程，并经过培训的人员担任信息与知识管理人员，开展项目的信息与知识管理工作。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q224",
+      "type": "judge",
+      "stem": "应建立项目合同管理制度，明确合同管理责任，设立专门机构或人员负责合同管理工作。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q225",
+      "type": "judge",
+      "stem": "严禁通过违法发包、转包、违法分包、挂靠方式订立和实施建设工程合同。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q226",
+      "type": "judge",
+      "stem": "“三管三必须”要求二建在组织生产施工时，需同步落实安全管理责任。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q227",
+      "type": "judge",
+      "stem": "建筑施工项目的安全生产费用提取比例不得低于工程造价的2.5%(上海标准)。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q228",
+      "type": "judge",
+      "stem": "施工单位是建筑工人实名制管理的主体责任单位。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q229",
+      "type": "judge",
+      "stem": "禁止用人单位招用未满16岁的未成年人，必须依照国家有关规定，履行审批手续，并保障其接受义务教育的权利。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q230",
+      "type": "judge",
+      "stem": "劳动合同可以约定试用期。试用期最长不得超过6个月。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q231",
+      "type": "judge",
+      "stem": "经劳动合同当事人协商一致，劳动合同可以解除。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q232",
+      "type": "judge",
+      "stem": "塔吊防碰撞系统可以通过传感器实现提前预警，自动切断危险动作。 53.5G 技术因其低时延特性，为建筑机器人的远程操控提供了可能。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q233",
+      "type": "judge",
+      "stem": "MQTT 协议适合工地传感器上传实时数据，支持低功耗设备。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q234",
+      "type": "judge",
+      "stem": "BIM+loT 融合可实现高支模沉降数据与 BIM模型实时映射。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q235",
+      "type": "judge",
+      "stem": "建筑机器人智慧平台能够实现多台机器人的统一接入、协同作业和智能调度。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q236",
+      "type": "judge",
+      "stem": "智慧工地环境监测系统可以实现扬尘、噪声等环境参数的实时监测，并与喷淋降尘设备智能联动。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q237",
+      "type": "judge",
+      "stem": "《关于推动智能建造与建筑工业化协同发展的指导意见》(60号文)提出，到 2025年装配式建筑占新建建筑的比例达到30%以上。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q238",
+      "type": "judge",
+      "stem": "上海市“智慧工地场景试验室”可在真实项目中验证新技术适用性。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q239",
+      "type": "judge",
+      "stem": "金水工程是水利部信息化工作领导小组于2001年命名的水利信息化建设项目，标志着中国水利行业信息化初设阶段的开始。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q240",
+      "type": "judge",
+      "stem": "BIM 技术的概念最早由Chuck Eastman于1975年提出，强调建筑全生命周期的信息集成。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q241",
+      "type": "judge",
+      "stem": "上海市《水利工程信息模型应用标准》规定，模型精度要求覆盖从项建书阶段到运维阶段的全生命周期。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q242",
+      "type": "judge",
+      "stem": "数字孪生水利建设中的“四预”应用包括预报、预警、预演和预案，旨在提升水灾害防御的智能化水平。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q243",
+      "type": "judge",
+      "stem": "水利部“四预”中的“预演”指基于历史数据模拟风险场景，而“预案”指制定工程调度规则。 65.黄浦江中上游堤防数字孪生建管平台以“1+1+3+N”架构实现工程全流程管理。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q244",
+      "type": "judge",
+      "stem": "数字孪生水利建设的未来发展趋势包括水利模型平台将从应用层面向自主研发转变。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q245",
+      "type": "judge",
+      "stem": "作用于脚手架的荷载可分为永久荷载(恒荷载)与可变荷载(活荷载)。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q246",
+      "type": "judge",
+      "stem": "施工荷载，包括器具和材料的自重。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q247",
+      "type": "judge",
+      "stem": "单根立杆的载荷是将组合载荷平均分配到立杆所承担的面积计算得出的。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q248",
+      "type": "judge",
+      "stem": "立杆稳定性计算是计算单根立杆的稳定。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q249",
+      "type": "judge",
+      "stem": "超过一定规模的危险性较大的单项工程专项施工方案应由施工单位组织召开审查论证会。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q250",
+      "type": "judge",
+      "stem": "对于水利工程基坑选型，还需考虑水文条件、防渗要求等因素，确保基坑安全与工程整体稳定。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q251",
+      "type": "judge",
+      "stem": "基坑支护设计前，应查明既有建筑物的结构类型、层数、位置、基础形式和尺寸、埋深、使用年限、用途等。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q252",
+      "type": "judge",
+      "stem": "冠梁是设置在挡土构件顶部的将挡土构件连为整体的钢筋混凝土梁。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q253",
+      "type": "judge",
+      "stem": "一级基坑是指支护结构失效、土体过大变形对基坑周边环境或主体结构施工安全的影响严重。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q254",
+      "type": "judge",
+      "stem": "对采用内支撑的支护结构，宜采用局部开槽方法浇筑混凝土支撑或安装钢支撑；开挖到支撑作业面后，应及时进行支撑的施工。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q255",
+      "type": "judge",
+      "stem": "水利工程建设安全生产管理，坚持安全第一，预防为主的方针。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q256",
+      "type": "judge",
+      "stem": "施工单位安全作业环境及安全施工措施所需费用，应当用于施工安全防护用具及设施的采购和更新、安全施工措施的落实、安全生产条件的改善，不得挪作他用。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q257",
+      "type": "judge",
+      "stem": "查明影响工程场址(坝址、闸址、厂址、站址等)和输水线路比选的主要工程地质条件是可行性研究的内容。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q258",
+      "type": "judge",
+      "stem": "工程建设项目施工，除某些不适应招标的特殊工程项目外(须经水行政主管部门批准),均须实行招标投标。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q259",
+      "type": "judge",
+      "stem": "设计变更是指对已批准的初步设计所进行的修改活动。 83.重大设计变更是指工程建设过程中，对初步设计批复的有关建设任务和内容进行调整，导致工程任务发生重大变化。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q260",
+      "type": "judge",
+      "stem": "勘察、设计、施工、监理单位对水利工程质量承担主体责任，分别对工程的勘察质量、设计质量、施工质量和监理质量负责。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q261",
+      "type": "judge",
+      "stem": "水利工程实行工程质量终身责任制。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q262",
+      "type": "judge",
+      "stem": "水利工程施工图设计文件，应当以批准的初步设计文件以及设计变更文件为依据。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q263",
+      "type": "judge",
+      "stem": "施工单位必须按照批准的设计文件和有关技术标准施工，不得擅自修改设计文件，不得偷工减料。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q264",
+      "type": "judge",
+      "stem": "质量检测业务按照有关规定由具有相应资质等级的质量检测单位承担。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q265",
+      "type": "judge",
+      "stem": "禁止承包单位将其承包的工程违法分包给不具备相应资质条件的单位。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q266",
+      "type": "judge",
+      "stem": "水利工程建设必须严格执行基本建设程序，坚持先勘察、后设计、再施工。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q267",
+      "type": "judge",
+      "stem": "项目法人不得明示或者暗示设计单位或者施工单位违反工程建设强制性标准。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q268",
+      "type": "judge",
+      "stem": "隐蔽工程在隐蔽前，施工单位应当通知监理单位检查验收。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q269",
+      "type": "judge",
+      "stem": "《2020版强制性条文》共收录94项标准、557条强制性条文。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q270",
+      "type": "judge",
+      "stem": "施工船舶在汛期施工时，必须制定安全度汛措施。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q271",
+      "type": "judge",
+      "stem": "水利强条仅适用于水利行业标准，不包含国家标准。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q272",
+      "type": "judge",
+      "stem": "危险源是指一定触发条件下可能导致事故的根源或状态因素，具备潜在危险性、存在条件和触发因素三个要素。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q273",
+      "type": "judge",
+      "stem": "重大危险源的风险等级直接评定为重大风险。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q274",
+      "type": "judge",
+      "stem": "重大危险源应建立专项档案，并实现“一源一案”。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q275",
+      "type": "judge",
+      "stem": "危险源辨识可采用直接判定法、安全检查表法、LEC法等方法。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q276",
+      "type": "judge",
+      "stem": "企业安全生产标准化要求企业建立健全安全生产责任制，实现全员、全过程、全方位、全天候安全管理。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q277",
+      "type": "judge",
+      "stem": "安全生产标准化建设实行自主评定、外部评审的方式。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q278",
+      "type": "judge",
+      "stem": "水利施工企业安全生产标准化达标是企业安全生产许可、招投标等工作的重要依据。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q279",
+      "type": "judge",
+      "stem": "企业应每年至少一次对安全生产标准化实施情况进行自评。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q280",
+      "type": "judge",
+      "stem": "同一视觉范围内的清水混凝土模板面板材料应保持一致。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q281",
+      "type": "judge",
+      "stem": "清水混凝土的假眼可通过拆模后钻孔形成。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q282",
+      "type": "judge",
+      "stem": "清水混凝土模板的背楞间距设计需确保拆模后清水混凝土太阳光下不应观察到波浪。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q283",
+      "type": "judge",
+      "stem": "重要隐蔽单元工程是指对工程安全或使用功能有严重影响的隐蔽工程。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q284",
+      "type": "judge",
+      "stem": "项目划分的变更若影响主要分部工程，需重新报送质量监督机构确认。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q285",
+      "type": "judge",
+      "stem": "单元工程质量评定中，若经加固补强后造成外形尺寸改变，仍可评为合格。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q286",
+      "type": "judge",
+      "stem": "第三方质量检测单位必须具有水行政主管部门颁发的资质证书。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q287",
+      "type": "judge",
+      "stem": "分部工程验收的条件之一是所含单元工程全部完成并通过施工质量验收。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q288",
+      "type": "judge",
+      "stem": "工程量清单是招标人提供给投标人的平等竞争性报价的基础，投标人据此填报分项工程单价。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q289",
+      "type": "judge",
+      "stem": "通用造价软件既支持定额模式编制设计概算，也支持清单模式进行招投标报价。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q290",
+      "type": "judge",
+      "stem": "投标文件中如果出现格式空格未填写的情况，将被视为放弃意见。错误题(附解析)",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q291",
+      "type": "judge",
+      "stem": "“天工开物”AI智巡平台基于Unity 3D引擎开发。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "该平台基于UE5引擎开发，而非 Unity 3D。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q292",
+      "type": "judge",
+      "stem": "盾构自动驾驶系统的核心目标是实现盾构机的完全无人化操作。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "核心是人机协同，而非完全无人化。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q293",
+      "type": "judge",
+      "stem": "建筑工程企业“承接了某大型新能源电站建设项目”,这一事件本身属于外部机会。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "“承接新能源电站项目”是企业利用外部机会的结果，而非机会本身；外部机会是“新能源电站建设需求增长”这类市场或政策条件。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q294",
+      "type": "judge",
+      "stem": "“行业集中度低，市场竞争混乱”是建筑工程企业的内部劣势，需通过加强内部管理改善。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "“行业集中度低、竞争混乱”是整个行业的外部竞争格局，属于外部威胁；内部劣势需是企业自身的问题(如资质不足、技术落后)。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q295",
+      "type": "judge",
+      "stem": "战略控制的核心目的是“确保战略实施结果与规划目标一致”,若出现偏差无需调整战略，只需优化执行流程。解析：战略控制不仅包括优化执行流程，当外部环境(如政策突变、市场需求转移)或内部条件(如核心技术流失)发生重大变化时，需及时调整战略本身，而非仅修正执行。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q296",
+      "type": "judge",
+      "stem": "建筑企业资源战略仅涉及人力资源配置，资金、技术、物质资源的优化不属于其核心内容。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "建筑企业资源战略是多维度的综合战略，不仅包括人力资源的招募、培养与激励，还涵盖资金资源的筹措与优化、技术资源的创新与应用、物质资源 (土地、设备、材料)的合理配置。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q297",
+      "type": "judge",
+      "stem": "议标是我国《招标投标法》明确规定的招标方式之一。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "我国《招标投标法》规定的招标方式为公开招标和邀请招标，不包括议标。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q298",
+      "type": "judge",
+      "stem": "承包人可以将工程主体结构分包给具有相应资质的单位。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "根据法律规定，建设工程主体结构的施工必须由承包人自行完成，不得分包。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q299",
+      "type": "judge",
+      "stem": "索赔只能是承包人向发包人提出，发包人不能向承包人提出索赔。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "索赔是双向的，当发包人因承包人原因造成损失时，也可向承包人提出索赔。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q300",
+      "type": "judge",
+      "stem": "招标人对招标文件所作的任何澄清和修改，应在投标截止日期10日前发给所有投标人。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "澄清或修改应在投标截止时间15日前发出，若不足15日，应顺延投标截止时间。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q301",
+      "type": "judge",
+      "stem": "不可抗力事件导致的承包人施工设备损坏由发包人承担。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "不可抗力导致的承包人施工设备损坏，由承包人自行承担；发包人承担的是工程本身、已运至施工现场的材料等损失。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q302",
+      "type": "judge",
+      "stem": "经过考试合格，取得建造师执业资格证书，即可从事项目经理工作。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "取得建造师执业资格证书后，还需经注册并由企业聘任，才能担任项目经理，仅取得资格证不能直接从业。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q303",
+      "type": "judge",
+      "stem": "项目经理应组织项目团队成员编制施工安全事故应急预案，并报送项目专职安全员审查。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "应急预案需报送企业技术负责人等审批，而非仅项目专职安全员审查。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q304",
+      "type": "judge",
+      "stem": "紧急原因造成的停工，施工单位有权得到延长工期，但无法得到费用的补偿。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "紧急停工若因发包人原因导致，施工单位不仅可顺延工期，还可索赔费用；仅因自身原因停工才无权索赔。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q305",
+      "type": "judge",
+      "stem": "施工成本管理中，成本控制的前提是做好成本分析。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "成本控制的前提是成本计划，成本分析是控制后的复盘环节。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q306",
+      "type": "judge",
+      "stem": "项目管理实施规划应是项目管理工作中具有战略性、全局性和宏观性的指导文件。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "依据GB/T 50326-2017《建设工程项目管理规范》,项目管理规划大纲才是具有战略性、全局性和宏观性的指导文件，项目管理实施规划是大纲的深化和具体化。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q307",
+      "type": "judge",
+      "stem": "施工准备与资源配置是施工组织设计的纲领性内容。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "施工组织设计的纲领性内容是施工部署，而非施工准备与资源配置。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q308",
+      "type": "judge",
+      "stem": "单位工程施工组织设计是由施工方案综合而来。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "施工方案是单位工程施工组织设计的组成部分，单位工程施工组织设计并非由施工方案综合而来。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q309",
+      "type": "judge",
+      "stem": "在施工承包单位内部，施工方案应由企业技术负责人审批。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "一般施工方案由项目技术负责人审批，超过一定规模的危大工程专项施工方案才由企业技术负责人审批，并非所有施工方案均由企业技术负责人审批。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q310",
+      "type": "judge",
+      "stem": "风险管理的目标是，使安全目标得到控制。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "风险管理的目标是通过风险管控，使项目的成本、进度、质量、安全等目标得到控制，并非仅针对安全目标。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q311",
+      "type": "judge",
+      "stem": "风险控制是一种重要的财务性管理技术，由自己承担风险所造成的损失。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "风险自留才是由自己承担风险损失的财务性管理技术，风险控制是通过措施降低风险发生概率和损失，不属于财务性自留技术。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q312",
+      "type": "judge",
+      "stem": "成本控制时对生产班组的任务安排，必须签发施工任务单，并向生产班组进行技术交底。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "正确要求为：对生产班组的任务安排，必须签发施工任务单和限额领料单，并向班组进行技术交底，题干遗漏了限额领料单。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q313",
+      "type": "judge",
+      "stem": "质量控制成本包括内部故障成本和外部故障成本，质量水平成反比关系，即：工程质量越高，故障成本越低。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "质量成本分为控制成本(预防成本、鉴定成本)和故障成本(内部、外部故障成本),故障成本与质量水平成反比，但控制成本与质量水平成正比。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q314",
+      "type": "judge",
+      "stem": "指导性成本计划是指在工程项目施工准备阶段，以项目实施方案为依据，以落实项目经理责任目标为出发点，根据企业施工定额编制的施工成本计划。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "指导性成本计划是选派项目经理阶段的预算成本计划；施工准备阶段、以实施方案为依据、按企业定额编制的是实施性成本计划。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q315",
+      "type": "judge",
+      "stem": "项目进度目标是施工方项目管理的任务。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "项目进度目标是业主方项目管理的任务，施工方项目管理的进度目标是施工的进度目标。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q316",
+      "type": "judge",
+      "stem": "进度的管理过程中，需要严格按照指定的计划实施，是一个静态的管理过程。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "进度管理是动态控制过程，需定期跟踪、检查、调整计划，并非静态。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q317",
+      "type": "judge",
+      "stem": "横道图对大型项目，因其工作构成及逻辑关系复杂，可以利用计算机进行计算分析。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "横道图不适用于大型复杂项目，其逻辑关系表达不清晰，难以用计算机进行复杂计算分析，网络计划适用于大型项目。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q318",
+      "type": "judge",
+      "stem": "总时差有可能小于自由时差。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "总时差≥自由时差，自由时差是总时差的一部分，不可能小于自由时差。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q319",
+      "type": "judge",
+      "stem": "如果实际工期超计划工期，施工进度计划的调整，只能通过压缩关键工作的持续时间来实现。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "进度计划调整除压缩关键工作持续时间外，还可通过改变工作逻辑关系、调整非关键工作时差、增减工作项目等方式实现。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q320",
+      "type": "judge",
+      "stem": "人的政治思想素质、责任感、事业心、质量观、业务能力、技术水平等均间接影响工程质量。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "人的素质、能力等对工程质量起直接决定性影响，并非间接影响。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q321",
+      "type": "judge",
+      "stem": "人，作为控制的对象，是避免产生安全事故；作为控制的动力，是充分调动人的积极性。解析：人作为控制对象，核心是避免产生失误，不是避免安全事故。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q322",
+      "type": "judge",
+      "stem": "影响施工项目质量的环境因素包括工程技术环境、工程管理环境、劳动环境、国际环境。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "影响施工质量的环境不包括国际环境。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q323",
+      "type": "judge",
+      "stem": "施工准备工作是指项目开工前的各项施工准备工作。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "施工准备工作贯穿施工全过程，不只是开工前。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q324",
+      "type": "judge",
+      "stem": "施工现场仅需对电工、焊工等特种作业人员进行专项安全培训，普通作业人员无需参与职业健康安全培训，可直接上岗。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "所有作业人员均需接受“三级安全教育”(公司、项目、班组),普通作业人员需掌握本岗位安全操作规程、风险防范措施等基础内容，未经培训上岗属于违规行为。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q325",
+      "type": "judge",
+      "stem": "职业健康安全应急预案只需包含事故应急救援流程，无需明确应急组织机构及人员职责，可在事故发生后临时安排。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "应急预案的核心要素包括应急组织机构及职责、应急物资清单、响应程序等，需提前明确并备案。临时安排会导致应急响应混乱，延误救援时机。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q326",
+      "type": "judge",
+      "stem": "施工单位在施工现场建立消防安全责任制度，应设置员工集体宿舍。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "《建设工程安全生产管理条例》明确规定，施工单位不得在尚未竣工的建筑物内设置员工集体宿舍。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q327",
+      "type": "judge",
+      "stem": "事故发生后，关于事故现场的保护，为尽快恢复施工，可立即清理事故现场。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "事故发生后，应妥善保护事故现场，确需移动现场物品的，应当做出标记和书面记录，妥善保管有关证物，严禁擅自清理现场。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q328",
+      "type": "judge",
+      "stem": "项目信息过程管理主要是信息的采集。解析：项目信息过程管理包含信息的采集、传输、存储、应用和评价全过程，并非仅采集。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q329",
+      "type": "judge",
+      "stem": "项目管理机构必须配备专职的文件与档案管理人员。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "项目管理机构应配备专职或兼职的文件与档案管理人员，并非必须专职。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q330",
+      "type": "judge",
+      "stem": "合同评审中发现的问题，可书面或口头要求予以澄清或调整。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "合同评审中发现的问题，应以书面形式提出，不可口头要求。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q331",
+      "type": "judge",
+      "stem": "项目风险管理的核心目标是彻底消除所有项目风险。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "项目风险无法彻底消除，风险管理的核心目标是“识别、评估并控制风险”, 通过制定应对策略将风险影响降至可接受范围。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q332",
+      "type": "judge",
+      "stem": "卓越绩效管理模式仅适用于制造业企业，不适用于服务业或非营利组织。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "卓越绩效是通用性管理框架，核心逻辑适用于制造业、服务业、非营利组织等各类组织，仅在具体指标设计上需结合行业特性调整。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q333",
+      "type": "judge",
+      "stem": "卓越绩效管理的“持续改进”是指渐进式的小改进，不包含颠覆性的创新改进。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "持续改进涵盖“渐进式改进”与“突破性改进”两类，前者针对日常问题优化，后者针对核心流程或技术开展颠覆性创新，二者均属于改进范畴。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q334",
+      "type": "judge",
+      "stem": "卓越绩效管理的“基于事实的管理”,要求所有决策必须完全依赖定量数据，无需考虑定性信息。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "该原则强调“数据与信息驱动决策”,需结合定量数据(如绩效指标) 与定性信息(如顾客反馈、员工建议)综合判断，避免单一依赖某类信息导致决策偏差。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q335",
+      "type": "judge",
+      "stem": "《安全生产法(2021年版)》规定，建筑施工企业无需强制投保安全生产责任保险。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "2021版《安全生产法》明确要求，建筑施工单位应当投保安全生产责任保险。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q336",
+      "type": "judge",
+      "stem": "从业人员拒绝违章指挥的，视为违反劳动合同，施工单位可解除合同。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "《安全生产法》规定，从业人员有权拒绝违章指挥，施工单位不得因此解除劳动合同，不得降低其工资、福利等待遇。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q337",
+      "type": "judge",
+      "stem": "《建筑工人实名制管理办法》仅适用于房屋建筑工程，不适用于市政基础设施工程。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "该办法适用于房屋建筑和市政基础设施工程的建筑工人实名制管理，并非仅适用于房屋建筑工程。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q338",
+      "type": "judge",
+      "stem": "建筑工人实名制信息保存期限不得少于2年。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "建筑工人实名制信息应保存至工程竣工且工资全部结清后至少3年，而非2年。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q339",
+      "type": "judge",
+      "stem": "监理单位无需参与实名制管理，仅负责工程质量安全监督。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "监理单位需对建筑工人实名制落实情况进行监督，参与实名制管理工作。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q340",
+      "type": "judge",
+      "stem": "确认劳动合同部分无效的，其余部分也无效。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "劳动合同部分无效，不影响其他部分效力的，其他部分仍然有效。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q341",
+      "type": "judge",
+      "stem": "BIM 模型仅在设计阶段有用，在施工阶段无法发挥作用。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "BIM 模型在设计、施工、运维全生命周期均可发挥作用，如碰撞检查、施工模拟、进度管理等。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q342",
+      "type": "judge",
+      "stem": "智慧工地中的视频AI 系统只能用于录像监控，无法进行实时行为分析。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "视频AI 系统可进行实时行为分析，如未戴安全帽、抽烟、越界等违规行为识别。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q343",
+      "type": "judge",
+      "stem": "智慧工地四层架构中，平台层负责数据采集与上传。解析：平台层负责数据存储、分析与赋能，感知层负责数据采集与上传。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q344",
+      "type": "judge",
+      "stem": "上海智慧工地三级数据平台是“省-市-区”层级。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "上海市智慧工地三级联动数据平台的架构是“市-区-项目”。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q345",
+      "type": "judge",
+      "stem": "智慧工地中的AI 视频监控系统可以完全取代安全员的人工巡查工作，实现全自动安全管理。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "AI 视频监控系统是辅助工具，可提升巡查效率，但无法完全取代人工巡查，需人机协同。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q346",
+      "type": "judge",
+      "stem": "BIM+4D 进度管理系统只能用于展示三维模型和进度计划，无法进行实际进度的自动跟踪和预警。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "BIM+4D 进度管理系统可实现实际进度的自动跟踪、对比分析和预警。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q347",
+      "type": "judge",
+      "stem": "上海市2025年装配式建筑占比目标低于国家30%的要求。解析：上海市2025年装配式建筑占比目标高于国家30%的要求。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q348",
+      "type": "judge",
+      "stem": "智慧工地1.0阶段的核心特征是“系统融合，数据互通”。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "智慧工地1.0阶段的核心特征是“业务在线化”,2.0阶段才是“系统融合，数据互通”。加 5 s",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q349",
+      "type": "judge",
+      "stem": "w上e海r市水t务i B a IM 3应2用形获成了取“1+微2+N” 信系列成小果，程其中包序括一刷个协同题建模工平台具、两个三年行动计划和多项应用成果。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "上海市水务BIM 应用形成了“1+2+N”系列成果，包括一个顶层设计、两个三年行动计划和多项应用成果。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q350",
+      "type": "judge",
+      "stem": "张泾河南延伸整治工程通过 BIM 技术实现了全链条管理，但可惜未获得行业奖项。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "张泾河南延伸整治工程通过 BIM 技术实现了全链条管理，并获得了行业奖项。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q351",
+      "type": "judge",
+      "stem": "数字孪生水利的核心是以水利知识为基础，对物理流域进行全要素模拟和前瞻预演。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "数字孪生水利的核心是以数据为基础，对物理流域进行全要素模拟和前瞻预演。 62 .2022年水利部数字孪生流域建设先行先试涉及56家单位和84项任务，覆盖长江、黄河等七大流域。(×) 解析：2022年水利部数字孪生流域建设先行先试涉及56家单位和94项任务。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q352",
+      "type": "judge",
+      "stem": "浦东片区数字孪生项目采用“1+2+4”框架，其中“2”指两套数学模型(河网水动力模型和水质模型)。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "浦东片区数字孪生项目采用“1+2+4”框架，其中“2”指数字底板和业务平台。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q353",
+      "type": "judge",
+      "stem": "永久载荷是指作用到支撑架上荷载，包括钢筋和混凝土自重以及钢构件和预制混凝土等构件自重。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "永久荷载包括结构自重、土压力等，题干中列举的钢筋、混凝土自重属于永久荷载，但定义表述不完整。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q354",
+      "type": "judge",
+      "stem": "一般通过计算确定满堂脚手架立杆承受的每米结构自重标准值。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "满堂脚手架立杆承受的每米结构自重标准值一般通过查表确定，而非计算。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q355",
+      "type": "judge",
+      "stem": "专项施工方案应由施工单位技术负责人组织施工技术、安全、质量等部门的专业技术人员进行编制。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "专项施工方案应由项目技术负责人组织编制，而非单位技术负责人。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q356",
+      "type": "judge",
+      "stem": "专家组应由5名及以上符合相关专业要求的专家组成，各参建单位人员可以专家身份参加审查论证会。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "各参建单位人员不得以专家身份参加审查论证会。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q357",
+      "type": "judge",
+      "stem": "超过一定规模的危大工程专项施工方案经专家论证后结论为“通过”的，施工单位可参考专家意见自行修改完善。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "结论为“通过”的，施工单位应按专家意见修改完善，并履行审核签字手续后方可实施。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q358",
+      "type": "judge",
+      "stem": "支护结构选型时，应考虑主体地下结构和基础形式及其施工方法，不考虑基坑平面尺寸及形状。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "支护结构选型时，应考虑基坑平面尺寸及形状。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q359",
+      "type": "judge",
+      "stem": "基坑周边施工材料、设施或车辆荷载可短暂超过设计要求的地面荷载限值。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "基坑周边施工材料、设施或车辆荷载严禁超过设计要求的地面荷载限值。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q360",
+      "type": "judge",
+      "stem": "设计单位应当考虑施工安全操作和防护的需要，对涉及施工安全的重点部位和环节在设计文件中注明，由施工单位提出防范生产安全事故提出指导意见。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "由设计单位提出防范生产安全事故的指导意见，而非施工单位。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q361",
+      "type": "judge",
+      "stem": "专职安全生产管理人员负责对安全生产进行现场监督检查。发现生产安全事故隐患，应当立即制止。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "发现生产安全事故隐患，应当立即向项目负责人和安全生产管理机构报告，而非立即制止。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q362",
+      "type": "judge",
+      "stem": "项目建议书的内容不包括投资估算及资金筹措。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "项目建议书的内容包括投资估算及资金筹措。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q363",
+      "type": "judge",
+      "stem": "项目建议书是项目决策和进行初步设计的依据。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "可行性研究报告是项目决策和进行初步设计的依据，项目建议书是立项申请的依据。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q364",
+      "type": "judge",
+      "stem": "勘察设计单位应着力提高勘察设计水平，控制重大设计变更，适当一般设计变更。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "应严格控制重大设计变更，尽量减少一般设计变更。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q365",
+      "type": "judge",
+      "stem": "施工单位可以将其承揽的全部水利工程转包给具有相应资质的单位。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "禁止转包，施工单位不得将其承揽的全部工程转包给他人。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q366",
+      "type": "judge",
+      "stem": "分包单位可以将其承包的工程再次分包给其他合格单位。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "禁止分包单位将其承包的工程再分包。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q367",
+      "type": "judge",
+      "stem": "监理单位可以转让工程监理业务。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "监理单位不得转让工程监理业务。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q368",
+      "type": "judge",
+      "stem": "施工单位可以不经项目法人同意，自行更换项目技术负责人。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "施工单位更换项目技术负责人应经项目法人同意。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q369",
+      "type": "judge",
+      "stem": "低标号混凝土承重模板拆除时，混凝土强度需达到设计强度的100%。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "承重模板拆除时混凝土强度要求根据构件类型和跨度确定，并非统一要求100%。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q370",
+      "type": "judge",
+      "stem": "施工现场的井、洞、坑、沟等危险处只需设置警示标志，无需加盖板或围栏。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "危险处应设置加盖板或围栏，并设置警示标志。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q371",
+      "type": "judge",
+      "stem": "未经验收或验收不合格的工程可以先行投入使用。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "未经验收或验收不合格的工程不得投入使用。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q372",
+      "type": "judge",
+      "stem": "施工单位可自行使用无出厂合格证的机电产品，只要做好记录即可。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "严禁使用无出广合格证的机电产品。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q373",
+      "type": "judge",
+      "stem": "洞内作业前必须检查有害气体浓度，超标时应继续作业但加强通风。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "有害气体浓度超标时应停止作业，采取措施处理达标后方可作业。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q374",
+      "type": "judge",
+      "stem": "事故隐患即为危险源，二者是等同概念。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "危险源是可能导致事故的根源或状态，事故隐患是危险源失控后的状态，二者不等同。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q375",
+      "type": "judge",
+      "stem": "危险源辨识只需在工程开工前进行一次。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "危险源辨识应动态进行，至少每季度一次，施工条件变化时及时重新辨识。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q376",
+      "type": "judge",
+      "stem": "LEC 法中的D 值计算公式为D=L+E+C。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "LEC 法中D 值计算公式为D=L×E×C 。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q377",
+      "type": "judge",
+      "stem": "有限空间作业只需履行审批制度，无需专人监护。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "有限空间作业必须设专人监护。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q378",
+      "type": "judge",
+      "stem": "安全生产标准化等级分为一级、二级、三级、四级，级别越高表示安全生产水平越低。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "安全生产标准化等级分为一级、二级、三级，一级最高。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q379",
+      "type": "judge",
+      "stem": "安全生产标准化只需要在开工前完成一次评审即可，无需持续改进。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "安全生产标准化需要持续改进，定期自评和整改。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q380",
+      "type": "judge",
+      "stem": "隐患排查治理不属于安全生产标准化的核心要求。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "隐患排查治理是安全生产标准化的核心要求之一。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q381",
+      "type": "judge",
+      "stem": "安全生产标准化仅针对施工单位，与监理、设计单位无关。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "安全生产标准化适用于所有参建单位。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q382",
+      "type": "judge",
+      "stem": "清水混凝土施工前无需进行技术交底，工人可直接操作。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "清水混凝土施工前必须进行技术交底。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q383",
+      "type": "judge",
+      "stem": "清水混凝土施工缝处可采用砂浆垫块作为保护层。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "清水混凝土施工缝处不得采用砂浆垫块，应采用混凝土垫块或塑料垫块。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q384",
+      "type": "judge",
+      "stem": "清水混凝土养护时，无色塑料薄膜覆盖时间越长越好。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "覆盖时间应满足养护要求，并非越长越好。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q385",
+      "type": "judge",
+      "stem": "直通型穿墙螺栓拆模后，螺栓割除至混凝土表面不小于1.5cm 。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "螺栓应割除至混凝土表面以下1.5cm, 并做防腐处理。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q386",
+      "type": "judge",
+      "stem": "清水混凝土施工时，钢筋绑扎扎扣尾端应朝向构件截面外侧。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "扎扣尾端应朝向构件截面内侧，避免影响外观。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q387",
+      "type": "judge",
+      "stem": "饰面清水混凝土包含彩色的清水混凝土。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "饰面清水混凝土不包括彩色清水混凝土，彩色清水混凝土属于装饰清水混凝土。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q388",
+      "type": "judge",
+      "stem": "同一视觉范围内的水平蝉缝应基本在同一高程，必要时可少量错缝；在确定水平基准线时，应使模板切割量尽可能均匀分布；对于墙体较多的部位，其最下层模板通常宜采用中等规格模板(高度方向)。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "最下层模板通常宜采用较大规格模板。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q389",
+      "type": "judge",
+      "stem": "一次性连续浇筑高度超过6m 时，不宜采用三节式穿墙锥体螺栓，应采用直通型对拉螺栓，螺栓直径宜为不小于20mm。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "一次性连续浇筑高度超过6m 时，宜采用三节式穿墙锥体螺栓。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q390",
+      "type": "judge",
+      "stem": "模板拼接的竖缝应以结构轴线或孔洞中心线对称布置，余数在结构的两个端部，也可从一端向另一端排列，余数在结构的另一个端部；单块模板的面板最小宽度不宜小于模板宽度的1/2,清水混凝土竖向蝉缝应在同一直线上。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "单块模板的面板最小宽度不宜小于模板宽度的1/3。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q391",
+      "type": "judge",
+      "stem": "水利水电工程质量评定的最基本单位是分部工程。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "水利工程质量评定的最基本的评定单位为单元工程。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q392",
+      "type": "judge",
+      "stem": "根据新修订的验收规程，施工质量等级评定仍保留“优良”等级。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "新规程取消施工质量“优良”等级，改为“合格”与“不合格”二元结论。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q393",
+      "type": "judge",
+      "stem": "单位工程外观质量合格标准为得分率≥70%。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "新规程调整后，单位工程外观质量合格标准为得分率≥80%。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q394",
+      "type": "judge",
+      "stem": "《水利工程工程量清单计价规范》中所有加粗字体的条款都是推荐性条文，并非强制要求。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "《计价规范》中加重字体的条款都是强制性条文。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q395",
+      "type": "judge",
+      "stem": "工程量清单的项目编码采用十位阿拉伯数字表示。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "项目编码采用十二位阿拉伯数字表示。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q396",
+      "type": "judge",
+      "stem": "投标决策仅包括是否参与投标的选择，不包括投标策略的制定。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "投标决策包括投不投标、投什么性质的标、以及投标中采用的技巧三个层次。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q397",
+      "type": "judge",
+      "stem": "不平衡报价法允许单价调整的合理幅度一般在±20%以内。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "不平衡报价法的单价调整应控制在±10%以内。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q398",
+      "type": "judge",
+      "stem": "《水利工程设计概算中的独立费用在招投标阶段也应计入投标报价。解析：独立费用在项目设计概算时考虑，招投标时不考虑。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q399",
+      "type": "judge",
+      "stem": "投标报价的编制只能依据国家定额，不能使用企业内部定额。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "投标报价可依据企业内部制定的有关取费、价格等有关规定、标准。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q400",
+      "type": "judge",
+      "stem": "通用造价软件在调整费率或工程量后，需要用户手动点击“计算”按钮才能更新数据。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "软件具有“数据变化、同步计算”功能，改变费率或工程量后数据会自动同步更新。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q401",
+      "type": "judge",
+      "stem": "投标班子中只需包括技术负责人和报价人员，不需要经营管理类人才。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "投标班子应包括经营管理类、技术专业类和商务金融类三种人才。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shuili-ch1-q402",
+      "type": "judge",
+      "stem": "在工程量清单计价中，一般项目清单通常采用工程单价计价。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "一般项目清单中的项目通常为总价项目，分类分项工程量清单才采用工程单价计价。二、单项选择题(共176题，每道题完整列出选项)",
+      "difficulty": 1
+    }
+  ]
+}

@@ -1,0 +1,2359 @@
+{
+  "questions": [
+    {
+      "id": "yijian-fagui-ch2-q1",
+      "type": "single",
+      "stem": "（）是建筑生产中最基本的安全管理制度，是所有安全规章制度的核心。",
+      "options": [
+        {
+          "key": "A",
+          "text": "质量事故处理制度"
+        },
+        {
+          "key": "B",
+          "text": "质量事故统计报告制度"
+        },
+        {
+          "key": "C",
+          "text": "安全生产责任制度"
+        },
+        {
+          "key": "D",
+          "text": "安全生产监督制度"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q2",
+      "type": "single",
+      "stem": "建设工程安全生产管理基本制度中，不包括（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "群防群治制度"
+        },
+        {
+          "key": "B",
+          "text": "伤亡事故处理报告制度"
+        },
+        {
+          "key": "C",
+          "text": "事故预防制度"
+        },
+        {
+          "key": "D",
+          "text": "安全责任追究制度"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q3",
+      "type": "single",
+      "stem": "《建设工程安全生产管理条例》第10条规定，依法批准开工报告的建设工程，建设单位应当自开工报告批准之日起（）内，将保证安全施工的措施报送建设工程所在地的县级以上地方人民政府建设行政主管部门或者其他有关部门备案。",
+      "options": [
+        {
+          "key": "A",
+          "text": "30日"
+        },
+        {
+          "key": "B",
+          "text": "60日"
+        },
+        {
+          "key": "C",
+          "text": "15日"
+        },
+        {
+          "key": "D",
+          "text": "90日"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q4",
+      "type": "single",
+      "stem": "工程监理单位在实施监理过程中，发现存在安全事故隐患的，应当要求施工单位整改；情况严重的，应当要求施工单位暂时停止施工，并及时报告建设单位。施工单位拒不整改或者不停止施工的，工程监理单位应当及时向（）报告。",
+      "options": [
+        {
+          "key": "A",
+          "text": "建设单位"
+        },
+        {
+          "key": "B",
+          "text": "有关主管部门"
+        },
+        {
+          "key": "C",
+          "text": "建设行政部门"
+        },
+        {
+          "key": "D",
+          "text": "当地人民政府"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q5",
+      "type": "single",
+      "stem": "《建设工程安全生产管理条例》规定，总承包单位依法将建设工程分包给其他单位的，分包合同中应当明确各自的安全生产方面的权利、义务。总承包单位和分包单位对分包工程的安全生产承担（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "各自相应的责任"
+        },
+        {
+          "key": "B",
+          "text": "连带责任"
+        },
+        {
+          "key": "C",
+          "text": "按份责任"
+        },
+        {
+          "key": "D",
+          "text": "补充责任"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q6",
+      "type": "single",
+      "stem": "总承包单位依法将建设工程分包给其他单位的，分包单位应当服从总承包单位的安全生产管理，分包单位不服从管理导致生产安全事故的，由分包单位承担（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "全部责任"
+        },
+        {
+          "key": "B",
+          "text": "次要责任"
+        },
+        {
+          "key": "C",
+          "text": "主要责任"
+        },
+        {
+          "key": "D",
+          "text": "同等责任"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q7",
+      "type": "single",
+      "stem": "施工现场暂时停止施工的，施工单位应当做好现场防护，所需费用由（）承担，或者按照合同约定执行。",
+      "options": [
+        {
+          "key": "A",
+          "text": "施工单位"
+        },
+        {
+          "key": "B",
+          "text": "责任方"
+        },
+        {
+          "key": "C",
+          "text": "建设单位"
+        },
+        {
+          "key": "D",
+          "text": "暂停决定方"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q8",
+      "type": "single",
+      "stem": "施工单位应当将施工现场的办公、生活区与作业区分开设置，并保持安全距离；办公、生活区的选址应当符合（）。职工的膳食、饮水、休息场所等应当符合（）。本题前后括号的搭配为（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "安全性要求，卫生标准"
+        },
+        {
+          "key": "B",
+          "text": "强制性标准，生活标准"
+        },
+        {
+          "key": "C",
+          "text": "建设单位要求，规定标准"
+        },
+        {
+          "key": "D",
+          "text": "安全标准，最低标准"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q9",
+      "type": "single",
+      "stem": "《建设工程安全生产管理条例》第30条规定，施工单位对因建设工程施工可能造成损害的毗邻建筑物、构筑物和地下管线等，应当采取（）措施。",
+      "options": [
+        {
+          "key": "A",
+          "text": "特殊防护"
+        },
+        {
+          "key": "B",
+          "text": "专项防护"
+        },
+        {
+          "key": "C",
+          "text": "强制性保护"
+        },
+        {
+          "key": "D",
+          "text": "法定保护"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q10",
+      "type": "single",
+      "stem": "施工单位应当为施工现场从事危险作业的人员办理意外伤害保险。意外伤害保险费由（）支付。",
+      "options": [
+        {
+          "key": "A",
+          "text": "施工单位"
+        },
+        {
+          "key": "B",
+          "text": "建设单位"
+        },
+        {
+          "key": "C",
+          "text": "总承包单位"
+        },
+        {
+          "key": "D",
+          "text": "用工单位"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q11",
+      "type": "single",
+      "stem": "《建设工程安全生产管理条例》第38条规定，施工单位应当为施工现场从事危险作业的人员办理意外伤害保险。意外伤害保险期限自建设工程开工之日起至（）止。",
+      "options": [
+        {
+          "key": "A",
+          "text": "施工结束"
+        },
+        {
+          "key": "B",
+          "text": "竣工验收合格"
+        },
+        {
+          "key": "C",
+          "text": "工程投入使用"
+        },
+        {
+          "key": "D",
+          "text": "工程保修期结束"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q12",
+      "type": "single",
+      "stem": "《建设工程安全生产管理条例》第16条规定，出租机械设备的单位应当对出租的机械设备和施工机具及配件的安全性能进行检测，在签订租赁协议时，应当出具（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "检测合格证明"
+        },
+        {
+          "key": "B",
+          "text": "生产（制造）许可证明"
+        },
+        {
+          "key": "C",
+          "text": "产品合格证明"
+        },
+        {
+          "key": "D",
+          "text": "建筑机械使用许可证明"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q13",
+      "type": "single",
+      "stem": "建设工程质量必须实行（）监督管理。",
+      "options": [
+        {
+          "key": "A",
+          "text": "建设单位"
+        },
+        {
+          "key": "B",
+          "text": "建立单位"
+        },
+        {
+          "key": "C",
+          "text": "工商行政管理部门"
+        },
+        {
+          "key": "D",
+          "text": "政府"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q14",
+      "type": "single",
+      "stem": "政府对工程质量的监督管理主要以保证工程使用安全和环境质量为主要目的，以法律、法规和强制性标准为依据，以（）为主要内容。",
+      "options": [
+        {
+          "key": "A",
+          "text": "工程建设各方主体的质量行为"
+        },
+        {
+          "key": "B",
+          "text": "主体结构"
+        },
+        {
+          "key": "C",
+          "text": "地基基础、主体结构、环境质量和与此有关的工程建设各方主体的质量行为"
+        },
+        {
+          "key": "D",
+          "text": "环境质量"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q15",
+      "type": "single",
+      "stem": "政府对工程质量的监督管理主要以（）为主要手段。",
+      "options": [
+        {
+          "key": "A",
+          "text": "行政审批"
+        },
+        {
+          "key": "B",
+          "text": "施工许可制度和竣工验收备案制度"
+        },
+        {
+          "key": "C",
+          "text": "竣工验收"
+        },
+        {
+          "key": "D",
+          "text": "质量考核与抽查"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q16",
+      "type": "single",
+      "stem": "建设单位应当在工程竣工验收合格后的（）内到县级以上建设行政主管部门或者其他有关部门备案。",
+      "options": [
+        {
+          "key": "A",
+          "text": "15天"
+        },
+        {
+          "key": "B",
+          "text": "30天"
+        },
+        {
+          "key": "C",
+          "text": "45天"
+        },
+        {
+          "key": "D",
+          "text": "60天"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q17",
+      "type": "single",
+      "stem": "《建设工程安全生产管理条例》第21条规定，（）依法对本单位的安全生产工作全面负责。",
+      "options": [
+        {
+          "key": "A",
+          "text": "建设单位的负责人"
+        },
+        {
+          "key": "B",
+          "text": "施工单位主要负责人"
+        },
+        {
+          "key": "C",
+          "text": "施工单位的专职生产管理人员"
+        },
+        {
+          "key": "D",
+          "text": "建设单位的专职生产管理人员"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q18",
+      "type": "single",
+      "stem": "自工程竣工验收合格之日起（）内未办理工程竣工验收备案，由建设行政主管部门或者其他有关部门按照有关规定予以行政处罚。",
+      "options": [
+        {
+          "key": "A",
+          "text": "10天"
+        },
+        {
+          "key": "B",
+          "text": "15天"
+        },
+        {
+          "key": "C",
+          "text": "20天"
+        },
+        {
+          "key": "D",
+          "text": "30天"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q19",
+      "type": "single",
+      "stem": "建设工程发生质量事故后，有关单位应当（）向当地建设行政主管部门或者其他有关部门报告。",
+      "options": [
+        {
+          "key": "A",
+          "text": "立即"
+        },
+        {
+          "key": "B",
+          "text": "在12小时内"
+        },
+        {
+          "key": "C",
+          "text": "在24小时内"
+        },
+        {
+          "key": "D",
+          "text": "在48小时内"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q20",
+      "type": "single",
+      "stem": "建设单位在（）之前，应当按照国家有关规定办理工程质量监督手续。",
+      "options": [
+        {
+          "key": "A",
+          "text": "组织竣工验收"
+        },
+        {
+          "key": "B",
+          "text": "工程建设完成"
+        },
+        {
+          "key": "C",
+          "text": "订立施工监理合同"
+        },
+        {
+          "key": "D",
+          "text": "领取施工许可证或者开工报告"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q21",
+      "type": "single",
+      "stem": "《建设工程质量管理条例》规定，对于涉及（）的装修工程，建设单位要有设计方案。",
+      "options": [
+        {
+          "key": "A",
+          "text": "变更工程竣工日期"
+        },
+        {
+          "key": "B",
+          "text": "建筑主体和承重结构变动"
+        },
+        {
+          "key": "C",
+          "text": "增加工程造价总额"
+        },
+        {
+          "key": "D",
+          "text": "改变建筑工程一般结构"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q22",
+      "type": "single",
+      "stem": "根据《建设工程质量管理条例》规定，勘察、设计单位必须按照工程建设强制性标准进行勘察、设计，（）应当在设计文件上签字，对设计文件负责。",
+      "options": [
+        {
+          "key": "A",
+          "text": "单位负责人"
+        },
+        {
+          "key": "B",
+          "text": "勘察人、设计人"
+        },
+        {
+          "key": "C",
+          "text": "注册执业人员"
+        },
+        {
+          "key": "D",
+          "text": "项目负责人"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q23",
+      "type": "single",
+      "stem": "《建设工程质量管理条例》规定，除（）外，设计单位不得指定生产厂、供应商。",
+      "options": [
+        {
+          "key": "A",
+          "text": "有特殊要求的建筑材料、专用设备、工艺生产线等"
+        },
+        {
+          "key": "B",
+          "text": "建设单位有特殊要求的"
+        },
+        {
+          "key": "C",
+          "text": "建设单位申请使用的"
+        },
+        {
+          "key": "D",
+          "text": "施工单位申请使用且质量合乎要求的"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q24",
+      "type": "single",
+      "stem": "建设工程的保修期，自（）起计算。",
+      "options": [
+        {
+          "key": "A",
+          "text": "工程竣工"
+        },
+        {
+          "key": "B",
+          "text": "竣工验收合格之日"
+        },
+        {
+          "key": "C",
+          "text": "投入使用"
+        },
+        {
+          "key": "D",
+          "text": "合同约定"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q25",
+      "type": "single",
+      "stem": "建设工程在保修范围和保修期限内发生质量问题的，施工单位应当履行保修义务，并对造成的损失承担赔偿责任。对于保修费用，则由（）承担。",
+      "options": [
+        {
+          "key": "A",
+          "text": "质量缺陷的责任方"
+        },
+        {
+          "key": "B",
+          "text": "施工单位"
+        },
+        {
+          "key": "C",
+          "text": "建设单位"
+        },
+        {
+          "key": "D",
+          "text": "修理方"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q26",
+      "type": "single",
+      "stem": "对于工程质量的监督管理，我国实行（）统一监督管理。",
+      "options": [
+        {
+          "key": "A",
+          "text": "国务院"
+        },
+        {
+          "key": "B",
+          "text": "国家发改委"
+        },
+        {
+          "key": "C",
+          "text": "国务院建设行政主管部门"
+        },
+        {
+          "key": "D",
+          "text": "国务院质量技术监督部门"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q27",
+      "type": "single",
+      "stem": "下列不属于工程建设的强制性标准的是（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "工程建设勘察、规划、设计、施工（包括安装）及验收等通用的综合标准和重要的通用的质量标准"
+        },
+        {
+          "key": "B",
+          "text": "工程建设通用的有关安全、卫生和环境保护的标准"
+        },
+        {
+          "key": "C",
+          "text": "工程建设的特殊技术术语"
+        },
+        {
+          "key": "D",
+          "text": "工程建设重要的通用的信息技术标准"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q28",
+      "type": "single",
+      "stem": "（）对设计、施工人员来说，是设计和施工时必须绝对遵守的技术法规；对监理人员来说，是实施工程监理时首先要进行监理的内容；对政府监督人员来说，是重要的、可操作的处罚依据。",
+      "options": [
+        {
+          "key": "A",
+          "text": "工程建设通用标准"
+        },
+        {
+          "key": "B",
+          "text": "《工程建设标准强制性条文》"
+        },
+        {
+          "key": "C",
+          "text": "《工程建设强制标准》"
+        },
+        {
+          "key": "D",
+          "text": "《工程建设标准实用指南》"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q29",
+      "type": "single",
+      "stem": "按属性分类，工程建设标准不包括（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "技术标准"
+        },
+        {
+          "key": "B",
+          "text": "工作标准"
+        },
+        {
+          "key": "C",
+          "text": "建设定额"
+        },
+        {
+          "key": "D",
+          "text": "管理标准"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q30",
+      "type": "single",
+      "stem": "对建设项目环境可能造成轻度环境影响的，应当编制（），对产生的环境影响进行分析或者专项评价。",
+      "options": [
+        {
+          "key": "A",
+          "text": "环境影响报告书"
+        },
+        {
+          "key": "B",
+          "text": "环境影响报告单"
+        },
+        {
+          "key": "C",
+          "text": "环境影响登记表"
+        },
+        {
+          "key": "D",
+          "text": "环境影响报告表"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q31",
+      "type": "single",
+      "stem": "涉及水土保持的建设项目除按要求编制建设项目的环境影响报告书外，还必须取得经由水行政主管部门审查同意的（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "水土保持方案"
+        },
+        {
+          "key": "B",
+          "text": "水土安全规划"
+        },
+        {
+          "key": "C",
+          "text": "水利用方案"
+        },
+        {
+          "key": "D",
+          "text": "水土利用标准"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q32",
+      "type": "single",
+      "stem": "从事建设项目环境影响评价工作的单位，必须取得（国务院环境保护行政主管部门）颁发的资格证书，按照资格证书规定的等级和范围，从事建设项目环境影响评价工作，并对评价结论负责。（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "国务院建设行政主管部门"
+        },
+        {
+          "key": "B",
+          "text": "国务院发展与改革委员会"
+        },
+        {
+          "key": "C",
+          "text": "省级环境保护行政主管部门"
+        },
+        {
+          "key": "D",
+          "text": "国务院环境保护行政主管部门"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q33",
+      "type": "single",
+      "stem": "建设项目环境影响评价文件自批准之日起满5年，方决定该项目开工建设的，其环境影响评价文件应当报原审批机关重新审核。原审批机关应当自收到建设项目环境影响评价文件之日起（）内，将审核意见书面通知建设单位；逾期未通知的，视为审核同意。",
+      "options": [
+        {
+          "key": "A",
+          "text": "10日"
+        },
+        {
+          "key": "B",
+          "text": "15日"
+        },
+        {
+          "key": "C",
+          "text": "30日"
+        },
+        {
+          "key": "D",
+          "text": "90日"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q34",
+      "type": "single",
+      "stem": "环境保护设施竣工验收，应当与主体工程竣工验收同时进行。需要进行试生产的建设项目，建设单位应当自建设项目投入试生产之日起（）内，向审批该建设项目环境影响报告书、环境影响报告表或者环境影响登记表的环境保护行政主管部门，申请该建设项目需要配套建设的环境保护设施竣工验收。",
+      "options": [
+        {
+          "key": "A",
+          "text": "一个月"
+        },
+        {
+          "key": "B",
+          "text": "二个月"
+        },
+        {
+          "key": "C",
+          "text": "三个月"
+        },
+        {
+          "key": "D",
+          "text": "六个月"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q35",
+      "type": "single",
+      "stem": "分期建设、分期投入生产或者使用的建设项目，其相应的环境保护设施应当（）验收。",
+      "options": [
+        {
+          "key": "A",
+          "text": "分期"
+        },
+        {
+          "key": "B",
+          "text": "最终一次性"
+        },
+        {
+          "key": "C",
+          "text": "同时"
+        },
+        {
+          "key": "D",
+          "text": "分阶段"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q36",
+      "type": "single",
+      "stem": "环境保护行政主管部门应当自收到（）之日起30日内，完成验收。",
+      "options": [
+        {
+          "key": "A",
+          "text": "竣工结论"
+        },
+        {
+          "key": "B",
+          "text": "环境保护设施竣工验收申请"
+        },
+        {
+          "key": "C",
+          "text": "竣工验收申请"
+        },
+        {
+          "key": "D",
+          "text": "建设项目竣工验收合格证书"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q37",
+      "type": "single",
+      "stem": "建筑工程一切险承保的内容不包括（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "临时工程，如引水、保护堤"
+        },
+        {
+          "key": "B",
+          "text": "脚手架"
+        },
+        {
+          "key": "C",
+          "text": "租赁物资"
+        },
+        {
+          "key": "D",
+          "text": "被保险人严重失职造成的职工的人身伤亡和财产损失"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q38",
+      "type": "single",
+      "stem": "按照国际惯例，建筑工程一切险的除外责任的情况通常不包括（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "由于罢工、骚动、民众运动或当局命令停工等情况造成的损失"
+        },
+        {
+          "key": "B",
+          "text": "因被保险人严重失职或蓄意破坏而造成的损失"
+        },
+        {
+          "key": "C",
+          "text": "一般性盗窃和抢劫"
+        },
+        {
+          "key": "D",
+          "text": "因设计错误（结构缺陷）而造成的损失"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q39",
+      "type": "single",
+      "stem": "建筑工程一切险承保的危险与损害涉及面很广，但按国际惯例，下列情形属于除外的情形（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "因设计错误（结构缺陷）而造成的损失"
+        },
+        {
+          "key": "B",
+          "text": "灭火或其他救助所造成的损失"
+        },
+        {
+          "key": "C",
+          "text": "由于工人、技术人员缺乏经验造成的损失"
+        },
+        {
+          "key": "D",
+          "text": "建筑材料在工地范围内的运输过程中遭受的损失"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q40",
+      "type": "single",
+      "stem": "建筑工程一切险自（）开始生效。",
+      "options": [
+        {
+          "key": "A",
+          "text": "开工之日"
+        },
+        {
+          "key": "B",
+          "text": "卸载工程物料"
+        },
+        {
+          "key": "C",
+          "text": "工程开工之日或在开工之前工程用料卸放于工地之日，两者以先发生者为准"
+        },
+        {
+          "key": "D",
+          "text": "交清保费"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q41",
+      "type": "single",
+      "stem": "建筑工程一切险的保险终止日应为（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "工程竣工验收之日"
+        },
+        {
+          "key": "B",
+          "text": "工程验收合格之日"
+        },
+        {
+          "key": "C",
+          "text": "工程竣工验收之日或者保险单上列出的终止日"
+        },
+        {
+          "key": "D",
+          "text": "合同双方约定的终止日"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q42",
+      "type": "single",
+      "stem": "保险金额是指保险人承担赔偿或者给付保险金责任的（）限额。",
+      "options": [
+        {
+          "key": "A",
+          "text": "最低"
+        },
+        {
+          "key": "B",
+          "text": "实际损失"
+        },
+        {
+          "key": "C",
+          "text": "损失后评估"
+        },
+        {
+          "key": "D",
+          "text": "最高"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q43",
+      "type": "single",
+      "stem": "保险金额不得超过保险标的的保险价值，超过保险价值的，超过的部分（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "减法"
+        },
+        {
+          "key": "B",
+          "text": "无效"
+        },
+        {
+          "key": "C",
+          "text": "收归国家所有"
+        },
+        {
+          "key": "D",
+          "text": "限额赔付"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q44",
+      "type": "single",
+      "stem": "由（）承担的损失额为免赔额。",
+      "options": [
+        {
+          "key": "A",
+          "text": "被保险人"
+        },
+        {
+          "key": "B",
+          "text": "投保人"
+        },
+        {
+          "key": "C",
+          "text": "施工单位"
+        },
+        {
+          "key": "D",
+          "text": "损害责任人"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q45",
+      "type": "single",
+      "stem": "对于建筑工程一切险的免赔额的确定，第三者责任险中财产损失的免赔额为每次事故赔偿限额的1%--2%，但（）没有免赔额。",
+      "options": [
+        {
+          "key": "A",
+          "text": "人身伤害"
+        },
+        {
+          "key": "B",
+          "text": "搬运损失"
+        },
+        {
+          "key": "C",
+          "text": "抢劫受损"
+        },
+        {
+          "key": "D",
+          "text": "意外损害"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q46",
+      "type": "single",
+      "stem": "建筑工程一切险因保险期比较长，保费数额大，可分期交纳保费，但出单后必须立即交纳第一期，而最后一笔保费必须在（）交清。",
+      "options": [
+        {
+          "key": "A",
+          "text": "一年内"
+        },
+        {
+          "key": "B",
+          "text": "两年内"
+        },
+        {
+          "key": "C",
+          "text": "三年内"
+        },
+        {
+          "key": "D",
+          "text": "工程完工前半年"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q47",
+      "type": "single",
+      "stem": "如果在保险期内工程不能完工，对建筑工程一切险可以延期，不过投保人须（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "降低投保限额"
+        },
+        {
+          "key": "B",
+          "text": "提前交纳保费"
+        },
+        {
+          "key": "C",
+          "text": "交纳补充保险费"
+        },
+        {
+          "key": "D",
+          "text": "重填保单"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q48",
+      "type": "single",
+      "stem": "劳动合同可以约定试用期。试用期最长不得超过（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "3个月"
+        },
+        {
+          "key": "B",
+          "text": "6个月"
+        },
+        {
+          "key": "C",
+          "text": "12个月"
+        },
+        {
+          "key": "D",
+          "text": "18个月"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q49",
+      "type": "single",
+      "stem": "劳动者解除劳动合同，应当提前（）以书面形式通知用人单位。",
+      "options": [
+        {
+          "key": "A",
+          "text": "7日"
+        },
+        {
+          "key": "B",
+          "text": "10日"
+        },
+        {
+          "key": "C",
+          "text": "30日"
+        },
+        {
+          "key": "D",
+          "text": "60日"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q50",
+      "type": "single",
+      "stem": "《固体废物污染环境防治法》规定，转移固体废弃物，应向（）的省环保部门报告，并应经接受地省环保部门的许可。",
+      "options": [
+        {
+          "key": "A",
+          "text": "移入地"
+        },
+        {
+          "key": "B",
+          "text": "移出地"
+        },
+        {
+          "key": "C",
+          "text": "途经地"
+        },
+        {
+          "key": "D",
+          "text": "接受地"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q51",
+      "type": "single",
+      "stem": "《固体废物污染环境防治法》规定，收集、储存、运输、处置危险废物的场所、设施设备和容器、包装物和其他物品转作他用时，必须经过（）处理方可使用。",
+      "options": [
+        {
+          "key": "A",
+          "text": "无害化"
+        },
+        {
+          "key": "B",
+          "text": "减轻污染的"
+        },
+        {
+          "key": "C",
+          "text": "再生利用"
+        },
+        {
+          "key": "D",
+          "text": "消除污染的"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q52",
+      "type": "single",
+      "stem": "《环境噪声污染防治法》规定，在城市市区范围内，建筑施工过程可能产生噪声污染，施工单位须在开工（）以前向所在地县以上环境行政主管部门申报该工程采取的环境噪声污染防治情况。",
+      "options": [
+        {
+          "key": "A",
+          "text": "10天"
+        },
+        {
+          "key": "B",
+          "text": "15天"
+        },
+        {
+          "key": "C",
+          "text": "20天"
+        },
+        {
+          "key": "D",
+          "text": "30天"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q53",
+      "type": "single",
+      "stem": "按照《国家工程建筑消防技术标准》需要进行消防设计的建筑工程，设计单位应当按照《国家工程建筑消防技术标准》进行设计，（）应当将建筑工程的消防设计图纸及有关资料报送公安消防机构审核。",
+      "options": [
+        {
+          "key": "A",
+          "text": "设计单位"
+        },
+        {
+          "key": "B",
+          "text": "建设单位"
+        },
+        {
+          "key": "C",
+          "text": "施工企业"
+        },
+        {
+          "key": "D",
+          "text": "承包单位"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q54",
+      "type": "single",
+      "stem": "根据《建设工程勘察设计管理条例》规定，下列说法不正确的是（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "发包方可以将整个建设工程的勘察、设计发包给一个勘察、设计单位；也可以将建设工程的勘察、设计分别发包给几个勘察、设计单位。"
+        },
+        {
+          "key": "B",
+          "text": "建设工程勘察、设计单位不得将所承揽的建设工程勘察、设计转包。但经发包方书面同意，可将除建设工程主体部分外的其他部分的勘察、设计分包给其他具有相应资质等级的建设工程勘察、设计单位。"
+        },
+        {
+          "key": "C",
+          "text": "县级以上人民政府建设行政主管部门或者交通、水利等有关部门应当对施工图设计文件中涉及公共利益、公众安全、工程建设强制性标准的内容进行审查。"
+        },
+        {
+          "key": "D",
+          "text": "国务院对全国的建设工程勘察、设计活动实施统一监督管理。"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q55",
+      "type": "single",
+      "stem": "合伙企业的利润和亏损，由合伙人依照合伙协议约定的比例分配和分担。合伙协议未约定利润分配和亏损分担比例的，由各合伙人（）分配和分担。",
+      "options": [
+        {
+          "key": "A",
+          "text": "按照出资比例"
+        },
+        {
+          "key": "B",
+          "text": "重新协议"
+        },
+        {
+          "key": "C",
+          "text": "请求法院"
+        },
+        {
+          "key": "D",
+          "text": "平均"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q56",
+      "type": "single",
+      "stem": "纳税人因有特殊困难，不能按期缴纳税款的，经县以上税务局（分局）批准，可以延期缴纳税款，但是最长不得超过（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "1个月"
+        },
+        {
+          "key": "B",
+          "text": "3个月"
+        },
+        {
+          "key": "C",
+          "text": "6个月"
+        },
+        {
+          "key": "D",
+          "text": "12个月"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q57",
+      "type": "single",
+      "stem": "仲裁裁决书自（）之日起发生法律效力。",
+      "options": [
+        {
+          "key": "A",
+          "text": "作出"
+        },
+        {
+          "key": "B",
+          "text": "送达双方当事人"
+        },
+        {
+          "key": "C",
+          "text": "双方当事人签收"
+        },
+        {
+          "key": "D",
+          "text": "双方当事人同意执行"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q58",
+      "type": "single",
+      "stem": "仲裁委员会裁决作出后，一方当事人不履行裁决时（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "仲裁委员会可以强制执行"
+        },
+        {
+          "key": "B",
+          "text": "另一方当事人可以向仲裁委员会重新提请仲裁"
+        },
+        {
+          "key": "C",
+          "text": "另一方当事人可以向法院提起诉讼"
+        },
+        {
+          "key": "D",
+          "text": "另一方当事人可以向法院申请强制执行"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q59",
+      "type": "single",
+      "stem": "某国有施工企业甲公司将其资质证书借给某乡镇施工企业乙公司，承揽了A集团公司办公大楼工程，后因不符合规定质量标准而给A集团造成了损失。那么，赔偿责任应当由（）承担。",
+      "options": [
+        {
+          "key": "A",
+          "text": "甲公司"
+        },
+        {
+          "key": "B",
+          "text": "乙公司"
+        },
+        {
+          "key": "C",
+          "text": "甲公司和乙公司连带"
+        },
+        {
+          "key": "D",
+          "text": "甲公司和乙公司按资产比例"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q60",
+      "type": "single",
+      "stem": "投标人以他人名义投标或者以其他方式弄虚作假，骗取中标的，可能构成（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "串通投标罪"
+        },
+        {
+          "key": "B",
+          "text": "合同诈骗罪"
+        },
+        {
+          "key": "C",
+          "text": "侵犯商业秘密罪"
+        },
+        {
+          "key": "D",
+          "text": "受贿罪"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "yijian-fagui-ch2-q61",
+      "type": "multiple",
+      "stem": "建造师的执业范围包括（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "担任建设工程项目施工的项目经理"
+        },
+        {
+          "key": "B",
+          "text": "从事其他施工活动的管理工作"
+        },
+        {
+          "key": "C",
+          "text": "法律、行政法规或国务院建设行政主管部门规定的其他业务"
+        },
+        {
+          "key": "D",
+          "text": "以建造师的名义单独执业，参与建设工程的招投标"
+        },
+        {
+          "key": "E",
+          "text": "开展建设项目施工管理的培训工作"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-fagui-ch2-q62",
+      "type": "multiple",
+      "stem": "下列代理行为中应当由被代理人承担法律后果的是（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "张某其未成年的儿子签订了一份房屋买卖合同"
+        },
+        {
+          "key": "B",
+          "text": "已经被辞退的王某持单位的空白合同书以单位的名义与某厂订立了一份合同"
+        },
+        {
+          "key": "C",
+          "text": "李某与第三人串通以合同的形式损害了被代理人的利益"
+        },
+        {
+          "key": "D",
+          "text": "普通职工赵某未经授权擅自以所在单位的名义订立了一份合同"
+        },
+        {
+          "key": "E",
+          "text": "某分公司以总公司的名义订立的一份供销合同"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-fagui-ch2-q63",
+      "type": "multiple",
+      "stem": "下列法律事实，应当属于不当得利的是（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "公民甲从路上检到一个钱包"
+        },
+        {
+          "key": "B",
+          "text": "司机乙驾车撞倒一名老人，但老人并未向乙要求赔偿"
+        },
+        {
+          "key": "C",
+          "text": "学生丙通过考试作弊的手段获得一笔奖学金"
+        },
+        {
+          "key": "D",
+          "text": "农民丁购买的一头母牛半月后领回一头牛犊"
+        },
+        {
+          "key": "E",
+          "text": "教师戊购买的一张彩票中了大奖"
+        }
+      ],
+      "answer": [
+        "A",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-fagui-ch2-q64",
+      "type": "multiple",
+      "stem": "下列法律事实中，不属于无因管理的是（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "船工张某冒险救人而损坏了船浆"
+        },
+        {
+          "key": "B",
+          "text": "村民赵某及时发现并且扑灭了邻居家的火灾"
+        },
+        {
+          "key": "C",
+          "text": "警察钱某勇往直前，生擒了小偷"
+        },
+        {
+          "key": "D",
+          "text": "消防队员孙某舍生忘死从火场救出婴儿"
+        },
+        {
+          "key": "E",
+          "text": "台风将至，市民李某拿自家物料加固朋友的房屋"
+        }
+      ],
+      "answer": [
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-fagui-ch2-q65",
+      "type": "multiple",
+      "stem": "著作权的主体包括（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "作者"
+        },
+        {
+          "key": "B",
+          "text": "著作权人"
+        },
+        {
+          "key": "C",
+          "text": "职务作品的著作权人"
+        },
+        {
+          "key": "D",
+          "text": "作者工作的辅助人"
+        },
+        {
+          "key": "E",
+          "text": "出版社"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-fagui-ch2-q66",
+      "type": "multiple",
+      "stem": "专利权的客体包括（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "技术秘密"
+        },
+        {
+          "key": "B",
+          "text": "计算机软件"
+        },
+        {
+          "key": "C",
+          "text": "发明"
+        },
+        {
+          "key": "D",
+          "text": "实用新型"
+        },
+        {
+          "key": "E",
+          "text": "外观设计"
+        }
+      ],
+      "answer": [
+        "C",
+        "D",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-fagui-ch2-q67",
+      "type": "multiple",
+      "stem": "发明和实用新型取得专利权的条件是（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "具有经济价值"
+        },
+        {
+          "key": "B",
+          "text": "创造性"
+        },
+        {
+          "key": "C",
+          "text": "实用性"
+        },
+        {
+          "key": "D",
+          "text": "新颖性"
+        },
+        {
+          "key": "E",
+          "text": "先进性"
+        }
+      ],
+      "answer": [
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-fagui-ch2-q68",
+      "type": "multiple",
+      "stem": "县级以上人民政府建设行政主管部门和其他有关部门履行监督检查职责时，有权采取下列措施（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "要求被检查的单位提供有关工程质量的文件和资料"
+        },
+        {
+          "key": "B",
+          "text": "进入被检查单位的施工现场进行检查"
+        },
+        {
+          "key": "C",
+          "text": "发现有影响工程质量的问题时，责令改正"
+        },
+        {
+          "key": "D",
+          "text": "发现质量问题时，查封被检查单位的文件和资料"
+        },
+        {
+          "key": "E",
+          "text": "对发现质量问题的现场进行查封检查"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-fagui-ch2-q69",
+      "type": "multiple",
+      "stem": "有下列情形之一的，用人单位可以解除劳动合同，但是应当提前30日以书面形式通知劳动者本人（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "劳动者患病或者非因工负伤，医疗期满后，不能从事原工作也不能从事由用人单位另行安排工作的"
+        },
+        {
+          "key": "B",
+          "text": "劳动者不能胜任工作，经过培训或者调整工作岗位，仍不能胜任工作的"
+        },
+        {
+          "key": "C",
+          "text": "严重违反劳动纪律或者用人单位规章制度的"
+        },
+        {
+          "key": "D",
+          "text": "劳动合同订立时所依据的客观情况发生重大变化，致使原劳动合同无法履行，经当事人协商不能就变更劳动合同达成协议的"
+        },
+        {
+          "key": "E",
+          "text": "严重失职，营私舞弊，对用人单位利益造成重大损害的"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-fagui-ch2-q70",
+      "type": "multiple",
+      "stem": "下列选项中，属于可变更、可撤销民事行为的是（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "甲误将一幅赝品字画当作真品购买"
+        },
+        {
+          "key": "B",
+          "text": "甲公司入户推销笔记本电脑，不懂计算机市场行情的老李以3万元购买了一台市值仅2000元的笔记本电脑"
+        },
+        {
+          "key": "C",
+          "text": "甲在以500元价格向乙推销价值仅30元的手表，甲的朋友丙明知此表不值500元却在一边说此表是外国名牌，价值千元以上，乙误信丙的话为真，购买了3块"
+        },
+        {
+          "key": "D",
+          "text": "甲在仔细研究了乙公司的经营状况、财务状况后，在证券公司以每股15元的价格购买了乙公司的股份5000股，但第二天乙公司的股票却跌至每股10元以下"
+        },
+        {
+          "key": "E",
+          "text": "甲公司与乙建筑企业签订了一份施工合同，由乙企业承建其一栋办公楼。但履行过程中，建筑材料价格大幅下降"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-fagui-ch2-q71",
+      "type": "multiple",
+      "stem": "限制民事行为能力人订立的以下合同是有效的（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "买卖合同"
+        },
+        {
+          "key": "B",
+          "text": "无偿合同"
+        },
+        {
+          "key": "C",
+          "text": "经过法定代理人追认的合同"
+        },
+        {
+          "key": "D",
+          "text": "纯获利益的合同"
+        },
+        {
+          "key": "E",
+          "text": "与其年龄、智力、精神健康状况相适应而订立的合同"
+        }
+      ],
+      "answer": [
+        "C",
+        "D",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-fagui-ch2-q72",
+      "type": "multiple",
+      "stem": "建设工程纠纷发生后，当事人申请仲裁应当符合下列条件（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "有仲裁协议"
+        },
+        {
+          "key": "B",
+          "text": "有和解协议"
+        },
+        {
+          "key": "C",
+          "text": "有具体的仲裁请求、事实和理由"
+        },
+        {
+          "key": "D",
+          "text": "属于仲裁委员会的受理范围"
+        },
+        {
+          "key": "E",
+          "text": "得到法院的许可"
+        }
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-fagui-ch2-q73",
+      "type": "multiple",
+      "stem": "下列情形中，可以视为撤回仲裁申请的是（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "仲裁申请人经书面通知，无正当理由拒不到庭"
+        },
+        {
+          "key": "B",
+          "text": "被申请人与申请人达成调解协议"
+        },
+        {
+          "key": "C",
+          "text": "仲裁申请人未经仲裁庭许可中途退庭"
+        },
+        {
+          "key": "D",
+          "text": "被申请人与申请人自行和解"
+        },
+        {
+          "key": "E",
+          "text": "申请人无理取闹，扰乱仲裁秩序的"
+        }
+      ],
+      "answer": [
+        "A",
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-fagui-ch2-q74",
+      "type": "multiple",
+      "stem": "人民法院审理民事案件，除（）以外，应当公开进行。",
+      "options": [
+        {
+          "key": "A",
+          "text": "离婚案件"
+        },
+        {
+          "key": "B",
+          "text": "涉及国家秘密的案件"
+        },
+        {
+          "key": "C",
+          "text": "涉及个人隐私的案件"
+        },
+        {
+          "key": "D",
+          "text": "当事人申请再审的案件"
+        },
+        {
+          "key": "E",
+          "text": "涉及商业秘密的案件"
+        }
+      ],
+      "answer": [
+        "B",
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-fagui-ch2-q75",
+      "type": "multiple",
+      "stem": "当事人对已经发生法律效力的判决、裁定，认为有错误的，（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "只能向原审法院申请再审"
+        },
+        {
+          "key": "B",
+          "text": "只能向上一级法院申请再审"
+        },
+        {
+          "key": "C",
+          "text": "可以向原审法院申请再审"
+        },
+        {
+          "key": "D",
+          "text": "可以向上一级法院申请再审"
+        },
+        {
+          "key": "E",
+          "text": "可以同时向原审法院和上一级法院申请再审"
+        }
+      ],
+      "answer": [
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-fagui-ch2-q76",
+      "type": "multiple",
+      "stem": "有下列情形中（）的，法院应当裁定中止执行。",
+      "options": [
+        {
+          "key": "A",
+          "text": "申请人表示可以延期执行"
+        },
+        {
+          "key": "B",
+          "text": "申请人撤销申请的"
+        },
+        {
+          "key": "C",
+          "text": "案外人对执行标的提出确有理由的异议的"
+        },
+        {
+          "key": "D",
+          "text": "作为一方当事人的公民死亡，需要等待继承人继承权利或者承担义务的"
+        },
+        {
+          "key": "E",
+          "text": "作为一方当事人的法人或者其他组织终止，尚未确定权利义务承受人的"
+        }
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-fagui-ch2-q77",
+      "type": "multiple",
+      "stem": "建设工程中常见的施工合同主体纠纷一般包括（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "因承包商资质不够导致的纠纷"
+        },
+        {
+          "key": "B",
+          "text": "因无权代理与表见代理导致的纠纷"
+        },
+        {
+          "key": "C",
+          "text": "因联合体承包导致的纠纷"
+        },
+        {
+          "key": "D",
+          "text": "因\"挂靠\"问题而产生的纠纷"
+        },
+        {
+          "key": "E",
+          "text": "因履约范围不清而产生的纠纷"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-fagui-ch2-q78",
+      "type": "multiple",
+      "stem": "下列行为中，导致中标无效的有（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "招标代理机构与招标人、投标人串通"
+        },
+        {
+          "key": "B",
+          "text": "招标人限制投标人之间的竞争"
+        },
+        {
+          "key": "C",
+          "text": "以他人名义进行投标、骗取中标的"
+        },
+        {
+          "key": "D",
+          "text": "对于依法必须进行招标的项目，招标人与投标人进行实质性谈判E、在评标委员会依法推荐的中标候选人以外确定中标人"
+        }
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-fagui-ch2-q79",
+      "type": "multiple",
+      "stem": "未经注册，擅自以注册建设工程勘察、设计人员的名义从事建设工程勘察设计活动的，（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "责令停止违法行为"
+        },
+        {
+          "key": "B",
+          "text": "没收违法所得"
+        },
+        {
+          "key": "C",
+          "text": "处违法所得2倍以上5倍以下罚款"
+        },
+        {
+          "key": "D",
+          "text": "给他人造成损失的，依法承担赔偿责任"
+        },
+        {
+          "key": "E",
+          "text": "追究刑事责任"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "yijian-fagui-ch2-q80",
+      "type": "multiple",
+      "stem": "申请建造师注册人员必须同时具备下列条件（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "取得建造师执业资格证书"
+        },
+        {
+          "key": "B",
+          "text": "无犯罪记录"
+        },
+        {
+          "key": "C",
+          "text": "无行政处罚记录"
+        },
+        {
+          "key": "D",
+          "text": "身体健康，能坚持在建造师岗位上工作"
+        },
+        {
+          "key": "E",
+          "text": "经所在单位考核合格"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    }
+  ]
+}

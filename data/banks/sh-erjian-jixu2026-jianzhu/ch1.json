@@ -1,0 +1,1514 @@
+{
+  "questions": [
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q1",
+      "type": "judge",
+      "stem": "可持续发展只关注城市更新与建筑工程项目对环境的影响。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q2",
+      "type": "judge",
+      "stem": "在城市更新中，将所有旧建筑全部拆除重建，比改造利用原有建筑更符合可持续发展的原则。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q3",
+      "type": "judge",
+      "stem": "在项目规划阶段就让未来使用者和社会公众参与进来，是推动可持续发展的重要环节。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q4",
+      "type": "judge",
+      "stem": "一个建筑工程项目只要获得了绿色建筑认证(如LEED、三星级)，就完全实现了可持续发展。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q5",
+      "type": "single",
+      "stem": "在城市更新项目中，以下哪种做法最能体现“社会可持续性”?",
+      "options": [
+        {
+          "key": "A",
+          "text": "采用最先进的节能玻璃幕墙，降低建筑运行能耗。"
+        },
+        {
+          "key": "B",
+          "text": "将项目地块内的老旧工业厂房全部拆除，用于建设高档商品住宅。"
+        },
+        {
+          "key": "C",
+          "text": "在规划设计初期举办社区听证会，并保留部分廉租房给原住民。"
+        },
+        {
+          "key": "D",
+          "text": "使用预制装配式建筑构件，以缩短工期并减少建筑垃圾。"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q6",
+      "type": "single",
+      "stem": "关于“建筑全生命周期成本”的理解，以下哪项最符合可持续发展的经济原则?",
+      "options": [
+        {
+          "key": "A",
+          "text": "只关注项目最初的建安成本，力求在招标阶段获得最低报价。"
+        },
+        {
+          "key": "B",
+          "text": "在材料选择上，优先选择价格最低的产品，以控制初期投资。"
+        },
+        {
+          "key": "C",
+          "text": "综合考虑建筑材料的生产、运输、建造、运营维护直至拆除回收的总成本。"
+        },
+        {
+          "key": "D",
+          "text": "为了降低长期能源费用，可以不计成本地采用最昂贵的节能技术。"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q7",
+      "type": "single",
+      "stem": "在推动建筑工程项目可持续发展时，以下哪种策略的综合性最强、效益最广泛?",
+      "options": [
+        {
+          "key": "A",
+          "text": "在屋顶安装足够容量的太阳能光伏板，实现建筑的能源自给。"
+        },
+        {
+          "key": "B",
+          "text": "建立完善的建筑废弃物分类回收系统，提高资源再利用率。"
+        },
+        {
+          "key": "C",
+          "text": "创建一个集绿色空间、雨水收集、社交场所于一体的多功能屋顶花园。"
+        },
+        {
+          "key": "D",
+          "text": "选用获得“绿色建材”认证的室内装饰材料，确保室内空气质量。"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q8",
+      "type": "multiple",
+      "stem": "在城市更新项目中，下列哪些措施能够同时体现社会、环境和经济三重可持续性的协同发展? ()",
+      "options": [
+        {
+          "key": "A",
+          "text": "保留并改造具有历史风貌的旧建筑，将其转变为社区图书馆或公共文化活动中心。"
+        },
+        {
+          "key": "B",
+          "text": "引入顶尖的智能安防系统，并大幅提高小区物业管理费以覆盖成本。"
+        },
+        {
+          "key": "C",
+          "text": "将场地内拆除产生的建筑废料进行现场分类、破碎和回收，作为路基或景观材料再利用。"
+        },
+        {
+          "key": "D",
+          "text": "规划建设连接城市绿道与公共交通站点的慢行系统(步行与自行车)，并配套便民商业设施。"
+        },
+        {
+          "key": "E",
+          "text": "将原工业区整体拆除，建设为一个封闭式的高端科技产业园，仅限入驻企业员工进入。"
+        }
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q9",
+      "type": "judge",
+      "stem": "泵送混凝土的坍落度宜控制在80-120mm之间。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "根据相关规范，泵送混凝土坍落度一般应控制在160- 200mm，超高层建筑甚至需达 180-200mm。80mm仅为最低限值，不适用于常规泵送。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q10",
+      "type": "judge",
+      "stem": "粗骨料最大粒径不应超过输送管径的1/4。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "粗骨料最大粒径应≤管径的 1/4，以防止堵管。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q11",
+      "type": "judge",
+      "stem": "泵送混凝土的含气量可以超过3%，以提高和易性。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "泵送混凝土含气量不得超过 2%，过高会降低强度并影响泵送稳定性。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q12",
+      "type": "judge",
+      "stem": "拖式泵适用于场地狭窄的城市住宅施工。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "拖式泵适用于大型固定工地，汽车泵才适用于场地狭窄的城市工程。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q13",
+      "type": "judge",
+      "stem": "泵送结束后若未及时清洗管道，残留混凝土硬化将显著增加下次堵管风险。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "泵送结束后必须立即清洗管道，否则残留混凝土硬化后易堵塞。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q14",
+      "type": "judge",
+      "stem": "水胶比越低，泵送混凝土的流动性越好。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "水胶比过低(如<0.35)会导致混凝土过于黏稠，流动性下降。水胶比宜为0.38-0.5(超高层可至0.35-0.40)，需平衡强度与流动性。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q15",
+      "type": "judge",
+      "stem": "引气剂掺量越大，混凝土抗冻性和和易性越好，对强度无影响。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "引气剂掺量宜为水泥质量的 0.005%-0.01%，过量会降低强度，含气量应≤2%。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q16",
+      "type": "judge",
+      "stem": "泵送过程中若压力异常升高，应立即加快泵送速度以冲开堵塞。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "压力异常升高时应立即停泵，检查是否堵塞，强行泵送可能导致爆管。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q17",
+      "type": "single",
+      "stem": "泵送混凝土施工中，水泥用量不宜小于多少?",
+      "options": [
+        {
+          "key": "A",
+          "text": "250 kg/m³"
+        },
+        {
+          "key": "B",
+          "text": "280kg/m³"
+        },
+        {
+          "key": "C",
+          "text": "300 kg/m³"
+        },
+        {
+          "key": "D",
+          "text": "320 kg/m³"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "水泥用量应≥300kg/m³，以保证混凝土的粘聚性、强度和可泵性。",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q18",
+      "type": "single",
+      "stem": "下列哪种泵最适合超高层建筑(>150m)的混凝土泵送?",
+      "options": [
+        {
+          "key": "A",
+          "text": "汽车泵"
+        },
+        {
+          "key": "B",
+          "text": "车载泵"
+        },
+        {
+          "key": "C",
+          "text": "拖式泵"
+        },
+        {
+          "key": "D",
+          "text": "手推泵"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "拖式泵泵送压力可达25MPa以上，垂直高度达150m以上，适合超高层;汽车泵一般仅 100-120m。",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q19",
+      "type": "single",
+      "stem": "泵送混凝土的压力泌水率S10应控制在多少以内?",
+      "options": [
+        {
+          "key": "A",
+          "text": "20%"
+        },
+        {
+          "key": "B",
+          "text": "30%"
+        },
+        {
+          "key": "C",
+          "text": "40%"
+        },
+        {
+          "key": "D",
+          "text": "50%"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "压力泌水率S10应≤40%，否则易离析堵管。",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q20",
+      "type": "single",
+      "stem": "上海中心大厦核心筒泵送高度达到多少米?",
+      "options": [
+        {
+          "key": "A",
+          "text": "500米"
+        },
+        {
+          "key": "B",
+          "text": "580米"
+        },
+        {
+          "key": "C",
+          "text": "620米"
+        },
+        {
+          "key": "D",
+          "text": "632米"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "上海中心大厦核心筒泵送高度为580米(建筑总高632米)",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q21",
+      "type": "single",
+      "stem": "泵送管道布置时，水平段长度应不小于垂直高度的多少?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1/2"
+        },
+        {
+          "key": "B",
+          "text": "1/3"
+        },
+        {
+          "key": "C",
+          "text": "1/4"
+        },
+        {
+          "key": "D",
+          "text": "1/5"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "水平段长度应≥垂直高度的 1/3，以缓冲反作用力。",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q22",
+      "type": "single",
+      "stem": "混凝土离析的主要表现是?",
+      "options": [
+        {
+          "key": "A",
+          "text": "表面起砂"
+        },
+        {
+          "key": "B",
+          "text": "粗骨料下沉、砂浆上浮"
+        },
+        {
+          "key": "C",
+          "text": "强度过高"
+        },
+        {
+          "key": "D",
+          "text": "凝结过快"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "离析是骨料与浆体分离，典型表现为粗骨料下沉、浆体上浮。",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q23",
+      "type": "multiple",
+      "stem": "泵送混凝土配合比设计需遵循哪些原则?",
+      "options": [
+        {
+          "key": "A",
+          "text": "满足设计强度"
+        },
+        {
+          "key": "B",
+          "text": "具备良好可泵性"
+        },
+        {
+          "key": "C",
+          "text": "经济合理"
+        },
+        {
+          "key": "D",
+          "text": "水泥用量最大化"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "配合比设计原则为强度、可泵性、经济性，水泥用量应合理而非最大化。",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q24",
+      "type": "multiple",
+      "stem": "下列哪些措施可有效防止管道堵塞?",
+      "options": [
+        {
+          "key": "A",
+          "text": "控制坍落度在160-200mm"
+        },
+        {
+          "key": "B",
+          "text": "弯管曲率半径≥1米"
+        },
+        {
+          "key": "C",
+          "text": "料斗加装方格网"
+        },
+        {
+          "key": "D",
+          "text": "泵送结束后立即高压水清洗"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "以上措施均为防止管道堵塞的关键措施。",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q25",
+      "type": "multiple",
+      "stem": "泵送混凝土原材料选择中，对粗骨料的要求包括?",
+      "options": [
+        {
+          "key": "A",
+          "text": "优先选用卵石"
+        },
+        {
+          "key": "B",
+          "text": "针片状含量≤10%"
+        },
+        {
+          "key": "C",
+          "text": "含泥量≤1%"
+        },
+        {
+          "key": "D",
+          "text": "最大粒径≤管径1/4"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "粗骨料应优先选用卵石，针片状含量≤10%，含泥量≤ 1%，最大粒径≤管径1/4。",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q26",
+      "type": "multiple",
+      "stem": "泵送压力异常的可能原因包括?",
+      "options": [
+        {
+          "key": "A",
+          "text": "混凝土坍落度过低"
+        },
+        {
+          "key": "B",
+          "text": "局部管道堵塞"
+        },
+        {
+          "key": "C",
+          "text": "液压系统故障"
+        },
+        {
+          "key": "D",
+          "text": "操作人员未穿安全帽"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "压力异常原因包括混凝土质量(坍落度过低)、设备故障 (局部管道堵塞、液压系统故障)，操作人员未穿安全帽属安全规范，与压力异常无直接因果关系。",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q27",
+      "type": "judge",
+      "stem": "深基坑工程指开挖深度超过5米(或超过一定高度)且对周边环境影响较大的地下工程。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "深基坑工程定义为开挖深度超过5米的地下工程，\"或超过一定高度\"表述错误，应为 \"开挖深度超过5米”。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q28",
+      "type": "judge",
+      "stem": "传统设计依赖理论计算和经验公式，受地质、荷载等复杂条件影响，难以预测工程问题，因此信息化施工通过监测实现动态设计。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "传统设计难以预测问题，信息化施工通过对支护结构等有计划监测，实现动态设计",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q29",
+      "type": "judge",
+      "stem": "水平位移监测点应沿基坑周边布置，间隔15~25m布设，基准点在沉降影响范围外布设2个。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "\"基准点在沉降影响范围外布设3个\"，不是2个。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q30",
+      "type": "judge",
+      "stem": "支护结构内力与位移监测包括位移监测、支撑轴力监测、倾斜监测和内力监测。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "\"支护结构监测核心内容:位移监测、支撑轴力监测、倾斜监测、内力监测\"。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q31",
+      "type": "judge",
+      "stem": "深层土体水平位移监测通过预埋测斜管，使用测斜仪观测各深度处水平位移，了解土体内部变形情况。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "\"深层土体水平位移监测:通过预埋测斜管，使用测斜仪观测各深度处水平位移，了解土体内部变形情况”。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q32",
+      "type": "judge",
+      "stem": "周边建筑物沉降监测中，沉降监测采用高程监测法，倾斜监测通过测量建筑物顶部与底部的相对高差计算倾斜角度。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "\"倾斜监测:通过测量建筑物顶部与底部的相对位移，计算其倾斜角度\"，不是相对高",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q33",
+      "type": "judge",
+      "stem": "地下管线监测中，直接测量法和传感器监测法是常用的监测方法，需针对不同管线类型(压力、非压力)选择测点，间距10~30m。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "资料明确指出\"间距 20~50m\"，不是10~30m。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q34",
+      "type": "judge",
+      "stem": "地下水位监测中，孔隙水压力监测是通过在土体内埋设孔隙水压力计，直接测量土中孔隙水压力的大小和分布。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "\"孔隙水压力监测:在土体内埋设孔隙水压力计，直接测量土中孔隙水压力的大小和分布\"。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q35",
+      "type": "judge",
+      "stem": "虚拟现实技术原理是通过计算机生成模拟环境，用户借助设备获得感官体验，具有沉浸感、交互性和构想性特点。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "VR技术原理及特点:沉浸感、交互性、构想性。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q36",
+      "type": "judge",
+      "stem": "虚拟现实硬件系统主要包括HMD和数据手套。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "“虚拟现实硬件系统主要包括HMD、数据手套与动作捕捉系统”，缺少“动作捕捉系统”。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q37",
+      "type": "judge",
+      "stem": "深基坑监测数据在施工决策中的应用包括数据驱动决策、单维度关联分析和全周期优化与提升。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "多维度关联分析\"，不是\"单维度关联分析\"。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q38",
+      "type": "judge",
+      "stem": "深基坑工程中，当监测值达到安全阈值的70%~80%时，触发三级预警。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "黄一级预警(黄色)当监测值达到安全阈值的70%~80%时触发\"，不是三级预警。",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q39",
+      "type": "single",
+      "stem": "深基坑工程安全风险不包括以下哪一项?",
+      "options": [
+        {
+          "key": "A",
+          "text": "支护结构失稳风险"
+        },
+        {
+          "key": "B",
+          "text": "土体坍塌风险"
+        },
+        {
+          "key": "C",
+          "text": "周边建筑物沉降风险"
+        },
+        {
+          "key": "D",
+          "text": "混凝土强度不足风险"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "深基坑工程安全风险包括支护结构失稳风险、土体坍塌风险、周边建筑物沉降风险、地下管线破坏风险、地下水位变化风险，不包括混凝土强度不足风险。",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q40",
+      "type": "single",
+      "stem": "深基坑工程中，水平位移监测的精度要求是?",
+      "options": [
+        {
+          "key": "A",
+          "text": "≤lmm"
+        },
+        {
+          "key": "B",
+          "text": "≤2mm"
+        },
+        {
+          "key": "C",
+          "text": "≤5mm"
+        },
+        {
+          "key": "D",
+          "text": "≤10mm"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "精度要求:水平位移:≤1mm\" 。",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q41",
+      "type": "single",
+      "stem": "深基坑监测中，当监测值达到安全阈值的70%~80%时，触发什么级别的预警?",
+      "options": [
+        {
+          "key": "A",
+          "text": "一级预警(黄色)"
+        },
+        {
+          "key": "B",
+          "text": "二级预警(橙色)"
+        },
+        {
+          "key": "C",
+          "text": "三级预警(红色)"
+        },
+        {
+          "key": "D",
+          "text": "无预警"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q42",
+      "type": "single",
+      "stem": "深基坑工程中，地下水位监测的精度要求是?",
+      "options": [
+        {
+          "key": "A",
+          "text": "不宜低于10mm"
+        },
+        {
+          "key": "B",
+          "text": "不宜低于5mm"
+        },
+        {
+          "key": "C",
+          "text": "不宜低于2mm"
+        },
+        {
+          "key": "D",
+          "text": "不宜低于1mm"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "地下水位监测:监测精度:不宜低于10mm",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q43",
+      "type": "single",
+      "stem": "虚拟现实技术中，VR头显设备的刷新率要求是?",
+      "options": [
+        {
+          "key": "A",
+          "text": "≥60Hz"
+        },
+        {
+          "key": "B",
+          "text": "≥75Hz"
+        },
+        {
+          "key": "C",
+          "text": "≥85Hz"
+        },
+        {
+          "key": "D",
+          "text": "≥90Hz"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "VR头显设备特写:刷新率≥ 90Hz减少眩晕。",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q44",
+      "type": "single",
+      "stem": "以下哪项不是虚拟现实关键技术?",
+      "options": [
+        {
+          "key": "A",
+          "text": "三维建模技术"
+        },
+        {
+          "key": "B",
+          "text": "实时渲染技术"
+        },
+        {
+          "key": "C",
+          "text": "碰撞检测技术"
+        },
+        {
+          "key": "D",
+          "text": "混凝土强度测试技术"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q45",
+      "type": "single",
+      "stem": "深基坑工程中，当变形速率超过以下阈值时，需引起高度重视?",
+      "options": [
+        {
+          "key": "A",
+          "text": "水平位移速率:2mm/d，沉降速率:1mm/d"
+        },
+        {
+          "key": "B",
+          "text": "水平位移速率:1mm/d，沉降速率:2mm/d"
+        },
+        {
+          "key": "C",
+          "text": "水平位移速率:3mm/d，沉降速率:1.5mm/d"
+        },
+        {
+          "key": "D",
+          "text": "水平位移速率:1.5mm/d，沉降速率:2mm/d"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q46",
+      "type": "single",
+      "stem": "虚拟现实技术在深基坑工程中的应用不包括以下哪一项?",
+      "options": [
+        {
+          "key": "A",
+          "text": "施工过程指导"
+        },
+        {
+          "key": "B",
+          "text": "风险识别与评估"
+        },
+        {
+          "key": "C",
+          "text": "质量控制与验收"
+        },
+        {
+          "key": "D",
+          "text": "混凝土搅拌优化"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "虚拟现实技术在深基坑工程中的应用包括地质信息可视化、地下管线识别、工程量计算、施工过程指导、风险识别与评估、VR施工培训系统、质量控制与验收等，不包括混凝土搅拌优化。",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q47",
+      "type": "multiple",
+      "stem": "深基坑工程安全风险包括哪些?",
+      "options": [
+        {
+          "key": "A",
+          "text": "支护结构失稳风险"
+        },
+        {
+          "key": "B",
+          "text": "土体坍塌风险"
+        },
+        {
+          "key": "C",
+          "text": "周边建筑物沉降风险"
+        },
+        {
+          "key": "D",
+          "text": "地下管线破坏风险"
+        },
+        {
+          "key": "E",
+          "text": "地下水位变化风险"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "analysis": "深基坑工程安全风险包括支护结构失稳风险、土体坍塌风险、周边建筑物沉降风险、地下管线破坏风险、地下水位变化风险，噪音污染风险不属于典型安全风险。",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q48",
+      "type": "multiple",
+      "stem": "深基坑监测点布设的基本原则包括哪些?",
+      "options": [
+        {
+          "key": "A",
+          "text": "全面性"
+        },
+        {
+          "key": "B",
+          "text": "代表性"
+        },
+        {
+          "key": "C",
+          "text": "经济性"
+        },
+        {
+          "key": "D",
+          "text": "可操作性"
+        },
+        {
+          "key": "E",
+          "text": "精确性"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q49",
+      "type": "multiple",
+      "stem": "深基坑监测预警机制设计包括哪些级别?",
+      "options": [
+        {
+          "key": "A",
+          "text": "一级预警(黄色)"
+        },
+        {
+          "key": "B",
+          "text": "二级预警(橙色)"
+        },
+        {
+          "key": "C",
+          "text": "三级预警(红色)"
+        },
+        {
+          "key": "D",
+          "text": "四级预警(紫色)"
+        },
+        {
+          "key": "E",
+          "text": "五级预警(黑色)"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "没有紫色和黑色",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q50",
+      "type": "multiple",
+      "stem": "虚拟现实技术在深基坑工程中的应用包括哪些？",
+      "options": [
+        {
+          "key": "A",
+          "text": "地质信息可视化"
+        },
+        {
+          "key": "B",
+          "text": "地下管线识别"
+        },
+        {
+          "key": "C",
+          "text": "工程量计算"
+        },
+        {
+          "key": "D",
+          "text": "施工过程指导"
+        },
+        {
+          "key": "E",
+          "text": "风险识别与评估"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q51",
+      "type": "multiple",
+      "stem": "虚拟现实技术与监测数据融合应用的技术优势包括哪些?",
+      "options": [
+        {
+          "key": "A",
+          "text": "直观性"
+        },
+        {
+          "key": "B",
+          "text": "时效性"
+        },
+        {
+          "key": "C",
+          "text": "可追溯性"
+        },
+        {
+          "key": "D",
+          "text": "协同性"
+        },
+        {
+          "key": "E",
+          "text": "低成本性"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q52",
+      "type": "judge",
+      "stem": "为了节约成本，在城市更新项目中，可以不对施工人员进行绿色施工1理念和技术的专项培训。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q53",
+      "type": "judge",
+      "stem": "绿色施工技术在城市更新中的应用，其终点是项目竣工，竣工后的运营阶段与绿色施工无关。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q54",
+      "type": "judge",
+      "stem": "施工过程中，采用洒水、覆盖、密闭运输等措施，主要是为了降低噪声污染。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q55",
+      "type": "judge",
+      "stem": "在城市更新中，利用建筑信息模型(BIM)技术进行管线综合碰撞检可以减少返工和材料浪费，这属于绿色施工技术在施工前的应用。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q56",
+      "type": "single",
+      "stem": "对于城市更新项目，在“规划与设计”阶段就考虑绿色施工技术至关重要，其主要目的是什么?",
+      "options": [
+        {
+          "key": "A",
+          "text": "为了增加设计图纸的复杂度"
+        },
+        {
+          "key": "B",
+          "text": "从源头决定项目的绿色性能和资源消耗水平，为后续施工定下基调"
+        },
+        {
+          "key": "C",
+          "text": "可以完全避免施工阶段的所有环境污染"
+        },
+        {
+          "key": "D",
+          "text": "这是为了满足行政审批的唯一要求"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q57",
+      "type": "single",
+      "stem": "在竣工与验收阶段，绿色施工工作并未结束。下列哪项是此阶段与绿色施工直接相关的重要工作?",
+      "options": [
+        {
+          "key": "A",
+          "text": "立即拆除所有临时设施，清场撤离"
+        },
+        {
+          "key": "B",
+          "text": "对绿色施工效果进行自评估，并整理相关技术资料归档"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q58",
+      "type": "single",
+      "stem": "绿色施工的“节地”要求在城市更新中尤为重要。以下哪项措施最能体现准备和施工过程中的“ 节地\"?",
+      "options": [
+        {
+          "key": "A",
+          "text": "占用周边城市道路和公园进行材料堆放"
+        },
+        {
+          "key": "B",
+          "text": "采用三维场地布置规划，紧凑安排临时设施，减少施工用地"
+        },
+        {
+          "key": "C",
+          "text": "开挖一个超大的基坑以方便作业"
+        },
+        {
+          "key": "D",
+          "text": "要求所有工人住在现场以节省通勤空间"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q59",
+      "type": "multiple",
+      "stem": "1.在“施工过程”这一核心时段，为全面落实“四节一环保”要求，下列哪些具体做法是正确的?",
+      "options": [
+        {
+          "key": "A",
+          "text": "节水方面:收集基坑降水、雨水，经过沉淀处理后用于车辆冲洗、场地降尘和混凝土养护。"
+        },
+        {
+          "key": "B",
+          "text": "节材方面:对拆除产生的混凝土块、砖瓦等废弃物进行现场破碎，作为再生骨料用于场地硬化或路基回填。"
+        },
+        {
+          "key": "C",
+          "text": "节能方面:定期对施工设备进行维护保养，避免设备空转，并采用能耗低的施工工艺。"
+        },
+        {
+          "key": "D",
+          "text": "环境保护方面:在施工现场周边设置自动监测设备，实时监测PM2.5、PM10和噪声指标。"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch1-q60",
+      "type": "multiple",
+      "stem": "E在.节“地竣方工面收:尾为与了运便营于移材交料”装阶卸段，，可绿以色临施时工占的用闭项环目管红理线至外关的重城要市。公此共阶绿段地应作完为成周哪转些场地关键。工作?",
+      "options": [
+        {
+          "key": "A",
+          "text": "对绿色施工方案中设定的各项指标(如节能、节水、节材量)进行最终统计与效果自评估。"
+        },
+        {
+          "key": "B",
+          "text": "将施工过程中形成的绿色施工创新技术、管理经验进行总结，并整理成文档资料归档。"
+        },
+        {
+          "key": "C",
+          "text": "编制《建筑绿色运营维护手册》，指导业主如何高效、低成本地运行建筑的各项节能环保系统。"
+        },
+        {
+          "key": "D",
+          "text": "对于剩余的全新、质量合格的建筑材料，进行登记并协调退还给供应商或用于他项目。"
+        },
+        {
+          "key": "E",
+          "text": "为确保现场整洁，将剩余的各类混合建筑垃圾统一装车，运至郊外填理场处置。"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    }
+  ]
+}

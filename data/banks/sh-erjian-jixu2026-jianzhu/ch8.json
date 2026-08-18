@@ -1,0 +1,237 @@
+{
+  "questions": [
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch8-q1",
+      "type": "judge",
+      "stem": "《噪声污染防治法(2022版)》仅管控超标噪声，未超标但扰民的噪声无需处理。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch8-q2",
+      "type": "judge",
+      "stem": "上海地区建筑施工夜间时段指22:00-次日6:00，该时段原则上禁止施工。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch8-q3",
+      "type": "judge",
+      "stem": "施工单位编制的施工组织设计中，无需单独包含噪声污染防治内容。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch8-q4",
+      "type": "judge",
+      "stem": "应急抢险作业夜间施工无需申请许可，但需事后补办备案。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch8-q5",
+      "type": "single",
+      "stem": "上海地区建筑施工昼间噪声限值(临近住宅区域)为( ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "65分贝"
+        },
+        {
+          "key": "B",
+          "text": "70分贝"
+        },
+        {
+          "key": "C",
+          "text": "75分贝"
+        },
+        {
+          "key": "D",
+          "text": "80分贝"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch8-q6",
+      "type": "single",
+      "stem": "夜间施工许可申请需提前( )个工作日向生态环境部门提交?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1个"
+        },
+        {
+          "key": "B",
+          "text": "3个"
+        },
+        {
+          "key": "C",
+          "text": "5个"
+        },
+        {
+          "key": "D",
+          "text": "7个"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch8-q7",
+      "type": "single",
+      "stem": "施工单位未按照规定制定噪声污染防治实施方案，或者未采取有效措施减少振动、降低噪声的; 由工程所在地人民政府指定的部门责令改正，处五千元以上五万元以下的罚款;拒不改正的，处( )的罚款:",
+      "options": [
+        {
+          "key": "A",
+          "text": "0.5-5 万元"
+        },
+        {
+          "key": "B",
+          "text": "5-20 万元"
+        },
+        {
+          "key": "C",
+          "text": "20-50万元"
+        },
+        {
+          "key": "D",
+          "text": "50 万元以上"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch8-q8",
+      "type": "multiple",
+      "stem": "建筑施工噪声污染防治的源头防控措施包括( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "选用低噪声设备"
+        },
+        {
+          "key": "B",
+          "text": "设置隔声围挡"
+        },
+        {
+          "key": "C",
+          "text": "编制噪声防治专篇"
+        },
+        {
+          "key": "D",
+          "text": "优化施工工艺"
+        },
+        {
+          "key": "E",
+          "text": "夜间停止"
+        }
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-jianzhu-ch8-q9",
+      "type": "multiple",
+      "stem": "施建工造师(项目负责人)在施工噪声管理中的具体职责有( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "申请夜间施工许可"
+        },
+        {
+          "key": "B",
+          "text": "落实降噪措施"
+        },
+        {
+          "key": "C",
+          "text": "开展噪声监测"
+        },
+        {
+          "key": "D",
+          "text": "处理噪声投诉"
+        },
+        {
+          "key": "E",
+          "text": "留存相关资"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    }
+  ]
+}

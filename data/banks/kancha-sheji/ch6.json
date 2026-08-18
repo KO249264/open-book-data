@@ -1,0 +1,9264 @@
+{
+  "questions": [
+    {
+      "id": "kancha-ch6-q1",
+      "type": "single",
+      "stem": "电阻两端电压为10V,通过电流为2A,该电阻的阻值为",
+      "options": [
+        {
+          "key": "A",
+          "text": "5Ω"
+        },
+        {
+          "key": "B",
+          "text": "2Ω"
+        },
+        {
+          "key": "C",
+          "text": "10Ω"
+        },
+        {
+          "key": "D",
+          "text": "20Ω"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "由欧姆定律R=U/I,R=10/2=5Ω。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q2",
+      "type": "single",
+      "stem": "电阻两端电压为12V,通过电流为3A,该电阻的阻值为",
+      "options": [
+        {
+          "key": "A",
+          "text": "4Ω"
+        },
+        {
+          "key": "B",
+          "text": "3Ω"
+        },
+        {
+          "key": "C",
+          "text": "6Ω"
+        },
+        {
+          "key": "D",
+          "text": "36Ω"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "由欧姆定律R=U/I,R=12/3=4Ω。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q3",
+      "type": "single",
+      "stem": "电阻两端电压为20V,通过电流为4A,该电阻的阻值为",
+      "options": [
+        {
+          "key": "A",
+          "text": "5Ω"
+        },
+        {
+          "key": "B",
+          "text": "4Ω"
+        },
+        {
+          "key": "C",
+          "text": "16Ω"
+        },
+        {
+          "key": "D",
+          "text": "80Ω"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "由欧姆定律R=U/I,R=20/4=5Ω。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q4",
+      "type": "single",
+      "stem": "电阻两端电压为24V,通过电流为6A,该电阻的阻值为",
+      "options": [
+        {
+          "key": "A",
+          "text": "4Ω"
+        },
+        {
+          "key": "B",
+          "text": "6Ω"
+        },
+        {
+          "key": "C",
+          "text": "3Ω"
+        },
+        {
+          "key": "D",
+          "text": "144Ω"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "由欧姆定律R=U/I,R=24/6=4Ω。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q5",
+      "type": "single",
+      "stem": "电阻R=5Ω,通过电流I=3A,该电阻两端电压为",
+      "options": [
+        {
+          "key": "A",
+          "text": "15V"
+        },
+        {
+          "key": "B",
+          "text": "5Ω对应的其他值"
+        },
+        {
+          "key": "C",
+          "text": "45V"
+        },
+        {
+          "key": "D",
+          "text": "60V"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "由欧姆定律U=IR,U=3×5=15V。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q6",
+      "type": "single",
+      "stem": "电阻R=3Ω,通过电流I=3A,该电阻两端电压为",
+      "options": [
+        {
+          "key": "A",
+          "text": "9V"
+        },
+        {
+          "key": "B",
+          "text": "3V"
+        },
+        {
+          "key": "C",
+          "text": "27V"
+        },
+        {
+          "key": "D",
+          "text": "90V"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "由欧姆定律U=IR,U=3×3=9V。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q7",
+      "type": "single",
+      "stem": "电阻R=6Ω,通过电流I=6A,该电阻两端电压为",
+      "options": [
+        {
+          "key": "A",
+          "text": "36V"
+        },
+        {
+          "key": "B",
+          "text": "6V"
+        },
+        {
+          "key": "C",
+          "text": "216V"
+        },
+        {
+          "key": "D",
+          "text": "60V"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "由欧姆定律U=IR,U=6×6=36V。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q8",
+      "type": "single",
+      "stem": "电阻R=4Ω,通过电流I=2A,该电阻两端电压为",
+      "options": [
+        {
+          "key": "A",
+          "text": "8V"
+        },
+        {
+          "key": "B",
+          "text": "4V"
+        },
+        {
+          "key": "C",
+          "text": "32V"
+        },
+        {
+          "key": "D",
+          "text": "80V"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "由欧姆定律U=IR,U=2×4=8V。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q9",
+      "type": "single",
+      "stem": "电阻两端电压为45V,阻值为5Ω,通过该电阻的电流为",
+      "options": [
+        {
+          "key": "A",
+          "text": "9A"
+        },
+        {
+          "key": "B",
+          "text": "5A"
+        },
+        {
+          "key": "C",
+          "text": "225A"
+        },
+        {
+          "key": "D",
+          "text": "45A"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "由欧姆定律I=U/R,I=45/5=9A。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q10",
+      "type": "single",
+      "stem": "电阻两端电压为16V,阻值为4Ω,通过该电阻的电流为",
+      "options": [
+        {
+          "key": "A",
+          "text": "4A"
+        },
+        {
+          "key": "B",
+          "text": "16A"
+        },
+        {
+          "key": "C",
+          "text": "64A"
+        },
+        {
+          "key": "D",
+          "text": "160A"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "由欧姆定律I=U/R,I=16/4=4A。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q11",
+      "type": "single",
+      "stem": "电阻两端电压为30V,阻值为6Ω,通过该电阻的电流为",
+      "options": [
+        {
+          "key": "A",
+          "text": "5A"
+        },
+        {
+          "key": "B",
+          "text": "6A"
+        },
+        {
+          "key": "C",
+          "text": "180A"
+        },
+        {
+          "key": "D",
+          "text": "50A"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "由欧姆定律I=U/R,I=30/6=5A。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q12",
+      "type": "single",
+      "stem": "电阻两端电压为21V,阻值为7Ω,通过该电阻的电流为",
+      "options": [
+        {
+          "key": "A",
+          "text": "3A"
+        },
+        {
+          "key": "B",
+          "text": "7A"
+        },
+        {
+          "key": "C",
+          "text": "147A"
+        },
+        {
+          "key": "D",
+          "text": "30A"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "由欧姆定律I=U/R,I=21/7=3A。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q13",
+      "type": "single",
+      "stem": "两电阻R1=10Ω、R2=20Ω串联,其等效电阻为",
+      "options": [
+        {
+          "key": "A",
+          "text": "30Ω"
+        },
+        {
+          "key": "B",
+          "text": "10Ω"
+        },
+        {
+          "key": "C",
+          "text": "20Ω"
+        },
+        {
+          "key": "D",
+          "text": "200Ω"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "电阻串联时等效电阻等于各电阻之和,Req=R1+R2=10+20=30Ω。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q14",
+      "type": "single",
+      "stem": "三电阻R1=5Ω、R2=15Ω、R3=10Ω串联,其等效电阻为",
+      "options": [
+        {
+          "key": "A",
+          "text": "30Ω"
+        },
+        {
+          "key": "B",
+          "text": "20Ω"
+        },
+        {
+          "key": "C",
+          "text": "15Ω"
+        },
+        {
+          "key": "D",
+          "text": "750Ω"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "电阻串联时等效电阻等于各电阻之和,Req=5+15+10=30Ω。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q15",
+      "type": "single",
+      "stem": "电源电压E=12V,与R1=2Ω、R2=4Ω串联构成回路,电路中的电流为",
+      "options": [
+        {
+          "key": "A",
+          "text": "2A"
+        },
+        {
+          "key": "B",
+          "text": "3A"
+        },
+        {
+          "key": "C",
+          "text": "6A"
+        },
+        {
+          "key": "D",
+          "text": "0.5A"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "串联电路等效电阻Req=R1+R2=6Ω,由欧姆定律I=E/Req=12/6=2A。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q16",
+      "type": "single",
+      "stem": "电源电压E=24V,与R1=3Ω、R2=5Ω串联构成回路,电路中的电流为",
+      "options": [
+        {
+          "key": "A",
+          "text": "3A"
+        },
+        {
+          "key": "B",
+          "text": "8A"
+        },
+        {
+          "key": "C",
+          "text": "24A"
+        },
+        {
+          "key": "D",
+          "text": "1A"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "串联电路等效电阻Req=3+5=8Ω,I=E/Req=24/8=3A。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q17",
+      "type": "single",
+      "stem": "沿用\"电源E=24V与R1=3Ω、R2=5Ω串联\"电路,R2两端的电压为",
+      "options": [
+        {
+          "key": "A",
+          "text": "15V"
+        },
+        {
+          "key": "B",
+          "text": "9V"
+        },
+        {
+          "key": "C",
+          "text": "24V"
+        },
+        {
+          "key": "D",
+          "text": "3V"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "电路电流I=24/8=3A,由欧姆定律U2=I×R2=3×5=15V。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q18",
+      "type": "single",
+      "stem": "电源电压E=20V,与R1=2Ω、R2=3Ω、R3=5Ω三电阻串联,电路中的电流为",
+      "options": [
+        {
+          "key": "A",
+          "text": "2A"
+        },
+        {
+          "key": "B",
+          "text": "4A"
+        },
+        {
+          "key": "C",
+          "text": "10A"
+        },
+        {
+          "key": "D",
+          "text": "20A"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "串联电路等效电阻Req=2+3+5=10Ω,I=E/Req=20/10=2A。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q19",
+      "type": "single",
+      "stem": "两电阻R1=6Ω、R2=3Ω并联,其等效电阻为",
+      "options": [
+        {
+          "key": "A",
+          "text": "2Ω"
+        },
+        {
+          "key": "B",
+          "text": "9Ω"
+        },
+        {
+          "key": "C",
+          "text": "3Ω"
+        },
+        {
+          "key": "D",
+          "text": "18Ω"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "并联等效电阻Req=R1R2/(R1+R2)=6×3/(6+3)=18/9=2Ω。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q20",
+      "type": "single",
+      "stem": "两电阻R1=4Ω、R2=4Ω并联,其等效电阻为",
+      "options": [
+        {
+          "key": "A",
+          "text": "2Ω"
+        },
+        {
+          "key": "B",
+          "text": "8Ω"
+        },
+        {
+          "key": "C",
+          "text": "4Ω"
+        },
+        {
+          "key": "D",
+          "text": "16Ω"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "并联等效电阻Req=R1R2/(R1+R2)=4×4/8=2Ω。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q21",
+      "type": "single",
+      "stem": "三电阻R1=6Ω、R2=3Ω、R3=2Ω并联,其等效电阻为",
+      "options": [
+        {
+          "key": "A",
+          "text": "1Ω"
+        },
+        {
+          "key": "B",
+          "text": "11Ω"
+        },
+        {
+          "key": "C",
+          "text": "0.5Ω"
+        },
+        {
+          "key": "D",
+          "text": "6Ω"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "并联时电导相加:1/Req=1/6+1/3+1/2=6/6=1,故Req=1Ω。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q22",
+      "type": "single",
+      "stem": "两电阻R1=12Ω、R2=6Ω并联,其等效电阻为",
+      "options": [
+        {
+          "key": "A",
+          "text": "4Ω"
+        },
+        {
+          "key": "B",
+          "text": "18Ω"
+        },
+        {
+          "key": "C",
+          "text": "6Ω"
+        },
+        {
+          "key": "D",
+          "text": "72Ω"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "并联等效电阻Req=R1R2/(R1+R2)=12×6/18=4Ω。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q23",
+      "type": "single",
+      "stem": "两电阻R1=8Ω、R2=8Ω并联后接在U=16V的电源上,电路总电流为",
+      "options": [
+        {
+          "key": "A",
+          "text": "4A"
+        },
+        {
+          "key": "B",
+          "text": "2A"
+        },
+        {
+          "key": "C",
+          "text": "8A"
+        },
+        {
+          "key": "D",
+          "text": "32A"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "并联等效电阻Req=8×8/16=4Ω,总电流I=U/Req=16/4=4A。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q24",
+      "type": "single",
+      "stem": "电路某节点有两条支路电流流入,分别为3A、5A,另有一条支路电流流出为2A,还有一条支路电流流出为未知值I,由KCL求I",
+      "options": [
+        {
+          "key": "A",
+          "text": "6A"
+        },
+        {
+          "key": "B",
+          "text": "8A"
+        },
+        {
+          "key": "C",
+          "text": "2A"
+        },
+        {
+          "key": "D",
+          "text": "10A"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "由KCL,流入电流之和等于流出电流之和:3+5=2+I,解得I=6A。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q25",
+      "type": "single",
+      "stem": "电路某节点电流:流入10A,流出支路分别为4A、3A和未知电流I,由KCL求I",
+      "options": [
+        {
+          "key": "A",
+          "text": "3A"
+        },
+        {
+          "key": "B",
+          "text": "10A"
+        },
+        {
+          "key": "C",
+          "text": "7A"
+        },
+        {
+          "key": "D",
+          "text": "17A"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "由KCL,10=4+3+I,解得I=3A。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q26",
+      "type": "single",
+      "stem": "电路某节点有三条支路电流流入,分别为6A、2A、1A,只有一条支路电流流出,该流出电流为",
+      "options": [
+        {
+          "key": "A",
+          "text": "9A"
+        },
+        {
+          "key": "B",
+          "text": "3A"
+        },
+        {
+          "key": "C",
+          "text": "15A"
+        },
+        {
+          "key": "D",
+          "text": "4A"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "由KCL,流出电流等于流入电流之和:6+2+1=9A。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q27",
+      "type": "single",
+      "stem": "电路某节点电流流入为8A,分两条支路流出,一条为5A,另一条流出电流为",
+      "options": [
+        {
+          "key": "A",
+          "text": "3A"
+        },
+        {
+          "key": "B",
+          "text": "13A"
+        },
+        {
+          "key": "C",
+          "text": "5A"
+        },
+        {
+          "key": "D",
+          "text": "2A"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "由KCL,8=5+I,解得I=3A。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q28",
+      "type": "single",
+      "stem": "电路某节点有两条支路电流流入,分别为4A、6A,一条支路电流流出为7A,另一条支路流出电流为",
+      "options": [
+        {
+          "key": "A",
+          "text": "3A"
+        },
+        {
+          "key": "B",
+          "text": "17A"
+        },
+        {
+          "key": "C",
+          "text": "7A"
+        },
+        {
+          "key": "D",
+          "text": "10A"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "由KCL,4+6=7+I,解得I=3A。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q29",
+      "type": "multiple",
+      "stem": "关于欧姆定律,下列说法正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "U=IR是其基本表达式之一"
+        },
+        {
+          "key": "B",
+          "text": "I=U/R成立"
+        },
+        {
+          "key": "C",
+          "text": "R=U/I成立"
+        },
+        {
+          "key": "D",
+          "text": "该定律仅适用于线性电阻元件"
+        },
+        {
+          "key": "E",
+          "text": "该定律适用于二极管等所有非线性元件"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "欧姆定律描述线性电阻元件电压、电流、电阻三者的关系,对二极管等非线性元件不适用,故E错误。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q30",
+      "type": "multiple",
+      "stem": "关于基尔霍夫电流定律(KCL),下列说法正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "任一时刻,流入节点的电流之和等于流出节点的电流之和"
+        },
+        {
+          "key": "B",
+          "text": "KCL体现了电流的连续性(电荷守恒)"
+        },
+        {
+          "key": "C",
+          "text": "KCL只适用于直流电路,不适用于交流电路"
+        },
+        {
+          "key": "D",
+          "text": "规定流入为正、流出为负时,各支路电流的代数和为零"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "analysis": "KCL体现电荷守恒,对直流、交流电路的瞬时值均适用,故C错误。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q31",
+      "type": "multiple",
+      "stem": "关于基尔霍夫电压定律(KVL),下列说法正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "沿任意闭合回路绕行一周,各段电压的代数和恒为零"
+        },
+        {
+          "key": "B",
+          "text": "KVL体现了能量守恒"
+        },
+        {
+          "key": "C",
+          "text": "应用KVL前需先设定各支路电压/电流的参考方向"
+        },
+        {
+          "key": "D",
+          "text": "KVL仅适用于串联电路"
+        },
+        {
+          "key": "E",
+          "text": "回路中电源电压升与电阻压降的代数和为零"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "analysis": "KVL适用于任意闭合回路(含并联、混联电路),不限于串联电路,故D错误。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q32",
+      "type": "multiple",
+      "stem": "电阻串联电路的特点,下列说法正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "各电阻中流过同一电流"
+        },
+        {
+          "key": "B",
+          "text": "总电压等于各电阻电压之和"
+        },
+        {
+          "key": "C",
+          "text": "等效电阻等于各电阻之和"
+        },
+        {
+          "key": "D",
+          "text": "各电阻两端电压与其阻值成正比"
+        },
+        {
+          "key": "E",
+          "text": "各电阻两端电压相等"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "串联电路电流处处相等,总电压按各电阻阻值分压,阻值越大分压越大,故E错误。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q33",
+      "type": "multiple",
+      "stem": "电阻并联电路的特点,下列说法正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "各电阻两端电压相等"
+        },
+        {
+          "key": "B",
+          "text": "总电流等于各支路电流之和"
+        },
+        {
+          "key": "C",
+          "text": "等效电阻的倒数等于各电阻倒数之和"
+        },
+        {
+          "key": "D",
+          "text": "各支路电流与其电阻阻值成正比"
+        },
+        {
+          "key": "E",
+          "text": "阻值越小的支路分得的电流越大"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "analysis": "并联电路各支路电压相等,支路电流与其电阻阻值成反比,阻值小则电流大,故D错误。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q34",
+      "type": "multiple",
+      "stem": "关于电功率的计算公式,下列表达式正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "P=UI"
+        },
+        {
+          "key": "B",
+          "text": "P=I²R"
+        },
+        {
+          "key": "C",
+          "text": "P=U²/R"
+        },
+        {
+          "key": "D",
+          "text": "P=U/I"
+        },
+        {
+          "key": "E",
+          "text": "P=U²R"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "由P=UI结合欧姆定律U=IR可推出P=I²R和P=U²/R,D、E量纲不对,不成立。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q35",
+      "type": "multiple",
+      "stem": "关于电流参考方向的说法,正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "参考方向可以任意假定"
+        },
+        {
+          "key": "B",
+          "text": "计算结果为负值表示实际方向与参考方向相反"
+        },
+        {
+          "key": "C",
+          "text": "分析复杂电路前应先标注参考方向"
+        },
+        {
+          "key": "D",
+          "text": "参考方向必须与实际方向一致才能列方程"
+        },
+        {
+          "key": "E",
+          "text": "参考方向只能沿电流实际流动方向设定"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "参考方向是人为假设的分析基准,可任意选取,与实际方向无关,故D、E错误。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q36",
+      "type": "multiple",
+      "stem": "关于节点、支路、回路的说法,正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "支路是电路中通过同一电流的分支"
+        },
+        {
+          "key": "B",
+          "text": "节点是三条或三条以上支路的连接点"
+        },
+        {
+          "key": "C",
+          "text": "回路是由支路构成的闭合路径"
+        },
+        {
+          "key": "D",
+          "text": "网孔是内部不含其他支路的回路"
+        },
+        {
+          "key": "E",
+          "text": "一个节点只能连接两条支路"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "节点通常指三条及以上支路的汇合点,故E错误。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q37",
+      "type": "multiple",
+      "stem": "关于电压参考方向(参考极性)的说法,正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "常用\"+、-\"极性表示,也可用双下标表示"
+        },
+        {
+          "key": "B",
+          "text": "U_ab=-U_ba"
+        },
+        {
+          "key": "C",
+          "text": "计算结果为负表示实际极性与参考极性相反"
+        },
+        {
+          "key": "D",
+          "text": "参考方向选定后在同一次计算过程中不能随意改变"
+        },
+        {
+          "key": "E",
+          "text": "参考方向必须是实际电流方向"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "电压参考方向与实际电流方向无直接绑定关系,是人为假设的分析基准,故E错误。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q38",
+      "type": "multiple",
+      "stem": "应用基尔霍夫定律分析电路时,正确的做法包括",
+      "options": [
+        {
+          "key": "A",
+          "text": "先标定各支路电流的参考方向"
+        },
+        {
+          "key": "B",
+          "text": "对全部节点列写KCL方程,方程数等于节点总数"
+        },
+        {
+          "key": "C",
+          "text": "对独立回路列写KVL方程"
+        },
+        {
+          "key": "D",
+          "text": "独立方程总数应等于支路电流未知数的个数"
+        },
+        {
+          "key": "E",
+          "text": "节点数为n时,独立KCL方程数为n-1"
+        }
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "analysis": "独立KCL方程数为n-1(其中一个节点的方程可由其余方程线性导出),并非等于节点总数,故B错误。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q39",
+      "type": "judge",
+      "stem": "欧姆定律适用于线性电阻元件,不适用于二极管等非线性元件。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "欧姆定律描述的是线性电阻元件电压电流成正比的关系,非线性元件不满足该比例关系。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q40",
+      "type": "judge",
+      "stem": "基尔霍夫电流定律(KCL)只适用于电路中的节点,不适用于包围多个元件的闭合曲面(广义节点)。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "KCL体现电荷守恒,同样适用于任意闭合曲面所包围的\"广义节点\"。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q41",
+      "type": "judge",
+      "stem": "电流的参考方向可以任意假设,计算结果的正负仅表示实际方向与参考方向的关系。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "参考方向是分析电路时人为设定的基准,计算结果为负说明实际方向与假设相反。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q42",
+      "type": "judge",
+      "stem": "电阻串联电路中,阻值越大的电阻两端分得的电压越大。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "串联电路电流相同,由U=IR可知阻值越大分压越大。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q43",
+      "type": "judge",
+      "stem": "电阻并联电路中,各支路电流大小相等。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "并联电路各支路电压相等,但电流一般与各支路阻值成反比,通常不相等。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q44",
+      "type": "judge",
+      "stem": "基尔霍夫电压定律(KVL)只能用于分析串联电路,不能用于分析含有多个回路的复杂电路。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "KVL对电路中任意闭合回路都成立,可用于分析含多个回路的复杂电路。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q45",
+      "type": "judge",
+      "stem": "电功率P=UI中,当U、I取关联参考方向时,P为正值表示该元件吸收(消耗)功率。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "在关联参考方向下,P>0表示元件从电路中吸收功率,P<0表示元件实际向外提供功率。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q46",
+      "type": "fill",
+      "stem": "欧姆定律的表达式为U=___(用I、R表示)。",
+      "options": [],
+      "answer": [
+        "IR"
+      ],
+      "analysis": "欧姆定律指出,线性电阻两端电压等于电流与电阻的乘积,即U=IR。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q47",
+      "type": "fill",
+      "stem": "基尔霍夫电流定律指出:任一时刻,流入某节点的电流之和等于___。",
+      "options": [],
+      "answer": [
+        "流出该节点的电流之和"
+      ],
+      "analysis": "KCL体现电荷守恒,流入节点的电流总量必须等于流出节点的电流总量。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q48",
+      "type": "fill",
+      "stem": "基尔霍夫电压定律指出:沿任意闭合回路绕行一周,回路中各段电压的代数和恒等于___。",
+      "options": [],
+      "answer": [
+        "零"
+      ],
+      "analysis": "KVL体现能量守恒,回路中电压升与电压降的代数和恒为零。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q49",
+      "type": "fill",
+      "stem": "电阻串联电路的等效电阻等于各电阻___之和。",
+      "options": [],
+      "answer": [
+        "阻值"
+      ],
+      "analysis": "串联电阻的等效电阻为各电阻阻值直接相加,Req=R1+R2+…+Rn。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q50",
+      "type": "fill",
+      "stem": "电阻并联电路等效电阻的倒数等于各电阻___的倒数之和。",
+      "options": [],
+      "answer": [
+        "阻值"
+      ],
+      "analysis": "并联电阻的电导(阻值倒数)相加,即1/Req=1/R1+1/R2+…+1/Rn。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q51",
+      "type": "single",
+      "stem": "电路中两个独立电源单独作用时,在某电阻上产生的电流分别为3A、2A(参考方向相同),按叠加定理,该电阻的总电流为",
+      "options": [
+        {
+          "key": "A",
+          "text": "5A"
+        },
+        {
+          "key": "B",
+          "text": "1A"
+        },
+        {
+          "key": "C",
+          "text": "6A"
+        },
+        {
+          "key": "D",
+          "text": "10A"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "叠加定理:各独立源单独作用产生的电流方向相同,总电流为代数和3+2=5A。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q52",
+      "type": "single",
+      "stem": "电压源单独作用产生电流4A,电流源单独作用产生电流-1A(方向相反),叠加后总电流为",
+      "options": [
+        {
+          "key": "A",
+          "text": "3A"
+        },
+        {
+          "key": "B",
+          "text": "5A"
+        },
+        {
+          "key": "C",
+          "text": "-5A"
+        },
+        {
+          "key": "D",
+          "text": "7A"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "按叠加定理将各分量代数相加:4+(-1)=3A。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q53",
+      "type": "single",
+      "stem": "电源1单独作用在电阻R两端产生电压6V,电源2单独作用产生电压-2V(参考方向相反),叠加后R两端总电压为",
+      "options": [
+        {
+          "key": "A",
+          "text": "4V"
+        },
+        {
+          "key": "B",
+          "text": "8V"
+        },
+        {
+          "key": "C",
+          "text": "-8V"
+        },
+        {
+          "key": "D",
+          "text": "3V"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "按叠加定理代数相加:6+(-2)=4V。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q54",
+      "type": "single",
+      "stem": "两电源单独作用某支路电流分别为2A、2A(参考方向相同),叠加后该支路电流为",
+      "options": [
+        {
+          "key": "A",
+          "text": "4A"
+        },
+        {
+          "key": "B",
+          "text": "2A"
+        },
+        {
+          "key": "C",
+          "text": "8A"
+        },
+        {
+          "key": "D",
+          "text": "0A"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "按叠加定理代数相加:2+2=4A。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q55",
+      "type": "single",
+      "stem": "电源1单独作用某支路电流为5A,电源2单独作用为-5A(方向相反),叠加后该支路电流为",
+      "options": [
+        {
+          "key": "A",
+          "text": "0A"
+        },
+        {
+          "key": "B",
+          "text": "10A"
+        },
+        {
+          "key": "C",
+          "text": "5A"
+        },
+        {
+          "key": "D",
+          "text": "-5A"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "按叠加定理代数相加:5+(-5)=0A。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q56",
+      "type": "single",
+      "stem": "两电源单独作用某电阻两端电压分别为10V、5V(参考方向相同),叠加后该电阻两端电压为",
+      "options": [
+        {
+          "key": "A",
+          "text": "15V"
+        },
+        {
+          "key": "B",
+          "text": "5V"
+        },
+        {
+          "key": "C",
+          "text": "50V"
+        },
+        {
+          "key": "D",
+          "text": "2V"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "按叠加定理代数相加:10+5=15V。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q57",
+      "type": "single",
+      "stem": "电源1单独作用某支路电流为1.5A,电源2单独作用为2.5A(方向相同),叠加后该支路电流为",
+      "options": [
+        {
+          "key": "A",
+          "text": "4A"
+        },
+        {
+          "key": "B",
+          "text": "1A"
+        },
+        {
+          "key": "C",
+          "text": "6A"
+        },
+        {
+          "key": "D",
+          "text": "7A"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "按叠加定理代数相加:1.5+2.5=4A。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q58",
+      "type": "single",
+      "stem": "电源1单独作用某电阻两端电压为8V,电源2单独作用为-3V(方向相反),叠加后该电阻两端电压为",
+      "options": [
+        {
+          "key": "A",
+          "text": "5V"
+        },
+        {
+          "key": "B",
+          "text": "11V"
+        },
+        {
+          "key": "C",
+          "text": "-11V"
+        },
+        {
+          "key": "D",
+          "text": "3V"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "按叠加定理代数相加:8+(-3)=5V。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q59",
+      "type": "single",
+      "stem": "有源二端网络的戴维南等效开路电压Uoc=12V,等效内阻Req=4Ω,外接负载RL=2Ω,负载电流为",
+      "options": [
+        {
+          "key": "A",
+          "text": "2A"
+        },
+        {
+          "key": "B",
+          "text": "3A"
+        },
+        {
+          "key": "C",
+          "text": "1A"
+        },
+        {
+          "key": "D",
+          "text": "6A"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "戴维南等效后I=Uoc/(Req+RL)=12/(4+2)=2A。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q60",
+      "type": "single",
+      "stem": "有源二端网络Uoc=20V,Req=5Ω,外接负载RL=5Ω,负载电流为",
+      "options": [
+        {
+          "key": "A",
+          "text": "2A"
+        },
+        {
+          "key": "B",
+          "text": "4A"
+        },
+        {
+          "key": "C",
+          "text": "1A"
+        },
+        {
+          "key": "D",
+          "text": "10A"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "I=Uoc/(Req+RL)=20/(5+5)=2A。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q61",
+      "type": "single",
+      "stem": "有源二端网络Uoc=10V,Req=2Ω,外接负载RL=3Ω,负载电流为",
+      "options": [
+        {
+          "key": "A",
+          "text": "2A"
+        },
+        {
+          "key": "B",
+          "text": "1A"
+        },
+        {
+          "key": "C",
+          "text": "5A"
+        },
+        {
+          "key": "D",
+          "text": "10A"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "I=Uoc/(Req+RL)=10/(2+3)=2A。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q62",
+      "type": "single",
+      "stem": "从某有源二端网络端口测得开路电压Uoc=9V,短路电流Isc=3A,该网络的戴维南等效内阻为",
+      "options": [
+        {
+          "key": "A",
+          "text": "3Ω"
+        },
+        {
+          "key": "B",
+          "text": "27Ω"
+        },
+        {
+          "key": "C",
+          "text": "1Ω"
+        },
+        {
+          "key": "D",
+          "text": "6Ω"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "戴维南等效内阻Req=Uoc/Isc=9/3=3Ω。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q63",
+      "type": "single",
+      "stem": "从某有源二端网络端口测得开路电压Uoc=15V,短路电流Isc=5A,该网络的戴维南等效内阻为",
+      "options": [
+        {
+          "key": "A",
+          "text": "3Ω"
+        },
+        {
+          "key": "B",
+          "text": "75Ω"
+        },
+        {
+          "key": "C",
+          "text": "1Ω"
+        },
+        {
+          "key": "D",
+          "text": "10Ω"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "Req=Uoc/Isc=15/5=3Ω。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q64",
+      "type": "single",
+      "stem": "有源二端网络Uoc=24V,Req=6Ω,外接负载RL=2Ω,负载两端电压为",
+      "options": [
+        {
+          "key": "A",
+          "text": "6V"
+        },
+        {
+          "key": "B",
+          "text": "24V"
+        },
+        {
+          "key": "C",
+          "text": "18V"
+        },
+        {
+          "key": "D",
+          "text": "3V"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "电流I=24/(6+2)=3A,负载电压UL=I×RL=3×2=6V。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q65",
+      "type": "single",
+      "stem": "诺顿等效电流源Isc=6A,等效内阻Rn=3Ω,外接负载RL=6Ω,负载电流(按分流公式)为",
+      "options": [
+        {
+          "key": "A",
+          "text": "2A"
+        },
+        {
+          "key": "B",
+          "text": "4A"
+        },
+        {
+          "key": "C",
+          "text": "3A"
+        },
+        {
+          "key": "D",
+          "text": "6A"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "分流公式I_L=Isc×Rn/(Rn+RL)=6×3/9=2A。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q66",
+      "type": "single",
+      "stem": "诺顿等效电流源Isc=10A,等效内阻Rn=4Ω,外接负载RL=4Ω,负载电流为",
+      "options": [
+        {
+          "key": "A",
+          "text": "5A"
+        },
+        {
+          "key": "B",
+          "text": "10A"
+        },
+        {
+          "key": "C",
+          "text": "2A"
+        },
+        {
+          "key": "D",
+          "text": "4A"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "I_L=Isc×Rn/(Rn+RL)=10×4/8=5A。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q67",
+      "type": "single",
+      "stem": "诺顿等效电流源Isc=9A,等效内阻Rn=6Ω,外接负载RL=3Ω,负载电流为",
+      "options": [
+        {
+          "key": "A",
+          "text": "6A"
+        },
+        {
+          "key": "B",
+          "text": "3A"
+        },
+        {
+          "key": "C",
+          "text": "9A"
+        },
+        {
+          "key": "D",
+          "text": "2A"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "I_L=Isc×Rn/(Rn+RL)=9×6/9=6A。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q68",
+      "type": "single",
+      "stem": "某网络戴维南等效开路电压Uoc=12V,等效内阻Req=4Ω,转换为诺顿等效电流源大小为",
+      "options": [
+        {
+          "key": "A",
+          "text": "3A"
+        },
+        {
+          "key": "B",
+          "text": "48A"
+        },
+        {
+          "key": "C",
+          "text": "1A"
+        },
+        {
+          "key": "D",
+          "text": "12A"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "诺顿电流源Isc=Uoc/Req=12/4=3A。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q69",
+      "type": "single",
+      "stem": "某网络戴维南等效开路电压Uoc=20V,等效内阻Req=10Ω,转换为诺顿等效电流源大小为",
+      "options": [
+        {
+          "key": "A",
+          "text": "2A"
+        },
+        {
+          "key": "B",
+          "text": "200A"
+        },
+        {
+          "key": "C",
+          "text": "1A"
+        },
+        {
+          "key": "D",
+          "text": "10A"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "Isc=Uoc/Req=20/10=2A。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q70",
+      "type": "single",
+      "stem": "某网络诺顿等效电流源Isc=5A,等效内阻Rn=10Ω,转换为戴维南等效电压为",
+      "options": [
+        {
+          "key": "A",
+          "text": "50V"
+        },
+        {
+          "key": "B",
+          "text": "2V"
+        },
+        {
+          "key": "C",
+          "text": "15V"
+        },
+        {
+          "key": "D",
+          "text": "1V"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "戴维南等效电压Uoc=Isc×Rn=5×10=50V。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q71",
+      "type": "single",
+      "stem": "有源二端网络等效内阻Req=5Ω,当负载RL为下列哪个值时可获得最大功率",
+      "options": [
+        {
+          "key": "A",
+          "text": "5Ω"
+        },
+        {
+          "key": "B",
+          "text": "2.5Ω"
+        },
+        {
+          "key": "C",
+          "text": "10Ω"
+        },
+        {
+          "key": "D",
+          "text": "0Ω"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "最大功率传输定理:当负载电阻等于电源等效内阻(RL=Req)时,负载获得最大功率。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q72",
+      "type": "single",
+      "stem": "有源二端网络Uoc=10V,Req=5Ω,负载按最大功率匹配(RL=5Ω)时,负载获得的最大功率为",
+      "options": [
+        {
+          "key": "A",
+          "text": "5W"
+        },
+        {
+          "key": "B",
+          "text": "10W"
+        },
+        {
+          "key": "C",
+          "text": "20W"
+        },
+        {
+          "key": "D",
+          "text": "2W"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "匹配时I=Uoc/(2Req)=10/10=1A,Pmax=I²RL=1²×5=5W。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q73",
+      "type": "single",
+      "stem": "有源二端网络Uoc=20V,Req=4Ω,负载按最大功率匹配(RL=4Ω)时,负载获得的最大功率为",
+      "options": [
+        {
+          "key": "A",
+          "text": "25W"
+        },
+        {
+          "key": "B",
+          "text": "50W"
+        },
+        {
+          "key": "C",
+          "text": "100W"
+        },
+        {
+          "key": "D",
+          "text": "12.5W"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "匹配时I=20/(4+4)=2.5A,Pmax=I²RL=2.5²×4=25W。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q74",
+      "type": "single",
+      "stem": "最大功率传输条件下,负载电阻与电源等效内阻的关系是",
+      "options": [
+        {
+          "key": "A",
+          "text": "负载电阻等于电源等效内阻"
+        },
+        {
+          "key": "B",
+          "text": "负载电阻远大于电源等效内阻"
+        },
+        {
+          "key": "C",
+          "text": "负载电阻为零"
+        },
+        {
+          "key": "D",
+          "text": "负载电阻远小于电源等效内阻"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "最大功率传输定理:RL=Req时负载获得的功率最大。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q75",
+      "type": "single",
+      "stem": "用节点电压法分析电路,某独立节点的自电导之和为0.5S,注入该节点的等效电流源之和为5A,该节点电压为",
+      "options": [
+        {
+          "key": "A",
+          "text": "10V"
+        },
+        {
+          "key": "B",
+          "text": "2.5V"
+        },
+        {
+          "key": "C",
+          "text": "0.1V"
+        },
+        {
+          "key": "D",
+          "text": "50V"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "节点电压方程Un×ΣG=ΣIs,Un=5/0.5=10V。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q76",
+      "type": "single",
+      "stem": "用节点电压法分析电路,某独立节点自电导之和为0.2S,注入等效电流源之和为4A,该节点电压为",
+      "options": [
+        {
+          "key": "A",
+          "text": "20V"
+        },
+        {
+          "key": "B",
+          "text": "0.8V"
+        },
+        {
+          "key": "C",
+          "text": "5V"
+        },
+        {
+          "key": "D",
+          "text": "80V"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "Un=ΣIs/ΣG=4/0.2=20V。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q77",
+      "type": "single",
+      "stem": "电路有b条支路、n个节点,用支路电流法分析时,应列写的独立KCL方程数与独立KVL方程数分别为",
+      "options": [
+        {
+          "key": "A",
+          "text": "(n-1)个和b-(n-1)个"
+        },
+        {
+          "key": "B",
+          "text": "n个和b个"
+        },
+        {
+          "key": "C",
+          "text": "b个和n个"
+        },
+        {
+          "key": "D",
+          "text": "(n-1)个和n个"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "支路电流法以b个支路电流为未知量,需n-1个独立KCL方程和b-(n-1)个独立KVL方程,合计b个方程。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q78",
+      "type": "single",
+      "stem": "用节点电压法分析电路,某独立节点自电导之和为1S,注入等效电流源之和为3A,该节点电压为",
+      "options": [
+        {
+          "key": "A",
+          "text": "3V"
+        },
+        {
+          "key": "B",
+          "text": "1V"
+        },
+        {
+          "key": "C",
+          "text": "9V"
+        },
+        {
+          "key": "D",
+          "text": "0.33V"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "Un=ΣIs/ΣG=3/1=3V。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q79",
+      "type": "multiple",
+      "stem": "关于叠加定理,下列说法正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "仅适用于线性电路"
+        },
+        {
+          "key": "B",
+          "text": "功率可以直接叠加"
+        },
+        {
+          "key": "C",
+          "text": "每次只保留一个独立源,其余电压源短路、电流源开路"
+        },
+        {
+          "key": "D",
+          "text": "适用于计算电流和电压"
+        },
+        {
+          "key": "E",
+          "text": "也适用于直接叠加计算功率"
+        }
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "analysis": "功率与电流(电压)呈平方关系,不满足叠加原理,故B、E错误。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q80",
+      "type": "multiple",
+      "stem": "关于戴维南定理,正确的说法是",
+      "options": [
+        {
+          "key": "A",
+          "text": "将有源二端网络等效为电压源与内阻串联"
+        },
+        {
+          "key": "B",
+          "text": "等效电压源大小等于端口开路电压"
+        },
+        {
+          "key": "C",
+          "text": "等效内阻为将网络内部独立源置零后从端口看进去的电阻"
+        },
+        {
+          "key": "D",
+          "text": "等效电流方向可任意假定"
+        },
+        {
+          "key": "E",
+          "text": "仅适用于含有二极管等非线性元件的网络"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "戴维南定理仅适用于线性含源二端网络,故E错误;等效电流方向应与实际电路一致地假设并在计算中保持,故D表述不严谨,不作为正确项。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q81",
+      "type": "multiple",
+      "stem": "关于诺顿定理,正确的说法是",
+      "options": [
+        {
+          "key": "A",
+          "text": "将有源二端网络等效为电流源与内阻并联"
+        },
+        {
+          "key": "B",
+          "text": "等效电流源大小等于端口短路电流"
+        },
+        {
+          "key": "C",
+          "text": "诺顿等效内阻与戴维南等效内阻相同"
+        },
+        {
+          "key": "D",
+          "text": "诺顿等效电路与戴维南等效电路可以相互转换"
+        },
+        {
+          "key": "E",
+          "text": "诺顿定理不适用于线性电路"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "诺顿定理与戴维南定理是同一线性网络的两种等效表示,可以相互转换,故E错误。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q82",
+      "type": "multiple",
+      "stem": "关于最大功率传输定理,正确的说法是",
+      "options": [
+        {
+          "key": "A",
+          "text": "当负载电阻等于电源内阻时负载获得最大功率"
+        },
+        {
+          "key": "B",
+          "text": "此时电源效率为100%"
+        },
+        {
+          "key": "C",
+          "text": "此时电源效率为50%"
+        },
+        {
+          "key": "D",
+          "text": "适用于电源内阻不可调、负载电阻可调的场合"
+        },
+        {
+          "key": "E",
+          "text": "最大功率与开路电压的平方成正比"
+        }
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "analysis": "匹配状态下电源内阻和负载各消耗一半功率,效率为50%,故B错误。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q83",
+      "type": "multiple",
+      "stem": "支路电流法的特点包括",
+      "options": [
+        {
+          "key": "A",
+          "text": "以支路电流为未知量"
+        },
+        {
+          "key": "B",
+          "text": "根据KCL对独立节点列方程"
+        },
+        {
+          "key": "C",
+          "text": "根据KVL对独立回路列方程"
+        },
+        {
+          "key": "D",
+          "text": "未知数个数等于支路数"
+        },
+        {
+          "key": "E",
+          "text": "只能用于两个节点的电路"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "支路电流法适用于任意节点数的线性电路,故E错误。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q84",
+      "type": "multiple",
+      "stem": "节点电压法的特点包括",
+      "options": [
+        {
+          "key": "A",
+          "text": "以节点电压为未知量"
+        },
+        {
+          "key": "B",
+          "text": "独立节点电压方程数等于n-1(n为节点数)"
+        },
+        {
+          "key": "C",
+          "text": "适合支路数远大于节点数的电路"
+        },
+        {
+          "key": "D",
+          "text": "含理想电压源支路时通常需要特殊处理"
+        },
+        {
+          "key": "E",
+          "text": "只能用于纯电阻电路"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "节点电压法同样可用于含独立源、受控源的线性电路,不限于纯电阻电路,故E错误。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q85",
+      "type": "multiple",
+      "stem": "关于电源等效变换的说法,正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "实际电压源可等效为理想电压源与内阻串联"
+        },
+        {
+          "key": "B",
+          "text": "实际电流源可等效为理想电流源与内阻并联"
+        },
+        {
+          "key": "C",
+          "text": "两者可以相互等效变换"
+        },
+        {
+          "key": "D",
+          "text": "等效是对外部电路而言,电源内部功率损耗一般不相等"
+        },
+        {
+          "key": "E",
+          "text": "理想电压源(内阻为零)不能等效为有限内阻的电流源"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "analysis": "电源等效变换只保证对外电路的电压电流关系不变,内部功耗未必相等;理想电压源内阻为零,无法等效为并联内阻的电流源模型。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q86",
+      "type": "multiple",
+      "stem": "关于线性电路的性质,正确的说法是",
+      "options": [
+        {
+          "key": "A",
+          "text": "满足齐次性"
+        },
+        {
+          "key": "B",
+          "text": "满足叠加性"
+        },
+        {
+          "key": "C",
+          "text": "响应与激励呈线性关系"
+        },
+        {
+          "key": "D",
+          "text": "适用叠加定理和戴维南定理"
+        },
+        {
+          "key": "E",
+          "text": "电路中的所有元件都必须是线性电阻"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "线性电路允许含独立源、线性受控源等,不要求所有元件都是线性电阻,故E错误。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q87",
+      "type": "multiple",
+      "stem": "电路分析中常用的等效/化简方法包括",
+      "options": [
+        {
+          "key": "A",
+          "text": "电阻串并联等效"
+        },
+        {
+          "key": "B",
+          "text": "星形-三角形(Y-Δ)等效变换"
+        },
+        {
+          "key": "C",
+          "text": "电源等效变换"
+        },
+        {
+          "key": "D",
+          "text": "叠加定理"
+        },
+        {
+          "key": "E",
+          "text": "以上都是常用的线性电路分析方法"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "analysis": "以上方法都是分析线性电阻电路常用的等效化简与分析手段。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q88",
+      "type": "multiple",
+      "stem": "关于戴维南等效电阻的求法,正确的说法是",
+      "options": [
+        {
+          "key": "A",
+          "text": "网络内部独立电压源短路、独立电流源开路,再求端口等效电阻"
+        },
+        {
+          "key": "B",
+          "text": "也可通过开路电压与短路电流之比求得(Req=Uoc/Isc)"
+        },
+        {
+          "key": "C",
+          "text": "对含受控源的网络,通常需外加电压源法或外加电流法求解"
+        },
+        {
+          "key": "D",
+          "text": "等效电阻与网络内部独立源的具体数值无关"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "含受控源网络的等效电阻一般需采用外加激励法求解,且独立源数值不影响等效电阻(只影响开路电压)。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q89",
+      "type": "judge",
+      "stem": "叠加定理适用于线性电路中电压和电流的计算,但不能直接用于功率的叠加计算。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "功率与电流(电压)呈非线性(平方)关系,不满足叠加性。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q90",
+      "type": "judge",
+      "stem": "应用叠加定理时,不作用的理想电压源应视为短路,不作用的理想电流源应视为开路。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "这是应用叠加定理处理独立源的标准做法。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q91",
+      "type": "judge",
+      "stem": "戴维南定理和诺顿定理只适用于含独立源的线性网络,且二者不能相互转换。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "戴维南等效与诺顿等效可以通过Uoc=Isc×Req相互转换。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q92",
+      "type": "judge",
+      "stem": "最大功率传输定理成立时,电源向负载传输功率的效率一定是100%。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "匹配状态下电源内阻与负载各消耗一半功率,传输效率为50%。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q93",
+      "type": "judge",
+      "stem": "节点电压法中,若电路有n个节点,则独立节点电压方程数为n-1个。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "任选一个节点为参考节点(零电位),其余n-1个节点各列一个独立方程。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q94",
+      "type": "judge",
+      "stem": "支路电流法所需列写的独立方程总数等于电路的支路数。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "支路电流法以每条支路电流为未知量,共需b个独立方程(KCL与KVL方程数之和)。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q95",
+      "type": "judge",
+      "stem": "电源等效变换时,变换前后电源对外部电路的电压电流关系保持不变,但电源内部的功率损耗一般不相等。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "等效变换只保证对外的伏安特性一致,电源内部的实际功耗可能不同。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q96",
+      "type": "fill",
+      "stem": "有源二端网络在负载开路时,端口测得的电压称为该网络的___。",
+      "options": [],
+      "answer": [
+        "开路电压"
+      ],
+      "analysis": "开路电压是戴维南等效电压源的大小,常记为Uoc。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q97",
+      "type": "fill",
+      "stem": "求戴维南等效电阻时,应将网络内部的独立电压源短路、独立电流源___处理。",
+      "options": [],
+      "answer": [
+        "开路"
+      ],
+      "analysis": "这是求戴维南(诺顿)等效电阻时处理独立源的标准做法。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q98",
+      "type": "fill",
+      "stem": "最大功率传输的条件是负载电阻等于电源的___。",
+      "options": [],
+      "answer": [
+        "等效内阻"
+      ],
+      "analysis": "当负载电阻与电源等效内阻相等时,负载获得的功率最大。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q99",
+      "type": "fill",
+      "stem": "在节点电压法中,被选作电位参考点(电位为零)的节点称为___。",
+      "options": [],
+      "answer": [
+        "参考节点"
+      ],
+      "analysis": "节点电压法需先指定一个参考节点,其余节点电压均以此为基准。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q100",
+      "type": "fill",
+      "stem": "戴维南等效电路由一个等效电压源与一个等效___串联组成。",
+      "options": [],
+      "answer": [
+        "电阻"
+      ],
+      "analysis": "戴维南定理将有源二端网络等效为电压源与内阻的串联组合。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q101",
+      "type": "single",
+      "stem": "已知交流电频率f=50Hz,该交流电的周期T为",
+      "options": [
+        {
+          "key": "A",
+          "text": "0.02s"
+        },
+        {
+          "key": "B",
+          "text": "0.2s"
+        },
+        {
+          "key": "C",
+          "text": "50s"
+        },
+        {
+          "key": "D",
+          "text": "100s"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "T=1/f=1/50=0.02s。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q102",
+      "type": "single",
+      "stem": "已知交流电周期T=0.02s,该交流电的频率f为",
+      "options": [
+        {
+          "key": "A",
+          "text": "50Hz"
+        },
+        {
+          "key": "B",
+          "text": "0.02Hz"
+        },
+        {
+          "key": "C",
+          "text": "5Hz"
+        },
+        {
+          "key": "D",
+          "text": "500Hz"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "f=1/T=1/0.02=50Hz。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q103",
+      "type": "single",
+      "stem": "已知交流电频率f=50Hz,该交流电的角频率ω(近似值)为",
+      "options": [
+        {
+          "key": "A",
+          "text": "314rad/s"
+        },
+        {
+          "key": "B",
+          "text": "50rad/s"
+        },
+        {
+          "key": "C",
+          "text": "100rad/s"
+        },
+        {
+          "key": "D",
+          "text": "157rad/s"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "ω=2πf=2×3.14×50≈314rad/s。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q104",
+      "type": "single",
+      "stem": "已知交流电频率f=100Hz,该交流电的角频率ω(近似值)为",
+      "options": [
+        {
+          "key": "A",
+          "text": "628rad/s"
+        },
+        {
+          "key": "B",
+          "text": "100rad/s"
+        },
+        {
+          "key": "C",
+          "text": "200rad/s"
+        },
+        {
+          "key": "D",
+          "text": "314rad/s"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "ω=2πf=2×3.14×100≈628rad/s。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q105",
+      "type": "single",
+      "stem": "已知交流电周期T=0.01s,该交流电的频率f为",
+      "options": [
+        {
+          "key": "A",
+          "text": "100Hz"
+        },
+        {
+          "key": "B",
+          "text": "0.01Hz"
+        },
+        {
+          "key": "C",
+          "text": "10Hz"
+        },
+        {
+          "key": "D",
+          "text": "1000Hz"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "f=1/T=1/0.01=100Hz。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q106",
+      "type": "single",
+      "stem": "我国民用交流电压的频率为50Hz,其角频率约为",
+      "options": [
+        {
+          "key": "A",
+          "text": "314rad/s"
+        },
+        {
+          "key": "B",
+          "text": "100rad/s"
+        },
+        {
+          "key": "C",
+          "text": "50rad/s"
+        },
+        {
+          "key": "D",
+          "text": "3.14rad/s"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "ω=2πf=2×3.14×50≈314rad/s。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q107",
+      "type": "single",
+      "stem": "正弦电压有效值U=220V,其幅值(最大值)Um约为",
+      "options": [
+        {
+          "key": "A",
+          "text": "311V"
+        },
+        {
+          "key": "B",
+          "text": "220V"
+        },
+        {
+          "key": "C",
+          "text": "155V"
+        },
+        {
+          "key": "D",
+          "text": "440V"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "Um=√2×U≈1.414×220≈311V。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q108",
+      "type": "single",
+      "stem": "正弦电压幅值Um=311V,其有效值U约为",
+      "options": [
+        {
+          "key": "A",
+          "text": "220V"
+        },
+        {
+          "key": "B",
+          "text": "311V"
+        },
+        {
+          "key": "C",
+          "text": "440V"
+        },
+        {
+          "key": "D",
+          "text": "155.5V"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "U=Um/√2≈311/1.414≈220V。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q109",
+      "type": "single",
+      "stem": "正弦电流有效值I=10A,其幅值Im约为",
+      "options": [
+        {
+          "key": "A",
+          "text": "14.14A"
+        },
+        {
+          "key": "B",
+          "text": "10A"
+        },
+        {
+          "key": "C",
+          "text": "7.07A"
+        },
+        {
+          "key": "D",
+          "text": "20A"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "Im=√2×I≈1.414×10≈14.14A。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q110",
+      "type": "single",
+      "stem": "正弦电流幅值Im=14.14A,其有效值I约为",
+      "options": [
+        {
+          "key": "A",
+          "text": "10A"
+        },
+        {
+          "key": "B",
+          "text": "14.14A"
+        },
+        {
+          "key": "C",
+          "text": "20A"
+        },
+        {
+          "key": "D",
+          "text": "7.07A"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "I=Im/√2≈14.14/1.414≈10A。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q111",
+      "type": "single",
+      "stem": "正弦电压有效值U=100V,其幅值Um约为",
+      "options": [
+        {
+          "key": "A",
+          "text": "141.4V"
+        },
+        {
+          "key": "B",
+          "text": "100V"
+        },
+        {
+          "key": "C",
+          "text": "70.7V"
+        },
+        {
+          "key": "D",
+          "text": "200V"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "Um=√2×U≈1.414×100≈141.4V。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q112",
+      "type": "single",
+      "stem": "正弦电流幅值Im=20A,其有效值I约为",
+      "options": [
+        {
+          "key": "A",
+          "text": "14.14A"
+        },
+        {
+          "key": "B",
+          "text": "20A"
+        },
+        {
+          "key": "C",
+          "text": "10A"
+        },
+        {
+          "key": "D",
+          "text": "28.3A"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "I=Im/√2≈20/1.414≈14.14A。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q113",
+      "type": "single",
+      "stem": "电感L=0.1H,角频率ω=100rad/s,该电感的感抗XL为",
+      "options": [
+        {
+          "key": "A",
+          "text": "10Ω"
+        },
+        {
+          "key": "B",
+          "text": "1000Ω"
+        },
+        {
+          "key": "C",
+          "text": "0.1Ω"
+        },
+        {
+          "key": "D",
+          "text": "100Ω"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "XL=ωL=100×0.1=10Ω。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q114",
+      "type": "single",
+      "stem": "电感L=0.5H,角频率ω=200rad/s,该电感的感抗XL为",
+      "options": [
+        {
+          "key": "A",
+          "text": "100Ω"
+        },
+        {
+          "key": "B",
+          "text": "400Ω"
+        },
+        {
+          "key": "C",
+          "text": "50Ω"
+        },
+        {
+          "key": "D",
+          "text": "10Ω"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "XL=ωL=200×0.5=100Ω。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q115",
+      "type": "single",
+      "stem": "电容C=100μF,角频率ω=100rad/s,该电容的容抗XC为",
+      "options": [
+        {
+          "key": "A",
+          "text": "100Ω"
+        },
+        {
+          "key": "B",
+          "text": "1Ω"
+        },
+        {
+          "key": "C",
+          "text": "10Ω"
+        },
+        {
+          "key": "D",
+          "text": "1000Ω"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "XC=1/(ωC)=1/(100×100×10⁻⁶)=1/0.01=100Ω。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q116",
+      "type": "single",
+      "stem": "电容C=50μF,角频率ω=1000rad/s,该电容的容抗XC为",
+      "options": [
+        {
+          "key": "A",
+          "text": "20Ω"
+        },
+        {
+          "key": "B",
+          "text": "50Ω"
+        },
+        {
+          "key": "C",
+          "text": "2Ω"
+        },
+        {
+          "key": "D",
+          "text": "200Ω"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "XC=1/(ωC)=1/(1000×50×10⁻⁶)=1/0.05=20Ω。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q117",
+      "type": "single",
+      "stem": "电感L=0.2H,交流电频率f=50Hz,该电感的感抗XL约为",
+      "options": [
+        {
+          "key": "A",
+          "text": "62.8Ω"
+        },
+        {
+          "key": "B",
+          "text": "100Ω"
+        },
+        {
+          "key": "C",
+          "text": "10Ω"
+        },
+        {
+          "key": "D",
+          "text": "314Ω"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "ω=2πf≈314rad/s,XL=ωL=314×0.2≈62.8Ω。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q118",
+      "type": "single",
+      "stem": "电容C=10μF,交流电频率f=50Hz,该电容的容抗XC约为",
+      "options": [
+        {
+          "key": "A",
+          "text": "318Ω"
+        },
+        {
+          "key": "B",
+          "text": "10Ω"
+        },
+        {
+          "key": "C",
+          "text": "31.4Ω"
+        },
+        {
+          "key": "D",
+          "text": "3140Ω"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "ω=2πf≈314rad/s,XC=1/(ωC)=1/(314×10×10⁻⁶)≈318Ω。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q119",
+      "type": "single",
+      "stem": "RL串联电路中,R=3Ω,XL=4Ω,该电路的阻抗Z为",
+      "options": [
+        {
+          "key": "A",
+          "text": "5Ω"
+        },
+        {
+          "key": "B",
+          "text": "7Ω"
+        },
+        {
+          "key": "C",
+          "text": "1Ω"
+        },
+        {
+          "key": "D",
+          "text": "12Ω"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "Z=√(R²+XL²)=√(9+16)=√25=5Ω。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q120",
+      "type": "single",
+      "stem": "RL串联电路中,R=6Ω,XL=8Ω,该电路的阻抗Z为",
+      "options": [
+        {
+          "key": "A",
+          "text": "10Ω"
+        },
+        {
+          "key": "B",
+          "text": "14Ω"
+        },
+        {
+          "key": "C",
+          "text": "2Ω"
+        },
+        {
+          "key": "D",
+          "text": "48Ω"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "Z=√(R²+XL²)=√(36+64)=√100=10Ω。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q121",
+      "type": "single",
+      "stem": "RC串联电路中,R=8Ω,XC=6Ω,该电路的阻抗Z为",
+      "options": [
+        {
+          "key": "A",
+          "text": "10Ω"
+        },
+        {
+          "key": "B",
+          "text": "14Ω"
+        },
+        {
+          "key": "C",
+          "text": "2Ω"
+        },
+        {
+          "key": "D",
+          "text": "42Ω"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "Z=√(R²+XC²)=√(64+36)=√100=10Ω。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q122",
+      "type": "single",
+      "stem": "RL串联电路中,R=5Ω,XL=12Ω,该电路的阻抗Z为",
+      "options": [
+        {
+          "key": "A",
+          "text": "13Ω"
+        },
+        {
+          "key": "B",
+          "text": "17Ω"
+        },
+        {
+          "key": "C",
+          "text": "7Ω"
+        },
+        {
+          "key": "D",
+          "text": "60Ω"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "Z=√(R²+XL²)=√(25+144)=√169=13Ω。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q123",
+      "type": "single",
+      "stem": "RC串联电路中,R=12Ω,XC=5Ω,该电路的阻抗Z为",
+      "options": [
+        {
+          "key": "A",
+          "text": "13Ω"
+        },
+        {
+          "key": "B",
+          "text": "17Ω"
+        },
+        {
+          "key": "C",
+          "text": "7Ω"
+        },
+        {
+          "key": "D",
+          "text": "84Ω"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "Z=√(R²+XC²)=√(144+25)=√169=13Ω。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q124",
+      "type": "single",
+      "stem": "RL串联电路中,R=9Ω,XL=12Ω,该电路的阻抗Z为",
+      "options": [
+        {
+          "key": "A",
+          "text": "15Ω"
+        },
+        {
+          "key": "B",
+          "text": "21Ω"
+        },
+        {
+          "key": "C",
+          "text": "3Ω"
+        },
+        {
+          "key": "D",
+          "text": "108Ω"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "Z=√(R²+XL²)=√(81+144)=√225=15Ω。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q125",
+      "type": "single",
+      "stem": "电路电压有效值U=220V,电流有效值I=10A,功率因数cosφ=0.8,该电路的有功功率P为",
+      "options": [
+        {
+          "key": "A",
+          "text": "1760W"
+        },
+        {
+          "key": "B",
+          "text": "2200W"
+        },
+        {
+          "key": "C",
+          "text": "1320W"
+        },
+        {
+          "key": "D",
+          "text": "2750W"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "P=UIcosφ=220×10×0.8=1760W。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q126",
+      "type": "single",
+      "stem": "电路电压有效值U=100V,电流有效值I=5A,功率因数cosφ=1(纯电阻电路),该电路的有功功率P为",
+      "options": [
+        {
+          "key": "A",
+          "text": "500W"
+        },
+        {
+          "key": "B",
+          "text": "1000W"
+        },
+        {
+          "key": "C",
+          "text": "50W"
+        },
+        {
+          "key": "D",
+          "text": "100W"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "P=UIcosφ=100×5×1=500W。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q127",
+      "type": "single",
+      "stem": "电路视在功率S=1000VA,功率因数cosφ=0.6,该电路的有功功率P为",
+      "options": [
+        {
+          "key": "A",
+          "text": "600W"
+        },
+        {
+          "key": "B",
+          "text": "1000W"
+        },
+        {
+          "key": "C",
+          "text": "400W"
+        },
+        {
+          "key": "D",
+          "text": "1667W"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "P=Scosφ=1000×0.6=600W。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q128",
+      "type": "single",
+      "stem": "已知电路阻抗角φ=60°,该电路的功率因数cosφ约为",
+      "options": [
+        {
+          "key": "A",
+          "text": "0.5"
+        },
+        {
+          "key": "B",
+          "text": "1"
+        },
+        {
+          "key": "C",
+          "text": "0.87"
+        },
+        {
+          "key": "D",
+          "text": "0.6"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "cos60°=0.5,故功率因数约为0.5。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q129",
+      "type": "multiple",
+      "stem": "描述正弦量的三要素是",
+      "options": [
+        {
+          "key": "A",
+          "text": "幅值(最大值)"
+        },
+        {
+          "key": "B",
+          "text": "角频率"
+        },
+        {
+          "key": "C",
+          "text": "初相位"
+        },
+        {
+          "key": "D",
+          "text": "有效值"
+        },
+        {
+          "key": "E",
+          "text": "周期"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "正弦量的三要素是幅值、角频率(或频率)和初相位,有效值、周期均可由三要素或频率导出,不属于独立三要素。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q130",
+      "type": "multiple",
+      "stem": "关于有效值,正确的说法是",
+      "options": [
+        {
+          "key": "A",
+          "text": "有效值等于幅值除以√2"
+        },
+        {
+          "key": "B",
+          "text": "交流电压表/电流表的读数一般指有效值"
+        },
+        {
+          "key": "C",
+          "text": "有效值是与其在同一电阻上产生相同热效应的直流值"
+        },
+        {
+          "key": "D",
+          "text": "有效值就是平均值"
+        },
+        {
+          "key": "E",
+          "text": "纯电阻电路中P=UI(有效值)成立"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "analysis": "正弦量的有效值与平均值是不同的概念(正弦量整周期平均值为零),故D错误。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q131",
+      "type": "multiple",
+      "stem": "关于感抗XL,正确的说法是",
+      "options": [
+        {
+          "key": "A",
+          "text": "XL=ωL"
+        },
+        {
+          "key": "B",
+          "text": "感抗与频率成正比"
+        },
+        {
+          "key": "C",
+          "text": "感抗使电流滞后电压90°"
+        },
+        {
+          "key": "D",
+          "text": "直流电路(f=0)中理想电感相当于短路"
+        },
+        {
+          "key": "E",
+          "text": "感抗与电容量成正比"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "感抗只与电感L和角频率ω有关,与电容量无关,故E错误。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q132",
+      "type": "multiple",
+      "stem": "关于容抗XC,正确的说法是",
+      "options": [
+        {
+          "key": "A",
+          "text": "XC=1/(ωC)"
+        },
+        {
+          "key": "B",
+          "text": "容抗与频率成反比"
+        },
+        {
+          "key": "C",
+          "text": "容抗使电流超前电压90°"
+        },
+        {
+          "key": "D",
+          "text": "直流稳态电路中理想电容相当于开路"
+        },
+        {
+          "key": "E",
+          "text": "容抗与电感量成正比"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "容抗只与电容C和角频率ω有关,与电感量无关,故E错误。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q133",
+      "type": "multiple",
+      "stem": "RLC串联电路中,关于阻抗Z的说法正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "Z=√(R²+(XL-XC)²)"
+        },
+        {
+          "key": "B",
+          "text": "当XL=XC时发生串联谐振"
+        },
+        {
+          "key": "C",
+          "text": "谐振时电路阻抗最小且为纯电阻性"
+        },
+        {
+          "key": "D",
+          "text": "谐振时电流达到最大值"
+        },
+        {
+          "key": "E",
+          "text": "阻抗Z恒等于电阻R"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "只有当XL=XC(谐振)时Z才等于R,一般情况下Z由R与感抗容抗之差共同决定,故E错误。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q134",
+      "type": "multiple",
+      "stem": "关于交流电路的功率,正确的说法是",
+      "options": [
+        {
+          "key": "A",
+          "text": "有功功率P=UIcosφ"
+        },
+        {
+          "key": "B",
+          "text": "无功功率Q=UIsinφ"
+        },
+        {
+          "key": "C",
+          "text": "视在功率S=UI"
+        },
+        {
+          "key": "D",
+          "text": "S²=P²+Q²"
+        },
+        {
+          "key": "E",
+          "text": "视在功率的单位是瓦(W)"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "视在功率的单位是伏安(VA),不是瓦(W),故E错误。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q135",
+      "type": "multiple",
+      "stem": "关于正弦交流电的表示方法,正确的说法是",
+      "options": [
+        {
+          "key": "A",
+          "text": "可用三角函数式表示瞬时值"
+        },
+        {
+          "key": "B",
+          "text": "可用相量(复数)表示以便运算"
+        },
+        {
+          "key": "C",
+          "text": "波形图可直观表示随时间变化的规律"
+        },
+        {
+          "key": "D",
+          "text": "相量法只能表示幅值,不能反映相位关系"
+        },
+        {
+          "key": "E",
+          "text": "同频率正弦量才能用相量图直接比较相位关系"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "analysis": "相量既能表示幅值(或有效值)大小,又能表示初相位,故D错误。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q136",
+      "type": "multiple",
+      "stem": "关于电感元件在正弦交流电路中的特性,正确的说法是",
+      "options": [
+        {
+          "key": "A",
+          "text": "电压超前电流90°"
+        },
+        {
+          "key": "B",
+          "text": "不消耗有功功率(理想电感)"
+        },
+        {
+          "key": "C",
+          "text": "储存磁场能量"
+        },
+        {
+          "key": "D",
+          "text": "电压与电流同相位"
+        },
+        {
+          "key": "E",
+          "text": "感抗与频率成正比"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "analysis": "理想电感电压超前电流90°,并非同相位,故D错误。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q137",
+      "type": "multiple",
+      "stem": "关于电容元件在正弦交流电路中的特性,正确的说法是",
+      "options": [
+        {
+          "key": "A",
+          "text": "电流超前电压90°"
+        },
+        {
+          "key": "B",
+          "text": "不消耗有功功率(理想电容)"
+        },
+        {
+          "key": "C",
+          "text": "储存电场能量"
+        },
+        {
+          "key": "D",
+          "text": "容抗与频率成正比"
+        },
+        {
+          "key": "E",
+          "text": "容抗与频率成反比"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "analysis": "容抗XC=1/(ωC),与频率成反比,故D错误。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q138",
+      "type": "multiple",
+      "stem": "关于功率因数cosφ的说法,正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "功率因数越低,相同有功功率下线路电流越大"
+        },
+        {
+          "key": "B",
+          "text": "提高功率因数可减少线路损耗、提高设备利用率"
+        },
+        {
+          "key": "C",
+          "text": "常用并联电容器的方法提高感性负载电路的功率因数"
+        },
+        {
+          "key": "D",
+          "text": "纯电阻电路的功率因数为1"
+        },
+        {
+          "key": "E",
+          "text": "功率因数与负载性质无关"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "功率因数取决于负载的电阻、电感、电容等性质,故E错误。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q139",
+      "type": "judge",
+      "stem": "正弦量的有效值等于其幅值(最大值)除以√2。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "这是正弦量有效值与幅值的基本关系,U=Um/√2。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q140",
+      "type": "judge",
+      "stem": "电感元件在正弦交流电路中电压超前电流90°。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "理想电感元件的电压相位超前电流相位90°。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q141",
+      "type": "judge",
+      "stem": "电容元件在正弦交流电路中电压超前电流90°。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "理想电容元件是电流超前电压90°,而不是电压超前电流。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q142",
+      "type": "judge",
+      "stem": "感抗与频率成正比,容抗与频率成反比。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "XL=ωL与频率(ω)成正比;XC=1/(ωC)与频率成反比。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q143",
+      "type": "judge",
+      "stem": "视在功率S、有功功率P、无功功率Q之间满足S²=P²+Q²的关系。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "有功功率、无功功率和视在功率构成功率三角形,满足勾股关系S²=P²+Q²。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q144",
+      "type": "judge",
+      "stem": "交流电路中提高功率因数,可以采用在感性负载两端并联适当电容的方法。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "并联电容可以提供容性无功,抵消部分感性无功,从而提高整体功率因数。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q145",
+      "type": "judge",
+      "stem": "交流电路的相位差通常是指两个不同频率正弦量之间初相位的差值。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "相位差一般针对同频率正弦量而言,不同频率正弦量间的相位差随时间变化,通常不讨论固定相位差。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q146",
+      "type": "fill",
+      "stem": "正弦交流电的三要素是幅值、___和初相位。",
+      "options": [],
+      "answer": [
+        "角频率"
+      ],
+      "analysis": "正弦量的三要素为幅值(最大值)、角频率(或频率)、初相位。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q147",
+      "type": "fill",
+      "stem": "工频交流电的频率为50Hz时,其周期为___s。",
+      "options": [],
+      "answer": [
+        "0.02"
+      ],
+      "analysis": "T=1/f=1/50=0.02s。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q148",
+      "type": "fill",
+      "stem": "电感元件的感抗XL与频率成___比。",
+      "options": [],
+      "answer": [
+        "正"
+      ],
+      "analysis": "XL=ωL=2πfL,与频率f成正比。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q149",
+      "type": "fill",
+      "stem": "电容元件的容抗XC与频率成___比。",
+      "options": [],
+      "answer": [
+        "反"
+      ],
+      "analysis": "XC=1/(ωC)=1/(2πfC),与频率f成反比。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q150",
+      "type": "fill",
+      "stem": "视在功率S、有功功率P和无功功率Q满足的关系式为S²=P²+___²。",
+      "options": [],
+      "answer": [
+        "Q"
+      ],
+      "analysis": "有功功率、无功功率和视在功率满足功率三角形关系S²=P²+Q²。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q151",
+      "type": "single",
+      "stem": "三相四线制星形联结,相电压Up=220V,该系统的线电压Ul约为",
+      "options": [
+        {
+          "key": "A",
+          "text": "380V"
+        },
+        {
+          "key": "B",
+          "text": "220V"
+        },
+        {
+          "key": "C",
+          "text": "660V"
+        },
+        {
+          "key": "D",
+          "text": "127V"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "星形联结Ul=√3×Up=1.732×220≈380V。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q152",
+      "type": "single",
+      "stem": "三相四线制星形联结,线电压Ul=380V,该系统的相电压Up约为",
+      "options": [
+        {
+          "key": "A",
+          "text": "220V"
+        },
+        {
+          "key": "B",
+          "text": "380V"
+        },
+        {
+          "key": "C",
+          "text": "190V"
+        },
+        {
+          "key": "D",
+          "text": "660V"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "星形联结Up=Ul/√3=380/1.732≈220V。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q153",
+      "type": "single",
+      "stem": "三相四线制星形联结,相电压Up=127V,该系统的线电压Ul约为",
+      "options": [
+        {
+          "key": "A",
+          "text": "220V"
+        },
+        {
+          "key": "B",
+          "text": "127V"
+        },
+        {
+          "key": "C",
+          "text": "381V"
+        },
+        {
+          "key": "D",
+          "text": "63.5V"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "星形联结Ul=√3×Up=1.732×127≈220V。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q154",
+      "type": "single",
+      "stem": "三相四线制星形联结,相电压Up=100V,该系统的线电压Ul约为",
+      "options": [
+        {
+          "key": "A",
+          "text": "173V"
+        },
+        {
+          "key": "B",
+          "text": "100V"
+        },
+        {
+          "key": "C",
+          "text": "300V"
+        },
+        {
+          "key": "D",
+          "text": "57.7V"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "星形联结Ul=√3×Up=1.732×100≈173V。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q155",
+      "type": "single",
+      "stem": "对称三相星形负载,相电压220V,相电流为10A,该系统的线电流为",
+      "options": [
+        {
+          "key": "A",
+          "text": "10A"
+        },
+        {
+          "key": "B",
+          "text": "17.3A"
+        },
+        {
+          "key": "C",
+          "text": "5.77A"
+        },
+        {
+          "key": "D",
+          "text": "30A"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "星形联结中线电流等于相电流,故线电流为10A。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q156",
+      "type": "single",
+      "stem": "三相四线制中,中性线的主要作用是",
+      "options": [
+        {
+          "key": "A",
+          "text": "保证不对称负载下各相电压尽量对称、稳定"
+        },
+        {
+          "key": "B",
+          "text": "增大线电压的数值"
+        },
+        {
+          "key": "C",
+          "text": "减小线路总电流"
+        },
+        {
+          "key": "D",
+          "text": "提高电路的功率因数"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "中性线为不对称负载提供电流通路,使各相电压尽量保持对称、稳定,不受其他相负载变化的影响。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q157",
+      "type": "single",
+      "stem": "三相四线制中,当负载明显不对称且中性线断开时,可能出现的现象是",
+      "options": [
+        {
+          "key": "A",
+          "text": "各相负载电压不再对称,出现过高或过低的情况"
+        },
+        {
+          "key": "B",
+          "text": "各相电压仍然保持对称"
+        },
+        {
+          "key": "C",
+          "text": "三相总功率保持不变且各相互不影响"
+        },
+        {
+          "key": "D",
+          "text": "线电压变为零"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "中性线断开后失去了强制均压作用,不对称负载会导致各相电压偏离额定值,轻则设备欠压、重则过压损坏。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q158",
+      "type": "single",
+      "stem": "三角形联结中相电压等于线电压,若线电压Ul=380V,该系统的相电压Up为",
+      "options": [
+        {
+          "key": "A",
+          "text": "380V"
+        },
+        {
+          "key": "B",
+          "text": "220V"
+        },
+        {
+          "key": "C",
+          "text": "660V"
+        },
+        {
+          "key": "D",
+          "text": "190V"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "三角形联结中Up=Ul,故相电压为380V。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q159",
+      "type": "single",
+      "stem": "三角形联结,相电流Ip=10A,该系统的线电流Il约为",
+      "options": [
+        {
+          "key": "A",
+          "text": "17.3A"
+        },
+        {
+          "key": "B",
+          "text": "10A"
+        },
+        {
+          "key": "C",
+          "text": "30A"
+        },
+        {
+          "key": "D",
+          "text": "5.77A"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "三角形联结Il=√3×Ip=1.732×10≈17.3A。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q160",
+      "type": "single",
+      "stem": "三角形联结,线电流Il=17.3A,该系统的相电流Ip约为",
+      "options": [
+        {
+          "key": "A",
+          "text": "10A"
+        },
+        {
+          "key": "B",
+          "text": "17.3A"
+        },
+        {
+          "key": "C",
+          "text": "30A"
+        },
+        {
+          "key": "D",
+          "text": "5.77A"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "三角形联结Ip=Il/√3=17.3/1.732≈10A。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q161",
+      "type": "single",
+      "stem": "三角形联结,相电流Ip=6A,该系统的线电流Il约为",
+      "options": [
+        {
+          "key": "A",
+          "text": "10.4A"
+        },
+        {
+          "key": "B",
+          "text": "6A"
+        },
+        {
+          "key": "C",
+          "text": "18A"
+        },
+        {
+          "key": "D",
+          "text": "3.46A"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "三角形联结Il=√3×Ip=1.732×6≈10.4A。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q162",
+      "type": "single",
+      "stem": "三角形联结,相电流Ip=20A,该系统的线电流Il约为",
+      "options": [
+        {
+          "key": "A",
+          "text": "34.6A"
+        },
+        {
+          "key": "B",
+          "text": "20A"
+        },
+        {
+          "key": "C",
+          "text": "60A"
+        },
+        {
+          "key": "D",
+          "text": "11.55A"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "三角形联结Il=√3×Ip=1.732×20≈34.6A。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q163",
+      "type": "single",
+      "stem": "对称三角形负载每相阻抗为38Ω,线电压(等于相电压)为380V,该负载的相电流为",
+      "options": [
+        {
+          "key": "A",
+          "text": "10A"
+        },
+        {
+          "key": "B",
+          "text": "3.8A"
+        },
+        {
+          "key": "C",
+          "text": "17.3A"
+        },
+        {
+          "key": "D",
+          "text": "100A"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "三角形联结相电压等于线电压380V,相电流Ip=Up/Z=380/38=10A。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q164",
+      "type": "single",
+      "stem": "沿用\"三角形负载相电流为10A\"的算例,该系统的线电流约为",
+      "options": [
+        {
+          "key": "A",
+          "text": "17.3A"
+        },
+        {
+          "key": "B",
+          "text": "10A"
+        },
+        {
+          "key": "C",
+          "text": "30A"
+        },
+        {
+          "key": "D",
+          "text": "20A"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "三角形联结Il=√3×Ip=1.732×10≈17.3A。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q165",
+      "type": "single",
+      "stem": "三相电路线电压Ul=380V,线电流Il=10A,功率因数cosφ=0.8,该电路的三相有功功率约为",
+      "options": [
+        {
+          "key": "A",
+          "text": "5266W"
+        },
+        {
+          "key": "B",
+          "text": "3040W"
+        },
+        {
+          "key": "C",
+          "text": "6080W"
+        },
+        {
+          "key": "D",
+          "text": "1755W"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "P=√3×Ul×Il×cosφ=1.732×380×10×0.8≈5266W。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q166",
+      "type": "single",
+      "stem": "三相电路线电压Ul=380V,线电流Il=5A,功率因数cosφ=1,该电路的三相有功功率约为",
+      "options": [
+        {
+          "key": "A",
+          "text": "3291W"
+        },
+        {
+          "key": "B",
+          "text": "1900V"
+        },
+        {
+          "key": "C",
+          "text": "2200W"
+        },
+        {
+          "key": "D",
+          "text": "3800W"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "P=√3×Ul×Il×cosφ=1.732×380×5×1≈3291W。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q167",
+      "type": "single",
+      "stem": "三相电路线电压Ul=380V,线电流Il=20A,功率因数cosφ=0.5,该电路的三相有功功率约为",
+      "options": [
+        {
+          "key": "A",
+          "text": "6582W"
+        },
+        {
+          "key": "B",
+          "text": "3800W"
+        },
+        {
+          "key": "C",
+          "text": "13160W"
+        },
+        {
+          "key": "D",
+          "text": "7600W"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "P=√3×Ul×Il×cosφ=1.732×380×20×0.5≈6582W。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q168",
+      "type": "single",
+      "stem": "对称三相星形负载,相电压220V,相电流10A,功率因数cosφ=0.85,该负载的三相有功功率为",
+      "options": [
+        {
+          "key": "A",
+          "text": "5610W"
+        },
+        {
+          "key": "B",
+          "text": "1870W"
+        },
+        {
+          "key": "C",
+          "text": "11220W"
+        },
+        {
+          "key": "D",
+          "text": "2200W"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "星形联结P=3×Up×Ip×cosφ=3×220×10×0.85=5610W。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q169",
+      "type": "single",
+      "stem": "对称三相星形负载,相电压220V,相电流5A,功率因数cosφ=1,该负载的三相有功功率为",
+      "options": [
+        {
+          "key": "A",
+          "text": "3300W"
+        },
+        {
+          "key": "B",
+          "text": "1100W"
+        },
+        {
+          "key": "C",
+          "text": "6600W"
+        },
+        {
+          "key": "D",
+          "text": "1650W"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "P=3×Up×Ip×cosφ=3×220×5×1=3300W。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q170",
+      "type": "single",
+      "stem": "对称三相三角形负载,相电压380V,相电流10A,功率因数cosφ=0.9,该负载的三相有功功率为",
+      "options": [
+        {
+          "key": "A",
+          "text": "10260W"
+        },
+        {
+          "key": "B",
+          "text": "3420W"
+        },
+        {
+          "key": "C",
+          "text": "20520W"
+        },
+        {
+          "key": "D",
+          "text": "5130W"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "P=3×Up×Ip×cosφ=3×380×10×0.9=10260W。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q171",
+      "type": "single",
+      "stem": "三相电路线电压Ul=380V,线电流Il=10A,功率因数cosφ=0.6,该电路的三相有功功率约为",
+      "options": [
+        {
+          "key": "A",
+          "text": "3949W"
+        },
+        {
+          "key": "B",
+          "text": "2280W"
+        },
+        {
+          "key": "C",
+          "text": "7898W"
+        },
+        {
+          "key": "D",
+          "text": "1975W"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "P=√3×Ul×Il×cosφ=1.732×380×10×0.6≈3949W。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q172",
+      "type": "single",
+      "stem": "对称三相电源三个相电压幅值相等、频率相同,相位依次相差",
+      "options": [
+        {
+          "key": "A",
+          "text": "120°"
+        },
+        {
+          "key": "B",
+          "text": "60°"
+        },
+        {
+          "key": "C",
+          "text": "90°"
+        },
+        {
+          "key": "D",
+          "text": "180°"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "对称三相电源的三相电压彼此相位依次相差120°。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q173",
+      "type": "single",
+      "stem": "对称三相星形负载正常运行时,中性线中的电流理论上为",
+      "options": [
+        {
+          "key": "A",
+          "text": "0A"
+        },
+        {
+          "key": "B",
+          "text": "等于线电流"
+        },
+        {
+          "key": "C",
+          "text": "等于相电流的3倍"
+        },
+        {
+          "key": "D",
+          "text": "无穷大"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "三相对称负载时,三相电流相加为零,中性线理论电流为零。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q174",
+      "type": "single",
+      "stem": "正相序(顺相序)中,A、B、C三相电压依次滞后",
+      "options": [
+        {
+          "key": "A",
+          "text": "120°"
+        },
+        {
+          "key": "B",
+          "text": "60°"
+        },
+        {
+          "key": "C",
+          "text": "90°"
+        },
+        {
+          "key": "D",
+          "text": "240°"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "正相序规定A相超前B相120°、B相超前C相120°,即依次滞后120°。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q175",
+      "type": "single",
+      "stem": "三相四线制系统中,应尽量将单相负载均匀分配到三相上,其主要目的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "使三相负载尽量对称,减小中性线电流"
+        },
+        {
+          "key": "B",
+          "text": "提高线电压数值"
+        },
+        {
+          "key": "C",
+          "text": "降低相电压数值"
+        },
+        {
+          "key": "D",
+          "text": "减少变压器台数"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "负载均匀分配可使三相尽量对称,从而减小中性线电流,降低线路损耗、提升供电质量。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q176",
+      "type": "single",
+      "stem": "三相三线制通常用于",
+      "options": [
+        {
+          "key": "A",
+          "text": "三相对称负载,如三相电动机等动力负载"
+        },
+        {
+          "key": "B",
+          "text": "以单相照明为主的负载场合"
+        },
+        {
+          "key": "C",
+          "text": "负载严重不对称且需要中性线的场合"
+        },
+        {
+          "key": "D",
+          "text": "以上都不是"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "三相三线制没有中性线,适合三相对称的动力负载,如三相电动机。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q177",
+      "type": "single",
+      "stem": "三相电路功率公式P=√3×Ul×Il×cosφ中,cosφ是指",
+      "options": [
+        {
+          "key": "A",
+          "text": "每相负载的功率因数角(相电压与相电流之间的夹角)"
+        },
+        {
+          "key": "B",
+          "text": "线电压与线电流之间的夹角"
+        },
+        {
+          "key": "C",
+          "text": "与频率有关的常数"
+        },
+        {
+          "key": "D",
+          "text": "三相电源内部的固定夹角"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "公式中的φ本质上是每相负载相电压与相电流之间的相位差,即每相负载的功率因数角。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q178",
+      "type": "multiple",
+      "stem": "关于对称三相电源,正确的说法是",
+      "options": [
+        {
+          "key": "A",
+          "text": "三个相电压幅值相等"
+        },
+        {
+          "key": "B",
+          "text": "频率相同"
+        },
+        {
+          "key": "C",
+          "text": "相位依次相差120°"
+        },
+        {
+          "key": "D",
+          "text": "瞬时值之和恒为零"
+        },
+        {
+          "key": "E",
+          "text": "相位依次相差90°"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "对称三相电源三相电压幅值相等、频率相同、相位依次相差120°,任意时刻三相瞬时值之和为零,故E错误。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q179",
+      "type": "multiple",
+      "stem": "关于星形(Y)联结,正确的说法是",
+      "options": [
+        {
+          "key": "A",
+          "text": "线电压是相电压的√3倍"
+        },
+        {
+          "key": "B",
+          "text": "线电流等于相电流"
+        },
+        {
+          "key": "C",
+          "text": "对称负载下中性线电流为零"
+        },
+        {
+          "key": "D",
+          "text": "三相四线制可同时提供线电压和相电压"
+        },
+        {
+          "key": "E",
+          "text": "相电压是线电压的√3倍"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "星形联结Ul=√3Up,故相电压是线电压的1/√3倍而非√3倍,E错误。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q180",
+      "type": "multiple",
+      "stem": "关于三角形(Δ)联结,正确的说法是",
+      "options": [
+        {
+          "key": "A",
+          "text": "相电压等于线电压"
+        },
+        {
+          "key": "B",
+          "text": "线电流是相电流的√3倍"
+        },
+        {
+          "key": "C",
+          "text": "没有中性线"
+        },
+        {
+          "key": "D",
+          "text": "常用于三相对称的动力负载"
+        },
+        {
+          "key": "E",
+          "text": "相电流是线电流的√3倍"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "三角形联结Il=√3Ip,故E(相电流是线电流的√3倍)描述与实际相反,错误。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q181",
+      "type": "multiple",
+      "stem": "关于三相电路中性线的作用,正确的说法是",
+      "options": [
+        {
+          "key": "A",
+          "text": "保证不对称负载下各相电压尽量对称"
+        },
+        {
+          "key": "B",
+          "text": "为单相负载提供电流回路"
+        },
+        {
+          "key": "C",
+          "text": "中性线上通常不允许装设总熔断器或总开关(以免断开后引发严重过欠压)"
+        },
+        {
+          "key": "D",
+          "text": "对称三相负载下理论上中性线电流为零"
+        },
+        {
+          "key": "E",
+          "text": "三角形联结电路必须使用中性线"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "三角形联结本身没有中性线,故E错误;其余选项均是中性线的正确认识。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q182",
+      "type": "multiple",
+      "stem": "三相电路功率计算,正确的说法是",
+      "options": [
+        {
+          "key": "A",
+          "text": "对称三相电路总有功功率P=√3×Ul×Il×cosφ"
+        },
+        {
+          "key": "B",
+          "text": "总无功功率Q=√3×Ul×Il×sinφ"
+        },
+        {
+          "key": "C",
+          "text": "总视在功率S=√3×Ul×Il"
+        },
+        {
+          "key": "D",
+          "text": "公式中的φ是相电压与相电流之间的相位差"
+        },
+        {
+          "key": "E",
+          "text": "公式中的φ是线电压与线电流之间的相位差"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "公式中的功率因数角φ本质上是每相负载相电压、相电流间的夹角,而非线电压与线电流的夹角,故E错误。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q183",
+      "type": "multiple",
+      "stem": "三相负载不对称且中性线断开时,可能出现的现象包括",
+      "options": [
+        {
+          "key": "A",
+          "text": "各相电压不再对称"
+        },
+        {
+          "key": "B",
+          "text": "部分相电压升高、部分降低"
+        },
+        {
+          "key": "C",
+          "text": "可能损坏用电设备"
+        },
+        {
+          "key": "D",
+          "text": "总功率仍可直接套用对称三相功率公式计算"
+        },
+        {
+          "key": "E",
+          "text": "各相负载工作状态受到不同程度的影响"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "analysis": "负载不对称时不能再直接套用对称三相电路的简化功率公式,需要分相计算,故D错误。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q184",
+      "type": "multiple",
+      "stem": "关于三相异步电动机常用的电源接线方式,正确的说法是",
+      "options": [
+        {
+          "key": "A",
+          "text": "电动机绕组可根据额定电压接成星形或三角形"
+        },
+        {
+          "key": "B",
+          "text": "相同线电压下,星形联结相电压较低,三角形联结相电压较高"
+        },
+        {
+          "key": "C",
+          "text": "Y-Δ降压启动利用了两种接法下相电压不同的特点"
+        },
+        {
+          "key": "D",
+          "text": "三角形联结时相电压等于线电压"
+        },
+        {
+          "key": "E",
+          "text": "星形联结时相电压等于线电压"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "星形联结相电压为线电压的1/√3,并不等于线电压,故E错误。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q185",
+      "type": "multiple",
+      "stem": "关于相序的说法,正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "相序指三相电压到达最大值的先后次序"
+        },
+        {
+          "key": "B",
+          "text": "正相序也称顺相序"
+        },
+        {
+          "key": "C",
+          "text": "相序会影响三相电动机的旋转方向"
+        },
+        {
+          "key": "D",
+          "text": "将任意两相接线对调可以改变相序"
+        },
+        {
+          "key": "E",
+          "text": "相序不影响三相电动机运行"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "改变相序会改变旋转磁场方向,从而改变电动机转向,故E错误。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q186",
+      "type": "multiple",
+      "stem": "关于对称三相电路的分析方法,正确的说法是",
+      "options": [
+        {
+          "key": "A",
+          "text": "通常可取一相进行计算,其余两相按对称关系类推"
+        },
+        {
+          "key": "B",
+          "text": "星形联结可直接用相电压、相电流分析"
+        },
+        {
+          "key": "C",
+          "text": "三角形负载在计算时可等效变换为星形负载以简化分析"
+        },
+        {
+          "key": "D",
+          "text": "不对称三相电路也可完全套用对称三相电路的简化公式"
+        },
+        {
+          "key": "E",
+          "text": "以上说法都不对"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "不对称三相电路一般不能直接套用对称三相电路的简化公式,需具体分相分析,故D错误。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q187",
+      "type": "multiple",
+      "stem": "关于线电压、相电压、线电流、相电流的定义,正确的说法是",
+      "options": [
+        {
+          "key": "A",
+          "text": "线电压指两根相线之间的电压"
+        },
+        {
+          "key": "B",
+          "text": "相电压指相线与中性线之间的电压"
+        },
+        {
+          "key": "C",
+          "text": "线电流指线路上流过的电流"
+        },
+        {
+          "key": "D",
+          "text": "相电流指每相负载(或绕组)中流过的电流"
+        },
+        {
+          "key": "E",
+          "text": "在任何联结方式下线电流恒等于相电流"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "仅在星形联结时线电流等于相电流,三角形联结时二者不相等,故E错误。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q188",
+      "type": "judge",
+      "stem": "三相四线制中,星形联结的线电压是相电压的√3倍。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "星形联结Ul=√3Up,是三相电路的基本关系之一。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q189",
+      "type": "judge",
+      "stem": "三角形联结中,线电流是相电流的√3倍。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "三角形联结Il=√3Ip。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q190",
+      "type": "judge",
+      "stem": "三角形联结电路中存在中性线。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "三角形联结的三个绕组(或负载)首尾相接构成闭合回路,没有中性点,故不存在中性线。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q191",
+      "type": "judge",
+      "stem": "对称三相负载星形联结时,中性线中理论电流为零,可以省去中性线(即采用三相三线制)。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "负载完全对称时三相电流相加为零,中性线可以省略。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q192",
+      "type": "judge",
+      "stem": "相序即三相电压幅值到达最大值的先后顺序,常见有正相序和负相序两种。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "相序描述三相电压到达最大值的先后次序,分为正相序(顺序)和负相序(逆序)。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q193",
+      "type": "judge",
+      "stem": "三相不对称负载采用星形联结且中性线断开时,各相电压仍能保持对称。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "中性线断开后失去均压作用,不对称负载下各相电压会出现明显偏移。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q194",
+      "type": "judge",
+      "stem": "在对称稳态运行条件下,三相电路的总瞬时功率是恒定值,不随时间变化。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "对称三相电路中三相瞬时功率之和为常数,这是三相电路相对单相电路的一大优点。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q195",
+      "type": "judge",
+      "stem": "三相异步电动机改变旋转方向,只需任意调换两根电源相线的接线顺序即可。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "调换任意两相接线可改变旋转磁场方向,从而改变电动机转向。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q196",
+      "type": "fill",
+      "stem": "对称三相电源中,各相电压的相位依次相差___°。",
+      "options": [],
+      "answer": [
+        "120"
+      ],
+      "analysis": "对称三相电源的三相电压彼此相位依次相差120°。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q197",
+      "type": "fill",
+      "stem": "星形联结中,线电压是相电压的___倍。",
+      "options": [],
+      "answer": [
+        "√3"
+      ],
+      "analysis": "星形联结的基本关系式为Ul=√3×Up。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q198",
+      "type": "fill",
+      "stem": "三角形联结中,线电流是相电流的___倍。",
+      "options": [],
+      "answer": [
+        "√3"
+      ],
+      "analysis": "三角形联结的基本关系式为Il=√3×Ip。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q199",
+      "type": "fill",
+      "stem": "三相电路的相序分为正相序和___相序。",
+      "options": [],
+      "answer": [
+        "负"
+      ],
+      "analysis": "相序按三相电压到达最大值的先后顺序分为正相序(顺序)和负相序(逆序)。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q200",
+      "type": "fill",
+      "stem": "对称三相电路的总有功功率计算公式为P=___×Ul×Il×cosφ。",
+      "options": [],
+      "answer": [
+        "√3"
+      ],
+      "analysis": "对称三相电路(不论星形还是三角形联结)总有功功率均可写为P=√3×Ul×Il×cosφ。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q201",
+      "type": "single",
+      "stem": "变压器一次绕组匝数N1=1000匝,二次绕组N2=100匝,一次电压U1=220V,二次电压U2为",
+      "options": [
+        {
+          "key": "A",
+          "text": "22V"
+        },
+        {
+          "key": "B",
+          "text": "2200V"
+        },
+        {
+          "key": "C",
+          "text": "220V"
+        },
+        {
+          "key": "D",
+          "text": "44V"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "理想变压器U2=U1×(N2/N1)=220×(100/1000)=22V。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q202",
+      "type": "single",
+      "stem": "变压器匝数比k=N1/N2=10,一次电压U1=220V,二次电压U2为",
+      "options": [
+        {
+          "key": "A",
+          "text": "22V"
+        },
+        {
+          "key": "B",
+          "text": "2200V"
+        },
+        {
+          "key": "C",
+          "text": "110V"
+        },
+        {
+          "key": "D",
+          "text": "44V"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "U2=U1/k=220/10=22V。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q203",
+      "type": "single",
+      "stem": "变压器二次电压U2=110V,匝数比k=N1/N2=2,一次电压U1为",
+      "options": [
+        {
+          "key": "A",
+          "text": "220V"
+        },
+        {
+          "key": "B",
+          "text": "55V"
+        },
+        {
+          "key": "C",
+          "text": "440V"
+        },
+        {
+          "key": "D",
+          "text": "330V"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "U1=U2×k=110×2=220V。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q204",
+      "type": "single",
+      "stem": "理想变压器一次电压U1=380V,二次电压U2=38V,该变压器的匝数比k=N1/N2为",
+      "options": [
+        {
+          "key": "A",
+          "text": "10"
+        },
+        {
+          "key": "B",
+          "text": "0.1"
+        },
+        {
+          "key": "C",
+          "text": "100"
+        },
+        {
+          "key": "D",
+          "text": "20"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "k=U1/U2=380/38=10。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q205",
+      "type": "single",
+      "stem": "变压器二次电流I2=5A,匝数比k=N1/N2=4,一次电流I1为",
+      "options": [
+        {
+          "key": "A",
+          "text": "1.25A"
+        },
+        {
+          "key": "B",
+          "text": "20A"
+        },
+        {
+          "key": "C",
+          "text": "5A"
+        },
+        {
+          "key": "D",
+          "text": "2.5A"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "理想变压器I1/I2=N2/N1=1/k,I1=I2/k=5/4=1.25A。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q206",
+      "type": "single",
+      "stem": "变压器一次电流I1=2A,匝数比k=N1/N2=5,二次电流I2为",
+      "options": [
+        {
+          "key": "A",
+          "text": "10A"
+        },
+        {
+          "key": "B",
+          "text": "0.4A"
+        },
+        {
+          "key": "C",
+          "text": "5A"
+        },
+        {
+          "key": "D",
+          "text": "20A"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "I2=I1×k=2×5=10A。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q207",
+      "type": "single",
+      "stem": "变压器N1=500匝,N2=50匝,一次电流I1=1A,二次电流I2为",
+      "options": [
+        {
+          "key": "A",
+          "text": "10A"
+        },
+        {
+          "key": "B",
+          "text": "0.1A"
+        },
+        {
+          "key": "C",
+          "text": "5A"
+        },
+        {
+          "key": "D",
+          "text": "20A"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "k=N1/N2=10,I2=I1×k=1×10=10A。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q208",
+      "type": "single",
+      "stem": "某变压器额定容量S=10kVA,一次额定电压U1=220V,该变压器一次额定电流约为",
+      "options": [
+        {
+          "key": "A",
+          "text": "45.5A"
+        },
+        {
+          "key": "B",
+          "text": "22.7A"
+        },
+        {
+          "key": "C",
+          "text": "90.9A"
+        },
+        {
+          "key": "D",
+          "text": "4.55A"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "I1=S/U1=10000/220≈45.5A。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q209",
+      "type": "single",
+      "stem": "变压器输入功率为1000W,输出功率为950W,该变压器的效率为",
+      "options": [
+        {
+          "key": "A",
+          "text": "95%"
+        },
+        {
+          "key": "B",
+          "text": "90%"
+        },
+        {
+          "key": "C",
+          "text": "105%"
+        },
+        {
+          "key": "D",
+          "text": "50%"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "效率η=输出功率/输入功率×100%=950/1000×100%=95%。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q210",
+      "type": "single",
+      "stem": "变压器输出功率为2000W,总损耗为100W,该变压器的效率约为",
+      "options": [
+        {
+          "key": "A",
+          "text": "95.2%"
+        },
+        {
+          "key": "B",
+          "text": "90.9%"
+        },
+        {
+          "key": "C",
+          "text": "105%"
+        },
+        {
+          "key": "D",
+          "text": "52.6%"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "输入功率=输出功率+损耗=2100W,η=2000/2100×100%≈95.2%。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q211",
+      "type": "single",
+      "stem": "变压器空载运行时,一次侧仍从电源吸收的功率主要用于补偿",
+      "options": [
+        {
+          "key": "A",
+          "text": "铁芯损耗(铁损)"
+        },
+        {
+          "key": "B",
+          "text": "绕组铜损"
+        },
+        {
+          "key": "C",
+          "text": "负载所消耗的功率"
+        },
+        {
+          "key": "D",
+          "text": "以上都不是"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "空载时二次侧无电流,铜损极小,一次侧吸收的功率主要用来补偿铁芯的磁滞、涡流损耗(铁损)。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q212",
+      "type": "single",
+      "stem": "变压器负载运行时,一次、二次绕组电阻上产生的损耗称为",
+      "options": [
+        {
+          "key": "A",
+          "text": "铜损"
+        },
+        {
+          "key": "B",
+          "text": "铁损"
+        },
+        {
+          "key": "C",
+          "text": "附加损耗"
+        },
+        {
+          "key": "D",
+          "text": "空载损耗"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "绕组电阻上产生的I²R损耗称为铜损,随负载电流增大而增大。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q213",
+      "type": "single",
+      "stem": "变压器效率一般定义为输出功率与下列哪项之比",
+      "options": [
+        {
+          "key": "A",
+          "text": "输入功率"
+        },
+        {
+          "key": "B",
+          "text": "额定容量"
+        },
+        {
+          "key": "C",
+          "text": "短路损耗"
+        },
+        {
+          "key": "D",
+          "text": "视在功率"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "变压器效率η=输出功率/输入功率×100%。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q214",
+      "type": "single",
+      "stem": "变压器容量单位一般用kVA(伏安)而不用kW表示,主要是因为",
+      "options": [
+        {
+          "key": "A",
+          "text": "容量(视在功率)大小与负载功率因数无关,更能反映设备的容量能力"
+        },
+        {
+          "key": "B",
+          "text": "容量本身就是有功功率"
+        },
+        {
+          "key": "C",
+          "text": "kW单位不能用于交流电路"
+        },
+        {
+          "key": "D",
+          "text": "这只是历史习惯,没有实际意义"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "变压器铭牌上的额定容量是视在功率,不随负载功率因数变化,能客观反映设备能提供的容量上限。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q215",
+      "type": "single",
+      "stem": "某变压器输入功率为5.5kW,输出功率为5kW,该变压器的总损耗为",
+      "options": [
+        {
+          "key": "A",
+          "text": "0.5kW"
+        },
+        {
+          "key": "B",
+          "text": "0.55kW"
+        },
+        {
+          "key": "C",
+          "text": "10.5kW"
+        },
+        {
+          "key": "D",
+          "text": "5kW"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "损耗=输入功率-输出功率=5.5-5=0.5kW。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q216",
+      "type": "single",
+      "stem": "电网频率f=50Hz,电动机磁极对数p=1,该电动机的同步转速n1为",
+      "options": [
+        {
+          "key": "A",
+          "text": "3000r/min"
+        },
+        {
+          "key": "B",
+          "text": "1500r/min"
+        },
+        {
+          "key": "C",
+          "text": "6000r/min"
+        },
+        {
+          "key": "D",
+          "text": "1000r/min"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "n1=60f/p=60×50/1=3000r/min。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q217",
+      "type": "single",
+      "stem": "电网频率f=50Hz,电动机磁极对数p=2,该电动机的同步转速n1为",
+      "options": [
+        {
+          "key": "A",
+          "text": "1500r/min"
+        },
+        {
+          "key": "B",
+          "text": "3000r/min"
+        },
+        {
+          "key": "C",
+          "text": "750r/min"
+        },
+        {
+          "key": "D",
+          "text": "1000r/min"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "n1=60f/p=60×50/2=1500r/min。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q218",
+      "type": "single",
+      "stem": "电网频率f=50Hz,电动机磁极对数p=3,该电动机的同步转速n1为",
+      "options": [
+        {
+          "key": "A",
+          "text": "1000r/min"
+        },
+        {
+          "key": "B",
+          "text": "2000r/min"
+        },
+        {
+          "key": "C",
+          "text": "500r/min"
+        },
+        {
+          "key": "D",
+          "text": "1500r/min"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "n1=60f/p=60×50/3=1000r/min。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q219",
+      "type": "single",
+      "stem": "电网频率f=50Hz,电动机磁极对数p=4,该电动机的同步转速n1为",
+      "options": [
+        {
+          "key": "A",
+          "text": "750r/min"
+        },
+        {
+          "key": "B",
+          "text": "1500r/min"
+        },
+        {
+          "key": "C",
+          "text": "375r/min"
+        },
+        {
+          "key": "D",
+          "text": "1000r/min"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "n1=60f/p=60×50/4=750r/min。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q220",
+      "type": "single",
+      "stem": "已知某电动机同步转速n1=1000r/min,电网频率f=50Hz,该电动机的磁极对数p为",
+      "options": [
+        {
+          "key": "A",
+          "text": "3"
+        },
+        {
+          "key": "B",
+          "text": "6"
+        },
+        {
+          "key": "C",
+          "text": "1"
+        },
+        {
+          "key": "D",
+          "text": "2"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "p=60f/n1=60×50/1000=3。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q221",
+      "type": "single",
+      "stem": "已知某电动机同步转速n1=1500r/min,电网频率f=50Hz,该电动机的磁极对数p为",
+      "options": [
+        {
+          "key": "A",
+          "text": "2"
+        },
+        {
+          "key": "B",
+          "text": "4"
+        },
+        {
+          "key": "C",
+          "text": "1"
+        },
+        {
+          "key": "D",
+          "text": "3"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "p=60f/n1=60×50/1500=2。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q222",
+      "type": "single",
+      "stem": "电动机同步转速n1=1500r/min,转子实际转速n=1440r/min,该电动机的转差率s为",
+      "options": [
+        {
+          "key": "A",
+          "text": "4%"
+        },
+        {
+          "key": "B",
+          "text": "40%"
+        },
+        {
+          "key": "C",
+          "text": "96%"
+        },
+        {
+          "key": "D",
+          "text": "0.4%"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "s=(n1-n)/n1=(1500-1440)/1500=60/1500=0.04=4%。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q223",
+      "type": "single",
+      "stem": "电动机同步转速n1=3000r/min,转子实际转速n=2880r/min,该电动机的转差率s为",
+      "options": [
+        {
+          "key": "A",
+          "text": "4%"
+        },
+        {
+          "key": "B",
+          "text": "40%"
+        },
+        {
+          "key": "C",
+          "text": "1.2%"
+        },
+        {
+          "key": "D",
+          "text": "96%"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "s=(n1-n)/n1=(3000-2880)/3000=120/3000=0.04=4%。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q224",
+      "type": "single",
+      "stem": "电动机同步转速n1=1000r/min,转子实际转速n=950r/min,该电动机的转差率s为",
+      "options": [
+        {
+          "key": "A",
+          "text": "5%"
+        },
+        {
+          "key": "B",
+          "text": "50%"
+        },
+        {
+          "key": "C",
+          "text": "95%"
+        },
+        {
+          "key": "D",
+          "text": "0.5%"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "s=(n1-n)/n1=(1000-950)/1000=50/1000=0.05=5%。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q225",
+      "type": "single",
+      "stem": "已知电动机转差率s=0.05,同步转速n1=1500r/min,该电动机转子实际转速n为",
+      "options": [
+        {
+          "key": "A",
+          "text": "1425r/min"
+        },
+        {
+          "key": "B",
+          "text": "1575r/min"
+        },
+        {
+          "key": "C",
+          "text": "75r/min"
+        },
+        {
+          "key": "D",
+          "text": "1500r/min"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "n=n1×(1-s)=1500×(1-0.05)=1425r/min。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q226",
+      "type": "single",
+      "stem": "已知电动机转差率s=0.04,同步转速n1=3000r/min,该电动机转子实际转速n为",
+      "options": [
+        {
+          "key": "A",
+          "text": "2880r/min"
+        },
+        {
+          "key": "B",
+          "text": "3120r/min"
+        },
+        {
+          "key": "C",
+          "text": "120r/min"
+        },
+        {
+          "key": "D",
+          "text": "3000r/min"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "n=n1×(1-s)=3000×(1-0.04)=2880r/min。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q227",
+      "type": "single",
+      "stem": "三相异步电动机启动瞬间转子转速n=0,此时的转差率s为",
+      "options": [
+        {
+          "key": "A",
+          "text": "100%"
+        },
+        {
+          "key": "B",
+          "text": "0%"
+        },
+        {
+          "key": "C",
+          "text": "50%"
+        },
+        {
+          "key": "D",
+          "text": "200%"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "s=(n1-n)/n1=(n1-0)/n1=1=100%,即启动瞬间转差率最大。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q228",
+      "type": "multiple",
+      "stem": "变压器的基本工作原理,正确的说法是",
+      "options": [
+        {
+          "key": "A",
+          "text": "基于电磁感应原理"
+        },
+        {
+          "key": "B",
+          "text": "一次绕组接交流电源产生交变磁通"
+        },
+        {
+          "key": "C",
+          "text": "交变磁通通过铁芯耦合到二次绕组感应出电动势"
+        },
+        {
+          "key": "D",
+          "text": "变压器可以直接变换直流电压"
+        },
+        {
+          "key": "E",
+          "text": "变压器只能用于交流电路"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "analysis": "直流电不能产生交变磁通,理想变压器无法变换直流电压,故D错误。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q229",
+      "type": "multiple",
+      "stem": "关于理想变压器的变比关系,正确的说法是",
+      "options": [
+        {
+          "key": "A",
+          "text": "电压比等于匝数比U1/U2=N1/N2"
+        },
+        {
+          "key": "B",
+          "text": "电流比与匝数比成反比I1/I2=N2/N1"
+        },
+        {
+          "key": "C",
+          "text": "忽略损耗时,一次、二次视在功率近似相等"
+        },
+        {
+          "key": "D",
+          "text": "阻抗变换关系为Z1'=k²Z2"
+        },
+        {
+          "key": "E",
+          "text": "功率比等于匝数比"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "理想变压器不消耗功率,一次、二次功率相等而非成匝数比关系,故E错误。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q230",
+      "type": "multiple",
+      "stem": "关于变压器的损耗,正确的说法是",
+      "options": [
+        {
+          "key": "A",
+          "text": "铁损(铁芯损耗)主要与磁滞和涡流有关,基本不随负载电流变化"
+        },
+        {
+          "key": "B",
+          "text": "铜损(绕组损耗)与负载电流的平方成正比"
+        },
+        {
+          "key": "C",
+          "text": "空载损耗主要是铜损"
+        },
+        {
+          "key": "D",
+          "text": "额定负载下的损耗包括铁损和铜损"
+        },
+        {
+          "key": "E",
+          "text": "效率一般随负载变化,存在最高效率点"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "analysis": "空载时二次电流为零,铜损很小,空载损耗主要是铁损而非铜损,故C错误。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q231",
+      "type": "multiple",
+      "stem": "关于三相异步电动机的基本工作原理,正确的说法是",
+      "options": [
+        {
+          "key": "A",
+          "text": "定子绕组通入三相交流电产生旋转磁场"
+        },
+        {
+          "key": "B",
+          "text": "旋转磁场切割转子导体产生感应电动势和电流"
+        },
+        {
+          "key": "C",
+          "text": "转子电流与旋转磁场相互作用产生电磁转矩"
+        },
+        {
+          "key": "D",
+          "text": "转子转速可以达到或超过同步转速(电动状态下)"
+        },
+        {
+          "key": "E",
+          "text": "电动状态下转子转速恒小于同步转速"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "analysis": "异步电动机依靠转差产生转矩,电动运行时转子转速必然小于同步转速,故D错误。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q232",
+      "type": "multiple",
+      "stem": "关于三相异步电动机的同步转速,正确的说法是",
+      "options": [
+        {
+          "key": "A",
+          "text": "n1=60f/p"
+        },
+        {
+          "key": "B",
+          "text": "与电源频率成正比"
+        },
+        {
+          "key": "C",
+          "text": "与磁极对数成反比"
+        },
+        {
+          "key": "D",
+          "text": "等于转子实际转速"
+        },
+        {
+          "key": "E",
+          "text": "是定子旋转磁场的转速"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "analysis": "同步转速是旋转磁场的转速,而转子实际转速因转差恒低于同步转速,故D错误。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q233",
+      "type": "multiple",
+      "stem": "关于三相异步电动机的转差率s,正确的说法是",
+      "options": [
+        {
+          "key": "A",
+          "text": "s=(n1-n)/n1"
+        },
+        {
+          "key": "B",
+          "text": "启动瞬间s=1"
+        },
+        {
+          "key": "C",
+          "text": "额定运行时s一般较小(通常百分之几)"
+        },
+        {
+          "key": "D",
+          "text": "s越大转子电流(及转矩)通常越大"
+        },
+        {
+          "key": "E",
+          "text": "s在正常电动运行范围内可以为负值"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "电动运行状态下转差率s取值范围为0<s<1,不会为负值(s为负对应发电状态),故E错误。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q234",
+      "type": "multiple",
+      "stem": "关于三相异步电动机的调速/启动方法,正确的说法是",
+      "options": [
+        {
+          "key": "A",
+          "text": "降压启动可减小启动电流"
+        },
+        {
+          "key": "B",
+          "text": "Y-Δ启动是常用的一种降压启动方式"
+        },
+        {
+          "key": "C",
+          "text": "变频调速可平滑调节转速"
+        },
+        {
+          "key": "D",
+          "text": "改变磁极对数可以实现有级调速"
+        },
+        {
+          "key": "E",
+          "text": "异步电动机在任何情况下都不能反转"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "调换任意两相电源接线即可实现异步电动机反转,故E错误。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q235",
+      "type": "multiple",
+      "stem": "关于直流电动机的基本工作原理,正确的说法是",
+      "options": [
+        {
+          "key": "A",
+          "text": "基于载流导体在磁场中受到电磁力(安培力)的作用"
+        },
+        {
+          "key": "B",
+          "text": "需要通过电刷和换向器实现电枢电流方向的转换"
+        },
+        {
+          "key": "C",
+          "text": "励磁方式可分为他励、并励、串励、复励"
+        },
+        {
+          "key": "D",
+          "text": "不需要励磁绕组或永磁体产生磁场"
+        },
+        {
+          "key": "E",
+          "text": "电磁转矩的方向可由左手定则判断"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "analysis": "直流电动机需要励磁绕组(或永磁体)建立主磁场,才能与电枢电流相互作用产生转矩,故D错误。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q236",
+      "type": "multiple",
+      "stem": "关于变压器空载运行,正确的说法是",
+      "options": [
+        {
+          "key": "A",
+          "text": "二次绕组开路,不向外输出功率"
+        },
+        {
+          "key": "B",
+          "text": "一次侧仍有励磁电流流过"
+        },
+        {
+          "key": "C",
+          "text": "励磁电流用于建立主磁通"
+        },
+        {
+          "key": "D",
+          "text": "空载电流通常远小于额定电流"
+        },
+        {
+          "key": "E",
+          "text": "空载时一次侧电流为零"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "空载时一次侧仍需通入较小的励磁电流以建立主磁通,并非为零,故E错误。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q237",
+      "type": "multiple",
+      "stem": "关于变压器铭牌额定值,正确的说法是",
+      "options": [
+        {
+          "key": "A",
+          "text": "铭牌标注额定容量、额定电压、额定电流等参数"
+        },
+        {
+          "key": "B",
+          "text": "额定容量单位为kVA"
+        },
+        {
+          "key": "C",
+          "text": "额定电流可由额定容量与额定电压计算得到"
+        },
+        {
+          "key": "D",
+          "text": "额定值是设计和使用中的重要依据"
+        },
+        {
+          "key": "E",
+          "text": "额定容量与负载功率因数无关(以视在功率表示)"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "analysis": "铭牌参数是变压器安全经济运行的重要依据,额定容量以视在功率(kVA)表示,与负载功率因数无关。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q238",
+      "type": "judge",
+      "stem": "变压器只能变换交流电压,不能变换直流电压。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "变压器依靠交变磁通的电磁感应工作,直流电不产生交变磁通,无法通过变压器变换电压。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q239",
+      "type": "judge",
+      "stem": "变压器的电压比等于一次、二次绕组的匝数比。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "理想变压器U1/U2=N1/N2。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q240",
+      "type": "judge",
+      "stem": "变压器的空载损耗主要是铜损。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "空载时二次电流很小,铜损可忽略,空载损耗主要是铁损。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q241",
+      "type": "judge",
+      "stem": "三相异步电动机转子的实际转速在电动运行状态下恒小于同步转速。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "异步电动机依靠转差(旋转磁场与转子的相对运动)产生感应电流和转矩,故转子转速恒小于同步转速。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q242",
+      "type": "judge",
+      "stem": "三相异步电动机的转差率s在启动瞬间等于1。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "启动瞬间转子转速n=0,s=(n1-0)/n1=1。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q243",
+      "type": "judge",
+      "stem": "三相异步电动机的同步转速只与电源频率有关,与电动机磁极对数无关。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "同步转速n1=60f/p,同时与电源频率f和磁极对数p有关。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q244",
+      "type": "judge",
+      "stem": "Y-Δ降压启动是通过降低电动机绕组所承受的相电压来减小启动电流的一种方法。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "Y联结时绕组相电压为三角形联结时的1/√3,从而降低启动电流,待转速上升后再切换为三角形运行。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q245",
+      "type": "judge",
+      "stem": "直流电动机依靠电刷和换向器实现电枢电流方向的转换,从而产生持续单方向的电磁转矩。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "换向器和电刷配合,使电枢导体中的电流方向随位置变化而切换,保证合成转矩方向恒定。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q246",
+      "type": "fill",
+      "stem": "变压器的电压比等于一次、二次绕组的___之比。",
+      "options": [],
+      "answer": [
+        "匝数"
+      ],
+      "analysis": "理想变压器电压比等于匝数比,U1/U2=N1/N2。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q247",
+      "type": "fill",
+      "stem": "三相异步电动机的同步转速公式为n1=___。",
+      "options": [],
+      "answer": [
+        "60f/p"
+      ],
+      "analysis": "同步转速由电源频率f和磁极对数p决定,n1=60f/p。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q248",
+      "type": "fill",
+      "stem": "三相异步电动机的转差率定义式为s=___。",
+      "options": [],
+      "answer": [
+        "(n1-n)/n1"
+      ],
+      "analysis": "转差率表示转子转速n相对同步转速n1的落后程度。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q249",
+      "type": "fill",
+      "stem": "变压器运行中,由磁滞和涡流引起的损耗称为___损耗。",
+      "options": [],
+      "answer": [
+        "铁"
+      ],
+      "analysis": "铁芯中的磁滞损耗和涡流损耗合称为铁损。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q250",
+      "type": "fill",
+      "stem": "三相异步电动机常用的降压启动方式之一是___启动。",
+      "options": [],
+      "answer": [
+        "Y-Δ(星形-三角形)"
+      ],
+      "analysis": "Y-Δ启动通过启动时接成星形、运行时切换为三角形来降低启动电流。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q251",
+      "type": "single",
+      "stem": "硅二极管的正向导通压降通常约为",
+      "options": [
+        {
+          "key": "A",
+          "text": "0.7V"
+        },
+        {
+          "key": "B",
+          "text": "0.3V"
+        },
+        {
+          "key": "C",
+          "text": "1.5V"
+        },
+        {
+          "key": "D",
+          "text": "3V"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "硅材料PN结的正向导通压降通常约为0.6~0.7V,工程上常取0.7V。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q252",
+      "type": "single",
+      "stem": "锗二极管的正向导通压降通常约为",
+      "options": [
+        {
+          "key": "A",
+          "text": "0.3V"
+        },
+        {
+          "key": "B",
+          "text": "0.7V"
+        },
+        {
+          "key": "C",
+          "text": "1V"
+        },
+        {
+          "key": "D",
+          "text": "2V"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "锗材料PN结的正向导通压降较低,通常约为0.2~0.3V,工程上常取0.3V。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q253",
+      "type": "single",
+      "stem": "二极管正向偏置时,外加电场与PN结内电场的关系是",
+      "options": [
+        {
+          "key": "A",
+          "text": "外加电场削弱内电场,使扩散运动增强"
+        },
+        {
+          "key": "B",
+          "text": "外加电场加强内电场,使扩散运动减弱"
+        },
+        {
+          "key": "C",
+          "text": "外加电场与内电场完全无关"
+        },
+        {
+          "key": "D",
+          "text": "内电场消失,只剩外电场"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "正向偏置时外加电压方向与内电场方向相反,削弱内电场,使多数载流子扩散运动增强,形成较大正向电流。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q254",
+      "type": "single",
+      "stem": "硅二极管的反向饱和电流一般处于",
+      "options": [
+        {
+          "key": "A",
+          "text": "微安级甚至更小"
+        },
+        {
+          "key": "B",
+          "text": "安培级"
+        },
+        {
+          "key": "C",
+          "text": "毫安级"
+        },
+        {
+          "key": "D",
+          "text": "千安级"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "硅二极管反向偏置时,少数载流子形成的反向饱和电流很小,通常为微安级或更小。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q255",
+      "type": "single",
+      "stem": "稳压二极管正常工作时应处于",
+      "options": [
+        {
+          "key": "A",
+          "text": "反向击穿区"
+        },
+        {
+          "key": "B",
+          "text": "正向导通区"
+        },
+        {
+          "key": "C",
+          "text": "截止区(不导通)"
+        },
+        {
+          "key": "D",
+          "text": "二次击穿(损坏)状态"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "稳压二极管利用反向击穿特性稳压,正常工作在反向击穿区,并需外加限流电阻防止过流损坏。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q256",
+      "type": "single",
+      "stem": "二极管的单向导电性是指",
+      "options": [
+        {
+          "key": "A",
+          "text": "正向导通、反向截止"
+        },
+        {
+          "key": "B",
+          "text": "正向截止、反向导通"
+        },
+        {
+          "key": "C",
+          "text": "正向、反向都导通"
+        },
+        {
+          "key": "D",
+          "text": "正向、反向都截止"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "二极管正向偏置时呈现很小的电阻而导通,反向偏置时呈现很大的电阻而截止,即单向导电性。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q257",
+      "type": "single",
+      "stem": "理想二极管(正向压降视为0)正向偏置,电源电压E=5V,串联限流电阻R=1kΩ,该电路的电流为",
+      "options": [
+        {
+          "key": "A",
+          "text": "5mA"
+        },
+        {
+          "key": "B",
+          "text": "0.5mA"
+        },
+        {
+          "key": "C",
+          "text": "50mA"
+        },
+        {
+          "key": "D",
+          "text": "10mA"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "理想二极管正向压降为0,全部电压降在电阻上,I=E/R=5/1000=5mA。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q258",
+      "type": "single",
+      "stem": "硅二极管正向压降按0.7V计算,电源电压E=5V,串联限流电阻R=430Ω,该电路的电流约为",
+      "options": [
+        {
+          "key": "A",
+          "text": "10mA"
+        },
+        {
+          "key": "B",
+          "text": "5mA"
+        },
+        {
+          "key": "C",
+          "text": "20mA"
+        },
+        {
+          "key": "D",
+          "text": "1mA"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "I=(E-0.7)/R=(5-0.7)/430≈10mA。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q259",
+      "type": "single",
+      "stem": "半波整流电路输出电压的脉动频率与输入交流电频率的关系是",
+      "options": [
+        {
+          "key": "A",
+          "text": "相同"
+        },
+        {
+          "key": "B",
+          "text": "为输入频率的2倍"
+        },
+        {
+          "key": "C",
+          "text": "为输入频率的一半"
+        },
+        {
+          "key": "D",
+          "text": "两者无关"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "半波整流每个周期只导通半个周期,输出脉动频率与输入交流电频率相同。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q260",
+      "type": "single",
+      "stem": "全波(桥式)整流电路输出电压的脉动频率是输入交流电频率的",
+      "options": [
+        {
+          "key": "A",
+          "text": "2倍"
+        },
+        {
+          "key": "B",
+          "text": "1倍"
+        },
+        {
+          "key": "C",
+          "text": "4倍"
+        },
+        {
+          "key": "D",
+          "text": "0.5倍"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "桥式整流利用了交流电正负两个半周,输出脉动频率为输入频率的2倍。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q261",
+      "type": "single",
+      "stem": "桥式整流电路通常由多少只二极管组成",
+      "options": [
+        {
+          "key": "A",
+          "text": "4只"
+        },
+        {
+          "key": "B",
+          "text": "2只"
+        },
+        {
+          "key": "C",
+          "text": "1只"
+        },
+        {
+          "key": "D",
+          "text": "6只"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "单相桥式整流电路由4只二极管接成电桥形式,实现全波整流。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q262",
+      "type": "single",
+      "stem": "稳压二极管用于稳压时,当反向电流在一定范围内变化时,其两端电压基本",
+      "options": [
+        {
+          "key": "A",
+          "text": "保持稳定,变化很小"
+        },
+        {
+          "key": "B",
+          "text": "随电流成正比变化"
+        },
+        {
+          "key": "C",
+          "text": "随电流成反比变化"
+        },
+        {
+          "key": "D",
+          "text": "无法确定"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "稳压二极管工作在反向击穿区,该区域内电流变化较大而电压近似不变,故能起到稳压作用。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q263",
+      "type": "single",
+      "stem": "三极管基极电流Ib=20μA,电流放大系数β=50,该三极管的集电极电流Ic为",
+      "options": [
+        {
+          "key": "A",
+          "text": "1mA"
+        },
+        {
+          "key": "B",
+          "text": "0.4mA"
+        },
+        {
+          "key": "C",
+          "text": "2.5mA"
+        },
+        {
+          "key": "D",
+          "text": "20mA"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "Ic=β×Ib=50×20μA=1000μA=1mA。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q264",
+      "type": "single",
+      "stem": "三极管基极电流Ib=40μA,电流放大系数β=100,该三极管的集电极电流Ic为",
+      "options": [
+        {
+          "key": "A",
+          "text": "4mA"
+        },
+        {
+          "key": "B",
+          "text": "0.04mA"
+        },
+        {
+          "key": "C",
+          "text": "0.4mA"
+        },
+        {
+          "key": "D",
+          "text": "40mA"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "Ic=β×Ib=100×40μA=4000μA=4mA。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q265",
+      "type": "single",
+      "stem": "三极管集电极电流Ic=2mA,电流放大系数β=100,该三极管的基极电流Ib为",
+      "options": [
+        {
+          "key": "A",
+          "text": "20μA"
+        },
+        {
+          "key": "B",
+          "text": "200μA"
+        },
+        {
+          "key": "C",
+          "text": "2μA"
+        },
+        {
+          "key": "D",
+          "text": "0.2μA"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "Ib=Ic/β=2mA/100=0.02mA=20μA。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q266",
+      "type": "single",
+      "stem": "三极管集电极电流Ic=3mA,基极电流Ib=30μA,该三极管的电流放大系数β为",
+      "options": [
+        {
+          "key": "A",
+          "text": "100"
+        },
+        {
+          "key": "B",
+          "text": "10"
+        },
+        {
+          "key": "C",
+          "text": "1000"
+        },
+        {
+          "key": "D",
+          "text": "300"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "β=Ic/Ib=3000μA/30μA=100。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q267",
+      "type": "single",
+      "stem": "三极管工作在放大区的偏置条件是",
+      "options": [
+        {
+          "key": "A",
+          "text": "发射结正偏、集电结反偏"
+        },
+        {
+          "key": "B",
+          "text": "发射结反偏、集电结正偏"
+        },
+        {
+          "key": "C",
+          "text": "发射结、集电结均正偏"
+        },
+        {
+          "key": "D",
+          "text": "发射结、集电结均反偏"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "三极管处于放大状态的外部偏置条件是发射结正偏、集电结反偏。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q268",
+      "type": "single",
+      "stem": "三极管电流放大系数β的定义是",
+      "options": [
+        {
+          "key": "A",
+          "text": "集电极电流变化量与基极电流变化量之比"
+        },
+        {
+          "key": "B",
+          "text": "基极电流变化量与集电极电流变化量之比"
+        },
+        {
+          "key": "C",
+          "text": "发射极电流与基极电流之比(直流值)"
+        },
+        {
+          "key": "D",
+          "text": "集电极电流与发射极电流之比"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "动态电流放大系数β=ΔIc/ΔIb,反映基极电流对集电极电流的控制放大能力。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q269",
+      "type": "single",
+      "stem": "三极管发射极电流Ie与基极电流Ib、集电极电流Ic的关系为",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ie=Ib+Ic"
+        },
+        {
+          "key": "B",
+          "text": "Ie=Ic-Ib"
+        },
+        {
+          "key": "C",
+          "text": "Ie=Ib-Ic"
+        },
+        {
+          "key": "D",
+          "text": "Ie=Ib×Ic"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "由三极管内部电流分配关系(基尔霍夫电流定律的体现),发射极电流等于基极电流与集电极电流之和。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q270",
+      "type": "single",
+      "stem": "三极管工作在饱和区时,集电极与发射极之间的电压Uce趋于",
+      "options": [
+        {
+          "key": "A",
+          "text": "很小,接近饱和压降(接近0)"
+        },
+        {
+          "key": "B",
+          "text": "很大,接近电源电压"
+        },
+        {
+          "key": "C",
+          "text": "保持不变,与工作状态无关"
+        },
+        {
+          "key": "D",
+          "text": "趋于无穷大"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "饱和状态下三极管相当于闭合的开关,Uce很小,接近饱和压降(硅管约0.3V左右)。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q271",
+      "type": "single",
+      "stem": "共发射极放大电路的特点是",
+      "options": [
+        {
+          "key": "A",
+          "text": "电压和电流均有放大作用,输出与输入反相"
+        },
+        {
+          "key": "B",
+          "text": "电压放大倍数近似为1"
+        },
+        {
+          "key": "C",
+          "text": "电流放大倍数近似为1,适合高频应用"
+        },
+        {
+          "key": "D",
+          "text": "没有放大作用"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "共发射极组态兼具电压放大和电流放大能力,输出电压与输入电压反相。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q272",
+      "type": "single",
+      "stem": "共集电极放大电路(射极输出器)的特点是",
+      "options": [
+        {
+          "key": "A",
+          "text": "电压放大倍数近似为1,输入阻抗高、输出阻抗低"
+        },
+        {
+          "key": "B",
+          "text": "电压和电流均有很大的放大倍数"
+        },
+        {
+          "key": "C",
+          "text": "电流放大倍数近似为1"
+        },
+        {
+          "key": "D",
+          "text": "输入阻抗低、输出阻抗高"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "共集电极组态(射极输出器)电压放大倍数近似为1,但输入阻抗高、输出阻抗低,常用于阻抗变换或缓冲级。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q273",
+      "type": "single",
+      "stem": "共基极放大电路的特点是",
+      "options": [
+        {
+          "key": "A",
+          "text": "电流放大倍数近似为1,适合高频应用"
+        },
+        {
+          "key": "B",
+          "text": "电压放大倍数近似为1"
+        },
+        {
+          "key": "C",
+          "text": "输入阻抗高、输出阻抗低"
+        },
+        {
+          "key": "D",
+          "text": "不能放大电压"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "共基极组态电流放大倍数近似为1,但电压放大能力较强、频率特性好,适合高频电路。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q274",
+      "type": "single",
+      "stem": "三极管截止时,发射结和集电结均处于",
+      "options": [
+        {
+          "key": "A",
+          "text": "反偏"
+        },
+        {
+          "key": "B",
+          "text": "正偏"
+        },
+        {
+          "key": "C",
+          "text": "一正一反"
+        },
+        {
+          "key": "D",
+          "text": "无法确定"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "截止状态下发射结、集电结均反偏,三极管各极电流近似为零,相当于断开的开关。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q275",
+      "type": "single",
+      "stem": "三极管饱和时,发射结和集电结均处于",
+      "options": [
+        {
+          "key": "A",
+          "text": "正偏"
+        },
+        {
+          "key": "B",
+          "text": "反偏"
+        },
+        {
+          "key": "C",
+          "text": "一正一反"
+        },
+        {
+          "key": "D",
+          "text": "无法确定"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "饱和状态下发射结、集电结均正偏,三极管相当于闭合的开关。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q276",
+      "type": "single",
+      "stem": "三极管作为电子开关使用时,通常在下列哪两个区之间转换",
+      "options": [
+        {
+          "key": "A",
+          "text": "截止区和饱和区"
+        },
+        {
+          "key": "B",
+          "text": "放大区和截止区"
+        },
+        {
+          "key": "C",
+          "text": "放大区和饱和区"
+        },
+        {
+          "key": "D",
+          "text": "始终工作在放大区,没有区别"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "开关应用中三极管工作在截止区(断开)和饱和区(闭合)两种极限状态,尽量避开线性放大区以减小功耗和失真。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q277",
+      "type": "single",
+      "stem": "场效应管(FET)与三极管相比,主要特点是",
+      "options": [
+        {
+          "key": "A",
+          "text": "输入阻抗高,属于电压控制器件"
+        },
+        {
+          "key": "B",
+          "text": "输入阻抗低,属于电流控制器件"
+        },
+        {
+          "key": "C",
+          "text": "不能用于放大电路"
+        },
+        {
+          "key": "D",
+          "text": "只能用于数字电路"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "场效应管靠栅源电压控制漏极电流,栅极基本不取电流,因而输入阻抗远高于三极管。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q278",
+      "type": "multiple",
+      "stem": "关于PN结的特性,正确的说法是",
+      "options": [
+        {
+          "key": "A",
+          "text": "具有单向导电性"
+        },
+        {
+          "key": "B",
+          "text": "正向电阻小,反向电阻大"
+        },
+        {
+          "key": "C",
+          "text": "由P型和N型半导体结合形成"
+        },
+        {
+          "key": "D",
+          "text": "存在内建电场,方向由N区指向P区"
+        },
+        {
+          "key": "E",
+          "text": "正向偏置时反向电流会显著增大"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "PN结正向偏置时导通,反向偏置时截止(小反向饱和电流),并非\"正向偏置使反向电流增大\",故E错误。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q279",
+      "type": "multiple",
+      "stem": "关于二极管的应用,正确的说法是",
+      "options": [
+        {
+          "key": "A",
+          "text": "可用于整流电路"
+        },
+        {
+          "key": "B",
+          "text": "可用于限幅电路"
+        },
+        {
+          "key": "C",
+          "text": "稳压二极管可用于基准电压/稳压电路"
+        },
+        {
+          "key": "D",
+          "text": "发光二极管属于特殊二极管的一种"
+        },
+        {
+          "key": "E",
+          "text": "二极管可以放大电流信号"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "二极管是非线性无源器件,不具备放大能力,放大功能由三极管等有源器件实现,故E错误。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q280",
+      "type": "multiple",
+      "stem": "关于半波整流与全波(桥式)整流电路,正确的说法是",
+      "options": [
+        {
+          "key": "A",
+          "text": "半波整流只利用了交流电的半个周期"
+        },
+        {
+          "key": "B",
+          "text": "桥式整流由4只二极管组成,利用了交流电的正负两个半周"
+        },
+        {
+          "key": "C",
+          "text": "桥式整流输出脉动频率是电源频率的2倍"
+        },
+        {
+          "key": "D",
+          "text": "整流后通常需要滤波电容进一步平滑输出电压"
+        },
+        {
+          "key": "E",
+          "text": "整流电路的作用是将交流变为直流"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "analysis": "整流电路利用二极管的单向导电性,将交流电变为脉动直流,滤波元件进一步平滑输出。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q281",
+      "type": "multiple",
+      "stem": "三极管放大区的偏置条件及特性,正确的说法是",
+      "options": [
+        {
+          "key": "A",
+          "text": "发射结正偏、集电结反偏"
+        },
+        {
+          "key": "B",
+          "text": "Ic≈βIb"
+        },
+        {
+          "key": "C",
+          "text": "具有电流放大作用"
+        },
+        {
+          "key": "D",
+          "text": "Ie=Ib+Ic"
+        },
+        {
+          "key": "E",
+          "text": "三个电极电流关系与偏置条件无关"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "三极管三个电极电流的分配关系正是建立在特定偏置条件(放大区)基础之上的,并非无关,故E错误。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q282",
+      "type": "multiple",
+      "stem": "关于三极管的饱和区与截止区,正确的说法是",
+      "options": [
+        {
+          "key": "A",
+          "text": "截止时发射结、集电结均反偏"
+        },
+        {
+          "key": "B",
+          "text": "饱和时发射结、集电结均正偏"
+        },
+        {
+          "key": "C",
+          "text": "饱和时Uce很小,接近饱和压降"
+        },
+        {
+          "key": "D",
+          "text": "截止时Ic近似为零"
+        },
+        {
+          "key": "E",
+          "text": "放大区、饱和区、截止区之间没有本质区别"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "放大区、饱和区、截止区是三极管三种不同的工作状态,偏置条件和电流特性均不同,故E错误。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q283",
+      "type": "multiple",
+      "stem": "关于三极管三种基本组态(共射、共集、共基),正确的说法是",
+      "options": [
+        {
+          "key": "A",
+          "text": "共射电路电压和电流均有放大作用"
+        },
+        {
+          "key": "B",
+          "text": "共集电路(射极输出器)电压放大倍数近似为1"
+        },
+        {
+          "key": "C",
+          "text": "共基电路电流放大倍数近似为1"
+        },
+        {
+          "key": "D",
+          "text": "共集电路输入阻抗高、输出阻抗低,常用于阻抗变换"
+        },
+        {
+          "key": "E",
+          "text": "三种组态放大特性完全相同"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "共射、共集、共基三种组态在电压/电流放大能力、输入输出阻抗、频率特性等方面各有不同,故E错误。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q284",
+      "type": "multiple",
+      "stem": "关于三极管电流放大系数β,正确的说法是",
+      "options": [
+        {
+          "key": "A",
+          "text": "β=ΔIc/ΔIb(动态电流放大系数)"
+        },
+        {
+          "key": "B",
+          "text": "β值与三极管型号及工作点有关"
+        },
+        {
+          "key": "C",
+          "text": "β越大表示放大能力越强"
+        },
+        {
+          "key": "D",
+          "text": "β恒等于1"
+        },
+        {
+          "key": "E",
+          "text": "实际应用中同型号不同个体的β值存在一定分散性"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "analysis": "β不是固定为1的常数,而是与器件型号、工作点相关且存在个体差异的参数,故D错误。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q285",
+      "type": "multiple",
+      "stem": "三极管作为电子开关使用时,正确的说法是",
+      "options": [
+        {
+          "key": "A",
+          "text": "截止状态相当于开关断开"
+        },
+        {
+          "key": "B",
+          "text": "饱和状态相当于开关闭合"
+        },
+        {
+          "key": "C",
+          "text": "开关状态转换过程中会短暂经过放大区"
+        },
+        {
+          "key": "D",
+          "text": "适合用于数字电路的基本开关单元"
+        },
+        {
+          "key": "E",
+          "text": "此时应重点关注放大倍数的精确线性度"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "开关应用关注的是导通/截止两种极限状态的可靠切换,而非线性放大特性,故E错误。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q286",
+      "type": "multiple",
+      "stem": "关于稳压二极管,正确的说法是",
+      "options": [
+        {
+          "key": "A",
+          "text": "工作在反向击穿区"
+        },
+        {
+          "key": "B",
+          "text": "在一定电流范围内,端电压基本保持稳定"
+        },
+        {
+          "key": "C",
+          "text": "使用时需串联限流电阻"
+        },
+        {
+          "key": "D",
+          "text": "正向特性与普通二极管类似"
+        },
+        {
+          "key": "E",
+          "text": "稳压二极管只能正向使用"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "稳压二极管的稳压功能依赖反向击穿特性,应工作在反向状态,并非只能正向使用,故E错误。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q287",
+      "type": "multiple",
+      "stem": "关于放大电路静态工作点(Q点)的说法,正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "静态工作点是指无信号输入时电路的直流工作状态"
+        },
+        {
+          "key": "B",
+          "text": "工作点设置不当会导致输出波形失真"
+        },
+        {
+          "key": "C",
+          "text": "工作点过高易产生饱和失真"
+        },
+        {
+          "key": "D",
+          "text": "工作点过低易产生截止失真"
+        },
+        {
+          "key": "E",
+          "text": "静态工作点与放大电路的性能无关"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "静态工作点的位置直接影响放大电路的失真情况和性能指标,并非无关,故E错误。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q288",
+      "type": "judge",
+      "stem": "硅二极管的正向导通压降通常约为0.7V,锗二极管约为0.3V。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "这是硅、锗两种半导体材料PN结正向导通压降的常见工程取值。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q289",
+      "type": "judge",
+      "stem": "二极管具有单向导电性,正向导通、反向截止(不考虑击穿)。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "这是二极管最基本的特性,是PN结单向导电性的体现。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q290",
+      "type": "judge",
+      "stem": "稳压二极管正常工作时处于正向导通状态。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "稳压二极管正常工作在反向击穿区,利用反向击穿特性实现稳压。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q291",
+      "type": "judge",
+      "stem": "桥式整流电路由四只二极管组成,可实现全波整流。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "桥式整流电路利用四只二极管构成电桥,能同时利用交流电的正负两个半周,实现全波整流。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q292",
+      "type": "judge",
+      "stem": "三极管工作在放大区时,发射结正偏、集电结反偏。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "这是三极管处于线性放大状态的基本偏置条件。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q293",
+      "type": "judge",
+      "stem": "三极管饱和时,集电极与发射极之间的电压Uce较大,接近电源电压。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "饱和时Uce很小,接近饱和压降;Uce接近电源电压通常对应截止状态。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q294",
+      "type": "judge",
+      "stem": "共集电极放大电路(射极输出器)的电压放大倍数近似为1,常用于阻抗变换。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "射极输出器电压增益接近1,但输入阻抗高、输出阻抗低,适合做阻抗变换级或缓冲级。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q295",
+      "type": "judge",
+      "stem": "三极管的电流放大系数β对于同一型号的不同个体是完全相同的固定值。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "实际生产中同型号三极管的β值存在一定分散性,并非完全相同的固定值。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q296",
+      "type": "fill",
+      "stem": "硅二极管的正向导通压降约为___V。",
+      "options": [],
+      "answer": [
+        "0.7"
+      ],
+      "analysis": "硅材料PN结正向导通压降的常见工程取值为0.7V左右。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q297",
+      "type": "fill",
+      "stem": "三极管工作在放大区的偏置条件是发射结正偏、集电结___偏。",
+      "options": [],
+      "answer": [
+        "反"
+      ],
+      "analysis": "放大区要求发射结正偏、集电结反偏,以保证载流子的正常传输和放大作用。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q298",
+      "type": "fill",
+      "stem": "三极管电流放大系数β的定义式为β=___(用ΔIc、ΔIb表示)。",
+      "options": [],
+      "answer": [
+        "ΔIc/ΔIb"
+      ],
+      "analysis": "动态电流放大系数描述基极电流微小变化引起集电极电流变化的倍数关系。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q299",
+      "type": "fill",
+      "stem": "桥式整流电路由___只二极管组成。",
+      "options": [],
+      "answer": [
+        "4"
+      ],
+      "analysis": "单相桥式整流电路由4只二极管构成电桥,实现全波整流。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q300",
+      "type": "fill",
+      "stem": "三极管作为开关使用时,主要工作在截止区和___区两种状态。",
+      "options": [],
+      "answer": [
+        "饱和"
+      ],
+      "analysis": "开关应用中三极管在截止区(断开)和饱和区(闭合)之间切换。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q301",
+      "type": "single",
+      "stem": "与门(AND)输入A=1、B=0,其输出Y为",
+      "options": [
+        {
+          "key": "A",
+          "text": "0"
+        },
+        {
+          "key": "B",
+          "text": "1"
+        },
+        {
+          "key": "C",
+          "text": "高阻态"
+        },
+        {
+          "key": "D",
+          "text": "无法确定"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "与门只有当所有输入均为1时输出才为1,本题A、B不全为1,故Y=0。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q302",
+      "type": "single",
+      "stem": "与门(AND)输入A=1、B=1,其输出Y为",
+      "options": [
+        {
+          "key": "A",
+          "text": "1"
+        },
+        {
+          "key": "B",
+          "text": "0"
+        },
+        {
+          "key": "C",
+          "text": "高阻态"
+        },
+        {
+          "key": "D",
+          "text": "无法确定"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "与门所有输入均为1时输出为1,故Y=1。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q303",
+      "type": "single",
+      "stem": "或门(OR)输入A=0、B=0,其输出Y为",
+      "options": [
+        {
+          "key": "A",
+          "text": "0"
+        },
+        {
+          "key": "B",
+          "text": "1"
+        },
+        {
+          "key": "C",
+          "text": "高阻态"
+        },
+        {
+          "key": "D",
+          "text": "无法确定"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "或门只有当所有输入均为0时输出才为0,本题A、B均为0,故Y=0。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q304",
+      "type": "single",
+      "stem": "或门(OR)输入A=1、B=0,其输出Y为",
+      "options": [
+        {
+          "key": "A",
+          "text": "1"
+        },
+        {
+          "key": "B",
+          "text": "0"
+        },
+        {
+          "key": "C",
+          "text": "高阻态"
+        },
+        {
+          "key": "D",
+          "text": "无法确定"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "或门只要有一个输入为1输出即为1,故Y=1。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q305",
+      "type": "single",
+      "stem": "非门(NOT)输入A=1,其输出Y为",
+      "options": [
+        {
+          "key": "A",
+          "text": "0"
+        },
+        {
+          "key": "B",
+          "text": "1"
+        },
+        {
+          "key": "C",
+          "text": "高阻态"
+        },
+        {
+          "key": "D",
+          "text": "无法确定"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "非门实现逻辑求反,输入为1时输出为0。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q306",
+      "type": "single",
+      "stem": "与非门(NAND)输入A=1、B=1,其输出Y为",
+      "options": [
+        {
+          "key": "A",
+          "text": "0"
+        },
+        {
+          "key": "B",
+          "text": "1"
+        },
+        {
+          "key": "C",
+          "text": "高阻态"
+        },
+        {
+          "key": "D",
+          "text": "无法确定"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "与非门先与后非,A、B全为1时与运算结果为1,取反后Y=0。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q307",
+      "type": "single",
+      "stem": "或非门(NOR)输入A=0、B=0,其输出Y为",
+      "options": [
+        {
+          "key": "A",
+          "text": "1"
+        },
+        {
+          "key": "B",
+          "text": "0"
+        },
+        {
+          "key": "C",
+          "text": "高阻态"
+        },
+        {
+          "key": "D",
+          "text": "无法确定"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "或非门先或后非,A、B全为0时或运算结果为0,取反后Y=1。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q308",
+      "type": "single",
+      "stem": "异或门(XOR)输入A=1、B=1,其输出Y为",
+      "options": [
+        {
+          "key": "A",
+          "text": "0"
+        },
+        {
+          "key": "B",
+          "text": "1"
+        },
+        {
+          "key": "C",
+          "text": "高阻态"
+        },
+        {
+          "key": "D",
+          "text": "无法确定"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "异或门在两输入相同时输出为0,本题A=B=1相同,故Y=0。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q309",
+      "type": "single",
+      "stem": "异或门(XOR)输入A=1、B=0,其输出Y为",
+      "options": [
+        {
+          "key": "A",
+          "text": "1"
+        },
+        {
+          "key": "B",
+          "text": "0"
+        },
+        {
+          "key": "C",
+          "text": "高阻态"
+        },
+        {
+          "key": "D",
+          "text": "无法确定"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "异或门在两输入不同时输出为1,本题A、B不同,故Y=1。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q310",
+      "type": "single",
+      "stem": "同或门(XNOR)输入A=0、B=1,其输出Y为",
+      "options": [
+        {
+          "key": "A",
+          "text": "0"
+        },
+        {
+          "key": "B",
+          "text": "1"
+        },
+        {
+          "key": "C",
+          "text": "高阻态"
+        },
+        {
+          "key": "D",
+          "text": "无法确定"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "同或门在两输入相同时输出为1、不同时输出为0,本题A、B不同,故Y=0。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q311",
+      "type": "single",
+      "stem": "根据逻辑代数的交换律,A·B=",
+      "options": [
+        {
+          "key": "A",
+          "text": "B·A"
+        },
+        {
+          "key": "B",
+          "text": "A+B"
+        },
+        {
+          "key": "C",
+          "text": "A'+B'"
+        },
+        {
+          "key": "D",
+          "text": "(A·B)'"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "交换律指出逻辑乘、逻辑加均满足交换关系,A·B=B·A。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q312",
+      "type": "single",
+      "stem": "根据逻辑代数的结合律,(A+B)+C=",
+      "options": [
+        {
+          "key": "A",
+          "text": "A+(B+C)"
+        },
+        {
+          "key": "B",
+          "text": "A·(B+C)"
+        },
+        {
+          "key": "C",
+          "text": "(A+B)·C"
+        },
+        {
+          "key": "D",
+          "text": "A+B·C"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "结合律指出多个变量的逻辑加(或逻辑乘)运算与结合顺序无关,(A+B)+C=A+(B+C)。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q313",
+      "type": "single",
+      "stem": "根据逻辑代数的分配律,A·(B+C)=",
+      "options": [
+        {
+          "key": "A",
+          "text": "A·B+A·C"
+        },
+        {
+          "key": "B",
+          "text": "(A+B)·(A+C)"
+        },
+        {
+          "key": "C",
+          "text": "A+B·C"
+        },
+        {
+          "key": "D",
+          "text": "A·B·C"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "分配律A·(B+C)=A·B+A·C,与普通代数的分配律形式一致。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q314",
+      "type": "single",
+      "stem": "根据摩根定律,(A·B)′=",
+      "options": [
+        {
+          "key": "A",
+          "text": "A'+B'"
+        },
+        {
+          "key": "B",
+          "text": "A'·B'"
+        },
+        {
+          "key": "C",
+          "text": "A+B"
+        },
+        {
+          "key": "D",
+          "text": "AB"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "摩根定律指出(A·B)′=A′+B′,即\"与\"运算的非等于\"非\"运算的或。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q315",
+      "type": "single",
+      "stem": "根据摩根定律,(A+B)′=",
+      "options": [
+        {
+          "key": "A",
+          "text": "A'·B'"
+        },
+        {
+          "key": "B",
+          "text": "A'+B'"
+        },
+        {
+          "key": "C",
+          "text": "AB"
+        },
+        {
+          "key": "D",
+          "text": "A+B"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "摩根定律指出(A+B)′=A′·B′,即\"或\"运算的非等于\"非\"运算的与。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q316",
+      "type": "single",
+      "stem": "根据逻辑代数的吸收律,A+A·B=",
+      "options": [
+        {
+          "key": "A",
+          "text": "A"
+        },
+        {
+          "key": "B",
+          "text": "B"
+        },
+        {
+          "key": "C",
+          "text": "A·B"
+        },
+        {
+          "key": "D",
+          "text": "A+B"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "吸收律A+AB=A,可用真值表或代数展开A(1+B)=A验证。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q317",
+      "type": "single",
+      "stem": "根据逻辑代数的互补律,A+A′=",
+      "options": [
+        {
+          "key": "A",
+          "text": "1"
+        },
+        {
+          "key": "B",
+          "text": "0"
+        },
+        {
+          "key": "C",
+          "text": "A"
+        },
+        {
+          "key": "D",
+          "text": "A'"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "互补律指出A与其反A'的逻辑加恒为1,逻辑乘A·A'恒为0。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q318",
+      "type": "single",
+      "stem": "逻辑表达式A·A化简结果为",
+      "options": [
+        {
+          "key": "A",
+          "text": "A"
+        },
+        {
+          "key": "B",
+          "text": "0"
+        },
+        {
+          "key": "C",
+          "text": "1"
+        },
+        {
+          "key": "D",
+          "text": "A'"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "由重叠律A·A=A(自身相与结果不变)。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q319",
+      "type": "single",
+      "stem": "逻辑表达式A+A化简结果为",
+      "options": [
+        {
+          "key": "A",
+          "text": "A"
+        },
+        {
+          "key": "B",
+          "text": "0"
+        },
+        {
+          "key": "C",
+          "text": "1"
+        },
+        {
+          "key": "D",
+          "text": "2A"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "由重叠律A+A=A(逻辑运算中没有\"2A\"这种表示,自身相或结果不变)。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q320",
+      "type": "single",
+      "stem": "逻辑表达式A·1化简结果为",
+      "options": [
+        {
+          "key": "A",
+          "text": "A"
+        },
+        {
+          "key": "B",
+          "text": "0"
+        },
+        {
+          "key": "C",
+          "text": "1"
+        },
+        {
+          "key": "D",
+          "text": "A'"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "任何变量与逻辑\"1\"相与,结果等于该变量本身,A·1=A。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q321",
+      "type": "single",
+      "stem": "逻辑表达式A+1化简结果为",
+      "options": [
+        {
+          "key": "A",
+          "text": "1"
+        },
+        {
+          "key": "B",
+          "text": "0"
+        },
+        {
+          "key": "C",
+          "text": "A"
+        },
+        {
+          "key": "D",
+          "text": "A'"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "任何变量与逻辑\"1\"相或,结果恒为1,A+1=1。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q322",
+      "type": "single",
+      "stem": "逻辑表达式A·0化简结果为",
+      "options": [
+        {
+          "key": "A",
+          "text": "0"
+        },
+        {
+          "key": "B",
+          "text": "1"
+        },
+        {
+          "key": "C",
+          "text": "A"
+        },
+        {
+          "key": "D",
+          "text": "A'"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "任何变量与逻辑\"0\"相与,结果恒为0,A·0=0。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q323",
+      "type": "single",
+      "stem": "二进制数1011转换为十进制数为",
+      "options": [
+        {
+          "key": "A",
+          "text": "11"
+        },
+        {
+          "key": "B",
+          "text": "13"
+        },
+        {
+          "key": "C",
+          "text": "9"
+        },
+        {
+          "key": "D",
+          "text": "22"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "1011(二进制)=1×8+0×4+1×2+1×1=8+0+2+1=11(十进制)。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q324",
+      "type": "single",
+      "stem": "十进制数13转换为二进制数为",
+      "options": [
+        {
+          "key": "A",
+          "text": "1101"
+        },
+        {
+          "key": "B",
+          "text": "1011"
+        },
+        {
+          "key": "C",
+          "text": "1110"
+        },
+        {
+          "key": "D",
+          "text": "1010"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "13=8+4+1=1101(二进制)。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q325",
+      "type": "single",
+      "stem": "二进制数1010转换为十进制数为",
+      "options": [
+        {
+          "key": "A",
+          "text": "10"
+        },
+        {
+          "key": "B",
+          "text": "11"
+        },
+        {
+          "key": "C",
+          "text": "5"
+        },
+        {
+          "key": "D",
+          "text": "12"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "1010(二进制)=1×8+0×4+1×2+0×1=10(十进制)。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q326",
+      "type": "single",
+      "stem": "一个4位二进制数能表示的最大十进制数为",
+      "options": [
+        {
+          "key": "A",
+          "text": "15"
+        },
+        {
+          "key": "B",
+          "text": "16"
+        },
+        {
+          "key": "C",
+          "text": "8"
+        },
+        {
+          "key": "D",
+          "text": "31"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "4位二进制数的最大值为1111,对应十进制2⁴-1=15。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q327",
+      "type": "single",
+      "stem": "3个开关(每个开关只有\"开、关\"两种状态)组合可以表示的不同状态数为",
+      "options": [
+        {
+          "key": "A",
+          "text": "8"
+        },
+        {
+          "key": "B",
+          "text": "6"
+        },
+        {
+          "key": "C",
+          "text": "9"
+        },
+        {
+          "key": "D",
+          "text": "16"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "每个开关有2种状态,3个开关的组合状态数为2³=8种。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q328",
+      "type": "multiple",
+      "stem": "关于基本逻辑门,正确的说法是",
+      "options": [
+        {
+          "key": "A",
+          "text": "与门实现逻辑乘(Y=A·B)"
+        },
+        {
+          "key": "B",
+          "text": "或门实现逻辑加(Y=A+B)"
+        },
+        {
+          "key": "C",
+          "text": "非门实现逻辑求反(Y=A′)"
+        },
+        {
+          "key": "D",
+          "text": "只有输入全为1时,与门输出才为1"
+        },
+        {
+          "key": "E",
+          "text": "只要有一个输入为1,与门输出即为1"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "与门要求所有输入均为1时输出才为1,并非只要有一个输入为1即可,故E错误。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q329",
+      "type": "multiple",
+      "stem": "关于或门(OR),正确的说法是",
+      "options": [
+        {
+          "key": "A",
+          "text": "只有输入全为0时输出才为0"
+        },
+        {
+          "key": "B",
+          "text": "只要有一个输入为1输出即为1"
+        },
+        {
+          "key": "C",
+          "text": "实现逻辑加运算"
+        },
+        {
+          "key": "D",
+          "text": "与与门的逻辑功能相同"
+        },
+        {
+          "key": "E",
+          "text": "两输入或门的真值表共有4种输入组合"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "analysis": "与门和或门的逻辑功能不同(分别对应逻辑乘和逻辑加),故D错误。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q330",
+      "type": "multiple",
+      "stem": "关于与非门(NAND)和或非门(NOR),正确的说法是",
+      "options": [
+        {
+          "key": "A",
+          "text": "与非门是与门与非门的组合,先与后非"
+        },
+        {
+          "key": "B",
+          "text": "或非门是或门与非门的组合,先或后非"
+        },
+        {
+          "key": "C",
+          "text": "与非门、或非门都属于复合逻辑门"
+        },
+        {
+          "key": "D",
+          "text": "仅用与非门就可以实现与、或、非等基本逻辑功能(具有功能完备性)"
+        },
+        {
+          "key": "E",
+          "text": "与非门与与门逻辑功能完全相同"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "与非门输出是与门输出的取反,与与门逻辑功能相反而非相同,故E错误。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q331",
+      "type": "multiple",
+      "stem": "关于异或门(XOR)和同或门(XNOR),正确的说法是",
+      "options": [
+        {
+          "key": "A",
+          "text": "异或门在两输入不同时输出为1"
+        },
+        {
+          "key": "B",
+          "text": "异或门在两输入相同时输出为0"
+        },
+        {
+          "key": "C",
+          "text": "同或门在两输入相同时输出为1"
+        },
+        {
+          "key": "D",
+          "text": "同或门是异或门输出取反得到的"
+        },
+        {
+          "key": "E",
+          "text": "异或运算不满足交换律"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "异或运算满足交换律(A⊕B=B⊕A),故E错误。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q332",
+      "type": "multiple",
+      "stem": "关于逻辑代数基本定律,正确的说法是",
+      "options": [
+        {
+          "key": "A",
+          "text": "交换律A·B=B·A"
+        },
+        {
+          "key": "B",
+          "text": "结合律(A·B)·C=A·(B·C)"
+        },
+        {
+          "key": "C",
+          "text": "分配律A+B·C=(A+B)·(A+C)"
+        },
+        {
+          "key": "D",
+          "text": "摩根定律(A+B)′=A′·B′"
+        },
+        {
+          "key": "E",
+          "text": "逻辑代数运算法则与普通代数完全相同,没有任何区别"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "逻辑代数虽借用了\"加、乘\"符号,但其运算规则(如A+A=A、A·A=A等)与普通代数存在明显区别,故E错误。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q333",
+      "type": "multiple",
+      "stem": "关于逻辑函数的表示方法,正确的说法是",
+      "options": [
+        {
+          "key": "A",
+          "text": "可用逻辑表达式表示"
+        },
+        {
+          "key": "B",
+          "text": "可用真值表表示"
+        },
+        {
+          "key": "C",
+          "text": "可用逻辑图(门电路图)表示"
+        },
+        {
+          "key": "D",
+          "text": "可用波形图(时序图)表示"
+        },
+        {
+          "key": "E",
+          "text": "以上表示方法之间不能相互转换"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "同一逻辑函数的各种表示方法(表达式、真值表、逻辑图、波形图)之间是可以相互转换的,故E错误。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q334",
+      "type": "multiple",
+      "stem": "关于二进制数,正确的说法是",
+      "options": [
+        {
+          "key": "A",
+          "text": "只有0和1两个数字符号"
+        },
+        {
+          "key": "B",
+          "text": "逢二进一"
+        },
+        {
+          "key": "C",
+          "text": "数字电路中常用高、低电平分别表示1和0"
+        },
+        {
+          "key": "D",
+          "text": "计算机内部普遍采用二进制存储和运算"
+        },
+        {
+          "key": "E",
+          "text": "二进制数不能转换为十进制数"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "二进制数可以按位权展开求和,转换为十进制数,故E错误。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q335",
+      "type": "multiple",
+      "stem": "关于组合逻辑电路,正确的说法是",
+      "options": [
+        {
+          "key": "A",
+          "text": "输出仅取决于当前时刻的输入,与电路原来的状态无关"
+        },
+        {
+          "key": "B",
+          "text": "由基本逻辑门组合而成,通常不含记忆元件"
+        },
+        {
+          "key": "C",
+          "text": "常见的组合逻辑电路有编码器、译码器、加法器等"
+        },
+        {
+          "key": "D",
+          "text": "组合逻辑电路具有记忆功能"
+        },
+        {
+          "key": "E",
+          "text": "分析组合逻辑电路常借助真值表"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "analysis": "组合逻辑电路不含记忆元件,输出只取决于当前输入,不具备记忆功能,故D错误。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q336",
+      "type": "multiple",
+      "stem": "关于逻辑门电路的功能完备性,正确的说法是",
+      "options": [
+        {
+          "key": "A",
+          "text": "与非门可以单独实现任意逻辑函数"
+        },
+        {
+          "key": "B",
+          "text": "或非门可以单独实现任意逻辑函数"
+        },
+        {
+          "key": "C",
+          "text": "与、或、非三种基本门组合在一起可以实现任意逻辑函数"
+        },
+        {
+          "key": "D",
+          "text": "异或门单独即可实现任意逻辑函数"
+        },
+        {
+          "key": "E",
+          "text": "具有完备性的门电路集合称为逻辑功能完备集"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "analysis": "异或门单独不能实现所有逻辑函数(不具备功能完备性),这与与非门、或非门不同,故D错误。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q337",
+      "type": "multiple",
+      "stem": "关于数字电路与模拟电路的区别,正确的说法是",
+      "options": [
+        {
+          "key": "A",
+          "text": "数字电路处理的信号是离散的(通常只有高、低两种电平)"
+        },
+        {
+          "key": "B",
+          "text": "模拟电路处理的信号是连续变化的"
+        },
+        {
+          "key": "C",
+          "text": "数字电路抗干扰能力通常较强"
+        },
+        {
+          "key": "D",
+          "text": "逻辑门电路属于数字电路的基本单元"
+        },
+        {
+          "key": "E",
+          "text": "数字电路和模拟电路在实际系统中不能共存"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "实际电子系统中数字电路与模拟电路常混合使用(如模数转换、数模转换电路),二者并非不能共存,故E错误。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q338",
+      "type": "judge",
+      "stem": "与门的输出只有当所有输入均为1时才为1,其余情况输出为0。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "这是与门(逻辑乘)最基本的逻辑功能。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q339",
+      "type": "judge",
+      "stem": "或门的输出只有当所有输入均为0时才为0,只要有一个输入为1,输出即为1。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "这是或门(逻辑加)最基本的逻辑功能。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q340",
+      "type": "judge",
+      "stem": "异或门在两个输入相同时输出为1,不同时输出为0。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "异或门的规律相反:两输入不同时输出为1,相同时输出为0。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q341",
+      "type": "judge",
+      "stem": "与非门是与门输出再取反得到的复合逻辑门。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "与非门=与门+非门,先进行与运算,再将结果取反。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q342",
+      "type": "judge",
+      "stem": "摩根定律表明(A·B)′=A′+B′。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "这是摩根定律的两条基本形式之一。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q343",
+      "type": "judge",
+      "stem": "二进制数只有0和1两个数字符号,遵循\"逢二进一\"的计数规则。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "二进制是数字电路和计算机中最常用的数制,基数为2。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q344",
+      "type": "judge",
+      "stem": "组合逻辑电路的输出与电路过去的状态有关,具有记忆功能。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "组合逻辑电路不含记忆元件,输出只取决于当前时刻的输入;具有记忆功能的是时序逻辑电路。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q345",
+      "type": "judge",
+      "stem": "与非门具有逻辑功能完备性,理论上仅用与非门就可以构成任意组合逻辑电路。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "与非门可以组合实现与、或、非等基本逻辑运算,因此具有功能完备性。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q346",
+      "type": "fill",
+      "stem": "与门实现的逻辑运算是逻辑___(填\"乘\"或\"加\")。",
+      "options": [],
+      "answer": [
+        "乘"
+      ],
+      "analysis": "与门的输出等于各输入的逻辑乘,Y=A·B。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q347",
+      "type": "fill",
+      "stem": "或门实现的逻辑运算是逻辑___(填\"乘\"或\"加\")。",
+      "options": [],
+      "answer": [
+        "加"
+      ],
+      "analysis": "或门的输出等于各输入的逻辑加,Y=A+B。",
+      "difficulty": 2
+    },
+    {
+      "id": "kancha-ch6-q348",
+      "type": "fill",
+      "stem": "摩根定律中,(A+B)′=___(用A′、B′表示)。",
+      "options": [],
+      "answer": [
+        "A'·B'"
+      ],
+      "analysis": "摩根定律指出(A+B)'等于A'与B'的逻辑乘。",
+      "difficulty": 3
+    },
+    {
+      "id": "kancha-ch6-q349",
+      "type": "fill",
+      "stem": "二进制数1101转换为十进制数为___。",
+      "options": [],
+      "answer": [
+        "13"
+      ],
+      "analysis": "1101(二进制)=1×8+1×4+0×2+1×1=13(十进制)。",
+      "difficulty": 1
+    },
+    {
+      "id": "kancha-ch6-q350",
+      "type": "fill",
+      "stem": "数字电路中,信号通常只有高电平和低电平两种状态,分别表示逻辑1和逻辑___。",
+      "options": [],
+      "answer": [
+        "0"
+      ],
+      "analysis": "数字电路用高、低两种电平分别对应逻辑1和逻辑0,是二值逻辑系统的物理基础。",
+      "difficulty": 2
+    }
+  ]
+}

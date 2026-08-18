@@ -1,0 +1,238 @@
+{
+  "questions": [
+    {
+      "id": "sh-erjian-jixu2026-shizheng-ch3-q1",
+      "type": "judge",
+      "stem": "《上海市建设工程文明施工管理规定》自2009年首次颁布以来，至今未作任何修订",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shizheng-ch3-q2",
+      "type": "judge",
+      "stem": "根据规定，文明施工费用应在工程概算、预算中单独列项，确保专款专用。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shizheng-ch3-q3",
+      "type": "judge",
+      "stem": "施工单位可以将文明施工费用挪用于其他施工环节，只要整体项目达标即可。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shizheng-ch3-q4",
+      "type": "judge",
+      "stem": "夜间22:00至次日6:00 禁止高噪声作业，连续浇筑等特殊情况可申请豁免。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shizheng-ch3-q5",
+      "type": "single",
+      "stem": "根据《上海市文明施工管理规定》，以下哪类单位承担文明施工的主体责任?",
+      "options": [
+        {
+          "key": "A",
+          "text": "建设单位"
+        },
+        {
+          "key": "B",
+          "text": "设计单位"
+        },
+        {
+          "key": "C",
+          "text": "施工单位"
+        },
+        {
+          "key": "D",
+          "text": "监理单位"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-shizheng-ch3-q6",
+      "type": "single",
+      "stem": "围挡高度在不同工程中有差异化要求，其中**重点区域**的围挡高度应为:",
+      "options": [
+        {
+          "key": "A",
+          "text": "1.5米"
+        },
+        {
+          "key": "B",
+          "text": "1.8米"
+        },
+        {
+          "key": "C",
+          "text": "2.0米"
+        },
+        {
+          "key": "D",
+          "text": "2.5米"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-shizheng-ch3-q7",
+      "type": "single",
+      "stem": "以下哪项措施**不属于**湿法作业的应用场景?",
+      "options": [
+        {
+          "key": "A",
+          "text": "土方开挖"
+        },
+        {
+          "key": "B",
+          "text": "拆除破碎"
+        },
+        {
+          "key": "C",
+          "text": "材料切割"
+        },
+        {
+          "key": "D",
+          "text": "夜间照明"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 2
+    },
+    {
+      "id": "sh-erjian-jixu2026-shizheng-ch3-q8",
+      "type": "multiple",
+      "stem": "以下哪些单位在文明施工中承担明确责任?",
+      "options": [
+        {
+          "key": "A",
+          "text": "建设单位"
+        },
+        {
+          "key": "B",
+          "text": "设计单位"
+        },
+        {
+          "key": "C",
+          "text": "施工单位"
+        },
+        {
+          "key": "D",
+          "text": "监理单位"
+        },
+        {
+          "key": "E",
+          "text": "材料供应商"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-shizheng-ch3-q9",
+      "type": "multiple",
+      "stem": "以下哪些措施可以有效减少施工现场的**扬尘污染**?",
+      "options": [
+        {
+          "key": "A",
+          "text": "增加夜间照明亮度"
+        },
+        {
+          "key": "B",
+          "text": "安装PM10在线监测设备"
+        },
+        {
+          "key": "C",
+          "text": "使用湿法作业"
+        },
+        {
+          "key": "D",
+          "text": "车辆冲洗平台"
+        },
+        {
+          "key": "E",
+          "text": "设置围挡喷淋系统六、选修人工智能基础"
+        }
+      ],
+      "answer": [
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    }
+  ]
+}

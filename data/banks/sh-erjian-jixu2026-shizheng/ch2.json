@@ -1,0 +1,154 @@
+{
+  "questions": [
+    {
+      "id": "sh-erjian-jixu2026-shizheng-ch2-q1",
+      "type": "judge",
+      "stem": "本市行政区域内所有生产经营单位安全生产事故隐患的排查治理及其监督管理工作，均适用《上海市安全生产事故隐患排查治理办法》，不受其他法律、法规、规章限制。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shizheng-ch2-q2",
+      "type": "judge",
+      "stem": "生产经营单位的主要负责人是本单位事故隐患排查治理的第一责任人，需保障事故隐患排查治理的相关资金投入。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shizheng-ch2-q3",
+      "type": "judge",
+      "stem": "任何单位和个人发现事故隐患后，只能向应急管理部门举报。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shizheng-ch2-q4",
+      "type": "judge",
+      "stem": "生产经营单位发现一般事故隐患后，应当立即停止使用相关设施、设备，局部停产停业进行治理。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "",
+      "difficulty": 1
+    },
+    {
+      "id": "sh-erjian-jixu2026-shizheng-ch2-q5",
+      "type": "multiple",
+      "stem": "生产经营单位定期组织的全面事故隐患排查，主要包括哪些内容?",
+      "options": [
+        {
+          "key": "A",
+          "text": "安全生产法律、法规、规章的贯彻执行情况"
+        },
+        {
+          "key": "B",
+          "text": "应急救援预案制定及演练情况"
+        },
+        {
+          "key": "C",
+          "text": "设施、设备的日常维护、保养、检验情况"
+        },
+        {
+          "key": "D",
+          "text": "劳动防护用品的配备、发放和使用情况"
+        },
+        {
+          "key": "E",
+          "text": "从业人员的家庭经济状况"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    },
+    {
+      "id": "sh-erjian-jixu2026-shizheng-ch2-q6",
+      "type": "multiple",
+      "stem": "下列哪些情形的重大事故隐患，负有安全生产监管职责的部门应当挂牌督办或提请同级人民政府挂牌督办?",
+      "options": [
+        {
+          "key": "A",
+          "text": "危险性较大，可能造成严重后果的"
+        },
+        {
+          "key": "B",
+          "text": "治理难度高，需较长时间系统整治的"
+        },
+        {
+          "key": "C",
+          "text": "生产经营单位难以单独依靠自身力量消除的"
+        },
+        {
+          "key": "D",
+          "text": "上级政府督导检查发现并要求挂牌督办的"
+        },
+        {
+          "key": "E",
+          "text": "无需停产停业即可治理的一般隐患五、必修-《上海市建设工程文明施工管理规定》2019年9 月18日上海市人民政府令 23号"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "",
+      "difficulty": 3
+    }
+  ]
+}
