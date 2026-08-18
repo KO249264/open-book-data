@@ -1,6 +1,6 @@
 {
   "version": "1.1.0",
-  "updatedAt": "2026-08-17",
+  "updatedAt": "2026-08-18",
   "banks": [
     {
       "id": "jianzhu",
@@ -206,15 +206,63 @@
     },
     {
       "id": "yijian",
-      "name": "一级建造师",
+      "name": "一级建造师·建设工程项目管理",
       "category": "建筑/工程建设",
-      "desc": "一级建造师备考笔记与自测练习入口,内容陆续更新中。",
+      "desc": "一级建造师《建设工程项目管理》科目全章节自测题库,含解析与出处。",
       "chapters": [
         {
           "id": "ch1",
-          "name": "第1章 · 内容建设中",
+          "name": "第1章 · 施工方项目管理概论",
           "file": "banks/yijian/ch1.json",
-          "count": 0
+          "count": 350
+        },
+        {
+          "id": "ch2",
+          "name": "第2章 · 施工组织设计",
+          "file": "banks/yijian/ch2.json",
+          "count": 350
+        },
+        {
+          "id": "ch3",
+          "name": "第3章 · 施工进度管理",
+          "file": "banks/yijian/ch3.json",
+          "count": 350
+        },
+        {
+          "id": "ch4",
+          "name": "第4章 · 施工质量管理",
+          "file": "banks/yijian/ch4.json",
+          "count": 350
+        },
+        {
+          "id": "ch5",
+          "name": "第5章 · 施工职业健康安全与环境管理",
+          "file": "banks/yijian/ch5.json",
+          "count": 350
+        },
+        {
+          "id": "ch6",
+          "name": "第6章 · 施工成本管理",
+          "file": "banks/yijian/ch6.json",
+          "count": 350
+        },
+        {
+          "id": "ch7",
+          "name": "第7章 · 施工合同管理",
+          "file": "banks/yijian/ch7.json",
+          "count": 350
+        },
+        {
+          "id": "ch8",
+          "name": "第8章 · 施工信息管理",
+          "file": "banks/yijian/ch8.json",
+          "count": 350
+        },
+        {
+          "id": "ch9",
+          "name": "第9章 · 国际工程施工管理",
+          "file": "banks/yijian/ch9.json",
+          "count": 350
         }
       ],
       "papers": [
@@ -232,13 +280,61 @@
       "id": "zaojia-gcs",
       "name": "造价工程师",
       "category": "建筑/工程建设",
-      "desc": "造价工程师备考笔记与自测练习入口,内容陆续更新中。",
+      "desc": "造价工程师全章节自测题库,含解析与出处。",
       "chapters": [
         {
           "id": "ch1",
-          "name": "第1章 · 内容建设中",
+          "name": "第1章 · 工程造价管理相关法律法规",
           "file": "banks/zaojia-gcs/ch1.json",
-          "count": 0
+          "count": 350
+        },
+        {
+          "id": "ch2",
+          "name": "第2章 · 工程造价构成",
+          "file": "banks/zaojia-gcs/ch2.json",
+          "count": 350
+        },
+        {
+          "id": "ch3",
+          "name": "第3章 · 资金时间价值与技术经济分析方法",
+          "file": "banks/zaojia-gcs/ch3.json",
+          "count": 350
+        },
+        {
+          "id": "ch4",
+          "name": "第4章 · 工程项目融资",
+          "file": "banks/zaojia-gcs/ch4.json",
+          "count": 350
+        },
+        {
+          "id": "ch5",
+          "name": "第5章 · 建设项目决策阶段造价管理",
+          "file": "banks/zaojia-gcs/ch5.json",
+          "count": 350
+        },
+        {
+          "id": "ch6",
+          "name": "第6章 · 设计阶段造价管理",
+          "file": "banks/zaojia-gcs/ch6.json",
+          "count": 350
+        },
+        {
+          "id": "ch7",
+          "name": "第7章 · 发承包阶段造价管理",
+          "file": "banks/zaojia-gcs/ch7.json",
+          "count": 350
+        },
+        {
+          "id": "ch8",
+          "name": "第8章 · 施工阶段造价管理",
+          "file": "banks/zaojia-gcs/ch8.json",
+          "count": 350
+        },
+        {
+          "id": "ch9",
+          "name": "第9章 · 竣工决算与工程保修阶段造价管理",
+          "file": "banks/zaojia-gcs/ch9.json",
+          "count": 350
         }
       ],
       "papers": [
@@ -256,13 +352,61 @@
       "id": "jianli-gcs",
       "name": "监理工程师",
       "category": "建筑/工程建设",
-      "desc": "监理工程师备考笔记与自测练习入口,内容陆续更新中。",
+      "desc": "监理工程师全章节自测题库,含解析与出处。",
       "chapters": [
         {
           "id": "ch1",
-          "name": "第1章 · 内容建设中",
+          "name": "第1章 · 建设工程监理制度与工作性质、任务",
           "file": "banks/jianli-gcs/ch1.json",
-          "count": 0
+          "count": 350
+        },
+        {
+          "id": "ch2",
+          "name": "第2章 · 建设工程监理相关法律法规",
+          "file": "banks/jianli-gcs/ch2.json",
+          "count": 350
+        },
+        {
+          "id": "ch3",
+          "name": "第3章 · 建设工程监理组织与规划",
+          "file": "banks/jianli-gcs/ch3.json",
+          "count": 350
+        },
+        {
+          "id": "ch4",
+          "name": "第4章 · 建设工程合同管理",
+          "file": "banks/jianli-gcs/ch4.json",
+          "count": 350
+        },
+        {
+          "id": "ch5",
+          "name": "第5章 · 建设工程投资控制",
+          "file": "banks/jianli-gcs/ch5.json",
+          "count": 350
+        },
+        {
+          "id": "ch6",
+          "name": "第6章 · 建设工程进度控制",
+          "file": "banks/jianli-gcs/ch6.json",
+          "count": 350
+        },
+        {
+          "id": "ch7",
+          "name": "第7章 · 建设工程质量控制",
+          "file": "banks/jianli-gcs/ch7.json",
+          "count": 350
+        },
+        {
+          "id": "ch8",
+          "name": "第8章 · 建设工程安全生产管理的监理工作",
+          "file": "banks/jianli-gcs/ch8.json",
+          "count": 350
+        },
+        {
+          "id": "ch9",
+          "name": "第9章 · 建设工程监理案例分析",
+          "file": "banks/jianli-gcs/ch9.json",
+          "count": 350
         }
       ],
       "papers": [
@@ -287,6 +431,18 @@
           "name": "第1章 · 内容建设中",
           "file": "banks/xiaofang-gcs/ch1.json",
           "count": 0
+        },
+        {
+          "id": "ch2",
+          "name": "第2章 · 建筑分类与建筑防火",
+          "file": "banks/xiaofang-gcs/ch2.json",
+          "count": 350
+        },
+        {
+          "id": "ch8",
+          "name": "第8章 · 消防设施检测与维护管理",
+          "file": "banks/xiaofang-gcs/ch8.json",
+          "count": 350
         }
       ],
       "papers": [
@@ -448,13 +604,13 @@
       "id": "tezhong-zuoye",
       "name": "特种作业操作证",
       "category": "安全/应急/特种作业",
-      "desc": "特种作业操作证(电工/焊工/高处/制冷等)备考笔记入口,内容陆续更新中。",
+      "desc": "特种作业(电工/焊工/高处/制冷)通用安全知识自测。",
       "chapters": [
         {
           "id": "ch1",
-          "name": "第1章 · 内容建设中",
+          "name": "第1章 · 特种作业通用安全知识(电工/焊工/高处/制冷通用部分)",
           "file": "banks/tezhong-zuoye/ch1.json",
-          "count": 0
+          "count": 20
         }
       ],
       "papers": [
@@ -544,13 +700,13 @@
       "id": "ruankao",
       "name": "软考(初/中/高级)",
       "category": "计算机/IT",
-      "desc": "软考各级别科目备考笔记与自测练习入口,内容陆续更新中。",
+      "desc": "软考公共基础知识自测题库、覆盖计算机基础与法律法规核心考点",
       "chapters": [
         {
           "id": "ch1",
-          "name": "第1章 · 内容建设中",
+          "name": "第1章 · 软考公共基础知识(计算机基础与法律法规)",
           "file": "banks/ruankao/ch1.json",
-          "count": 0
+          "count": 45
         }
       ],
       "papers": [
@@ -568,13 +724,13 @@
       "id": "ncre",
       "name": "计算机等级考试(NCRE)",
       "category": "计算机/IT",
-      "desc": "全国计算机等级考试备考笔记入口,内容陆续更新中。",
+      "desc": "全国计算机等级考试二级公共基础知识自测。",
       "chapters": [
         {
           "id": "ch1",
-          "name": "第1章 · 内容建设中",
+          "name": "第1章 · 二级公共基础知识(数据结构与算法)",
           "file": "banks/ncre/ch1.json",
-          "count": 0
+          "count": 40
         }
       ],
       "papers": [
@@ -688,13 +844,13 @@
       "id": "jiaoshi-zige",
       "name": "教师资格证",
       "category": "教师/教育",
-      "desc": "中小学/幼儿教师资格证备考笔记与自测练习入口,内容陆续更新中。",
+      "desc": "中小学教师资格证综合素质自测,含教育观/学生观/教师观核心考点。",
       "chapters": [
         {
           "id": "ch1",
-          "name": "第1章 · 内容建设中",
+          "name": "第1章 · 综合素质(教育观·学生观·教师观)",
           "file": "banks/jiaoshi-zige/ch1.json",
-          "count": 0
+          "count": 40
         }
       ],
       "papers": [
@@ -760,13 +916,13 @@
       "id": "cet",
       "name": "大学英语四六级(CET)",
       "category": "语言/外语",
-      "desc": "大学英语四六级备考笔记与自测练习入口,内容陆续更新中。",
+      "desc": "四级核心词汇与语法自测。",
       "chapters": [
         {
           "id": "ch1",
-          "name": "第1章 · 内容建设中",
+          "name": "第1章 · 词汇与语法(四级核心考点)",
           "file": "banks/cet/ch1.json",
-          "count": 0
+          "count": 40
         }
       ],
       "papers": [
@@ -856,13 +1012,13 @@
       "id": "kaoyan",
       "name": "考研(政治·英语·数学·专业课)",
       "category": "学历提升",
-      "desc": "考研公共课与专业课备考笔记入口,内容陆续更新中。",
+      "desc": "考研政治·马克思主义基本原理自测。",
       "chapters": [
         {
           "id": "ch1",
-          "name": "第1章 · 内容建设中",
+          "name": "第1章 · 考研政治(马克思主义基本原理概论)",
           "file": "banks/kaoyan/ch1.json",
-          "count": 0
+          "count": 40
         }
       ],
       "papers": [

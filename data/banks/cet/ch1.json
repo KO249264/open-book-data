@@ -1,3 +1,1050 @@
 {
-  "questions": []
+  "questions": [
+    {
+      "id": "cet-ch1-q1",
+      "type": "single",
+      "stem": "The committee suggested that the plan ___ reconsidered before the final vote.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is"
+        },
+        {
+          "key": "B",
+          "text": "be"
+        },
+        {
+          "key": "C",
+          "text": "was"
+        },
+        {
+          "key": "D",
+          "text": "will be"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "suggest 表示\"建议\"时,that 从句用虚拟语气 (should) + 动词原形,should 可省略。",
+      "difficulty": 1
+    },
+    {
+      "id": "cet-ch1-q2",
+      "type": "single",
+      "stem": "Air pollution has a serious ___ on public health in many big cities.",
+      "options": [
+        {
+          "key": "A",
+          "text": "affect"
+        },
+        {
+          "key": "B",
+          "text": "effect"
+        },
+        {
+          "key": "C",
+          "text": "affection"
+        },
+        {
+          "key": "D",
+          "text": "effective"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "effect 是名词\"影响\",常搭配 have an effect on;affect 是动词,此处需名词作宾语。",
+      "difficulty": 1
+    },
+    {
+      "id": "cet-ch1-q3",
+      "type": "single",
+      "stem": "___ more time to prepare, she could have done a much better job on the presentation.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Given"
+        },
+        {
+          "key": "B",
+          "text": "Giving"
+        },
+        {
+          "key": "C",
+          "text": "To give"
+        },
+        {
+          "key": "D",
+          "text": "Gives"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "Given 在句首作状语,相当于\"If she had been given\",过去分词表示被动含义的省略条件状语。",
+      "difficulty": 1
+    },
+    {
+      "id": "cet-ch1-q4",
+      "type": "single",
+      "stem": "Using public transport is a more ___ way to travel around the city than driving alone.",
+      "options": [
+        {
+          "key": "A",
+          "text": "economic"
+        },
+        {
+          "key": "B",
+          "text": "economical"
+        },
+        {
+          "key": "C",
+          "text": "economy"
+        },
+        {
+          "key": "D",
+          "text": "economically"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "economical 意为\"节省的、划算的\",economic 意为\"经济(学)上的\",此处强调省钱,应选 economical。",
+      "difficulty": 1
+    },
+    {
+      "id": "cet-ch1-q5",
+      "type": "single",
+      "stem": "By the time he arrived at the office, the meeting ___ already.",
+      "options": [
+        {
+          "key": "A",
+          "text": "starts"
+        },
+        {
+          "key": "B",
+          "text": "started"
+        },
+        {
+          "key": "C",
+          "text": "had started"
+        },
+        {
+          "key": "D",
+          "text": "has started"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "\"他到达之前会议已经开始\",过去某时间点之前已完成的动作用过去完成时 had started。",
+      "difficulty": 1
+    },
+    {
+      "id": "cet-ch1-q6",
+      "type": "single",
+      "stem": "Not only ___ the exam but also received a scholarship for her outstanding performance.",
+      "options": [
+        {
+          "key": "A",
+          "text": "she passed"
+        },
+        {
+          "key": "B",
+          "text": "did she pass"
+        },
+        {
+          "key": "C",
+          "text": "she did pass"
+        },
+        {
+          "key": "D",
+          "text": "passed she"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "not only 位于句首时,其所在分句需部分倒装,即助动词提前:did she pass。",
+      "difficulty": 1
+    },
+    {
+      "id": "cet-ch1-q7",
+      "type": "single",
+      "stem": "He is very ___ to criticism and often takes negative comments personally.",
+      "options": [
+        {
+          "key": "A",
+          "text": "sensible"
+        },
+        {
+          "key": "B",
+          "text": "sensitive"
+        },
+        {
+          "key": "C",
+          "text": "sensitively"
+        },
+        {
+          "key": "D",
+          "text": "sensibility"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "sensitive to 意为\"对……敏感\";sensible 意为\"明智的、合理的\",词义不符。",
+      "difficulty": 1
+    },
+    {
+      "id": "cet-ch1-q8",
+      "type": "single",
+      "stem": "The book ___ cover is torn belongs to my sister, so please handle it gently.",
+      "options": [
+        {
+          "key": "A",
+          "text": "that"
+        },
+        {
+          "key": "B",
+          "text": "which"
+        },
+        {
+          "key": "C",
+          "text": "whose"
+        },
+        {
+          "key": "D",
+          "text": "who"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "空格后 cover 是名词,需要所有格关系代词 whose 表示\"书的封面\"。",
+      "difficulty": 1
+    },
+    {
+      "id": "cet-ch1-q9",
+      "type": "single",
+      "stem": "___ the instructions carefully, he assembled the bookshelf without any trouble.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Follow"
+        },
+        {
+          "key": "B",
+          "text": "Following"
+        },
+        {
+          "key": "C",
+          "text": "Followed"
+        },
+        {
+          "key": "D",
+          "text": "To follow"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "主语 he 是\"遵循说明\"的动作发出者,与主句主语一致,用现在分词作状语,表示主动。",
+      "difficulty": 1
+    },
+    {
+      "id": "cet-ch1-q10",
+      "type": "single",
+      "stem": "She spent a ___ amount of money on renovating the old apartment.",
+      "options": [
+        {
+          "key": "A",
+          "text": "considerate"
+        },
+        {
+          "key": "B",
+          "text": "considerable"
+        },
+        {
+          "key": "C",
+          "text": "consideration"
+        },
+        {
+          "key": "D",
+          "text": "considerably"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "considerable 意为\"相当大的(数量)\",considerate 意为\"体贴的\",两者形近但词义不同。",
+      "difficulty": 1
+    },
+    {
+      "id": "cet-ch1-q11",
+      "type": "single",
+      "stem": "I wish I ___ more time to travel around Europe last summer.",
+      "options": [
+        {
+          "key": "A",
+          "text": "have"
+        },
+        {
+          "key": "B",
+          "text": "had"
+        },
+        {
+          "key": "C",
+          "text": "had had"
+        },
+        {
+          "key": "D",
+          "text": "would have"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "wish 后接与过去事实相反的虚拟语气,从句用过去完成时 had had。",
+      "difficulty": 1
+    },
+    {
+      "id": "cet-ch1-q12",
+      "type": "single",
+      "stem": "After the match, the two teams went back to their ___ dressing rooms to rest.",
+      "options": [
+        {
+          "key": "A",
+          "text": "respectful"
+        },
+        {
+          "key": "B",
+          "text": "respective"
+        },
+        {
+          "key": "C",
+          "text": "respectable"
+        },
+        {
+          "key": "D",
+          "text": "respectively"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "respective 意为\"各自的\",修饰名词 dressing rooms;respectful 意为\"尊敬的\",词义不符。",
+      "difficulty": 1
+    },
+    {
+      "id": "cet-ch1-q13",
+      "type": "single",
+      "stem": "There is still a lot of work ___ before the project deadline next Friday.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to do"
+        },
+        {
+          "key": "B",
+          "text": "doing"
+        },
+        {
+          "key": "C",
+          "text": "done"
+        },
+        {
+          "key": "D",
+          "text": "do"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "不定式 to do 作后置定语修饰 work,表示\"待做的工作\",是常见搭配 work to do。",
+      "difficulty": 1
+    },
+    {
+      "id": "cet-ch1-q14",
+      "type": "single",
+      "stem": "___ caused the traffic accident is still under investigation by the police.",
+      "options": [
+        {
+          "key": "A",
+          "text": "What"
+        },
+        {
+          "key": "B",
+          "text": "That"
+        },
+        {
+          "key": "C",
+          "text": "Which"
+        },
+        {
+          "key": "D",
+          "text": "Whether"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "空格处需引导主语从句且在从句中作主语,只有 what 兼具连接功能与成分功能,意为\"是什么原因\"。",
+      "difficulty": 1
+    },
+    {
+      "id": "cet-ch1-q15",
+      "type": "single",
+      "stem": "Facing declining sales, the company decided to ___ a new marketing strategy.",
+      "options": [
+        {
+          "key": "A",
+          "text": "adapt"
+        },
+        {
+          "key": "B",
+          "text": "adopt"
+        },
+        {
+          "key": "C",
+          "text": "adept"
+        },
+        {
+          "key": "D",
+          "text": "adaptive"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "adopt 意为\"采用(策略、方法)\";adapt 意为\"使适应\",两词形近但含义不同。",
+      "difficulty": 1
+    },
+    {
+      "id": "cet-ch1-q16",
+      "type": "single",
+      "stem": "So popular ___ the singer that all the concert tickets sold out within minutes.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was"
+        },
+        {
+          "key": "B",
+          "text": "is"
+        },
+        {
+          "key": "C",
+          "text": "did"
+        },
+        {
+          "key": "D",
+          "text": "has"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "\"so + 形容词\"位于句首时全部倒装,句子描述过去事件,故用 be 动词过去式 was。",
+      "difficulty": 1
+    },
+    {
+      "id": "cet-ch1-q17",
+      "type": "single",
+      "stem": "From her cold tone on the phone, we could ___ that she was not satisfied with the result.",
+      "options": [
+        {
+          "key": "A",
+          "text": "imply"
+        },
+        {
+          "key": "B",
+          "text": "infer"
+        },
+        {
+          "key": "C",
+          "text": "imply to"
+        },
+        {
+          "key": "D",
+          "text": "inferred"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "infer 意为\"推断出\",主语是听者;imply 意为\"暗示\",主语通常是说话人,主谓关系不符。",
+      "difficulty": 1
+    },
+    {
+      "id": "cet-ch1-q18",
+      "type": "single",
+      "stem": "By next year, my parents ___ married for exactly thirty years.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will be"
+        },
+        {
+          "key": "B",
+          "text": "will have been"
+        },
+        {
+          "key": "C",
+          "text": "have been"
+        },
+        {
+          "key": "D",
+          "text": "had been"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "\"by + 将来时间点\"常与将来完成时连用,表示到那时为止已经持续的状态,用 will have been。",
+      "difficulty": 1
+    },
+    {
+      "id": "cet-ch1-q19",
+      "type": "single",
+      "stem": "Since the highway was closed for repairs, drivers had to take an ___ route to the airport.",
+      "options": [
+        {
+          "key": "A",
+          "text": "alternative"
+        },
+        {
+          "key": "B",
+          "text": "alternating"
+        },
+        {
+          "key": "C",
+          "text": "alternatively"
+        },
+        {
+          "key": "D",
+          "text": "alternation"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "alternative 作形容词修饰 route,意为\"可替代的\";alternating 意为\"交替的\",不符合语境。",
+      "difficulty": 1
+    },
+    {
+      "id": "cet-ch1-q20",
+      "type": "single",
+      "stem": "___ his homework early, he went out to play basketball with his friends.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Finish"
+        },
+        {
+          "key": "B",
+          "text": "Finishing"
+        },
+        {
+          "key": "C",
+          "text": "Having finished"
+        },
+        {
+          "key": "D",
+          "text": "Finished"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "\"写完作业\"发生在\"出去打球\"之前,用完成式分词 having finished 表示动作的先后顺序。",
+      "difficulty": 1
+    },
+    {
+      "id": "cet-ch1-q21",
+      "type": "single",
+      "stem": "The new traffic policy proved to be highly ___ in reducing congestion during rush hour.",
+      "options": [
+        {
+          "key": "A",
+          "text": "efficient"
+        },
+        {
+          "key": "B",
+          "text": "effective"
+        },
+        {
+          "key": "C",
+          "text": "effectively"
+        },
+        {
+          "key": "D",
+          "text": "efficiently"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "effective 意为\"有效的,能达到预期效果\",常搭配 effective in doing sth;efficient 强调\"高效利用资源\"。",
+      "difficulty": 1
+    },
+    {
+      "id": "cet-ch1-q22",
+      "type": "single",
+      "stem": "If she ___ harder for the exam, she would have passed it with a high score.",
+      "options": [
+        {
+          "key": "A",
+          "text": "studied"
+        },
+        {
+          "key": "B",
+          "text": "had studied"
+        },
+        {
+          "key": "C",
+          "text": "studies"
+        },
+        {
+          "key": "D",
+          "text": "would study"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "与过去事实相反的虚拟条件句,if 从句用过去完成时 had studied,主句用 would have done。",
+      "difficulty": 1
+    },
+    {
+      "id": "cet-ch1-q23",
+      "type": "single",
+      "stem": "The continual interruptions during the meeting frustrated everyone in the room.",
+      "options": [
+        {
+          "key": "A",
+          "text": "continuous"
+        },
+        {
+          "key": "B",
+          "text": "continual"
+        },
+        {
+          "key": "C",
+          "text": "continuously"
+        },
+        {
+          "key": "D",
+          "text": "continuity"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "continual 指\"反复发生、有间断的\"动作(如多次打断);continuous 指\"连续不断、无间歇的\"。",
+      "difficulty": 1
+    },
+    {
+      "id": "cet-ch1-q24",
+      "type": "single",
+      "stem": "Hardly ___ the show begun when the power suddenly went out.",
+      "options": [
+        {
+          "key": "A",
+          "text": "had"
+        },
+        {
+          "key": "B",
+          "text": "did"
+        },
+        {
+          "key": "C",
+          "text": "has"
+        },
+        {
+          "key": "D",
+          "text": "was"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "hardly...when 结构表示\"刚……就……\",hardly 位于句首需倒装,且从句为过去完成时 had begun。",
+      "difficulty": 1
+    },
+    {
+      "id": "cet-ch1-q25",
+      "type": "single",
+      "stem": "The manual is written in plain language, making it ___ even to complete beginners.",
+      "options": [
+        {
+          "key": "A",
+          "text": "comprehensive"
+        },
+        {
+          "key": "B",
+          "text": "comprehensible"
+        },
+        {
+          "key": "C",
+          "text": "comprehension"
+        },
+        {
+          "key": "D",
+          "text": "comprehend"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "comprehensible 意为\"可理解的\";comprehensive 意为\"全面的、综合的\",词形相近但含义不同。",
+      "difficulty": 1
+    },
+    {
+      "id": "cet-ch1-q26",
+      "type": "single",
+      "stem": "The problem finally ___, everyone in the team felt greatly relieved.",
+      "options": [
+        {
+          "key": "A",
+          "text": "solve"
+        },
+        {
+          "key": "B",
+          "text": "solving"
+        },
+        {
+          "key": "C",
+          "text": "solved"
+        },
+        {
+          "key": "D",
+          "text": "to solve"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "\"the problem solved\" 是名词+过去分词构成的独立主格结构,problem 与 solve 是被动关系。",
+      "difficulty": 1
+    },
+    {
+      "id": "cet-ch1-q27",
+      "type": "single",
+      "stem": "The prize money will be divided equally ___ the three winners of the competition.",
+      "options": [
+        {
+          "key": "A",
+          "text": "among"
+        },
+        {
+          "key": "B",
+          "text": "between"
+        },
+        {
+          "key": "C",
+          "text": "with"
+        },
+        {
+          "key": "D",
+          "text": "within"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "analysis": "among 用于三者或三者以上之间;between 通常只用于两者之间,此处有三位获奖者。",
+      "difficulty": 1
+    },
+    {
+      "id": "cet-ch1-q28",
+      "type": "single",
+      "stem": "___ is often the case in big cities, the morning traffic was extremely heavy today.",
+      "options": [
+        {
+          "key": "A",
+          "text": "What"
+        },
+        {
+          "key": "B",
+          "text": "As"
+        },
+        {
+          "key": "C",
+          "text": "It"
+        },
+        {
+          "key": "D",
+          "text": "This"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "as 引导非限制性定语从句,指代整个主句内容,意为\"正如常见的情况那样\"。",
+      "difficulty": 1
+    },
+    {
+      "id": "cet-ch1-q29",
+      "type": "multiple",
+      "stem": "下列哪些短语可以用来表示\"应对、处理某事\"?",
+      "options": [
+        {
+          "key": "A",
+          "text": "deal with"
+        },
+        {
+          "key": "B",
+          "text": "cope with"
+        },
+        {
+          "key": "C",
+          "text": "look forward to"
+        },
+        {
+          "key": "D",
+          "text": "take care of"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "analysis": "deal with、cope with、take care of 均可表示\"处理、应付\";look forward to 意为\"期待\",词义不符。",
+      "difficulty": 2
+    },
+    {
+      "id": "cet-ch1-q30",
+      "type": "multiple",
+      "stem": "下列哪些短语可以用来表示\"由于……的原因\"?",
+      "options": [
+        {
+          "key": "A",
+          "text": "due to"
+        },
+        {
+          "key": "B",
+          "text": "owing to"
+        },
+        {
+          "key": "C",
+          "text": "instead of"
+        },
+        {
+          "key": "D",
+          "text": "because of"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "analysis": "due to、owing to、because of 都可表示原因;instead of 意为\"代替、而不是\",与\"原因\"无关。",
+      "difficulty": 2
+    },
+    {
+      "id": "cet-ch1-q31",
+      "type": "multiple",
+      "stem": "下列哪些短语的含义接近\"取决于……\"?",
+      "options": [
+        {
+          "key": "A",
+          "text": "depend on"
+        },
+        {
+          "key": "B",
+          "text": "rely on"
+        },
+        {
+          "key": "C",
+          "text": "account for"
+        },
+        {
+          "key": "D",
+          "text": "hinge on"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "analysis": "depend on、rely on、hinge on 均表示\"取决于\";account for 意为\"解释、占(比例)\",含义不同。",
+      "difficulty": 2
+    },
+    {
+      "id": "cet-ch1-q32",
+      "type": "multiple",
+      "stem": "下列哪些词或短语可以用来表达\"逐渐地\"这一含义?",
+      "options": [
+        {
+          "key": "A",
+          "text": "gradually"
+        },
+        {
+          "key": "B",
+          "text": "little by little"
+        },
+        {
+          "key": "C",
+          "text": "all of a sudden"
+        },
+        {
+          "key": "D",
+          "text": "step by step"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "analysis": "gradually、little by little、step by step 都表示\"逐渐地\";all of a sudden 意为\"突然\",含义相反。",
+      "difficulty": 2
+    },
+    {
+      "id": "cet-ch1-q33",
+      "type": "judge",
+      "stem": "当 insist、demand、suggest 等表示\"坚持要求、建议\"的动词后接 that 从句时,从句谓语一般用\"(should) + 动词原形\"。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "这是四级虚拟语气的常考规则,should 在美式英语中常被省略,只保留动词原形。",
+      "difficulty": 1
+    },
+    {
+      "id": "cet-ch1-q34",
+      "type": "judge",
+      "stem": "现在分词作状语时,其逻辑主语应与句子主语保持一致,否则会造成\"悬垂分词\"错误。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "如 \"Following the map, he found the hotel\" 中,find 的主语 he 也是 follow 的逻辑主语,二者一致才正确。",
+      "difficulty": 1
+    },
+    {
+      "id": "cet-ch1-q35",
+      "type": "judge",
+      "stem": "not only...but also 连接两个分句且 not only 位于句首时,not only 后的分句要部分倒装,but also 后的分句则不需要倒装。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "倒装只发生在 not only 引导的分句中,but also 后的分句仍按正常语序。",
+      "difficulty": 1
+    },
+    {
+      "id": "cet-ch1-q36",
+      "type": "judge",
+      "stem": "情态动词 must 用于对过去已经发生的事情进行肯定推测时,后面要接\"have + 过去分词\"结构。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "如 must have done 表示\"(过去)一定做过某事\",是四级语法常考的推测结构之一。",
+      "difficulty": 1
+    },
+    {
+      "id": "cet-ch1-q37",
+      "type": "judge",
+      "stem": "表示与现在事实相反的虚拟条件句中,if 从句的谓语动词应使用\"过去完成时\"。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "与现在事实相反的虚拟条件句,if 从句应用一般过去时(be 动词用 were);过去完成时用于与过去事实相反的情况。",
+      "difficulty": 1
+    },
+    {
+      "id": "cet-ch1-q38",
+      "type": "judge",
+      "stem": "and 连接的两个单数名词作主语,若两者指同一个人或同一件事物,谓语动词仍需用单数形式。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "对"
+      ],
+      "analysis": "如 \"The writer and teacher is my uncle\" 中 writer 和 teacher 指同一人,谓语用单数 is。",
+      "difficulty": 1
+    },
+    {
+      "id": "cet-ch1-q39",
+      "type": "fill",
+      "stem": "The professor's lecture on climate change was very ___ (inform 的形容词形式), providing the class with many useful facts.",
+      "options": [],
+      "answer": [
+        "informative"
+      ],
+      "analysis": "空格处需形容词修饰 was 的补语,inform 加后缀 -ative 变为形容词 informative,意为\"信息丰富的\"。",
+      "difficulty": 2
+    },
+    {
+      "id": "cet-ch1-q40",
+      "type": "fill",
+      "stem": "Her sudden resignation left the whole team in a state of great ___ (confuse 的名词形式) for several days.",
+      "options": [],
+      "answer": [
+        "confusion"
+      ],
+      "analysis": "空格处需名词作 of 的宾语,confuse 加后缀 -ion 变为名词 confusion,意为\"困惑、混乱\"。",
+      "difficulty": 2
+    }
+  ]
 }

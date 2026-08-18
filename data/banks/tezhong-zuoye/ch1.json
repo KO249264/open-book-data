@@ -1,3 +1,514 @@
 {
-  "questions": []
+  "questions": [
+    {
+      "id": "tezhong-zuoye-ch1-q1",
+      "type": "single",
+      "stem": "《特种作业人员安全技术培训考核管理规定》(应急管理部令第3号)规定,特种作业操作证的复审周期是?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1年一次"
+        },
+        {
+          "key": "B",
+          "text": "2年一次"
+        },
+        {
+          "key": "C",
+          "text": "3年一次"
+        },
+        {
+          "key": "D",
+          "text": "5年一次"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "依据《特种作业人员安全技术培训考核管理规定》,特种作业操作证每3年复审一次。",
+      "difficulty": 1
+    },
+    {
+      "id": "tezhong-zuoye-ch1-q2",
+      "type": "single",
+      "stem": "下列不属于特种作业范围的是?",
+      "options": [
+        {
+          "key": "A",
+          "text": "电工作业"
+        },
+        {
+          "key": "B",
+          "text": "高处作业"
+        },
+        {
+          "key": "C",
+          "text": "会计核算"
+        },
+        {
+          "key": "D",
+          "text": "焊接与热切割作业"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "特种作业目录(应急管理部公布)涵盖电工、焊接、高处、制冷等作业类别,会计核算不属于特种作业。",
+      "difficulty": 1
+    },
+    {
+      "id": "tezhong-zuoye-ch1-q3",
+      "type": "single",
+      "stem": "特种作业人员未经安全技术培训、考核合格,擅自上岗作业的,依据《安全生产法》,监管部门可给予?",
+      "options": [
+        {
+          "key": "A",
+          "text": "警告"
+        },
+        {
+          "key": "B",
+          "text": "罚款"
+        },
+        {
+          "key": "C",
+          "text": "警告或罚款"
+        },
+        {
+          "key": "D",
+          "text": "吊销营业执照"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "依据《中华人民共和国安全生产法》,对未经培训擅自上岗的特种作业人员,监管部门可给予警告或罚款。",
+      "difficulty": 1
+    },
+    {
+      "id": "tezhong-zuoye-ch1-q4",
+      "type": "single",
+      "stem": "高处作业级别划分中,坠落高度基准面2米以上(含2米)的作业称为?",
+      "options": [
+        {
+          "key": "A",
+          "text": "一般高处作业"
+        },
+        {
+          "key": "B",
+          "text": "特殊高处作业"
+        },
+        {
+          "key": "C",
+          "text": "高处作业"
+        },
+        {
+          "key": "D",
+          "text": "悬空作业"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "依据GB/T 3608《高处作业分级》,坠落高度基准面2米及以上的作业统称为高处作业。",
+      "difficulty": 1
+    },
+    {
+      "id": "tezhong-zuoye-ch1-q5",
+      "type": "multiple",
+      "stem": "下列属于特种作业操作证载明信息的有?",
+      "options": [
+        {
+          "key": "A",
+          "text": "姓名与身份证号"
+        },
+        {
+          "key": "B",
+          "text": "准操项目"
+        },
+        {
+          "key": "C",
+          "text": "复审时间"
+        },
+        {
+          "key": "D",
+          "text": "用人单位年营业额"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "操作证载明持证人身份信息、准操项目及有效期/复审时间等,不涉及用人单位经营数据。",
+      "difficulty": 2
+    },
+    {
+      "id": "tezhong-zuoye-ch1-q6",
+      "type": "single",
+      "stem": "电工作业人员进入换流站、变电站等场所巡视,要求至少几人同行?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1人"
+        },
+        {
+          "key": "B",
+          "text": "2人"
+        },
+        {
+          "key": "C",
+          "text": "3人"
+        },
+        {
+          "key": "D",
+          "text": "不限人数"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "依据《电业安全工作规程》,巡视高压设备等场所应至少两人同行,禁止单独作业。",
+      "difficulty": 1
+    },
+    {
+      "id": "tezhong-zuoye-ch1-q7",
+      "type": "judge",
+      "stem": "特种作业操作证在全国范围内有效,无需复审可长期使用。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "操作证虽全国通用,但仍须按规定周期复审,逾期未复审的证件失效。",
+      "difficulty": 1
+    },
+    {
+      "id": "tezhong-zuoye-ch1-q8",
+      "type": "single",
+      "stem": "焊接与热切割作业前,应清除作业现场及其周围的可燃、易爆物品,安全距离一般不小于?",
+      "options": [
+        {
+          "key": "A",
+          "text": "5米"
+        },
+        {
+          "key": "B",
+          "text": "10米"
+        },
+        {
+          "key": "C",
+          "text": "15米"
+        },
+        {
+          "key": "D",
+          "text": "20米"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "依据动火作业安全管理通用要求,焊接与热切割作业点周围10米内应清除可燃易爆物品或采取隔离防护措施。",
+      "difficulty": 1
+    },
+    {
+      "id": "tezhong-zuoye-ch1-q9",
+      "type": "multiple",
+      "stem": "高处作业中,属于\"三级防护\"内容的有?",
+      "options": [
+        {
+          "key": "A",
+          "text": "安全帽"
+        },
+        {
+          "key": "B",
+          "text": "安全带"
+        },
+        {
+          "key": "C",
+          "text": "安全网"
+        },
+        {
+          "key": "D",
+          "text": "对讲机"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "高处作业\"三级防护\"通常指安全帽、安全带、安全网,对讲机属通讯工具非防护用具。",
+      "difficulty": 2
+    },
+    {
+      "id": "tezhong-zuoye-ch1-q10",
+      "type": "single",
+      "stem": "特种设备与特种作业的主管部门分别是?",
+      "options": [
+        {
+          "key": "A",
+          "text": "均为应急管理部"
+        },
+        {
+          "key": "B",
+          "text": "特种设备归市场监管总局,特种作业归应急管理部"
+        },
+        {
+          "key": "C",
+          "text": "均为市场监管总局"
+        },
+        {
+          "key": "D",
+          "text": "特种设备归应急管理部,特种作业归市场监管总局"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "特种设备(锅炉/压力容器/起重机械等)由市场监管总局主管,特种作业人员资格由应急管理部主管,二者不可混淆。",
+      "difficulty": 1
+    },
+    {
+      "id": "tezhong-zuoye-ch1-q11",
+      "type": "single",
+      "stem": "制冷与空调作业人员在密闭空间作业前,应重点检测的是?",
+      "options": [
+        {
+          "key": "A",
+          "text": "噪声"
+        },
+        {
+          "key": "B",
+          "text": "氧含量与有毒有害气体浓度"
+        },
+        {
+          "key": "C",
+          "text": "光照度"
+        },
+        {
+          "key": "D",
+          "text": "温度湿度"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "密闭空间作业易发生缺氧或有毒气体聚积,作业前须检测氧含量及有毒有害气体浓度,合格后方可进入。",
+      "difficulty": 1
+    },
+    {
+      "id": "tezhong-zuoye-ch1-q12",
+      "type": "multiple",
+      "stem": "特种作业人员安全技术培训内容一般包括?",
+      "options": [
+        {
+          "key": "A",
+          "text": "相关法律法规"
+        },
+        {
+          "key": "B",
+          "text": "本工种安全技术知识"
+        },
+        {
+          "key": "C",
+          "text": "事故案例分析"
+        },
+        {
+          "key": "D",
+          "text": "与本工种无关的财务知识"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "培训内容围绕法规、专业安全技术、事故案例展开,不涉及无关财务知识。",
+      "difficulty": 2
+    },
+    {
+      "id": "tezhong-zuoye-ch1-q13",
+      "type": "judge",
+      "stem": "特种作业操作证遗失后,持证人可自行制作副本使用,无需向原发证部门申请补办。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "操作证遗失应向原发证的应急管理部门申请补办,不得自行制作证件。",
+      "difficulty": 1
+    },
+    {
+      "id": "tezhong-zuoye-ch1-q14",
+      "type": "fill",
+      "stem": "特种作业操作证的有效期为 ___ 年。",
+      "options": [],
+      "answer": [
+        "6"
+      ],
+      "analysis": "依据现行规定,特种作业操作证有效期为6年,在有效期内每3年复审一次。",
+      "difficulty": 2
+    },
+    {
+      "id": "tezhong-zuoye-ch1-q15",
+      "type": "single",
+      "stem": "电工作业中,人体安全电压一般不超过?",
+      "options": [
+        {
+          "key": "A",
+          "text": "12V"
+        },
+        {
+          "key": "B",
+          "text": "24V"
+        },
+        {
+          "key": "C",
+          "text": "36V"
+        },
+        {
+          "key": "D",
+          "text": "220V"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "我国规定的安全电压等级中,一般环境下的安全电压上限为36V(潮湿等特殊环境更低)。",
+      "difficulty": 1
+    },
+    {
+      "id": "tezhong-zuoye-ch1-q16",
+      "type": "multiple",
+      "stem": "下列关于特种作业跨省份从业的说法,正确的有?",
+      "options": [
+        {
+          "key": "A",
+          "text": "操作证全国范围内有效"
+        },
+        {
+          "key": "B",
+          "text": "跨省份需重新初训"
+        },
+        {
+          "key": "C",
+          "text": "用人单位应查验证件真伪与有效期"
+        },
+        {
+          "key": "D",
+          "text": "可通过官方证件查询系统核验"
+        }
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "analysis": "操作证全国通用无需跨省重新初训,但用人单位应尽查验义务,可通过官方系统核验证件真伪与有效期。",
+      "difficulty": 2
+    },
+    {
+      "id": "tezhong-zuoye-ch1-q17",
+      "type": "single",
+      "stem": "特种作业操作证的考核分为哪两部分?",
+      "options": [
+        {
+          "key": "A",
+          "text": "笔试与面试"
+        },
+        {
+          "key": "B",
+          "text": "理论知识考试与实际操作考核"
+        },
+        {
+          "key": "C",
+          "text": "体检与笔试"
+        },
+        {
+          "key": "D",
+          "text": "只需理论考试"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "analysis": "特种作业人员考核由理论知识考试和实际操作技能考核两部分组成,均合格方可发证。",
+      "difficulty": 1
+    },
+    {
+      "id": "tezhong-zuoye-ch1-q18",
+      "type": "judge",
+      "stem": "未取得特种作业操作证的人员,经老员工带领可临时上岗作业。",
+      "options": [
+        {
+          "key": "对",
+          "text": "正确"
+        },
+        {
+          "key": "错",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "错"
+      ],
+      "analysis": "特种作业实行\"持证上岗\"制度,任何情形下未取得操作证均不得上岗作业。",
+      "difficulty": 1
+    },
+    {
+      "id": "tezhong-zuoye-ch1-q19",
+      "type": "single",
+      "stem": "特种作业人员安全教育培训的学时,理论培训一般不少于?",
+      "options": [
+        {
+          "key": "A",
+          "text": "8学时"
+        },
+        {
+          "key": "B",
+          "text": "20学时"
+        },
+        {
+          "key": "C",
+          "text": "40学时"
+        },
+        {
+          "key": "D",
+          "text": "60学时"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "analysis": "依据通用安全培训要求,特种作业人员理论培训学时一般不少于40学时,视工种略有差异。",
+      "difficulty": 1
+    },
+    {
+      "id": "tezhong-zuoye-ch1-q20",
+      "type": "fill",
+      "stem": "特种作业目录由 ___ 部门统一公布。",
+      "options": [],
+      "answer": [
+        "应急管理部"
+      ],
+      "analysis": "特种作业目录及分类由应急管理部统一制定并公布实施。",
+      "difficulty": 2
+    }
+  ]
 }
